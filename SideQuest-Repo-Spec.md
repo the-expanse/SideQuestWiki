@@ -4,12 +4,12 @@ An App repository for SideQuest
 ## Properties
 
 - repo: 
-  - timestamp: 1502257810365
-  - version: 21
-  - name: "Android Apps"
-  - icon: "androidapps.png"
-  - address: "http://keepsummersafe.x10host.com/android-apps/"
-  - description: "Some handy android apps to use with Oculus TV"
+  - timestamp: UNIX Epoch Timestamp - Last time the repo was updated
+  - version: Int - Version number
+  - name: String - The repo name
+  - icon: String - Icon URL
+  - address: String - URL where this file is stored without file path
+  - description: String - Repo Description
 
 - requests: 
   - install: []
