@@ -1,7 +1,5 @@
-Main Menu | 
------------- | 
-[Home](https://github.com/the-expanse/SideQuest/wiki) | 
-[FAQ](https://github.com/the-expanse/SideQuest/wiki) | 
-[Website](https://github.com/the-expanse/SideQuest/wiki) | 
-[Patreon](https://github.com/the-expanse/SideQuest/wiki) | 
-[Paypal](https://github.com/the-expanse/SideQuest/wiki) | 
+[Home](https://github.com/the-expanse/SideQuest/wiki) <br>
+[FAQ](https://github.com/the-expanse/SideQuest/wiki) <br>
+[Website](https://github.com/the-expanse/SideQuest/wiki) <br>
+[Patreon](https://github.com/the-expanse/SideQuest/wiki) <br>
+[Paypal](https://github.com/the-expanse/SideQuest/wiki) <br>
