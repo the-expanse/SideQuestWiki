@@ -1,0 +1,1 @@
+due to how sideloaded apps work, the applications code has been changed to the extent the  Oculus built in uninstaller will not be able to remove it, so for side loaded apps you must use sidequest to delete them, either with the :settings:  tab, or from the app page  it's self in sidequest
