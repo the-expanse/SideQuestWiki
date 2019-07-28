@@ -1,0 +1,1 @@
+if you find an app or mod that fails to install properly after 2 or 3 tries please report them to [#issues-bug-reports](https://discord.gg/2bkwecn)  by clicking on the URL on top and copying  (CTR+C) it then pasting it into the above discord channel and we will look into it soon as we can
