@@ -1,0 +1,1 @@
+you absolutely can, first uninstall beatsaber with sidequest under :settings:  in Beatsabers :appsettings:  and reinstall it, then head to beat on in your headset and go to tools before clicking "quickFix"
