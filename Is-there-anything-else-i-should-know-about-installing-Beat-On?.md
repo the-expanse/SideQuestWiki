@@ -1,0 +1,3 @@
+To make the transition as smooth as possible be sure to clear out your old Beat On version if you had it from your headset, 
+Weather or not you had and old version of Beat On prior to sidequest 0.6.2 you should reset your beatsaber game to your clean backup, Via the :settings:  tab near the bottom, solution 2, second button, or reinstall beatsaber entirely under the :apps:  tab, after that you should be set to go, search beat on in
+Mods and install the latest
