@@ -1,1 +1,1 @@
-[test](test)
+[Home](https://github.com/the-expanse/SideQuest/wiki)
