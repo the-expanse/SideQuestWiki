@@ -1,0 +1,1 @@
+If your game of Beatsaber is permaloading try restarting your headset first before anything, that actually solves the issue most of the time, otherwise you can attempt to reinstall it and restore songs from Beat On in headset assuming you have it installed and on the latest version.
