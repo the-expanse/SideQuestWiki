@@ -1,0 +1,1 @@
+Mods are bit's of code you can install to change or add more to your game or app, for example Custom Saber skins that change your beat sabers to katanas or axes, or score saber to help you see better how your playing.
