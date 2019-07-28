@@ -1,0 +1,1 @@
+if you haven't already you have  to uninstalled beatsaber from sidequest in the APP's section in order to  install the update, then in Beaton in your headset use Quickfix to return your songs, you should then be good to go, just open the game though beat on, if you still have trouble click "quick fix" in tools again, if there are still issues, reinstall beatsaber and try again
