@@ -1,4 +1,4 @@
-Emulamer's creation of :beaton: let's you install Custom sabers though the Upload Tab in the Beat On screen accessible via the :beaton:  icon top of Sidequest, after installing Beat On from the Mods tab to the utmost left of sidequest you can find the app in headset under Oculus TV at the bottom, if you have not installed oculusTV or the Sidequest 2D launcher
+Emulamer's creation of Beat On let's you install Custom sabers though the Upload Tab in the Beat On screen accessible via the :beaton:  icon top of Sidequest, after installing Beat On from the Mods tab to the utmost left of sidequest you can find the app in headset under Oculus TV at the bottom, if you have not installed OculusTV or the Sidequest 2D launcher
 
 Sidequest
 https://xpan.cc/a-90
