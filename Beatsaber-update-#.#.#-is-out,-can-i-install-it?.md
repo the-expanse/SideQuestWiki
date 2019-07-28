@@ -1,1 +1,1 @@
-you absolutely can, first uninstall beatsaber with sidequest under :settings:  in Beatsabers :appsettings:  and reinstall it, then head to beat on in your headset and go to tools before clicking "quickFix"
+yes, you absolutely can just uninstall beatsaber with Sidequest under APPs in Beatsabers appsettings (the gear icon) and reinstall it, then you should be set, if there are any issues afterwards try heading to Beat On in your headset and go to tools and clicking "QuickFix", if issues continue to persist join the [Discord](https://discord.me/sidequestvr) and ask around
