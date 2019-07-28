@@ -1,0 +1,2 @@
+After installing the Sidequest DMG from https://sidequestvr.com/#/download , If you get an error about Apple not being able to check for malicious software the first time you launch SideQuest just right-click on the application, select open from the pop-up menu, the same window will show, so now just click "Open"  and SideQuest will now run successfully. You only need to do this once on the first run. 
+The devs know about this and it will be fixed soon.
