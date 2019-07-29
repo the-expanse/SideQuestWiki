@@ -39,3 +39,4 @@
 [What is Sync Saber](https://github.com/the-expanse/SideQuest/wiki/What-is-Sync-Saber)
 ----
 [Where can i install SideQuest](https://github.com/the-expanse/SideQuest/wiki/Where-can-i-install-SideQuest%3F)
+----
