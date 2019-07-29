@@ -1,0 +1,1 @@
+Beat On when not reinstalled with beat saber (meaning you uninstall both of them first before reinstalling either) causes this usually, Beat on with updates just signed the APK as a previous version when quick fixing after the update, just clean install both Beatsaber and Beaon in at the same time and your issue should subside.

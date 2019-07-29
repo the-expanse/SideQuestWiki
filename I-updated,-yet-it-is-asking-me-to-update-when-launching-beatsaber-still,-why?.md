@@ -1,1 +1,0 @@
-There is little to be done about that for the moment, Beat On just signs the APK as a previous version when quick fixing after an initial update, you are now up to date though so just ignore it asking and open beat on like normal, you are good to go.
