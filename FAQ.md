@@ -1,4 +1,4 @@
-[SideQuest is not installing properly-(MAC](https://github.com/the-expanse/SideQuest/wiki/(MAC)-SideQuest-is-not-installing-properly-(MAC))
+[SideQuest is not installing properly(MAC)](https://github.com/the-expanse/SideQuest/wiki/(MAC)-SideQuest-is-not-installing-properly-(MAC))
 ----
 [My apps won't uninstall what's wrong](https://github.com/the-expanse/SideQuest/wiki/.My-apps-won't-uninstall-what's-wrong%3F)
 ----
