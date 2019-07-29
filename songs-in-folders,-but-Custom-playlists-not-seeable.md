@@ -1,0 +1,4 @@
+The old Playlist has been Phased out officially now, but not to worry now Songs now will automatically sync to beat on when downloading them from Beast Saber or Beat Saver in sidequest, just be sure Beat On is open in headset first and it will appear in Beat On right away, also songs may be invisible but if you click "sync to beat on, after installing the Beat On application and having it open they will be transferred to the new system, you can from then on use the "beat on" button between DASHBOARD and BEAST SABER up in the top right of SideQuest when Beat on is flipped on and connected
+
+
+![](https://cdn.discordapp.com/attachments/590517701982814210/605207528216985606/Screenshot_993.png)
