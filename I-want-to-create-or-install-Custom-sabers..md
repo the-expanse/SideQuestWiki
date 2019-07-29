@@ -1,3 +1,4 @@
+Wonderful they are quite fun to both make and use
 RedBrumbler and Rugtveit have been kind enough to make a guide in an attempt to make it as simple as possible tp get started making your own saber as well as install others thanks to how they have created a centralized area to upload them for easy scanning and searching of Beatsaber Sword skins, just go to
  https://www.reddit.com/r/OculusQuest/comments/ccg0bi/custom_saber_making_guide/
 
