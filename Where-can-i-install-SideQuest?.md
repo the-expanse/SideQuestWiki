@@ -1,6 +1,6 @@
-You can install SideQuest here
+You can install SideQuest [Here](https://sidequestvr.com/#/download)
 
-https://sidequestvr.com/#/download
+And for Beatsaber Mods and song installation be sure to install [Beat On](https://sidequestvr.com/#/app/14 as well)
 
 
 The Zip File for windows is not the main installer, please only use that if you are having issues with the main installer at the top at
