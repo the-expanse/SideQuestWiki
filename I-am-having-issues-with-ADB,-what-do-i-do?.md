@@ -1,5 +1,5 @@
 Having connection issues?
-First things first: try a different USB. If you have a phone USB cable that fits use that. Also try a different USB port. This solves 90% off problems so far. 
+First things first: try a different USB. If you have a phone USB cable that fits use that. Also try a different USB port. This solves 90% of problems with ADB connection issues. 
 
 This next bit could be tricky, you have to open `cmd` or Command Prompt. 
 ( If your on mac then click the wrench icon in the top right and click "open adb folder" - then drag this onto a terminal window )
