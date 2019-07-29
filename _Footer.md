@@ -1,4 +1,3 @@
-[Home](https://github.com/the-expanse/SideQuest/wiki) |
 [FAQ](https://github.com/the-expanse/SideQuest/wiki/FAQ) |
 [Website](https://sidequestvr.com) |
 [Patreon](https://www.patreon.com/TheExpanseVR) |
