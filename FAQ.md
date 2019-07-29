@@ -12,7 +12,7 @@
 ----
 [Beatsaber is Permaloading](https://github.com/the-expanse/SideQuest/wiki/Beatsaber-is--Permaloading,-what-can-i-do-about-it%3F)
 ----
-[Beatsaber update #.#.#-is out, can i install lit?](https://github.com/the-expanse/SideQuest/wiki/Beatsaber-update-%23.%23.%23-is-out,-can-i-install-it%3F)
+[Beatsaber update #.#.#-is out, can i install it?](https://github.com/the-expanse/SideQuest/wiki/Beatsaber-update-%23.%23.%23-is-out,-can-i-install-it%3F)
 ----
 [Having an issue installing Pavlov](https://github.com/the-expanse/SideQuest/wiki/having-an-issue-installing-Pavlov%3F)
 ----
