@@ -6,4 +6,4 @@ Emulamer's creation of Beat On let's you install Custom sabers though the Upload
 
 Do be sure to install both as the Sidequest 2D launcher is necessary for many applications, Such as beat on
 
-you can then start to install custom songs wirelessly to your headset Via Wi-Fi inside Beat on while in Headset, no PC needed.
+you can then start to install custom songs wirelessly to your headset Via Wi-Fi inside Beat on while in Headset, no PC needed, or plug in with Beat On open in headset to install Songs and Mods directly through sidequest to your Beat On Playlists or Mods tab
