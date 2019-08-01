@@ -18,3 +18,44 @@ If you see `1SOTGDHHSD93  unauthorized` - put on your headset now you should see
 if you see  `1SOTGDHHSD93  offline` - then type `adb kill-server` and then `adb devices` again.
 
 if you see `cannot connect to daemon` then open up task manager and kill the `adb.exe` process - `taskkill /f /im adb.exe`
+
+
+
+
+
+
+Make sure Sidequest is open before proceeding
+=====================
+Mac 
+Open Terminal 
+
+then type in
+`cd "~/Library/Application Support/SideQuest/platform-tools"`
+(The quotes are required)
+
+Then type 
+`./adb`
+
+You should now see something similar to the following:
+
+`List of devices attached
+1SOT********  device`
+
+If you see unauthorized, then you need to put on your headset while it's still connected to your computer and choose `Always Allow`
+This will inform the headset that connections to your computer are okay and allow it to connect properly.
+
+If you see offline
+then type 
+`adb kill-server`
+and then 
+`adb devices`
+
+
+If you see a message about not being able to connect to daemon or similar language, then:
+
+For Mac: Run 
+`pkill adb `
+in Terminal.
+
+after that you can then attempt to restart Sidequest to see if you are properly connected, 
+it might take a moment but it should connect properly now.
