@@ -18,7 +18,7 @@
 ----
 [How do i get Beat Saber Mods](https://github.com/the-expanse/SideQuest/wiki/How-do-i-get-Beat-Saber-Mods%3F)
 ----
-[Fixing ADB issues](https://github.com/the-expanse/SideQuest/wiki/I-am-having-issues-with-ADB,-what-do-i-do%3F)
+[Fixing connection issues](https://github.com/the-expanse/SideQuest/wiki/I-am-having-issues-Connecting-,-what-do-i-do%3F)
 ----
 [Windows 7 with SideQuest issues](https://github.com/the-expanse/SideQuest/wiki/I-Have-Windows-7,-can-i-use-SideQuest%3F)
 ----
