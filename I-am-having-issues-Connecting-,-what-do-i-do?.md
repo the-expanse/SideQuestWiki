@@ -1,5 +1,5 @@
 Having connection issues?
-First things first: try a different USB. If you have a phone USB cable that fits use that. Also try a different USB port. This solves 90% of problems with ADB connection issues, if your using Bluestacks, a Wifi Extender or a VPN best to refrain from them as they are all known to cause issues, always try to connect directly to the same router as your pc or phone, or just only install and manage songs in headset to avoid issues
+First things first: try a different USB. If you have a phone USB cable that fits use that. Also try a different USB port. This solves 90% of problems with ADB connection issues, if your using Bluestacks, a Wifi Extender or a VPN best to refrain from them as they are all known to cause issues for SideQuest, always try to connect directly to the same router as your pc or phone, to minimize issues with Beat On and Beatsaber just install and manage songs in headset to avoid issues with Those two applications specifically 
 
 Make sure Sidequest is open before proceeding 
 =====================
