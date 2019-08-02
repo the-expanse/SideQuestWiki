@@ -29,7 +29,7 @@ the Direct Patcher download
 https://github.com/trishume/QuestSaberPatch/releases/download/v0.7.0/questsaberpatch-windows.zip directly
 
 goes into
-%appdata%\SideQuest\saber-quest-patch\questsaberpatch)
+(%appdata%\SideQuest\saber-quest-patch\questsaberpatch)
 
 
 
