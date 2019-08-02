@@ -1,40 +1,28 @@
 Having connection issues?
 First things first: try a different USB. If you have a phone USB cable that fits use that. Also try a different USB port. This solves 90% of problems with ADB connection issues, if your using Bluestacks, a Wifi Extender or a VPN best to refrain from them as they are all known to cause issues for SideQuest, always try to connect directly to the same router as your pc or phone, to minimize issues with Beat On and Beatsaber just install and manage songs in headset to avoid issues with Those two applications specifically 
 
+
+
 Make sure Sidequest is open before proceeding 
 =====================
-This next bit will be tricky so make sure to only do it if no other options available work
+<!--This next bit will be tricky so make sure to only do it if no other options available work
+
+if you're still having issues with ADB try the below
+
+[Entire ADB folder](https://dl.google.com/android/repository/platform-tools-latest-windows.zip)
+
+Just unzip this, then in sidequest head to settings and click open main app folder
+then look for the same folder (Platform tools) and go into it, copy and paste all the files and folders from this into it and click replace all, then reboot sidequest.-->
+
+
+
+
 For Windows 
 You have to open `cmd` or Command Prompt. 
 ( If your on mac then click the wrench icon in the top right and click "open adb folder" - then drag this onto a terminal window )
 
 Type this `cd %appdata%\SideQuest\platform-tools\`<br>
 Then type this `adb devices`<br>
-
-if you're still having issues with ADB try the below
-
-[ADB Auto installer](https://github.com/josephsmendoza/ADB-Installer/releases/latest)
-
-"This doesn't always work for all users but worth a shot if it fails just delete it and try the below"
-
-[Entire ADB folder](https://dl.google.com/android/repository/platform-tools-latest-windows.zip)
-
-Just unzip this, then in sidequest head to settings and click open main app folder
-then look for the same folder (Platform tools) and go into it, copy and paste all the files and folders from this into it and click replace all, then reboot sidequest.
-
-
-
-the Direct Patcher download 
-
-https://github.com/trishume/QuestSaberPatch/releases/download/v0.7.0/questsaberpatch-windows.zip directly
-
-goes into
-(%appdata%\SideQuest\saber-quest-patch\questsaberpatch)
-
-
-
-if you have a cool app you want to request adding into Sidequest's Repos ask about it and head to https://github.com/the-expanse/SideQuestRepos/ 
-the team is delighted to have any applications or games added in to our ever expanding library
 
 You should see:
 ```
