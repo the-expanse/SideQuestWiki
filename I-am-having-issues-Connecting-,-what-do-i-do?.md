@@ -11,6 +11,31 @@ You have to open `cmd` or Command Prompt.
 Type this `cd %appdata%\SideQuest\platform-tools\`<br>
 Then type this `adb devices`<br>
 
+if you're still having issues with ADB try the below
+
+[ADB Auto installer](https://github.com/josephsmendoza/ADB-Installer/releases/latest)
+
+"This doesn't always work for all users but worth a shot if it fails just delete it and try the below"
+
+[Entire ADB folder](https://dl.google.com/android/repository/platform-tools-latest-windows.zip)
+
+Just unzip this, then in sidequest head to settings and click open main app folder
+then look for the same folder (Platform tools) and go into it, copy and paste all the files and folders from this into it and click replace all, then reboot sidequest.
+
+
+
+the Direct Patcher download 
+
+https://github.com/trishume/QuestSaberPatch/releases/download/v0.7.0/questsaberpatch-windows.zip directly
+
+goes into
+%appdata%\SideQuest\saber-quest-patch\questsaberpatch)
+
+
+
+if you have a cool app you want to request adding into Sidequest's Repos ask about it and head to https://github.com/the-expanse/SideQuestRepos/ 
+the team is delighted to have any applications or games added in to our ever expanding library
+
 You should see:
 ```
 List of devices attached
