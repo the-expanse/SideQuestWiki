@@ -31,9 +31,13 @@ List of devices attached
 1SOTGDHHSD93  device
 ```
 
-If you see `1SOTGDHHSD93  unauthorized` - put on your headset now you should see the message to allow usb debugging - click always allow. 
+If you see `1SOTGDHHSD93  unauthorized` 
+- put on your headset now you should see the message to allow usb debugging - click always allow. 
 
-if you see  `1SOTGDHHSD93  offline` - then type `adb kill-server` and then `adb devices` again.
+if you see something like 
+`1SOTGDHHSD93  offline`
+
+- then type `adb kill-server` and then `adb devices` again.
 
 if you see `cannot connect to daemon` then open up task manager and kill the `adb.exe` process - `taskkill /f /im adb.exe`
 
