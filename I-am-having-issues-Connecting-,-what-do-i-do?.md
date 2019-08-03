@@ -22,9 +22,9 @@ For Windows
 You have to open `cmd` or Command Prompt. 
 ( If your on mac then click the wrench icon in the top right and click "open adb folder" - then drag this onto a terminal window )
 
-Type this 
+Type this
 `cd %appdata%\SideQuest\platform-tools\`<br>
-Then type this 
+Then type this
 `adb devices`<br>
 
 You should see:
