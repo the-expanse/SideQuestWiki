@@ -17,7 +17,9 @@ In which you will see something like
 
 After following the Setup instructions make sure your headset is plugged in properly and you are on the same exact wifi, No VPN, Bluestacks or similar programs, and then click ![](https://cdn.discordapp.com/attachments/608376262347587595/608391608572051457/Screenshot_1076.png)and flip it on, then click the new button that has appeared ![](https://cdn.discordapp.com/attachments/608376262347587595/608392290867871756/Screenshot_1077.png)
 
-You can now head to ![](https://cdn.discordapp.com/attachments/608376262347587595/608392779755683993/Screenshot_1078.png)right in Sidequest and install Beatsaber Mods,
+You can now head to
+![](https://cdn.discordapp.com/attachments/608376262347587595/608392779755683993/Screenshot_1078.png)
+right in Sidequest and install Beatsaber Mods,
 
 To activate or Deactivate Mods in Sidequest follow the below
 ![](https://cdn.discordapp.com/attachments/608376262347587595/608394170247413763/Screenshot_1079.png)
