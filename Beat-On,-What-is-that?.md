@@ -8,13 +8,21 @@ Then proceed to click install latest on the upper right of the page before doing
 ![](https://cdn.discordapp.com/attachments/608376262347587595/608385232768335899/Screenshot_1072.png)
 
 
-You can use it to install Mods from SideQuest MODS tab and enable them in Beat On from PC or in Headset in the Beat On tab as long as both devices are on the same Wifi connection,
-
+Make sure to go back and Click Confirm so it registers to your accounts Dashboard you have installed Beat On properly,
 You can search also check the same page [Here](https://sidequestvr.com/#/app/14) 
 
 In which you will see something like
 
 ![](https://cdn.discordapp.com/attachments/608376262347587595/608389128903458836/beat_on_launch.png)
+
+After following the Setup instructions make sure your headset is plugged in properly and you are on the same exact wifi, No VPN, Bluestacks or similar programs, and then click ![](https://cdn.discordapp.com/attachments/608376262347587595/608391608572051457/Screenshot_1076.png)and flip it on, then click the new button that has appeared ![](https://cdn.discordapp.com/attachments/608376262347587595/608392290867871756/Screenshot_1077.png)
+
+You can now head to ![](https://cdn.discordapp.com/attachments/608376262347587595/608392779755683993/Screenshot_1078.png)right in Sidequest and install Beatsaber Mods,
+
+To activate or Deactivate Mods in Sidequest follow the below
+![](https://cdn.discordapp.com/attachments/608376262347587595/608394170247413763/Screenshot_1079.png)
+
+To activate or Deactivate Mods in Beat On just open Beat On from Oculus TV and open Mods in there there.
 
 
 For any more information feel free to watch the video 
