@@ -9,6 +9,7 @@ You can use it to install Mods from SideQuest MODS tab and enable them in Beat O
 You can search also check the same page [Here](https://sidequestvr.com/#/app/14) 
 
 In which you will see something like
+
 ![](https://cdn.discordapp.com/attachments/608376262347587595/608389128903458836/beat_on_launch.png)
 
 
