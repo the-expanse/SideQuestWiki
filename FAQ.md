@@ -6,7 +6,7 @@
 ----
 [Anything else about transferring to Beat On from the old system](https://github.com/the-expanse/SideQuest/wiki/Anything-else-users-should-know-about-installing-Beat-On-from-the-old-system)
 ----
-[What Beat On is](https://github.com/the-expanse/SideQuest/wiki/Beat-On,-What-is-that%3F)
+[What Beat On is and how to install it](https://github.com/the-expanse/SideQuest/wiki/Beat-On,-What-is-that%3F)
 ----
 [Beatsaber asking to update after updating](https://github.com/the-expanse/SideQuest/wiki/Beatsaber-asking-to-update-after-updating%3F)
 ----
