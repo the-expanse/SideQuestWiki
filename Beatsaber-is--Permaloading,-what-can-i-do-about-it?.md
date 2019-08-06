@@ -1,1 +1,3 @@
-If your game of Beatsaber is permaloading try restarting your headset first before anything, that actually solves the issue most of the time, otherwise you can attempt to reinstall it and restore songs from Beat On in headset under TOOLS with the "quick fix" button, if you have not installed beat on yet just go [Here](https://sidequestvr.com/#/app/14) and you may install it
+If your game of Beatsaber is permaloading with the 3 dot loading screen, try restarting your headset first before anything and reopen Beatsaber,if the issue persists you can attempt to reinstall it, then restore songs from Beat On, it should ask to reinstall automatically when you open Beat On in headset under Oculus TV btu if it fails to, in Headset under Beat Ons TOOLS tab try clicking the "quick fix" button and it should force restore them.
+
+if you have not installed beat on yet just go [Here](https://sidequestvr.com/#/app/14) and follow the Setup instructions
