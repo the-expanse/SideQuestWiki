@@ -1,1 +1,4 @@
+Make sure your headset is plugged in before using  the Uninstall Unsubscribe button, else it only removes the application from your Dashboard and stops telling you when updates are available.
+![](https://cdn.discordapp.com/attachments/608376262347587595/608380056754061376/Screenshot_1064.png)
+
 If you find an app or mod that fails to install properly after 2 or 3 tries please report them to [#issues-bug-reports](https://discord.gg/2bkwecn)  in the Discord by clicking on the URL on top of Sidequest on the app's install page and copying  (CTR+C) it then pasting it into the above discord channel and we will look into it soon as we can
