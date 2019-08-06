@@ -1,5 +1,5 @@
 You absolutely can, 
-just go to the APPs tab in sidequest and under App settings (the gear icon to the very right beatsaber) click Backup Game Data in Beatsabers, this saves your scores and such, then uninstall Beatsaber with the Uninstall button
+just go to the APPs tab in sidequest and under App settings (the gear icon to the very right of Beatsabers own icon) click Backup Game Data in Beatsabers, this saves your scores and such, then uninstall Beatsaber with the Uninstall button
 
 After uninstalling Beatsaber Back out and uninstall Beat On as well, after reinstalling Beatsaber from the oculus store and Beat On from [Here](https://sidequestvr.com/#/app/14) open Beat On in headset under Oculus TV and let it patch your Beatsaber game once more, you can then retrieve your player data by going back into SideQuest and heading back into the app settings once more (the gear icon) and reinstall them with the refresh icon to the utmost left of the save that you made, your playlist and songs will ask to be restored automatically upon launch of Beat On after reinstalling it and Beatsaber, then you should be set, 
 
