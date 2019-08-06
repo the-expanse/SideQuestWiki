@@ -2,7 +2,7 @@
 ----
 [My apps won't uninstall what's wrong](https://github.com/the-expanse/SideQuest/wiki/.My-apps-won't-uninstall-what's-wrong%3F)
 ----
-[An app is not installing from SideQuest,what should i do](https://github.com/the-expanse/SideQuest/wiki/An-App-or-Mod-is-not-installing-from-SideQuest,-what-should-i-do%3F)
+[An app or mod is not installing from SideQuest,what should i do](https://github.com/the-expanse/SideQuest/wiki/An-App-or-Mod-is-not-installing-from-SideQuest,-what-should-i-do%3F)
 ----
 [Anything else about transferring to Beat On from the old system](https://github.com/the-expanse/SideQuest/wiki/Anything-else-users-should-know-about-installing-Beat-On-from-the-old-system)
 ----
