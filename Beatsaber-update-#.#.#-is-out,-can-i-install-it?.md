@@ -1,6 +1,36 @@
 You absolutely can, 
-just go to the APPs tab in sidequest and under App settings (the gear icon to the very right of Beatsabers own icon) click Backup Game Data in Beatsabers, this saves your scores and such, then uninstall Beatsaber with the Uninstall button
+just go to the APPs tab in Sidequest click here
 
-After uninstalling Beatsaber Back out and uninstall Beat On as well, after reinstalling Beatsaber from the oculus store and Beat On from [Here](https://sidequestvr.com/#/app/14) open Beat On in headset under Oculus TV and let it patch your Beatsaber game once more, you can then retrieve your player data by going back into SideQuest and heading back into the app settings once more (the gear icon) and reinstall them with the refresh icon to the utmost left of the save that you made, your playlist and songs will ask to be restored automatically upon launch of Beat On after reinstalling it and Beatsaber, then you should be set, 
+![](https://cdn.discordapp.com/attachments/608376262347587595/608407563263803396/Screenshot_1081.png)
 
-if you don't see the (save game data button) and only see (Save SD card data) you are on an old version of Sidequest, be sure to update [Here](https://sidequestvr.com/#/setup-howto), if there are any issues afterwards try heading to Beat On in your headset under Oculus TV and go to tools to try clicking "QuickFix", if issues continue to persist join the [Discord](https://discord.me/sidequestvr) and ask around, someone there may be able to assist you
+Then go to Beatsabers settings
+
+![](https://cdn.discordapp.com/attachments/608376262347587595/608408734515068943/Beatsaber_setting.png)
+
+and click Backup Game Data
+
+![](https://cdn.discordapp.com/attachments/608376262347587595/608409252272406607/backups.png)
+
+this saves your scores and such, after that then uninstall Beatsaber with the Uninstall button
+
+![](https://cdn.discordapp.com/attachments/608376262347587595/608405621741715487/Uninstall.png)
+
+
+After uninstalling Beatsaber Back out and uninstall Beat On as well
+
+![](https://cdn.discordapp.com/attachments/608376262347587595/608398315914133520/Screenshot_1080.png)
+
+then proceed to reinstall Beatsaber from the oculus store and Beat On from [Here](https://sidequestvr.com/#/app/14) 
+
+
+After reinstalling everything go into your headset and head to under Oculus TV, scroll down and Open Beat On then let it patch your Beatsaber game once more, your playlist and songs will ask to be restored automatically upon launch of Beat On after reinstalling it and Beatsaber.
+
+when Beat On is done patching Beatsaber you can then retrieve your player data from here
+
+![](https://cdn.discordapp.com/attachments/608376262347587595/608410316706938900/backups.png)
+
+your playlist and songs will ask to be restored automatically upon launch of Beat On after reinstalling it and Beatsaber, then you should be set, 
+
+if you don't see the (save game data button) and only see (Save SD card data) you are on an old version of Sidequest, be sure to update SideQuest from [Here](https://sidequestvr.com/#/setup-howto), if there are any issues afterwards make sure to try heading to Beat On in your headset under Oculus TV again  and go to tools to try clicking "QuickFix", 
+
+if issues continue to persist join the [Discord](https://discord.me/sidequestvr) and ask around, someone there may be able to assist you
