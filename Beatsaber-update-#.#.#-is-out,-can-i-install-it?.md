@@ -3,22 +3,32 @@ just go to the APPs tab in Sidequest click here
 
 ![](https://cdn.discordapp.com/attachments/608376262347587595/608407563263803396/Screenshot_1081.png)
 
+
+
 Then go to Beatsabers settings
 
 ![](https://cdn.discordapp.com/attachments/608376262347587595/608408734515068943/Beatsaber_setting.png)
 
+
+
 and click Backup Game Data
 
 ![](https://cdn.discordapp.com/attachments/608376262347587595/608409252272406607/backups.png)
+
+
 
 this saves your scores and such, after that then uninstall Beatsaber with the Uninstall button
 
 ![](https://cdn.discordapp.com/attachments/608376262347587595/608405621741715487/Uninstall.png)
 
 
+
+
 After uninstalling Beatsaber Back out and uninstall Beat On as well
 
 ![](https://cdn.discordapp.com/attachments/608376262347587595/608398315914133520/Screenshot_1080.png)
+
+
 
 then proceed to reinstall Beatsaber from the oculus store and Beat On from [Here](https://sidequestvr.com/#/app/14) 
 
