@@ -1,17 +1,15 @@
 make sure to use a phone USB cable that can transfer data instead of the cable that comes with your Quest as the cable that comes with the device is not suited for data transfer.
-====================================================
+
 Step 1: Install SideQuest
 ====================================================
 
 You can do so from from [Here](https://sidequestvr.com/#/download) for your designated device
 
-====================================================
 Step 2: Create Organisation
 ====================================================
 
 To be able to sideload to the Headset at all you have to be a registered "developer" first, so just go to [Create new organization](https://dashboard.oculus.com/organizations/create/) on your PC and put in a dummy organization name. You'll be asked to accept the developer agreement, do so and then your set to move on.
 
-====================================================
 Step 3: Install Drivers (Windows users Only)
 ====================================================
 
@@ -30,7 +28,6 @@ and right click the android_winusb.inf file to click install.
 ![](https://cdn.discordapp.com/attachments/608376262347587595/608755617242546233/drivers.png)
 
 
-====================================================
 Step 4: Enable Developer Mode and Reboot
 ====================================================
 Now that you’re a "developer", open the Oculus app on your smartphone or tablet. and follow the below steps
@@ -50,7 +47,6 @@ Now it's time to connect the USB cable. Once you are connected you will have to 
 
 Select 'Always allow from this computer' to prevent this message from coming up every time you connect 
 
-====================================================
 Step 6: Install App Launcher
 ====================================================
 Install a launcher to make finding apps easier on your headset. This launcher will be found in the library under 'Unknown Sources' on the menu on the left. Open it to find all the apps that have been installed on your device.
