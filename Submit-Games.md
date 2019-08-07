@@ -3,12 +3,15 @@ if you desire to Submit a game to sidequest,
 You can sign up and create an account for Sidequest [here](https://sidequestvr.com/#/sign-up)
 
 After creating an account, or if you already have just go to [Your Account](https://sidequestvr.com/#/account) and enable developer mode 
+
 ![](https://cdn.discordapp.com/attachments/608376262347587595/608596927466176542/Screenshot_1094.png)
 
 Then set up your application in the app listings section.
+
 ![](https://cdn.discordapp.com/attachments/608376262347587595/608597561002950657/Screenshot_1095.png)
 
 You can then add App urls or use github releases to add a download option for your app here
+
 ![](https://cdn.discordapp.com/attachments/608376262347587595/608598066588680202/Screenshot_1096.png)
 
 as well as add screenshots and a video to promote your work, the last screenshot put in will be used for the decorative parallax banner at the top but will be hidden if there are no screenshots. 
