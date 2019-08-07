@@ -40,6 +40,7 @@ Also make sure to Disable Unlock Pattern under More Settings > Unlock Pattern. i
 Once you have enabled developer mode it is a good idea to reboot your headset to let your PC be able to see the device.
 
 Step 5: Connect USB Cable and Allow USB Debugging
+====================================================
 
 Now it's time to connect the USB cable. Once you are connected you will have to allow USB debugging access inside your headset. If you put your headset on at this point you will see the below. 
 
