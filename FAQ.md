@@ -1,5 +1,7 @@
 [SideQuest Setup & How to Install Guide](https://github.com/the-expanse/SideQuest/wiki/SideQuest-Setup-&-How-To-install)
 ----
+[How to install Custom songs with SideQuest](https://github.com/the-expanse/SideQuest/wiki/How-to-install-Custom-Songs)
+----
 [SideQuest is not installing properly(MAC)](https://github.com/the-expanse/SideQuest/wiki/(MAC)-SideQuest-is-not-installing-properly-(MAC))
 ----
 [My apps won't uninstall what's wrong](https://github.com/the-expanse/SideQuest/wiki/.My-apps-won't-uninstall-what's-wrong%3F)
