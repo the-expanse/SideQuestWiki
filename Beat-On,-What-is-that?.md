@@ -35,7 +35,7 @@ Then search for and install the latest of a Mod you want
 ![](https://cdn.discordapp.com/attachments/608376262347587595/609099705246416911/Screenshot_1127.png)
 
 and head to the Mods tab to enable them
-https://cdn.discordapp.com/attachments/608376262347587595/609099688838299678/Screenshot_1128.png
+![](https://cdn.discordapp.com/attachments/608376262347587595/609099688838299678/Screenshot_1128.png)
 
 
 To enable and disable mods you have installed from Beat On in headset, just open Beat On from OculusTV/sidequestTV and open Mods in there.
