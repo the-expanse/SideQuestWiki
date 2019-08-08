@@ -2,7 +2,11 @@
 ----
 [How to install Custom songs with SideQuest](https://github.com/the-expanse/SideQuest/wiki/How-to-install-Custom-Songs)
 ----
+[Windows 7 with SideQuest issues](https://github.com/the-expanse/SideQuest/wiki/I-Have-Windows-7,-can-i-use-SideQuest%3F)
+----
 [SideQuest is not installing properly(MAC)](https://github.com/the-expanse/SideQuest/wiki/(MAC)-SideQuest-is-not-installing-properly-(MAC))
+----
+[Sidequest Apps aren't installing properly](https://github.com/the-expanse/SideQuest/wiki/SideQuest-isn't-working-properly,-apps-won't-install)
 ----
 [My apps won't uninstall what's wrong](https://github.com/the-expanse/SideQuest/wiki/.My-apps-won't-uninstall-what's-wrong%3F)
 ----
@@ -10,7 +14,13 @@
 ----
 [Anything else about transferring to Beat On from the old system](https://github.com/the-expanse/SideQuest/wiki/Anything-else-users-should-know-about-installing-Beat-On-from-the-old-system)
 ----
+[What are Mods](https://github.com/the-expanse/SideQuest/wiki/What-are-Mods%3F)
+----
 [What Beat On is and how to install it](https://github.com/the-expanse/SideQuest/wiki/Beat-On,-What-is-that%3F)
+----
+[Creating or installing Custom Saber](https://github.com/the-expanse/SideQuest/wiki/I-want-to-create-or-install-Custom-sabers.)
+----
+[What is Sync Saber](https://github.com/the-expanse/SideQuest/wiki/What-is-Sync-Saber)
 ----
 [Beatsaber asking to update after updating](https://github.com/the-expanse/SideQuest/wiki/Beatsaber-asking-to-update-after-updating%3F)
 ----
@@ -24,10 +34,6 @@
 ----
 [Fixing connection issues](https://github.com/the-expanse/SideQuest/wiki/I-am-having-issues-Connecting-,-what-do-i-do%3F)
 ----
-[Windows 7 with SideQuest issues](https://github.com/the-expanse/SideQuest/wiki/I-Have-Windows-7,-can-i-use-SideQuest%3F)
-----
-[Creating or installing Custom Saber](https://github.com/the-expanse/SideQuest/wiki/I-want-to-create-or-install-Custom-sabers.)
-----
 [Mod ZIP files give an error when uploading to Beat On](https://github.com/the-expanse/SideQuest/wiki/Mod-ZIP-files-give-an-error-when-uploading-to-Beat-On)
 ----
 [Not supported on the new version-Error](https://github.com/the-expanse/SideQuest/wiki/Not-supported-on-the-new-version-Error.)
@@ -35,10 +41,4 @@
 [This Quest update breaking games](https://github.com/the-expanse/SideQuest/wiki/Quest-update-breaking-games%3F)
 ----
 [Recorded videos in headset don't play anymore after transferred to PC](https://github.com/the-expanse/SideQuest/wiki/Recorded-videos-in-headset-don't-play-anymore-after-transferred-to-my-PC.)
-----
-[Sidequest Apps aren't installing properly](https://github.com/the-expanse/SideQuest/wiki/SideQuest-isn't-working-properly,-apps-won't-install)
-----
-[What are Mods](https://github.com/the-expanse/SideQuest/wiki/What-are-Mods%3F)
-----
-[What is Sync Saber](https://github.com/the-expanse/SideQuest/wiki/What-is-Sync-Saber)
 ----
