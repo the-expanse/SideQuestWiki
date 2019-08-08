@@ -23,8 +23,7 @@ and flip the switch on, then click the new button that has appeared ![](https://
 You can now also install mods, 
 ==============================
 
-Just head to the below area 
-![](https://cdn.discordapp.com/attachments/608376262347587595/608392779755683993/Screenshot_1078.png)
+Just head to the![](https://cdn.discordapp.com/attachments/608376262347587595/608392779755683993/Screenshot_1078.png) tab
 right in Sidequest and install Beatsaber Mods,
 
 To activate or Deactivate Mods from Sidequest follow the below
