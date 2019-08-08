@@ -36,7 +36,7 @@
 ----
 [Sidequest Apps aren't installing properly](https://github.com/the-expanse/SideQuest/wiki/SideQuest-isn't-working-properly,-apps-won't-install)
 ----
-[What are BeatSaber Mods](https://github.com/the-expanse/SideQuest/wiki/What-are-Beat-Saber-Mods%3F)
+[What are Mods](https://github.com/the-expanse/SideQuest/wiki/What-are-Mods%3F)
 ----
 [What is Sync Saber](https://github.com/the-expanse/SideQuest/wiki/What-is-Sync-Saber)
 ----
