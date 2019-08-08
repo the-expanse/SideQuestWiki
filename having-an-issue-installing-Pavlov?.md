@@ -1,6 +1,8 @@
 Note that SideQuest, the Expense and it's affiliates can not be held responsible for or maintain troubleshooting support with Pavlov as it will soon be on the official Oculus Store so anything beyond the below is out of our hands and updates to this how to will be few to non existent if they become outdated.
 
 
+Mac users will also need to go to the  [PAVLOV DISCORD](https://discord.gg/wE5ZqBB) for direct instructions as this is a Windows only guide
+
 
 Make sure you have the most recent Folder for PavLov from the [PAVLOV DISCORD](https://discord.gg/wE5ZqBB), that is usually an issue people overlook so be sure uninstall the old version from Sidequests APPs tab if you have it installed already before you download and unzip the newest Pavlov folder.
 
