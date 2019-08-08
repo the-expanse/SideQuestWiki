@@ -24,12 +24,12 @@ You can now head to
 ![](https://cdn.discordapp.com/attachments/608376262347587595/608392779755683993/Screenshot_1078.png)
 right in Sidequest and install Beatsaber Mods,
 
-To activate or Deactivate Mods in Sidequest follow the below
+To activate or Deactivate Mods from Sidequest follow the below
 ![](https://cdn.discordapp.com/attachments/608376262347587595/608394170247413763/Screenshot_1079.png)
 
-To activate or Deactivate Mods in Beat On just open Beat On from Oculus TV and open Mods in there there.
+To do it from Beat On in headset, just open Beat On from OculusTV/sidequestTV and open Mods in there.
 
-to install songs just go to the Browser tab in Headset, or plug your device in, click ![](https://cdn.discordapp.com/attachments/608376262347587595/608391608572051457/Screenshot_1076.png) in Sidequest, flip it on, click open beat on, and then click Beast Saber, or Beat Saver on the top right bar to find a song, then install them with the Download Zip button
+For installing songs in headset just go to the Browser tab in Beat on, search for a desired song and install them from there, or plug your device in, click ![](https://cdn.discordapp.com/attachments/608376262347587595/608391608572051457/Screenshot_1076.png) in Sidequest, flip it on, click open beat on, and then click Beast Saber, or Beat Saver on the top right bar to find a song, then install them with the Download Zip button
 
 For any more information feel free to watch the video 
 [here](https://www.youtube.com/watch?v=CPDqrAQWruU&lc=z23ag5ginnfbsl3iq04t1aokgbh5kytwso3tjwfl30kmbk0h00410.1563913415218266) to learn more as well.
