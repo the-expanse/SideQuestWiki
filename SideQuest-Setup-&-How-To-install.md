@@ -58,5 +58,6 @@ Install a launcher to make finding apps easier on your headset. This launcher wi
 
 [Sidequest Headset launcher](https://sidequestvr.com/#/app/90)
 
-https://cdn.discordapp.com/attachments/608376262347587595/609105577175416842/Screenshot_1129.png
+![](https://cdn.discordapp.com/attachments/608376262347587595/609105577175416842/Screenshot_1129.png)
+
 just be sure to go back to the browser and click confirm, then you are set to go, You can now install apps to your headset and open them from the SideQuest launcher. You can find it in the side menu of the library under the Unknown Sources section called SideQuest - TV as well as SideQuest - Home. This will show you all the apps on the device even hidden ones you would otherwise not see, to fast launch some apps you can install the official OculusTV from the store and open it from your O-Bar with the (TV) button in headset and just scroll to the bottom, you will find most apps there as well.
