@@ -6,8 +6,11 @@ Make sure you have the most recent Folder for PavLov from the [PAVLOV DISCORD](h
 
 ![](https://cdn.discordapp.com/attachments/608376262347587595/608756299177656320/extract_drivers.png)
 
-Then back out and go to the unzipped folder
+
+
+Then back out from the zip folder and go to the new unzipped folder and open it
 ![](https://cdn.discordapp.com/attachments/608376262347587595/608755536984277002/Screenshot_1106.png)
+
 
 
 Then just use the built in installer for the Pavlov from the new Extracted folder DO NOT drag and drop the files into SideQuest, also  and use the "Install.bat" located below
