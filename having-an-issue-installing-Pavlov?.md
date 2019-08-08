@@ -13,7 +13,8 @@ Then just delete the Zip folder and go into to the new unzipped folder and open 
 
 
 
-Then just use the built in installer for the Pavlov from the new Extracted folder DO NOT drag and drop the files into SideQuest, also  and use the "Install.bat" located below
+Then just use the built in installer for the Pavlov from the new Extracted folder,
+DO NOT drag and drop the files into SideQuest, also  and use the "Install.bat" located below
 
 ![](https://cdn.discordapp.com/attachments/608376262347587595/608568197679153152/Pavlov_install_BAT.png)
 
