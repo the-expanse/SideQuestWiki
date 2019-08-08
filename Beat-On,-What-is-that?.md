@@ -24,10 +24,10 @@ and flip the switch on, then click the new button that has appeared
 You should then see the below button show up in your bar
 ![](https://cdn.discordapp.com/attachments/608376262347587595/608392290867871756/Screenshot_1077.png)
 
-You can now also install mods, 
+You can now also install mods
 ==============================
 
-Just head to the![](https://cdn.discordapp.com/attachments/608376262347587595/608392779755683993/Screenshot_1078.png) tab On the left directly in Sidequest and install Beatsaber Mods
+do not use external mods out side of SideQuest and expect them to be compatible, most at this time are PC only so Just head to the![](https://cdn.discordapp.com/attachments/608376262347587595/608392779755683993/Screenshot_1078.png) tab On the left directly in Sidequest and install Beatsaber Mods
 ![](https://cdn.discordapp.com/attachments/608376262347587595/609099226160300058/Screenshot_1126.png)
 
 
