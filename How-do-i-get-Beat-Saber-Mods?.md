@@ -2,7 +2,7 @@ Emulamer's creation of Beat On let's you install Custom sabers though the Upload
 
 ![](https://cdn.discordapp.com/attachments/608376262347587595/608392779755683993/Screenshot_1078.png)
 
-
+and following [This Guide](https://github.com/the-expanse/SideQuest/wiki/Beat-On,-What-is-that%3F)
 Or from [Here](https://sidequestvr.com/#/app/14) you can then find the app in headset under Oculus TV at the bottom of the page, if you have not installed OculusTV or the Sidequest 2D launcher you can install OculusTV from the oficial sidequest store, and install SideQuests 2Dlauncher from here
 
 [SideQuest 2Dlauncher Page](https://xpan.cc/a-90)
