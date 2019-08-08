@@ -32,11 +32,14 @@ Step 4: Reboot & Enable Developer Mode
 ====================================================
 Now that you’re a "developer", open the Oculus app on your smartphone or tablet. and follow the below steps
 
-![](https://cdn.discordapp.com/attachments/608376262347587595/608759750825476127/dev_settings.png)
+![](https://cdn.discordapp.com/attachments/608376262347587595/609103817178611732/Screenshot_2019-08-07-13-23-35.png)
+![](https://cdn.discordapp.com/attachments/608376262347587595/609103731979714597/Screenshot_2019-08-07-13-23-39.png)
 
 ![](https://cdn.discordapp.com/attachments/608376262347587595/608760168230027264/enable_Dev_mode.png)
 
-Also make sure to Disable Unlock Pattern under More Settings > Unlock Pattern. if it is enabled,
+Also make sure to Disable Unlock Pattern if it is enabled,
+![](https://cdn.discordapp.com/attachments/608376262347587595/609104317001105411/disable_unlock_patt.png)
+make sure it asks if you want to "set unlock pattern" as that means it is off like it should be
 
 Once you have enabled developer mode MAKE SURE TO REBOOT YOUR HEADSET to let your PC be able to see the device.
 
