@@ -17,8 +17,11 @@ In which you will see something like
 ![](https://cdn.discordapp.com/attachments/608376262347587595/608389128903458836/beat_on_launch.png)
 
 After following the Setup instructions make sure your headset is plugged in properly and you are on the same exact wifi, No VPN, Bluestacks or similar programs, and then click
+
 ![](https://cdn.discordapp.com/attachments/608376262347587595/608391608572051457/Screenshot_1076.png
-and flip the switch on, then click the new button that has appeared ![](https://cdn.discordapp.com/attachments/608376262347587595/608392290867871756/Screenshot_1077.png)
+
+and flip the switch on, then click the new button that has appeared
+![](https://cdn.discordapp.com/attachments/608376262347587595/608392290867871756/Screenshot_1077.png)
 
 You can now also install mods, 
 ==============================
