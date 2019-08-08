@@ -28,7 +28,7 @@ and right click the android_winusb.inf file to click install.
 ![](https://cdn.discordapp.com/attachments/608376262347587595/608755617242546233/drivers.png)
 
 
-Step 4: Enable Developer Mode and Reboot
+Step 4: Reboot & Enable Developer Mode
 ====================================================
 Now that you’re a "developer", open the Oculus app on your smartphone or tablet. and follow the below steps
 
@@ -37,7 +37,8 @@ Now that you’re a "developer", open the Oculus app on your smartphone or table
 ![](https://cdn.discordapp.com/attachments/608376262347587595/608760168230027264/enable_Dev_mode.png)
 
 Also make sure to Disable Unlock Pattern under More Settings > Unlock Pattern. if it is enabled,
-Once you have enabled developer mode it is a good idea to reboot your headset to let your PC be able to see the device.
+
+Once you have enabled developer mode MAKE SURE TO REBOOT YOUR HEADSET to let your PC be able to see the device.
 
 Step 5: Connect USB Cable and Allow USB Debugging
 ====================================================
