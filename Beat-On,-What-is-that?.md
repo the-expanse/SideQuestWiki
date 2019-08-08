@@ -21,6 +21,7 @@ After following the Setup instructions make sure your headset is plugged in prop
 
 and flip the switch on, then click the new button that has appeared
 ![](https://cdn.discordapp.com/attachments/608376262347587595/609093393183932446/Screenshot_1123.png)
+You should then see the below button show up in your bar
 ![](https://cdn.discordapp.com/attachments/608376262347587595/608392290867871756/Screenshot_1077.png)
 
 You can now also install mods, 
