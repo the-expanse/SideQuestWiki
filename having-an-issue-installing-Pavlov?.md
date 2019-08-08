@@ -2,7 +2,7 @@ Note that SideQuest, the Expense and it's affiliates can not be held responsible
 
 
 
-Make sure you have the most recent Folder for PavLov from the [PAVLOV DISCORD](https://discord.gg/wE5ZqBB), that is usually an issue people overlook, Then just use the built in installer for the Pavlov, just make sure to uninstall the old version from Sidequests APP tab, then install and unzip the newest Pavlov folder and use the "Install.bat" located below
+Make sure you have the most recent Folder for PavLov from the [PAVLOV DISCORD](https://discord.gg/wE5ZqBB), that is usually an issue people overlook so be sure uninstall the old version from Sidequests APPs tab if you have it installed already before you download and unzip the newest Pavlov folder, Then just use the built in installer for the Pavlov from the new Extracted folder, DO NOT drag and drop the files into SideQuest, also  and use the "Install.bat" located below
 
 ![](https://cdn.discordapp.com/attachments/608376262347587595/608568197679153152/Pavlov_install_BAT.png)
 
