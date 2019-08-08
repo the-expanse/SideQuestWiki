@@ -8,7 +8,7 @@ Make sure you have the most recent Folder for PavLov from the [PAVLOV DISCORD](h
 
 
 
-Then back out from the zip folder and go to the new unzipped folder and open it
+Then just delete the Zip folder and go into to the new unzipped folder and open it
 ![](https://cdn.discordapp.com/attachments/608376262347587595/608755536984277002/Screenshot_1106.png)
 
 
