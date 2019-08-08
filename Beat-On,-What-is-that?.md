@@ -20,7 +20,10 @@ After following the Setup instructions make sure your headset is plugged in prop
 ![](https://cdn.discordapp.com/attachments/608376262347587595/608391608572051457/Screenshot_1076.png
 and flip the switch on, then click the new button that has appeared ![](https://cdn.discordapp.com/attachments/608376262347587595/608392290867871756/Screenshot_1077.png)
 
-You can now head to
+You can now also install mods, 
+==============================
+
+Just head to the below area 
 ![](https://cdn.discordapp.com/attachments/608376262347587595/608392779755683993/Screenshot_1078.png)
 right in Sidequest and install Beatsaber Mods,
 
