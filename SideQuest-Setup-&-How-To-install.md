@@ -39,6 +39,7 @@ Now that you’re a "developer", open the Oculus app on your smartphone or table
 
 Also make sure to Disable Unlock Pattern if it is enabled,
 ![](https://cdn.discordapp.com/attachments/608376262347587595/609104317001105411/disable_unlock_patt.png)
+
 make sure it asks if you want to "set unlock pattern" as that means it is off like it should be
 
 Once you have enabled developer mode MAKE SURE TO REBOOT YOUR HEADSET to let your PC be able to see the device.
