@@ -27,14 +27,14 @@ You should then see the below button show up in your bar
 You can now also install mods
 ==============================
 
-do not use external mods outside of SideQuest and expect them to be compatible,
+Do not use external mods outside of SideQuest and expect them to be compatible,
 most at this time are PC only
 
-so Just head to the![](https://cdn.discordapp.com/attachments/608376262347587595/608392779755683993/Screenshot_1078.png) tab On the left directly in Sidequest and install Beatsaber Mods
+So Just head to the![](https://cdn.discordapp.com/attachments/608376262347587595/608392779755683993/Screenshot_1078.png) tab On the left directly in Sidequest and install Beatsaber Mods
 ![](https://cdn.discordapp.com/attachments/608376262347587595/609099226160300058/Screenshot_1126.png)
 
 
-To activate or Deactivate Mods from Sidequest follow the below
+To activate or Deactivate Mods from SideQuest follow the below
 ![](https://cdn.discordapp.com/attachments/608376262347587595/608394170247413763/Screenshot_1079.png)
 
 Then search for and install the latest of a Mod you want
@@ -47,7 +47,7 @@ and head to the Mods tab to enable them
 
 To enable and disable mods you have installed from Beat On in headset, just open Beat On from OculusTV/sidequestTV and open Mods in there.
 
-For installing songs in headset just go to the Browser tab in Beat on, search for a desired song and install them from there, or plug your device in, click ![](https://cdn.discordapp.com/attachments/608376262347587595/608391608572051457/Screenshot_1076.png) in Sidequest, flip it on, click open beat on, and then click Beast Saber, or Beat Saver on the top right bar to find a song, then install them with the Download Zip button
+For installing songs in headset just go to the Browser tab in Beat on, search for a desired song and install them from there, or plug your device in, click ![](https://cdn.discordapp.com/attachments/608376262347587595/608391608572051457/Screenshot_1076.png) in Sidequest, flip it on, click open beat on, and then click Beast Saber, or Beat Saver on the top right bar to find a song, then install them with the Download Zip button, if you wish to install custom song covers make sure the resolution is set to 256x256
 
 For any more information feel free to watch the video 
 [here](https://www.youtube.com/watch?v=CPDqrAQWruU&lc=z23ag5ginnfbsl3iq04t1aokgbh5kytwso3tjwfl30kmbk0h00410.1563913415218266) to learn more as well.
