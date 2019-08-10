@@ -2,15 +2,21 @@ Having connection issues? First things to try
 ---
 
 The simple things to check are
+
 1. Making sure you have done every one of the 6 [Setup Steps](https://sidequestvr.com/#/setup-howto) 
+
 
 2.A different cord. (If you have a phone USB cable that fits use that, Also try a different USB port)
 
+
 3.NO VPN, if your using Bluestacks, a Wifi Extender or a VPN best to refrain from them as they are all known to cause issues for SideQuest
+
 
 4. Antivirus such as AVG, Avast or something similar cause issues so try to check if ADB.exe is running, if not see it it has been quarantined by it and tell your antivirus to allow it through.
 
+
 5. The use of Android Emulators cause issues if it is being detected first, so make sure it is turned off completely and not running in task manager, as well as have it not set to "start on boot" in your Computer settings.
+
 
 6.Always try to connect directly to the same router as your pc or phone, to minimize issues with Beat On and Beatsaber just install and manage songs in headset to avoid issues with Those two applications specifically 
 
