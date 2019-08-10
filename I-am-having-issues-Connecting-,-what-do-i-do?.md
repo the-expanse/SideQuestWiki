@@ -6,9 +6,13 @@ The simple things to check are
 1. Making sure you have done every one of the 6 [Setup Steps](https://sidequestvr.com/#/setup-howto) 
 
 
-2. A different cord. (If you have a phone USB cable that fits use that, Also try a different USB port)
+2. A different cord, make sure to abstain from using the code the Quest came with as it is not the best quality and is quite faulty for anything save charging your device, If you have a phone USB cable that fits use that, Also try a different USB port.
 
-3. (Windows) try to open `Command Prompt` and try typing `adb disconnect` then close SideQuest replug your device and reopen SideQuest.
+3. (Windows) try to open `Command Prompt`
+
+![](https://cdn.discordapp.com/attachments/608376262347587595/609878697540976827/Screenshot_1162.png)
+
+and in the window try typing `adb disconnect` and hit enter, then close SideQuest replug your device and reopen SideQuest.
 
 3. (Mac)  try to open Terminal and try typing `./adb disconnect` then close SideQuest replug your device and reopen SideQuest.
 
