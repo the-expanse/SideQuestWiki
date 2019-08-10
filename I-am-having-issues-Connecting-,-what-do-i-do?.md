@@ -3,16 +3,28 @@ Having connection issues? First things to try
 
 The simple things to check are
 
-1. Making sure you have done every one of the 6 [Setup Steps](https://sidequestvr.com/#/setup-howto) 
+1. Making sure you have done every one of the 6 
+[Setup Steps](https://sidequestvr.com/#/setup-howto) 
 
 
-2. A different cord, make sure to abstain from using the code the Quest came with as it is not the best quality and is quite faulty for anything save charging your device, If you have a phone USB cable that fits use that, Also try a different USB port.
+2. A different cord
+![](https://cdn.discordapp.com/attachments/608376262347587595/609880483286876218/Screenshot_1163.png)
+
+ make sure to abstain from using the code the Quest came with as it is not the best quality and is quite faulty for anything save charging your device, If you have a phone USB cable that fits use that, Also try a different USB port.
 
 
-3. NO VPN, if your using Bluestacks, NOX, a Wifi Extender or a VPN of any kind best to refrain from them as they are all known to cause issues for SideQuest
+3. NO VPN, if your using Bluestacks
+
+![](https://cdn.discordapp.com/attachments/608376262347587595/609881862956908564/Screenshot_1164.png)
+
+NOX is also a issue, and Wifi Extenders of any kind can lead to problems as well, so be sure to disable VPN services of any kind when using SideQuest, best to refrain from them as they are all known to cause issues for SideQuest
 
 
-4. Antivirus such as AVG, Avast or something similar cause issues so try to check if ADB.exe is running, if not see it it has been quarantined by it and tell your antivirus to allow it through.
+4. Antivirus systems
+
+![](https://cdn.discordapp.com/attachments/608376262347587595/609882817962442752/Screenshot_1165.png)
+
+Antivirus applications such as AVG, Avast or similar programs can cause issues so try to check if ADB.exe is running, if not see it it has been quarantined by it and tell your antivirus to allow it through.
 
 
 5. The use of Android Emulators cause issues if it is being detected first, so make sure it is turned off completely and not running in task manager, as well as have it not set to "start on boot" in your Computer settings.
