@@ -20,9 +20,17 @@ The simple things to check are
 
 6. Always try to connect directly to the same router as your pc or phone, to minimize issues with Beat On and Beatsaber just install and manage songs in headset to avoid issues with Those two applications specifically 
 
+If you are having issues with Beat On Only
+----
+
+Try to update Beat On first, just search "Beat On" in the mods category, click "open" and click "install latest" as usual. Then re-enable BeatOn from the Beat On icon at the top of SideQuest.
+
+7.5 If the above doesnt work for Beat On try to ping your headset
+
+Check [HERE](https://www.lifewire.com/how-to-ping-computer-or-website-818405) for how to ping your headset, Then go [HERE](https://www.makeuseof.com/tag/7-simple-steps-diagnose-network-problem/) for information on troublshooting network problems.
 
 
-If all the things above fail to assist you then
+If all the things above fail to assist you then try the below.
 
 Make sure Sidequest is open before proceeding 
 =====================
