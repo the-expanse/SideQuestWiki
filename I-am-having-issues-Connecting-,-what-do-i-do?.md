@@ -3,35 +3,47 @@ Having connection issues? First things to try
 
 The simple things to check are
 
-1. Making sure you have done every one of the 6 
+1. ALL the setup steps
+---
+
+Making sure you have done every one of the 6 
 [Setup Steps](https://sidequestvr.com/#/setup-howto) 
 
 
 2. A different cord
+----
 
 ![](https://cdn.discordapp.com/attachments/608376262347587595/609880483286876218/Screenshot_1163.png)
 
  make sure to abstain from using the code the Quest came with as it is not the best quality and is quite faulty for anything save charging your device, If you have a phone USB cable that fits use that, Also try a different USB port.
 
 
-3. NO VPN, if your using Bluestacks
+3. NO VPN
+----
 
 ![](https://cdn.discordapp.com/attachments/608376262347587595/609881862956908564/Screenshot_1164.png)
 
-NOX is also a issue, and Wifi Extenders of any kind can lead to problems as well, so be sure to disable VPN services of any kind when using SideQuest, best to refrain from them as they are all known to cause issues for SideQuest
+if your it, using Bluestacks, NOX or a Wifi Extenders of any kind can lead to problems as well, so be sure to disable VPN services of any kind when using SideQuest, best to refrain from them as they are all known to cause issues for SideQuest
 
 
 4. Antivirus systems
+----
 
 ![](https://cdn.discordapp.com/attachments/608376262347587595/609882817962442752/Screenshot_1165.png)
 
 Antivirus applications such as AVG, Avast or similar programs can cause issues so try to check if ADB.exe is running, if not see it it has been quarantined by it and tell your antivirus to allow it through.
 
 
-5. The use of Android Emulators cause issues if it is being detected first, so make sure it is turned off completely and not running in task manager, as well as have it not set to "start on boot" in your Computer settings.
+5. Android Emulators
+----
+
+The use of Android Emulators cause issues if it is being detected first, so make sure it is turned off completely and not running in task manager, as well as have it not set to "start on boot" in your Computer settings.
 
 
-6. Always try to connect directly to the same router as your pc or phone, to minimize issues with Beat On and Beatsaber just install and manage songs in headset to avoid issues with Those two applications specifically 
+6. Your Router
+----
+
+Always try to connect directly to the same router as your pc or phone, to minimize issues with Beat On and Beatsaber just install and manage songs in headset to avoid issues with Those two applications specifically 
 
 If you are having issues with Beat On Only
 ----
