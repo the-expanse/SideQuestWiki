@@ -30,15 +30,15 @@ Then type this
 You should see:
 ```
 List of devices attached
-1SOTGDHHSD93  device
+1SOTGDHHSXXX  device
 ```
 
 if you see something like 
-`1SOTGDHHSD93  unauthorized` 
+`1SOTGDHHSXXX  unauthorized` 
 - put on your headset now you should see the message to allow usb debugging - click always allow. 
 
 if you see something like 
-`1SOTGDHHSD93  offline`
+`1SOTGDHHSXXX  offline`
 
 - then type `adb kill-server` and then `adb devices` again.
 
