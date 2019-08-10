@@ -1,4 +1,4 @@
-Beat on is required now as the old patcher has been discontinued, make sure you install the most recent Sidequest from [Here](https://sidequestvr.com/#/setup-howto) before proceeding
+Beat on is required now as the old patcher has been discontinued and must be installed separately from sidequest, make sure you install the most recent Sidequest from [Here](https://sidequestvr.com/#/setup-howto) before proceeding
 
 Beat On is an additional program for Beatsaber that makes custom song and Mod management both possible to install, as well as making doing so much more streamlined, allowing you to install Beatsaber songs from right inside your headset or from your PC, while also allowing you to install new swords skins, wall colors and other various game modifications from a growing list in Sidequests MODs tab [HERE](https://sidequestvr.com/#/apps/4), after installation if you do not have Sidequests [2D launcher](https://sidequestvr.com/#/app/90) it should only appear in Oculus TV, make sure Beat On is open in headset when you want to use any Beat On features from your PC in SideQuest you can once again find it in OculusTV, or in SidequestTV found in unknown sources.
 
