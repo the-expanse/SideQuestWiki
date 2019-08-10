@@ -50,7 +50,7 @@ If you are having issues with Beat On Only
 
 1. Try to update Beat On first, just search "Beat On" in the mods category, click "open" and click "install latest" as usual. Then re-enable BeatOn from the Beat On icon at the top of SideQuest.
 
-2. If the above doesnt work for Beat On try to ping your headset,just Check [HERE](https://www.lifewire.com/how-to-ping-computer-or-website-818405) for how to ping your headset, Then go [HERE](https://www.makeuseof.com/tag/7-simple-steps-diagnose-network-problem/) for information on troubleshooting general network problems.
+2. If the above doesn't work for Beat On try to ping your headset,just Check [HERE](https://www.lifewire.com/how-to-ping-computer-or-website-818405) for how to ping your headset, Then go [HERE](https://www.makeuseof.com/tag/7-simple-steps-diagnose-network-problem/) for information on troubleshooting general network problems.
 
 
 If all the things above fail to assist you then try the below.
@@ -150,5 +150,5 @@ For Mac: Run
 `pkill adb `
 in Terminal.
 
-after that you can then attempt to restart Sidequest to see if you are properly connected, 
+After that you can then attempt to restart SideQuest to see if you are properly connected, 
 it might take a moment but it should connect properly now.
