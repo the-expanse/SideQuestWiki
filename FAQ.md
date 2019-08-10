@@ -2,6 +2,10 @@
 ----
 [How to install Custom songs with SideQuest](https://github.com/the-expanse/SideQuest/wiki/How-to-install-Custom-Songs)
 ----
+[Fixing connection issues](https://github.com/the-expanse/SideQuest/wiki/I-am-having-issues-Connecting-,-what-do-i-do%3F)
+----
+[Manual APK installation](https://github.com/the-expanse/SideQuest/wiki/How-can-i-manually-install-apps)
+----
 [Windows 7 with SideQuest issues](https://github.com/the-expanse/SideQuest/wiki/I-Have-Windows-7,-can-i-use-SideQuest%3F)
 ----
 [SideQuest is not installing properly(MAC)](https://github.com/the-expanse/SideQuest/wiki/(MAC)-SideQuest-is-not-installing-properly-(MAC))
@@ -28,11 +32,10 @@
 ----
 [Beatsaber update #.#.#-is out, can i install it?](https://github.com/the-expanse/SideQuest/wiki/Beatsaber-update-%23.%23.%23-is-out,-can-i-install-it%3F)
 ----
-[Having an issue installing Pavlov](https://github.com/the-expanse/SideQuest/wiki/having-an-issue-installing-Pavlov%3F)
-----
+
 [How do i get Beat Saber Mods](https://github.com/the-expanse/SideQuest/wiki/How-do-i-get-Beat-Saber-Mods%3F)
 ----
-[Fixing connection issues](https://github.com/the-expanse/SideQuest/wiki/I-am-having-issues-Connecting-,-what-do-i-do%3F)
+[Having an issue installing Pavlov](https://github.com/the-expanse/SideQuest/wiki/having-an-issue-installing-Pavlov%3F)
 ----
 [Mod ZIP files give an error when uploading to Beat On](https://github.com/the-expanse/SideQuest/wiki/Mod-ZIP-files-give-an-error-when-uploading-to-Beat-On)
 ----
