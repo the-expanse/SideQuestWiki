@@ -8,13 +8,6 @@ The simple things to check are
 
 2. A different cord, make sure to abstain from using the code the Quest came with as it is not the best quality and is quite faulty for anything save charging your device, If you have a phone USB cable that fits use that, Also try a different USB port.
 
-3. (Windows) try to open `Command Prompt`
-
-![](https://cdn.discordapp.com/attachments/608376262347587595/609878697540976827/Screenshot_1162.png)
-
-and in the window try typing `adb disconnect` and hit enter, then close SideQuest replug your device and reopen SideQuest.
-
-3. (Mac)  try to open Terminal and try typing `./adb disconnect` then close SideQuest replug your device and reopen SideQuest.
 
 3. NO VPN, if your using Bluestacks, NOX, a Wifi Extender or a VPN of any kind best to refrain from them as they are all known to cause issues for SideQuest
 
@@ -49,6 +42,22 @@ Just unzip this, then in sidequest head to settings and click open main app fold
 then look for the same folder (Platform tools) and go into it, copy and paste all the files and folders from this into it and click replace all, then reboot sidequest.-->
 
 
+
+(Windows)
+----
+Try to open `Command Prompt`
+
+![](https://cdn.discordapp.com/attachments/608376262347587595/609878697540976827/Screenshot_1162.png)
+
+and in the window try typing `adb disconnect` and hit enter, then close SideQuest replug your device and reopen SideQuest.
+
+Mac
+----
+
+Try to open Terminal and try typing `./adb disconnect` then closing SideQuest, replug your device and reopen SideQuest to connect.
+
+
+if all of that fails to assist attempt the below
 
 
 For Windows 
