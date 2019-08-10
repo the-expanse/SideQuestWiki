@@ -8,8 +8,11 @@ The simple things to check are
 
 2. A different cord. (If you have a phone USB cable that fits use that, Also try a different USB port)
 
+3. (Windows) try to open `Command Prompt` and try typing `adb disconnect` then close SideQuest replug your device and reopen SideQuest.
 
-3. NO VPN, if your using Bluestacks, a Wifi Extender or a VPN best to refrain from them as they are all known to cause issues for SideQuest
+3. (Mac)  try to open Terminal and try typing `./adb disconnect` then close SideQuest replug your device and reopen SideQuest.
+
+3. NO VPN, if your using Bluestacks, NOX, a Wifi Extender or a VPN of any kind best to refrain from them as they are all known to cause issues for SideQuest
 
 
 4. Antivirus such as AVG, Avast or something similar cause issues so try to check if ADB.exe is running, if not see it it has been quarantined by it and tell your antivirus to allow it through.
