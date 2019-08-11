@@ -1,4 +1,4 @@
-`This issue has been resolved, if you see it please install the latest DMG from After installing the Sidequest DMG from ![](https://sidequestvr.com/#/download) and try again`
+This issue has been resolved, if you see it please install the latest DMG from After installing the Sidequest DMG from ![](https://sidequestvr.com/#/download) and try again
 ----
 
 
