@@ -5,3 +5,9 @@ Here you can find tonnes of info on SideQuest including an [FAQ](https://github.
 You can download SideQuest [here](https://sidequestvr.com/#/download).
 
 Thanks so much for your continued support!!
+
+SideQuest created and maintained by Shane Harris and the Expanse team
+
+![](https://cdn.discordapp.com/attachments/590517701982814210/592997778603507713/Screenshot_424.png)
+
+Wiki maintained by Chibi Blaziken and overseen by Shane Harrison
