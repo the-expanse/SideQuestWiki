@@ -12,4 +12,4 @@ SideQuest created and maintained by Shane Harris and the [Expanse](https://theex
 
 
 
-                                                          Wiki maintained by Chibi Blaziken and overseen by Shane Harrison
+                                                        Wiki maintained by Chibi Blaziken and overseen by Shane Harrison
