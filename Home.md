@@ -3,9 +3,8 @@
 [Patreon](https://www.patreon.com/TheExpanseVR) |
 [Paypal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=744A6C394Q8JG&source=url) |
 [Submit Games](https://github.com/the-expanse/SideQuest/wiki/Submit-Games)
-                                                                                                            
-                                                                                                            
-                                                                                                                                       
+----
+
 Welcome to the [SideQuest](https://sidequestvr.com/#/what-is-sidequest) wiki!
 ----
 Here you can find tonnes of info on SideQuest including an [FAQ](https://github.com/the-expanse/SideQuest/wiki/FAQ) section to help with the most common issues we have seen. Please take some time to search here if you have an issues with SideQuest, apps on SideQuest or mods for Beat Saber including BeatOn. 
