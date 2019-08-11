@@ -37,7 +37,7 @@
 [Beatsaber update #.#.#-is out, can i install it?](https://github.com/the-expanse/SideQuest/wiki/Beatsaber-update-%23.%23.%23-is-out,-can-i-install-it%3F)
 ----
 
-[How do i get Beat Saber Mods](https://github.com/the-expanse/SideQuest/wiki/How-do-i-get-Beat-Saber-Mods%3F)
+[Beat Saber, How do i get Mods](https://github.com/the-expanse/SideQuest/wiki/How-do-i-get-Beat-Saber-Mods%3F)
 ----
 [Having an issue installing Pavlov](https://github.com/the-expanse/SideQuest/wiki/having-an-issue-installing-Pavlov%3F)
 ----
