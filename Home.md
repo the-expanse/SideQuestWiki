@@ -6,7 +6,7 @@ You can download SideQuest [here](https://sidequestvr.com/#/download).
 
 Thanks so much for your continued support, if you feel like you have some pennies to spare to help SideQuest progress as a application feel free to [Donate Here](https://www.patreon.com/TheExpanseVR) and we will use those pennies to the best of our abilities in order to pull out the full potential of SideQuest as we strive to make it even better!!
 
-SideQuest created and maintained by Shane Harris and the [Expanse](https://theexpanse.app) team
+SideQuest created and maintained by Shane Harris and the wonderful team who is creating [The Expanse](https://theexpanse.app)
 
 ![](https://cdn.discordapp.com/attachments/608376262347587595/609908738668888084/Screenshot_424.png)
 
