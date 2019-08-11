@@ -4,4 +4,4 @@
 
 to learn more as well.
 
- [![](https://cdn.discordapp.com/attachments/608376262347587595/610251971894706196/Install_SQ_logo.png)](https://sidequestvr.com/#/app/14)
+ [![](https://cdn.discordapp.com/attachments/608376262347587595/610251971894706196/Install_SQ_logo.png)](https://sidequestvr.com/#/download)
