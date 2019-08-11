@@ -1,6 +1,6 @@
 This issue has been resolved
 ----
-if you see it please install the latest DMG from After installing the Sidequest DMG from ![](https://sidequestvr.com/#/download) and try again, if you are having connection issues feel free to also check [Here](https://github.com/the-expanse/SideQuest/wiki/I-am-having-issues-Connecting-,-what-do-i-do%3F
+if you see it please install the latest DMG from After installing the Sidequest DMG from ![](https://sidequestvr.com/#/download) and try again, if you are having connection issues feel free to also check [Here](https://github.com/the-expanse/SideQuest/wiki/I-am-having-issues-Connecting-,-what-do-i-do%3F)
 
 
 
