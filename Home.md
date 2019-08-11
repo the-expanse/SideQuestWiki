@@ -11,4 +11,4 @@ SideQuest created and maintained by Shane Harris and the [Expanse](https://theex
 ![](https://cdn.discordapp.com/attachments/608376262347587595/609908738668888084/Screenshot_424.png)
 
 
-                                                        Wiki maintained by Chibi Blaziken and overseen by Shane Harrison
+`Wiki maintained by Chibi Blaziken and overseen by Shane Harrison`
