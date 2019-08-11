@@ -2,6 +2,8 @@
 ----
 [How to install Custom songs with SideQuest](https://github.com/the-expanse/SideQuest/wiki/How-to-install-Custom-Songs)
 ----
+[Beat On Songs are skipping in the Queue](https://github.com/the-expanse/SideQuest/wiki/Beat-On-songs-are-skipping-in-the-install-Queue)
+----
 [Fixing connection issues](https://github.com/the-expanse/SideQuest/wiki/I-am-having-issues-Connecting-,-what-do-i-do%3F)
 ----
 [Manual APK installation](https://github.com/the-expanse/SideQuest/wiki/How-can-i-manually-install-apps)
