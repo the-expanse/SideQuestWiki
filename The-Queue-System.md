@@ -2,7 +2,9 @@ The Queue System is a way for you to install many things at once without seeing 
 
 ![](https://cdn.discordapp.com/attachments/608376262347587595/610175016126119947/Screenshot_1182.png)
 
-Though this Example is empty here, you need to install something for it to be populated and used.
+Though this Example is empty here, you can install a few things and it will start populateing.
+
+![](https://cdn.discordapp.com/attachments/608376262347587595/610179198690131980/Screenshot_1185.png)
 
 
 The system is able to as its name suggests, Queue installations and chain them so you can use SideQuest unimpeded and install Applications, Mods, Games and so on with much more ease, from now on after clicking `Install latest` you will see the green bar at the bottom appear and a number appear up top, this means your download has been added to the Queue and will be installed soon, the list will appear similarly to below.
