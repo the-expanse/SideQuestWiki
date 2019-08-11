@@ -6,6 +6,9 @@
 ----
 [Fixing connection issues](https://github.com/the-expanse/SideQuest/wiki/I-am-having-issues-Connecting-,-what-do-i-do%3F)
 ----
+----
+[About the Queue system](https://github.com/the-expanse/SideQuest/wiki/The-Queue-System)
+----
 [Manual APK installation](https://github.com/the-expanse/SideQuest/wiki/How-can-i-manually-install-apps)
 ----
 [Windows 7 with SideQuest issues](https://github.com/the-expanse/SideQuest/wiki/I-Have-Windows-7,-can-i-use-SideQuest%3F)
