@@ -8,6 +8,6 @@ Thanks so much for your continued support!!
 
 SideQuest created and maintained by Shane Harris and the Expanse team
 
-![](https://cdn.discordapp.com/attachments/590517701982814210/592997778603507713/Screenshot_424.png)
+![](https://cdn.discordapp.com/attachments/608376262347587595/609908417146126336/Screenshot_424.png)
 
 Wiki maintained by Chibi Blaziken and overseen by Shane Harrison
