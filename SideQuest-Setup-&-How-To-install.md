@@ -2,9 +2,11 @@ Make sure before anything to use a phone USB cable that can transfer data instea
 
 Step 1: Install SideQuest
 ====================================================
+First 
 
-You can do so from from [Here](https://sidequestvr.com/#/download) for your designated device
+ [![](https://cdn.discordapp.com/attachments/608376262347587595/610251971894706196/Install_SQ_logo.png)](https://sidequestvr.com/#/app/14)
 
+Then locate your related OS (Windows users use the EXE) and download and install SideQuest, then continue with the steps
 Step 2: Create Organisation
 ====================================================
 
