@@ -12,12 +12,12 @@ SideQuest created and maintained by Shane Harris and the wonderful team who is c
 ![](https://cdn.discordapp.com/attachments/608376262347587595/609908738668888084/Screenshot_424.png)
 
 
-`Wiki maintained by Chibi Blaziken and overseen by Shane Harrison`
-
-
 [FAQ](https://github.com/the-expanse/SideQuest/wiki/FAQ) |
 [Website](https://sidequestvr.com) |
 [Patreon](https://www.patreon.com/TheExpanseVR) |
 [Paypal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=744A6C394Q8JG&source=url) |
 [Submit Games](https://github.com/the-expanse/SideQuest/wiki/Submit-Games)
 ----
+
+                        `Wiki maintained by Chibi Blaziken and overseen by Shane Harrison`
+
