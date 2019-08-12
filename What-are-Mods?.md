@@ -10,7 +10,7 @@ To start installing Beatsaber Songs
 
 Installing Mods
 ----
-Try to refrain from use of external mods outside of SideQuests  [![](https://cdn.discordapp.com/attachments/608376262347587595/610263775584714773/Screenshot_1199.png)](https://sidequestvr.com/#/apps/4) Tab as most are incompatible and can be expected to fail, most at this time are PC only
+### Try to refrain from use of external mods outside of SideQuests  [![](https://cdn.discordapp.com/attachments/608376262347587595/610263775584714773/Screenshot_1199.png)](https://sidequestvr.com/#/apps/4) Tab as most are incompatible and can be expected to fail, most at this time are PC only
 
 ### To install any mods Just head to the
 
@@ -38,7 +38,6 @@ Try to refrain from use of external mods outside of SideQuests  [![](https://cdn
 For installing songs in headset
 ----
 
-### Open Beat On in your Quest headset from the OculusTV tab and go to the `Browser` tab in Beat on,
-there you can search for a desired song and install with the ![](https://cdn.discordapp.com/attachments/608376262347587595/610275673201967145/Screenshot_1200.png) button.
+### Open Beat On in your Quest headset from the OculusTV tab and go to the `Browser` tab in Beat on, there you can search for a desired song and install with the ![](https://cdn.discordapp.com/attachments/608376262347587595/610275673201967145/Screenshot_1200.png) button.
 
 
