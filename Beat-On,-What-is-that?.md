@@ -34,8 +34,12 @@ You can search also check the same page [Here](https://sidequestvr.com/#/app/14)
 
 ![](https://cdn.discordapp.com/attachments/608376262347587595/608389128903458836/beat_on_launch.png)
 
-### After following the Setup instructions make sure your headset is plugged in properly and you are on the same exact wifi, No VPN, Bluestacks or similar programs, and then click
-![](https://cdn.discordapp.com/attachments/608376262347587595/608391608572051457/Screenshot_1076.png)
+### After following the Setup instructions make sure your headset is plugged in properly click ![](https://cdn.discordapp.com/attachments/608376262347587595/608391608572051457/Screenshot_1076.png) in SideQuest
+
+### if you have any issues connecting check the Connection Wiki at
+
+#### ["Connection Issue Fixes"](https://github.com/the-expanse/SideQuest/wiki/I-am-having-issues-Connecting-,-what-do-i-do%3F)
+----
 
 ### and flip the switch on, then click the new button that has appeared
 ![](https://cdn.discordapp.com/attachments/608376262347587595/609093393183932446/Screenshot_1123.png)
