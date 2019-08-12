@@ -24,6 +24,10 @@
 
 ### - [Creating or installing Custom Saber](https://github.com/the-expanse/SideQuest/wiki/I-want-to-create-or-install-Custom-sabers.)
 
+### - ![](https://github.com/the-expanse/SideQuest/wiki/How-to-manually-upload-Custom-Unzipped-songs-in-Beat-On-(Windows-only))
+
+###-  [Windows, Manually installing Unzipped song folders into Beat On](https://github.com/the-expanse/SideQuest/wiki/How-to-manually-upload-Custom-Unzipped-songs-in-Beat-On-(Windows-only))
+
 ### - [Mod ZIP files give an error when uploading to Beat On](https://github.com/the-expanse/SideQuest/wiki/Mod-ZIP-files-give-an-error-when-uploading-to-Beat-On)
 
 ### - [Beat On Songs are skipping in the Queue](https://github.com/the-expanse/SideQuest/wiki/Beat-On-songs-are-skipping-in-the-install-Queue)
