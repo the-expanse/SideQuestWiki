@@ -16,4 +16,4 @@ Sometimes you have to drag and drop the zip file outside of the white upload box
 
 If MAC Users are having issues installing a ZIP
 ----
-When you download a ZIP folder from a browser and click the stack it auto extracts, and as Beat On only recognizes zip files be sure to, just open a finder window and navigate to your download folder to use the proper base ZIP folder.
+When you download a ZIP folder from a browser and click the stack it may auto extract, and as Beat On only recognizes zip files be sure to, just open a finder window and navigate to your download folder to use the proper base ZIP folder.
