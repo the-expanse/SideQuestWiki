@@ -1,66 +1,51 @@
-Beat on is required now as the old patcher has been discontinued and must be installed separately from Sidequest, make sure you install the most recent Sidequest below before installing Beat On. 
+Beat on is required now as the old patcher has been discontinued is a application separate from from Sidequest, 
+also make sure you install the most recent Sidequest below before installing Beat On. 
 
 [![](https://cdn.discordapp.com/attachments/608376262347587595/610251971894706196/Install_SQ_logo.png)](https://sidequestvr.com/#/download)
 
-Beat On is an additional program for Beatsaber that makes custom song and Mod management both possible to install, as well as making doing so much more streamlined, allowing you to install Beatsaber songs from right inside your headset or from your PC, while also allowing you to install new swords skins, wall colors and other various game modifications from a growing list in Sidequests MODs tab [HERE](https://sidequestvr.com/#/apps/4), after installation if you do not have a [2D launcher](https://sidequestvr.com/#/app/199) installed, it should only appear in Oculus TV, make sure Beat On is open in headset when you want to use any Beat On features from your PC in SideQuest you can once again find it in OculusTV, or in SidequestTV found in unknown sources.
+What Beat On Is
+----
+### Beat On is an additional program for Beatsaber that makes custom song and Mod management both possible to install and use, as well as making doing so much more streamlined, allowing you to install Beatsaber songs from right inside your headset OR from your PC, while also allowing you to install new swords skins, wall colors and other various game modifications from a growing list in Sidequests [![](https://cdn.discordapp.com/attachments/608376262347587595/610263775584714773/Screenshot_1199.png)](https://sidequestvr.com/#/apps/4),
 
-To install Beat On plug your headset in, Open sidequest and on the top bar hit this icon 
+### After installation of Side Quest if you do not have a [2D launcher](https://sidequestvr.com/#/app/199) installed into your headset, Beat On will only appear in OculusTV, Make sure Beat On is open in headset when you want to use any Beat On features from your PC in SideQuest you can once again find it in OculusTV, or in SidequestTV found in unknown sources.
+
+
+### To install Beat On plug your headset in, Open sidequest and on the top bar hit this icon 
 
 ![](https://cdn.discordapp.com/attachments/608376262347587595/608391608572051457/Screenshot_1076.png)
 
 
-if that fails to work you can try manually installing Beat On by Plugging your headset in and following the steps below
+### if that fails to work you can try manually installing Beat On by Plugging your headset in and following the steps below
 
-First Click the link below to go to beat On's install page.
+### First Click the link below to go to beat On's install page.
 
  [![](https://cdn.discordapp.com/attachments/608376262347587595/610258661109006347/Screenshot_1198.png)](https://sidequestvr.com/#/app/14)
 
 
 
-then proceed to click install latest on the upper right of the page before doing the below
+### then proceed to click install latest on the upper right of the page before doing the below
 
 ![](https://cdn.discordapp.com/attachments/608376262347587595/608385232768335899/Screenshot_1072.png)
 
 
-Make sure to go back and Click Confirm so it registers to your accounts Dashboard you have installed Beat On properly,
+### Make sure to go back and Click Confirm so it registers to your accounts Dashboard you have installed Beat On properly,
 You can search also check the same page [Here](https://sidequestvr.com/#/app/14) 
 
-In which you will see something like
+### In which you will see something like
 
 ![](https://cdn.discordapp.com/attachments/608376262347587595/608389128903458836/beat_on_launch.png)
 
-After following the Setup instructions make sure your headset is plugged in properly and you are on the same exact wifi, No VPN, Bluestacks or similar programs, and then click
+### After following the Setup instructions make sure your headset is plugged in properly and you are on the same exact wifi, No VPN, Bluestacks or similar programs, and then click
 ![](https://cdn.discordapp.com/attachments/608376262347587595/608391608572051457/Screenshot_1076.png)
 
-and flip the switch on, then click the new button that has appeared
+### and flip the switch on, then click the new button that has appeared
 ![](https://cdn.discordapp.com/attachments/608376262347587595/609093393183932446/Screenshot_1123.png)
 You should then see the below button show up in your bar
 ![](https://cdn.discordapp.com/attachments/608376262347587595/608392290867871756/Screenshot_1077.png)
 
-You can now also install mods
-==============================
 
-Do not use external mods outside of SideQuest and expect them to be compatible,
-most at this time are PC only
-
-So Just head to the![](https://cdn.discordapp.com/attachments/608376262347587595/608392779755683993/Screenshot_1078.png) tab On the left directly in Sidequest and install Beatsaber Mods
-![](https://cdn.discordapp.com/attachments/608376262347587595/609099226160300058/Screenshot_1126.png)
-
-
-To activate or Deactivate Mods from SideQuest follow the below
-![](https://cdn.discordapp.com/attachments/608376262347587595/608394170247413763/Screenshot_1079.png)
-
-Then search for and install the latest of a Mod you want
-
-![](https://cdn.discordapp.com/attachments/608376262347587595/609099705246416911/Screenshot_1127.png)
-
-and head to the Mods tab to enable them
-![](https://cdn.discordapp.com/attachments/608376262347587595/609099688838299678/Screenshot_1128.png)
-
-
-To enable and disable mods you have installed from Beat On in headset, just open Beat On from OculusTV/sidequestTV and open Mods in there.
-
-For installing songs in headset just go to the Browser tab in Beat on, search for a desired song and install them from there, or plug your device in, click ![](https://cdn.discordapp.com/attachments/608376262347587595/608391608572051457/Screenshot_1076.png) in Sidequest, flip it on, click open beat on, and then click Beast Saber, or Beat Saver on the top right bar to find a song, then install them with the Download Zip button, if you wish to install custom song covers make sure the resolution is set to 256x256
-
+----
+To learn more about modes click [Here](https://github.com/the-expanse/SideQuest/wiki/What-are-Mods%3F)
+----
 For any more information feel free to watch the video 
 [here](https://www.youtube.com/watch?v=CPDqrAQWruU&lc=z23ag5ginnfbsl3iq04t1aokgbh5kytwso3tjwfl30kmbk0h00410.1563913415218266) to learn more as well.
