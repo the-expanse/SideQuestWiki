@@ -17,4 +17,4 @@ then go to Beat On Data
 
 ![](https://cdn.discordapp.com/attachments/608376262347587595/610544877754908692/Reload_song_folder_beat_on.png)
 
-Then just add them into and organize them into your playlists and Sync the songs into Beatsaber.
+### Then just add them into and organize them into your playlists and Sync the songs into Beatsaber.
