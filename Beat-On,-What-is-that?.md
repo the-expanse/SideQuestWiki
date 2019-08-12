@@ -45,7 +45,10 @@ You should then see the below button show up in your bar
 
 
 ----
-To learn more about modes click [Here](https://github.com/the-expanse/SideQuest/wiki/What-are-Mods%3F)
+To learn more about Mods click [Here](https://github.com/the-expanse/SideQuest/wiki/What-are-Mods%3F)
 ----
-For any more information feel free to watch the video 
-[here](https://www.youtube.com/watch?v=CPDqrAQWruU&lc=z23ag5ginnfbsl3iq04t1aokgbh5kytwso3tjwfl30kmbk0h00410.1563913415218266) to learn more as well.
+
+
+[![](https://cdn.discordapp.com/attachments/608376262347587595/610247583352487936/Screenshot_1191.png)](https://www.youtube.com/watch?v=CPDqrAQWruU&lc=z23ag5ginnfbsl3iq04t1aokgbh5kytwso3tjwfl30kmbk0h00410.1563913415218266) 
+
+### For any more information feel free to watch the video to learn more as well.
