@@ -1,7 +1,7 @@
-### This generally only occurs with improper installation of Beat on after an update to Beatsaber, make sure you uninstall both of them before anything, and make sure neither of them are on your device before reinstalling Beatsaber and Beat On, if you are having issues uninstalling just go [Here](https://github.com/the-expanse/SideQuest/wiki/.My-apps-won't-uninstall-what's-wrong%3F)
+### Sync saber is an amazing new feature of Beat On that allows you to opt into "packs" and sync many songs at once from the current list, for example if you wanted the top 50 most popular songs but did not want to install by hand each one 1 at a time you would click HOT SONGS  on, set the desired number to the right of it to 50 and click the secondary sync button, a pack called HOT then would appear in your playlist with 50 popular songs which you could then sync into your game , 
 
 
+[![](https://cdn.discordapp.com/attachments/608376262347587595/610247583352487936/Screenshot_1191.png)](https://www.youtube.com/watch?v=CPDqrAQWruU&lc=z23ag5ginnfbsl3iq04t1aokgbh5kytwso3tjwfl30kmbk0h00410.1563913415218266)
 
-### The reason why is that after an update Beatsaber is now on a higher version number then the last saved APK in Beat On, so when it tries to sync your Songs/Mods back in to the freshly updated Beatsaber, it makes the version number no longer match as its APK has now been signed as the previous old version of the game, this causes Oculus system to think Beatsaber is the last version, thus 
-"out of date"
-even though it is not, so clean installing both Beatsaber and Beat On at the same time though SideQuest solves the issue.
+
+### Huge thanks to RaMarcus and Emulamer  for the video, and Beat On respectively
