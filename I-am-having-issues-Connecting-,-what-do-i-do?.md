@@ -43,7 +43,7 @@ Android Emulators
 Your Router
 ----
 
-### Always try to connect directly to the same router as your pc or phone, to minimize issues with Beat On and Beatsaber just install and manage songs in headset to avoid issues with Those two applications specifically 
+### Always try to connect directly to the same router as your PC or phone, to minimize issues with Beat On and Beatsaber just install and manage songs in headset to avoid issues with Those two applications specifically 
 
 If you are having issues with Beat On Only
 ----
@@ -55,7 +55,7 @@ If you are having issues with Beat On Only
 
 ### If all the things above fail to assist you then try the below.
 
-Make sure Sidequest is open before proceeding 
+Make sure SideQuest is open before proceeding 
 =====================
 <!--This next bit will be tricky so make sure to only do it if no other options available work
 
@@ -74,12 +74,12 @@ then look for the same folder (Platform tools) and go into it, copy and paste al
 
 ![](https://cdn.discordapp.com/attachments/608376262347587595/609878697540976827/Screenshot_1162.png)
 
-### and in the window try typing `adb disconnect` and hit enter, then close SideQuest replug your device and reopen SideQuest.
+### and in the window try typing `adb disconnect` and hit enter, then close SideQuest unplug then plug your device back in and reopen SideQuest.
 
 Mac
 ----
 
-### Try to open Terminal and try typing `./adb disconnect` then closing SideQuest, replug your device and reopen SideQuest to connect.
+### Try to open Terminal and try typing `./adb disconnect` then closing SideQuest, unplug then plug your device back in and reopen SideQuest to connect.
 
 
 ### if all of that fails to assist attempt the below
@@ -103,7 +103,7 @@ List of devices attached
 
 ### if you see something like 
 `1SOTGDHHSXXX  unauthorized` 
-### - put on your headset now you should see the message to allow usb debugging - click always allow. 
+### - put on your headset now you should see the message to allow USB debugging - click always allow. 
 
 ### if you see something like 
 `1SOTGDHHSXXX  offline`
