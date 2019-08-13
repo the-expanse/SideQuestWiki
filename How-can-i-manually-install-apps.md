@@ -6,4 +6,4 @@
 
 ![](https://cdn.discordapp.com/attachments/608376262347587595/610234165950021700/Screenshot_1188.png)
 
-### And put the apk and/or OBB inside it, close your explorer, close Sidequest , Reboot your headset and look in unknown sources and the application should appear now 
+### And put the APK and/or OBB inside it, close your explorer, close SideQuest , Reboot your headset and look in unknown sources and the application should appear now 
