@@ -46,7 +46,9 @@
 **PC SideQuest Issues**
 ----
 
-### [Why Can't I Update My Official Oculus Apps](https://github.com/the-expanse/SideQuest/wiki/Why-can't-i-update-my-Official-Oculus-Apps)
+### - [BlueStacks is causing issues, how do i remove it (WINDOWS)](https://github.com/the-expanse/SideQuest/wiki/BlueStacks-is-causing-issues,-how-do-i-remove-it)
+
+### - [Why Can't I Update My Official Oculus Apps](https://github.com/the-expanse/SideQuest/wiki/Why-can't-i-update-my-Official-Oculus-Apps)
 
 ### - [SideQuest Connection issues](https://github.com/the-expanse/SideQuest/wiki/I-am-having-issues-Connecting-,-what-do-i-do%3F)
 
