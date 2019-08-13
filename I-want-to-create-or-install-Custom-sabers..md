@@ -1,9 +1,9 @@
-### Wonderful they are quite fun to both make and use RedBrumbler and Rugtveit have been kind enough to make a guide in an attempt to make it as simple as possible tp get started making your own saber as well as install others thanks to how they have created a centralized area to upload them for easy scanning and searching of Beatsaber Sword skins, just go [Here](https://www.reddit.com/r/OculusQuest/comments/ccg0bi/custom_saber_making_guide/)
+### Wonderful they are quite fun to both make and use RedBrumbler and Rugtveit have been kind enough to make a guide in an attempt to make it as simple as possible to get started making your own saber as well as install others thanks to how they have created a centralized area to upload them for easy scanning and searching of Beatsaber Sword skins, just go [Here](https://www.reddit.com/r/OculusQuest/comments/ccg0bi/custom_saber_making_guide/)
 
 
 ### if you wish to upload your skin, or install some one else's go [Here](https://github.com/RedBrumbler/BeatOnCustomSabers/tree/SaberSubmit/Sabers)
 
-### Then click create a new file, name it your Discord/reddit user name and open it, then click Upload Files to upload the skin ZIP to the list of currently available and functioning Beatsaber Saberskins, any other direct downloads or sabers/mod may be found in the #mods chat
+### Then click create a new file, name it your Discord/Reddit user name and open it, then click Upload Files to upload the skin ZIP to the list of currently available and functioning Beatsaber SaberSkins, any other direct downloads or sabers/mod may be found in the #mods chat
 
 ### When installing mods or zip files with beat on in the upload page
 
