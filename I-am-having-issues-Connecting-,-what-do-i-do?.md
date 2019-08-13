@@ -31,7 +31,7 @@ Antivirus systems
 
 ![](https://cdn.discordapp.com/attachments/608376262347587595/609882817962442752/Screenshot_1165.png)
 
-### Antivirus applications such as AVG, Avast or similar programs can cause issues so try to check if ADB.exe is running, if not see it it has been quarantined by it and tell your antivirus to allow it through.
+### Antivirus applications such as AVG, Avast or similar programs can cause issues so try to check if ADB.exe is running, if not see it it has been Quarantined/Vaulted by it and tell your antivirus to allow it through.
 
 
 Android Emulators
