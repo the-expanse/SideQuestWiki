@@ -49,8 +49,4 @@
 
 ### - [Sidequest Apps aren't installing properly](https://github.com/the-expanse/SideQuest/wiki/SideQuest-isn't-working-properly,-apps-won't-install)
 
-
-### - [An app or mod is not installing from SideQuest,what should i do](https://github.com/the-expanse/SideQuest/wiki/An-App-or-Mod-is-not-installing-from-SideQuest,-what-should-i-do%3F)
-
-
 ### - [Having an issue installing Pavlov](https://github.com/the-expanse/SideQuest/wiki/having-an-issue-installing-Pavlov%3F)
