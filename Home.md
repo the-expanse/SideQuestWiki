@@ -6,12 +6,9 @@
 
 # Welcome to the [SideQuest](https://sidequestvr.com/#/what-is-sidequest) wiki!
 ----
-## Here you can find tons of info on SideQuest including an [**FAQ**](https://github.com/the-expanse/SideQuest/wiki/FAQ) section to help with the most common issues we have seen. Please take some time to search here if you have an issues with SideQuest, apps on SideQuest or Mods for Beat Saber including BeatOn. 
+Here you can find tons of info on SideQuest including an [**FAQ**](https://github.com/the-expanse/SideQuest/wiki/FAQ) section to help with the most common issues we have seen. Please take some time to search here if you have an issues with SideQuest, apps on SideQuest or Mods for Beat Saber including BeatOn. 
 
-### Thanks so much for your continued support, if you feel like you have some pennies to spare to help SideQuest progress as a application feel free to [**Donate Here**](https://www.patreon.com/TheExpanseVR) and we will use those pennies to the best of our abilities in order to pull out the full potential of SideQuest as we strive to make it even better!!
+Thanks so much for your continued support, if you feel like you have some pennies to spare to help SideQuest progress as a application feel free to [**Donate Here**](https://www.patreon.com/TheExpanseVR) and we will use those pennies to the best of our abilities in order to pull out the full potential of SideQuest as we strive to make it even better!!
 
  [![](https://cdn.discordapp.com/attachments/608376262347587595/610251971894706196/Install_SQ_logo.png)](https://sidequestvr.com/#/download)
 
-## SideQuest created and maintained by Shane Harris and the wonderful team who is creating [**The Expanse**](https://theexpanse.app)
-
-![](https://cdn.discordapp.com/attachments/608376262347587595/609908738668888084/Screenshot_424.png)
