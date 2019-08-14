@@ -15,6 +15,19 @@
 ### - [Windows 7 with SideQuest issues](https://github.com/the-expanse/SideQuest/wiki/I-Have-Windows-7,-can-i-use-SideQuest%3F)
 ----
 
+**PC SideQuest Issues**
+----
+
+### - [BlueStacks is causing issues, how do i remove it (WINDOWS)](https://github.com/the-expanse/SideQuest/wiki/BlueStacks-is-causing-issues,-how-do-i-remove-it)
+
+### - [Why Can't I Update My Official Oculus Apps](https://github.com/the-expanse/SideQuest/wiki/Why-can't-i-update-my-Official-Oculus-Apps)
+
+### - [SideQuest Connection issues](https://github.com/the-expanse/SideQuest/wiki/I-am-having-issues-Connecting-,-what-do-i-do%3F)
+
+### - [Sidequest Apps/Mods aren't installing properly](https://github.com/the-expanse/SideQuest/wiki/SideQuest-isn't-working-properly,-apps-won't-install)
+
+### - [Having an issue installing Pavlov](https://github.com/the-expanse/SideQuest/wiki/having-an-issue-installing-Pavlov%3F)
+
 **Beat On / Beatsaber Information And Solutions**
 ----
 
@@ -42,16 +55,3 @@
 
 ### - [Anything else about transferring to Beat On from the old system](https://github.com/the-expanse/SideQuest/wiki/Anything-else-users-should-know-about-installing-Beat-On-from-the-old-system)
 ----
-
-**PC SideQuest Issues**
-----
-
-### - [BlueStacks is causing issues, how do i remove it (WINDOWS)](https://github.com/the-expanse/SideQuest/wiki/BlueStacks-is-causing-issues,-how-do-i-remove-it)
-
-### - [Why Can't I Update My Official Oculus Apps](https://github.com/the-expanse/SideQuest/wiki/Why-can't-i-update-my-Official-Oculus-Apps)
-
-### - [SideQuest Connection issues](https://github.com/the-expanse/SideQuest/wiki/I-am-having-issues-Connecting-,-what-do-i-do%3F)
-
-### - [Sidequest Apps/Mods aren't installing properly](https://github.com/the-expanse/SideQuest/wiki/SideQuest-isn't-working-properly,-apps-won't-install)
-
-### - [Having an issue installing Pavlov](https://github.com/the-expanse/SideQuest/wiki/having-an-issue-installing-Pavlov%3F)
