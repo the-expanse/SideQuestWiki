@@ -35,7 +35,7 @@
 
 ### - [What are Mods](https://github.com/the-expanse/SideQuest/wiki/What-are-Mods%3F)
 
-### - [Creating or installing Custom Saber](https://github.com/the-expanse/SideQuest/wiki/I-want-to-create-or-install-Custom-sabers.)
+### - [Creating or installing Custom Saber/walls Exc](https://github.com/the-expanse/SideQuest/wiki/I-want-to-create-or-install-Custom-sabers.)
 
 ### - [Manually installing Unzipped song folders into Beat On (WINDOWS)](https://github.com/the-expanse/SideQuest/wiki/How-to-manually-upload-Custom-Unzipped-songs-in-Beat-On-(Windows-only))
 
