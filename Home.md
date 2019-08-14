@@ -10,5 +10,5 @@ Here you can find tons of info on SideQuest including an [**FAQ**](https://githu
 
 Thanks so much for your continued support, if you feel like you have some pennies to spare to help SideQuest progress as a application feel free to [**Donate Here**](https://www.patreon.com/TheExpanseVR) and we will use those pennies to the best of our abilities in order to pull out the full potential of SideQuest as we strive to make it even better!!
 
- [![](https://cdn.discordapp.com/attachments/608376262347587595/610251971894706196/Install_SQ_logo.png)](https://sidequestvr.com/#/download)
+# [Install SideQuest](https://sidequestvr.com/#/download)
 
