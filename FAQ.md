@@ -1,7 +1,7 @@
-[Submit Games/Apps](https://github.com/the-expanse/SideQuest/wiki/Submit-Games)
-----
-[SideQuest Setup & How to Install Guide](https://github.com/the-expanse/SideQuest/wiki/SideQuest-Setup-&-How-To-install)
-----
+## [SideQuest Setup & How to Install Guide](https://github.com/the-expanse/SideQuest/wiki/SideQuest-Setup-&-How-To-install)
+
+### [How To Submit Games/Apps/Mods to Sidequest](https://github.com/the-expanse/SideQuest/wiki/Submit-Games)
+
 **Common Device issues and solutions**
 ----
 ### - [Quest apps won't uninstall what's wrong](https://github.com/the-expanse/SideQuest/wiki/.My-apps-won't-uninstall-what's-wrong%3F)
