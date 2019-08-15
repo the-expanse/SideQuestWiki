@@ -1,12 +1,12 @@
-###$ Make sure before anything to use a phone USB cable that can transfer data instead of the cable that comes with your Quest as the cable that comes with the device is not suited for data transfer.
+Make sure before anything to use a phone USB cable that can transfer data instead of the cable that comes with your Quest as the cable that comes with the device is not suited for data transfer.
 
 Step 1: Install SideQuest
 ====================================================
 ### First 
 
- [![](https://cdn.discordapp.com/attachments/608376262347587595/610251971894706196/Install_SQ_logo.png)](https://sidequestvr.com/#/download)
+ [Install SideQuest](https://sidequestvr.com/#/download)
 
-### Then locate your related OS (Windows users use the EXE) and download and install SideQuest, then continue with the steps
+Then locate your related OS (Windows users use the EXE) and download and install SideQuest, then continue with the steps
 Step 2: Create Organization
 ====================================================
 
