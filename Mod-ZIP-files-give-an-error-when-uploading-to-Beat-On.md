@@ -4,6 +4,6 @@ If you're having issues installing a skin or MOD from SideQuests Mods tab try go
 
 
 
-FOR MAC USERS ONLY
+Mac Users
 ----
 When manually installing Mods not From SideQuests MOD tab sometimes when you download a ZIP file and click the stack it auto extracts causing issues and as Beat On only recognizes ZIP folders, so be sure to just open a finder window and navigate to your download folder to use the proper base ZIP folder If you downloaded it from your normal browser, otherwise if you just install them right from SideQuests Mods tab there should be little issue.
