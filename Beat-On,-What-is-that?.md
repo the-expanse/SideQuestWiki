@@ -32,12 +32,8 @@ Make sure to go back and Click Confirm so it registers to your accounts Dashboar
 
 After following the Setup instructions make sure your headset is plugged in properly click ![](https://cdn.discordapp.com/attachments/608376262347587595/608391608572051457/Screenshot_1076.png) in SideQuest
 
-if you have any issues connecting check the Connection Wiki at
+if you have any issues connecting check [here](https://github.com/the-expanse/SideQuest/wiki/I-am-having-issues-Connecting-,-what-do-i-do?).
 
-["Connection Issue Fixes"](https://github.com/the-expanse/SideQuest/wiki/I-am-having-issues-Connecting-,-what-do-i-do?)
-
-
-and flip the switch on, then click the new button that has appeared
 ![](https://cdn.discordapp.com/attachments/608376262347587595/609093393183932446/Screenshot_1123.png)
 You should then see the below button show up in your bar
 ![](https://cdn.discordapp.com/attachments/608376262347587595/608392290867871756/Screenshot_1077.png)
