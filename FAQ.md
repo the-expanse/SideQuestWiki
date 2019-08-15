@@ -4,7 +4,7 @@
 
 **Common Device issues and solutions**
 ----
-[Missing DLLs or .NET Errors](https://github.com/the-expanse/SideQuest/wiki/_new)
+### - [Missing DLLs or .NET Errors](https://github.com/the-expanse/SideQuest/wiki/_new)
 
 ### - [Quest apps won't uninstall what's wrong](https://github.com/the-expanse/SideQuest/wiki/.My-apps-won't-uninstall-what's-wrong%3F)
 
