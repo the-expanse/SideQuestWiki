@@ -137,7 +137,8 @@ Then type `./adb` you should now see something similar to the following:
 
 ```List of devices attached
 
-1SOT********  device```
+1SOT********  device
+```
 
 If you see unauthorized, then you need to put on your headset while it's still connected to your computer and choose `Always Allow`
 This will inform the headset that connections to your computer are okay and allow it to connect properly.
