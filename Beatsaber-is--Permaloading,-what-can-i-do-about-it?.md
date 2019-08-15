@@ -1,6 +1,6 @@
-### If your game of Beatsaber is Perma-loading with the
+If your game of Beatsaber is Perma-loading with the
 
  ![](https://cdn.discordapp.com/attachments/608376262347587595/608578090410704897/3dots.png) 
-### loading screen, try restarting your headset first before anything and reopen Beatsaber, if the issue persists you can attempt to reinstall Beatsaber and restore your songs and mods from Beat On, it should ask to reinstall automatically when you open Beat On in headset under Oculus TV but if it fails to, in Headset under Beat Ons TOOLS tab try clicking the "quick fix" button and it should force restore them.
+loading screen, try restarting your headset first before anything and reopen Beatsaber, if the issue persists you can attempt to reinstall Beatsaber and restore your songs and mods from Beat On, it should ask to reinstall automatically when you open Beat On in headset under Oculus TV but if it fails to, in Headset under Beat Ons TOOLS tab try clicking the "quick fix" button and it should force restore them.
 
-### If you have not installed beat on yet just go [Here](https://sidequestvr.com/#/app/14) and follow the Setup instructions
+If you have not installed beat on yet just go [Here](https://sidequestvr.com/#/app/14) and follow the Setup instructions
