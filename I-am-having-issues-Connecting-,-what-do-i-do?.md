@@ -69,35 +69,25 @@ then look for the same folder (Platform tools) and go into it, copy and paste al
 
 
 
-(Windows)
-----
-Open `Command Prompt`
 
 ![](https://cdn.discordapp.com/attachments/608376262347587595/609878697540976827/Screenshot_1162.png)
 
-In the window type `adb disconnect` and hit enter, then close SideQuest unplug then plug your device back in and reopen SideQuest.
 
-### Mac
-----
+***Windows***: Open `cmd` or Command Prompt. `cd %appdata%\SideQuest\platform-tools\`
 
-Open Terminal and type `./adb disconnect` then closing SideQuest, unplug then plug your device back in and reopen SideQuest to connect.
+***Mac***: Open terminal and type in `cd "~/Library/Application Support/SideQuest/platform-tools"`
 
 
-if all of that fails to assist attempt the below
 
+***Windows***: Type `adb disconnect`.
 
-### Windows
-You have to open `cmd` or Command Prompt. 
+***Mac***: Type `./adb disconnect`.
 
-(If your on mac then click the wrench icon in the top right and click "open adb folder" - then drag this onto a terminal window )
+Then type
 
-Type this
+***Windows***: `adb devices`
 
-`cd %appdata%\SideQuest\platform-tools\`<br>
-
-Then type this
-
-`adb devices`<br>
+***Mac***: `./adb devices`
 
 You should see:
 ```
@@ -117,44 +107,8 @@ If you see something like
 
 Type `adb kill-server` and then `adb devices` again.
 
-If you see
+If you see `cannot connect to daemon` or similar
 
-`cannot connect to daemon`
+***Windows***: Open up task manager and kill the `adb.exe` process or in cmd with `taskkill /f /im adb.exe`
 
-Open up task manager and kill the `adb.exe` process with `taskkill /f /im adb.exe`
-
-
-
-
-
-### Mac 
-Open terminal and type in
-
-`cd "~/Library/Application Support/SideQuest/platform-tools"`
-(The quotes are required)
-
-Then type `./adb` you should now see something similar to the following:
-
-```List of devices attached
-
-1SOT********  device
-```
-
-If you see unauthorized, then you need to put on your headset while it's still connected to your computer and choose `Always Allow`
-This will inform the headset that connections to your computer are okay and allow it to connect properly.
-
-If you see offline then type 
-
-`adb kill-server`
-
-and then 
-
-`adb devices`
-
-
-If you see a message about not being able to connect to daemon or similar language, then:
-
-### Mac
-Run `pkill adb ` in terminal.
-
-After that you can then attempt to restart SideQuest to see if you are properly connected, it might take a moment but it should connect properly now.
+***Mac***: Run `pkill adb ` in terminal.
