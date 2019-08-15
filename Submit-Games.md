@@ -16,7 +16,9 @@ You can then add App urls or use Github Releases ( [Recommended](https://www.you
 
 ![](https://cdn.discordapp.com/attachments/608376262347587595/608598066588680202/Screenshot_1096.png)
 
-[Github Releases Video Tutorial](https://www.youtube.com/watch?v=B0IZv-ljwSI)
+Properly setting up GitHub releases How-To Video
+
+[![](https://cdn.discordapp.com/attachments/608376262347587595/611697801360834600/Screenshot_10.png)](https://www.youtube.com/watch?v=B0IZv-ljwSI)
 
 The Github Release workflow supports an auto-update pipeline for apps on SideQuest - a one time setup allows you to deploy app updates to users automatically when you publish a new release. If you don't use Github Releases you can still leverage the app update pipeline by incrementing the `Version Code` on your listing - this will trigger an update notification in the user's Dashboard. 
 
