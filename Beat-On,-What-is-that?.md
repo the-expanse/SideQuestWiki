@@ -45,4 +45,7 @@ To learn more about Mods click [Here](https://github.com/the-expanse/SideQuest/w
 
 [![](https://cdn.discordapp.com/attachments/608376262347587595/610247583352487936/Screenshot_1191.png)](https://www.youtube.com/watch?v=CPDqrAQWruU&lc=z23ag5ginnfbsl3iq04t1aokgbh5kytwso3tjwfl30kmbk0h00410.1563913415218266) 
 
+
+Following [This link](https://sidequestvr.com/#/app/14) will take you to beat on and clicking install latest top right is another way to install beat on if flipping it on fails to work, you can then find the app in headset under Oculus TV at the bottom of the page, if you have not installed [2D launcher](https://sidequestvr.com/#/app/199) do so, you can also install OculusTV from the official Quest store,
+
 For any more information feel free to watch the video to learn more as well.
