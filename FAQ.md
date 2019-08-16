@@ -55,7 +55,7 @@
 
 ### - [Beatsaber update #.#.#-is out, can i install it?](https://github.com/the-expanse/SideQuest/wiki/Beatsaber-update-%23.%23.%23-is-out,-can-i-install-it%3F)
 
-### - [Beat Saber, How do i get Mods](https://github.com/the-expanse/SideQuest/wiki/How-do-i-get-Beat-Saber-Mods%3F)
+### - [ How to see externally downloaded 2D APK's or Phone  APK's in headset ](https://github.com/the-expanse/SideQuest/wiki/How-to-use-2D-APKs-such-as-phone-Apps-from-outside-of-Sidequest)
 
 ### - [Anything else about transferring to Beat On from the old system](https://github.com/the-expanse/SideQuest/wiki/Anything-else-users-should-know-about-installing-Beat-On-from-the-old-system)
 ----
