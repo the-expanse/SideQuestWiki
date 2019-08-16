@@ -1,5 +1,11 @@
 Mods are bits of code you can install to change or add more to your game or app, for example Custom Saber skins that change your beat sabers to Katanas or axes, or score saber to help you see better how your playing.
 
+For installing songs in headset
+----
+
+Open Beat On in your Quest headset from the OculusTV tab and go to the `Browser` tab in Beat on, there you can search for a desired song and install with the ![](https://cdn.discordapp.com/attachments/608376262347587595/610275673201967145/Screenshot_1200.png) button.
+
+
 Installing Beatsaber Songs
 ----
 In SideQuest, flick the ![](https://cdn.discordapp.com/attachments/608376262347587595/608391608572051457/Screenshot_1076.png) Icon and flip it on while your headset is connected, if not installed click install, after either (whichever you do) make sure your computer as well as your Headset are on the same exact wifi network from the same router, plug your headset in and then click `Open BeatOn` and then Beast Saber (or Beat Saver) on the top right bar to find a song.
@@ -39,10 +45,3 @@ and head to the Mods tab to enable them
 
 
 To enable and disable Mods you have installed from Beat On in headset, just open Beat On from OculusTV/SideQuest-TV and open Mods in there.
-
-For installing songs in headset
-----
-
-Open Beat On in your Quest headset from the OculusTV tab and go to the `Browser` tab in Beat on, there you can search for a desired song and install with the ![](https://cdn.discordapp.com/attachments/608376262347587595/610275673201967145/Screenshot_1200.png) button.
-
-
