@@ -2,7 +2,7 @@ Mods are bits of code you can install to change or add more to your game or app,
 
 Installing Beatsaber Songs
 ----
-In SideQuest, flick the ![](https://cdn.discordapp.com/attachments/608376262347587595/608391608572051457/Screenshot_1076.png) Icon and flip it on while your headset is connected, then click `Open BeatOn` and then Beast Saber, or (Beat Saver) on the top right bar to find a song, then install them with the Download Zip button,
+In SideQuest, flick the ![](https://cdn.discordapp.com/attachments/608376262347587595/608391608572051457/Screenshot_1076.png) Icon and flip it on while your headset is connected, if not installed click install, after either click `Open BeatOn` and then Beast Saber, or (Beat Saver) on the top right bar to find a song, then install them with the Download Zip button,
 
 `if you wish to install custom song covers make sure the resolution is set to 256x256`
 
