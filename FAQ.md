@@ -37,7 +37,7 @@
 
 ### - [About Beat On and how to properly install and enable it](https://github.com/the-expanse/SideQuest/wiki/Beat-On,-What-is-that%3F)
 
-### - [What are Mods](https://github.com/the-expanse/SideQuest/wiki/What-are-Mods%3F)
+### - [How to Install Mods and custom songs through SideQuest](https://github.com/the-expanse/SideQuest/wiki/About-Installing-Mods-and-songs-through-SideQuest)
 
 ### - [Creating or installing Custom Sabers / Walls Colors Exc](https://github.com/the-expanse/SideQuest/wiki/I-want-to-create-or-install-Custom-sabers-wall-colors)
 
