@@ -2,7 +2,7 @@ Mods are bits of code you can install to change or add more to your game or app,
 
 Installing Mods
 ----
-Try to refrain from use of external Mods outside of SideQuests  [![](https://cdn.discordapp.com/attachments/608376262347587595/610263775584714773/Screenshot_1199.png)](https://sidequestvr.com/#/apps/4) Tab as most are incompatible and can be expected to fail, most at this time are PC only
+Try to refrain from use of external Mods outside of SideQuests as some may not be SideQuest compatible and only able to be properly rendered bt PCs  [![](https://cdn.discordapp.com/attachments/608376262347587595/610263775584714773/Screenshot_1199.png)](https://sidequestvr.com/#/apps/4) Tab as most are incompatible and can be expected to fail, most at this time are PC only
 
 To install any Mods Just head to the
 
