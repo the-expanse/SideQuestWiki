@@ -1,4 +1,10 @@
-Beat on is required now as the old patcher has been discontinued is a application separate from from SideQuest, also make sure you install the most recent SideQuest below before installing Beat On. 
+Beat on is required now as the old patcher has been discontinued
+
+![](https://cdn.discordapp.com/attachments/590517701982814210/605207528216985606/Screenshot_993.png)
+
+and is a application Semi separate from from SideQuest that you need to install to download and use Custom songs and Mods, 
+
+Also make sure you are on and install the most recent SideQuest below before installing Beat On. 
 
 [Install SideQuest](https://sidequestvr.com/#/download)
 
