@@ -39,7 +39,7 @@ You should then see the below button show up in your bar
 ![](https://cdn.discordapp.com/attachments/608376262347587595/608392290867871756/Screenshot_1077.png)
 
 
-To learn more about Mods click [Here](https://github.com/the-expanse/SideQuest/wiki/What-are-Mods?)
+To learn more about Mods click [Here](https://github.com/the-expanse/SideQuest/wiki/About-Installing-Mods-and-songs-through-SideQuest)
 
 
 
