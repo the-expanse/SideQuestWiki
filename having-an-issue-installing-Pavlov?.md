@@ -6,7 +6,7 @@ Mac users will also need to go to the  [PAVLOV DISCORD](https://discord.gg/wE5Zq
 
 Make sure you have the most recent Folder for PavLov from the [PAVLOV DISCORD](https://discord.gg/wE5ZqBB)
 
-that is usually an issue people overlook so be sure uninstall the old version from SideQuests "My Apps" tab if you have it installed already before you download and unzip the newest Pavlov folder.
+that is usually an issue people overlook, Be sure uninstall the old version from SideQuests "My Apps" tab if you have PavLov installed already prior to you download and unzipping the newest Pavlov folder.
 
 ![](https://cdn.discordapp.com/attachments/608376262347587595/608756299177656320/extract_drivers.png)
 
