@@ -3,7 +3,8 @@ Having connection issues? First things to try
 
 The simple things to check are
 
-ALL the setup steps
+
+The main setup steps for installing SideQuest
 ---
 
 Making sure you have done every one of the 6 
