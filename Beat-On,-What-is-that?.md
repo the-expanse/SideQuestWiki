@@ -38,6 +38,9 @@ Make sure to go back and Click Confirm so it registers to your accounts Dashboar
 
 After following the Setup instructions located under the Beat On `Install latest` button make sure your headset is plugged in properly click ![](https://cdn.discordapp.com/attachments/608376262347587595/608391608572051457/Screenshot_1076.png) in SideQuest
 
+After installation it will appear in Oculus TV at the very bottom of the page as you scroll down be sure to launch it first time in headset if you have any issues connecting to Sidequest.
+
+
 if you have any issues connecting check [HERE](https://github.com/the-expanse/SideQuest/wiki/I-am-having-issues-Connecting-,-what-do-i-do%3F)
 
 ![](https://cdn.discordapp.com/attachments/608376262347587595/609093393183932446/Screenshot_1123.png)
