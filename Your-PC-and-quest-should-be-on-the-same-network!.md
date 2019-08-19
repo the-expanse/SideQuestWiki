@@ -1,6 +1,6 @@
 If you get the error
 
-`Your PC and quest should be on the same network! Try to Ping your Quest IP address. Http failure response for http://192.168.2.91:50000/host/mod/status: 0 Unknown Error`
+#### `Your PC and quest should be on the same network! Try to Ping your Quest IP address. Http failure response for http://192.168.2.91:50000/host/mod/status: 0 Unknown Error`
 
 And can not seem to ever see the `Open BeatOn` to allow it to connect Beat On to your PC, try clicking Beat On off and on once more and attempt to install a song again, if this fails you can try uninstalling Beat On and SideQuest before reinstalling them after making sure you have the most recent SideQuest, and try once more, if the issue persists try to do as it suggests and Ping your Headset, to do so just follow the link [HERE](https://www.lifewire.com/how-to-ping-computer-or-website-818405) for how to ping your headset, For network assistance go [HERE](https://www.makeuseof.com/tag/7-simple-steps-diagnose-network-problem/) to find more information on troubleshooting general network problems.
 
