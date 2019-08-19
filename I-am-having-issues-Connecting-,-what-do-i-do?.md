@@ -1,4 +1,4 @@
-## Having connection issues? First things to try
+# Having connection issues? First things to try
 
 
 If you are having issues with Beat On Only
