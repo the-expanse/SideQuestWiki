@@ -22,7 +22,7 @@ plug your headset in, then Open SideQuest, then on the top bar hit this icon
 
 If that fails to work you can try manually installing Beat On by Plugging your headset in and following the steps below
 
-First Click the link below to go to beat On's install page.
+First Click the Beat On link icon below to go to beat On's install page.
 
  [![](https://cdn.discordapp.com/attachments/608376262347587595/610258661109006347/Screenshot_1198.png)](https://sidequestvr.com/#/app/14)
 
