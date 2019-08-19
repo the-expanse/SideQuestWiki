@@ -28,7 +28,7 @@ First Click the link below to go to beat On's install page.
 
 
 
-then proceed to click install latest on the upper right of the page before doing the below
+Then proceed to click install latest on the upper right of the page before doing the below
 
 ![](https://cdn.discordapp.com/attachments/608376262347587595/608385232768335899/Screenshot_1072.png)
 
@@ -36,7 +36,7 @@ then proceed to click install latest on the upper right of the page before doing
 Make sure to go back and Click Confirm so it registers to your accounts Dashboard you have installed Beat On properly.
 
 
-After following the Setup instructions make sure your headset is plugged in properly click ![](https://cdn.discordapp.com/attachments/608376262347587595/608391608572051457/Screenshot_1076.png) in SideQuest
+After following the Setup instructions located under the Beat On `Install latest` button make sure your headset is plugged in properly click ![](https://cdn.discordapp.com/attachments/608376262347587595/608391608572051457/Screenshot_1076.png) in SideQuest
 
 if you have any issues connecting check [HERE](https://github.com/the-expanse/SideQuest/wiki/I-am-having-issues-Connecting-,-what-do-i-do%3F)
 
