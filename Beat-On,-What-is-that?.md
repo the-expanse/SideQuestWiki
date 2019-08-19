@@ -13,7 +13,9 @@ Beat On is an additional program for Beatsaber that makes custom song and Mod ma
 After installation of Side Quest if you do not have a [2D launcher](https://sidequestvr.com/#/app/199) installed into your headset, Beat On will only appear in OculusTV, Make sure Beat On is open in headset when you want to use any Beat On features from your PC in SideQuest you can once again find it in OculusTV, or in the 2D APP launcher found in unknown sources.
 
 
-To install Beat On plug your headset in, Open SideQuest and on the top bar hit this icon 
+To install Beat On plug your headset in
+----
+Open SideQuest and on the top bar hit this icon 
 
 ![](https://cdn.discordapp.com/attachments/608376262347587595/608391608572051457/Screenshot_1076.png)
 
