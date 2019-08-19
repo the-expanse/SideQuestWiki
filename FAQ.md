@@ -4,6 +4,9 @@
 
 **Common Device issues and solutions**
 ----
+
+### - [Your PC and quest should be on the same network!](https://github.com/the-expanse/SideQuest/wiki/Your-PC-and-quest-should-be-on-the-same-network!)
+
 ### - [Missing DLLs or .NET Errors](https://github.com/the-expanse/SideQuest/wiki/Have-a-.NET-Error-or-a-missing-.DLL-(Windows-8))
 
 ### - [Quest apps won't uninstall what's wrong](https://github.com/the-expanse/SideQuest/wiki/.My-apps-won't-uninstall-what's-wrong%3F)
