@@ -15,9 +15,11 @@ After installation of Side Quest if you do not have a [2D launcher](https://side
 
 To install Beat On
 ----
-plug your headset in, then Open SideQuest, then on the top bar hit this icon 
+you can go about it two ways, 1 plug your headset in, then Open SideQuest, then on the top bar hit this icon 
 
 ![](https://cdn.discordapp.com/attachments/608376262347587595/608391608572051457/Screenshot_1076.png)
+
+Then proceed to follow through by flipping it on and clicking `install Beaton`
 
 
 If that fails to work you can try manually installing Beat On by Plugging your headset in and following the steps below
