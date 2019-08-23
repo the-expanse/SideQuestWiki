@@ -1,6 +1,6 @@
 ## [SideQuest Setup & How to Install Guide](https://github.com/the-expanse/SideQuest/wiki/SideQuest-Setup-&-How-To-install)
 
-### [How To Submit Games/Apps/Mods to Sidequest](https://github.com/the-expanse/SideQuest/wiki/Submit-Games)
+### [How To Submit Games/Apps/Mods to Sidequest](https://github.com/the-expanse/SideQuest/wiki/How-To-Submit-Games)
 
 **Common Device issues and solutions**
 ----
