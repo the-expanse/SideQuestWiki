@@ -5,4 +5,4 @@ Menu
 [Website](https://sidequestvr.com) <br>
 [Patreon](https://www.patreon.com/TheExpanseVR) <br>
 [Paypal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=744A6C394Q8JG&source=url) <br>
-[Submit Games](https://github.com/the-expanse/SideQuest/wiki/Submit-Games) <br>
+[Submit Games](https://github.com/the-expanse/SideQuest/wiki/How-To-Submit-Games) <br>
