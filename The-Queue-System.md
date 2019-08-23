@@ -1,5 +1,13 @@
 The Queue System is a way for you to install many things at once without seeing the old pesky giant circle loading screen as an app or song installs, you can access the Queue list from here.
 
+If you get an error like below
+
+![](https://cdn.discordapp.com/attachments/608376262347587595/614606619606515727/Screenshot_48.png)
+
+Check your Queue tab carefully to make sure it didn't download twice in a row, as if a song game or mod is already installed it may fail because it is already there, otherwise check your wifi, or try to unplug your headset, restart SideQuest, then replug your headset once more before attempting again
+
+### General information About The Queue System
+
 ![](https://cdn.discordapp.com/attachments/608376262347587595/610175016126119947/Screenshot_1182.png)
 
 Though this Example is empty here, you can install a few things and it will start populating.
