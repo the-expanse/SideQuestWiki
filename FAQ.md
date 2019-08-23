@@ -42,6 +42,8 @@
 
 ### - [How to Install Mods and custom songs through SideQuest](https://github.com/the-expanse/SideQuest/wiki/About-Installing-Mods-and-songs-through-SideQuest)
 
+### - [Can i install songs Wirelessly with Beat On, but from my PC](https://github.com/the-expanse/SideQuest/wiki/Can-i-install-songs-Wireless-with-Beat-On,-but-from-my-PC%3F)
+
 ### - [Creating or installing Custom Sabers / Walls Colors Exc](https://github.com/the-expanse/SideQuest/wiki/I-want-to-create-or-install-Custom-sabers-wall-colors)
 
 ### - [Manually installing Unzipped song folders into Beat On (WINDOWS)](https://github.com/the-expanse/SideQuest/wiki/How-to-manually-upload-Custom-Unzipped-songs-in-Beat-On-(Windows-only))
