@@ -1,0 +1,4 @@
+Absolutely, all you need to do is make sure beat on is open in your headset, that your headset is not asleep, and that you are on the same Wi-Fi connection.
+if you have issues connecting with Beat On check [HERE](https://github.com/the-expanse/SideQuest/wiki/Your-PC-and-quest-should-be-on-the-same-network) if you have yet to install Beat On and/or do not know how or are having issues doing so, go [HERE](https://github.com/the-expanse/SideQuest/wiki/Beat-On,-What-is-that%3F)
+
+if all is working as need be, your songs should appear in the [Queue System](https://github.com/the-expanse/SideQuest/wiki/The-Queue-System) and show immediatly in you "playlists" section inside Beat On in both Headset, and on the PC/Tablet you installed it with.
