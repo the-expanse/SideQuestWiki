@@ -38,7 +38,7 @@
 **Beat On / Beatsaber Information And Solutions**
 ----
 
-### - [About Beat On and how to properly install and enable it](https://github.com/the-expanse/SideQuest/wiki/Beat-On,-What-is-that%3F)
+### - [About Beat On and how to properly install and enable it](https://github.com/the-expanse/SideQuest/wiki/Beat-On,-What-is-that-and-how-do-i-install-it)
 
 ### - [How to Install Mods and custom songs through SideQuest](https://github.com/the-expanse/SideQuest/wiki/About-Installing-Mods-and-songs-through-SideQuest)
 
