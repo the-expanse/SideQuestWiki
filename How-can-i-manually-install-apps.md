@@ -1,4 +1,4 @@
-Make sure SideQuest is open and connected, then go into your file browser and locate the Quest or Go, proceed to locate the Android folder where all the other applications are stored and open DATA, located here.
+Make sure SideQuest is open and connected and you have installed the [2D Launcher](https://sidequestvr.com/#/app/199), then go into your file browser and locate the Quest or Go, proceed to locate the Android folder where all the other applications are stored and open DATA, located here.
 
 ![](https://cdn.discordapp.com/attachments/608376262347587595/610233472748879892/Screenshot_1187.png)
 
