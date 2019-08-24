@@ -1,6 +1,6 @@
 Mods are bits of code you can install to change or add more to your game or app, for example Custom Saber skins that change your beat sabers to Katanas or axes, or score saber to help you see better how your playing.
 
-For song installation check [HERE](https://github.com/the-expanse/SideQuest/wiki/How-to-install-Custom-Songs)
+#### For song installation check [HERE](https://github.com/the-expanse/SideQuest/wiki/How-to-install-Custom-Songs)
 
 Installing Mods
 ----
