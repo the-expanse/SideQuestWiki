@@ -1,6 +1,6 @@
 ![](https://cdn.discordapp.com/attachments/608376262347587595/612334810072875166/Screenshot_993.png)
 
-Beat on is required now as the old patcher has been discontinued and is a application Semi separate from SideQuest so you need to install it to your headset as well in order to download and use Custom songs and Mods, 
+Beat on is required now as the old patcher has been discontinued and is a application Semi separate from SideQuest so you need to install it to your headset as well in order to download and use Custom songs and Mods from SideQuest, songs can still be managed in SideQuest, but it can now be done with or without wires so long as Beat On is opened and linked in headset to SideQuest on the same Wifi network.
 
 Also make sure you are on and install the most recent SideQuest below before installing Beat On. 
 
