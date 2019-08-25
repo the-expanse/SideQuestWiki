@@ -2,6 +2,7 @@
 
 ### [How To Submit Games/Apps/Mods to Sidequest](https://github.com/the-expanse/SideQuest/wiki/How-To-Submit-Games)
 
+### [How to Auto Update Installed Apps and mods in SideQuest](https://github.com/the-expanse/SideQuest/wiki/How-to-Auto-Update-app's-and-mods)
 **Common Device issues and solutions**
 ----
 
