@@ -58,7 +58,7 @@ Now it's time to connect the USB cable. Once you are connected you will have to 
 
 if it dose not appear and you are on windows, be sure to try the .EXE installer top instead of the ZIP folder, 
 
-then make sure to select 'Always allow from this computer' to prevent this message from coming up every time you connect 
+For Mac, use the Zip indead of the DMG else use the DMG instead of the ZIP depending on what you tried as your Mac may not have processed one of the two properly and may work better with the alternative, beyond that for connection issues, check [HERE](https://github.com/the-expanse/SideQuest/wiki/I-am-having-issues-Connecting-,-what-do-i-do%3F) after you are connected properly make sure to select 'Always allow from this computer' within your headset while still plugged in to your PC to prevent this message from coming up every time you connect and you should be ready to install Apps,Games and Mods.
 
 Step 6: Install App Launcher
 ====================================================
