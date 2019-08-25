@@ -5,7 +5,8 @@ Step 1: Install SideQuest
 
  [Install SideQuest](https://sidequestvr.com/#/download)
 
-Then locate your related OS (Windows users use the EXE) and download and install SideQuest, then continue with the steps
+Be sure to head to the link above and locate your related OS (Windows users use the .EXE, Mac the DMG)
+to download and install SideQuest before you continue with these steps.
 
 
 Step 2: Create Organization
