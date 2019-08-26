@@ -50,7 +50,7 @@
 #### - [I want to install PavLov, how do i because dragging and dropping the OBB and APK isn't working installing Pavlov](https://github.com/the-expanse/SideQuest/wiki/having-an-issue-installing-Pavlov%3F)
 
 ----
-**Beat On / Beatsaber Information And Solutions**
+**Beat On/Beatsaber Information And Solutions**
 ----
 ----
 
@@ -64,17 +64,23 @@
 
 #### - [How can i Manually installing Unzipped song folders into Beat On (WINDOWS)](https://github.com/the-expanse/SideQuest/wiki/How-to-manually-upload-Custom-Unzipped-songs-in-Beat-On-(Windows-only))
 
-#### - [Why do Mod ZIP files give me an error when uploading to Beat On](https://github.com/the-expanse/SideQuest/wiki/Mod-ZIP-files-give-an-error-when-uploading-to-Beat-On)
+#### - [What is Sync Saber](https://github.com/the-expanse/SideQuest/wiki/What-is-Sync-Saber)
+
+#### - [Beatsaber update #.#.#-is out, can i install it](https://github.com/the-expanse/SideQuest/wiki/Beatsaber-update-%23.%23.%23-is-out,-can-i-install-it%3F)
+
+**Beat On/Beatsaber Issues And Solutions**
+----
+----
+
+#### - [Beatsaber keeps asking me to update it even after i have updated it, how do i fix this](https://github.com/the-expanse/SideQuest/wiki/Beatsaber-asking-to-update-after-updating%3F)
 
 #### - [Why are Beat On Songs are skipping in the Queue](https://github.com/the-expanse/SideQuest/wiki/Beat-On-songs-are-skipping-in-the-install-Queue)
 
-#### - [What is Sync Saber](https://github.com/the-expanse/SideQuest/wiki/What-is-Sync-Saber)
-
-#### - [Beatsaber asking to update after updating, how do i fix it](https://github.com/the-expanse/SideQuest/wiki/Beatsaber-asking-to-update-after-updating%3F)
-
 #### - [Beatsaber is Permaloading, What can i do about it](https://github.com/the-expanse/SideQuest/wiki/Beatsaber-is--Permaloading,-what-can-i-do-about-it%3F)
 
-#### - [Beatsaber update #.#.#-is out, can i install it](https://github.com/the-expanse/SideQuest/wiki/Beatsaber-update-%23.%23.%23-is-out,-can-i-install-it%3F)
+#### - [Why do Mod or Song ZIP files give me an error when uploading to Beat On in it's Upload Tab](https://github.com/the-expanse/SideQuest/wiki/Mod-ZIP-files-give-an-error-when-uploading-to-Beat-On)
+
+
 
 #### - [Anything else about transferring to Beat On from the old system](https://github.com/the-expanse/SideQuest/wiki/Anything-else-users-should-know-about-installing-Beat-On-from-the-old-system)
 ----
