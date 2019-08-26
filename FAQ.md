@@ -7,7 +7,7 @@
 ----
 ### - [Error: Your PC and quest should be on the same network!](https://github.com/the-expanse/SideQuest/wiki/Your-PC-and-quest-should-be-on-the-same-network!)
 
-### - [Error: System.ArgumentNullException: Value cannot be null(https://github.com/the-expanse/SideQuest/wiki/System.ArgumentNullException:-Value-cannot-be-null.)
+### - [Error: System.ArgumentNullException: Value cannot be null](https://github.com/the-expanse/SideQuest/wiki/System.ArgumentNullException:-Value-cannot-be-null.)
 
 ### - [Error: Missing DLLs or .NET ](https://github.com/the-expanse/SideQuest/wiki/Have-a-.NET-Error-or-a-missing-.DLL-(Windows-8))
 
