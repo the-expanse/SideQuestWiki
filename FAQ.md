@@ -22,6 +22,7 @@
 **Common issues and solutions**
 ----
 ----
+#### - [Why Can't I Update My Official Oculus Apps](https://github.com/the-expanse/SideQuest/wiki/Why-can't-i-update-my-Official-Oculus-Apps)
 
 #### - [Quest apps won't uninstall what's wrong](https://github.com/the-expanse/SideQuest/wiki/.My-apps-won't-uninstall-what's-wrong%3F)
 
@@ -40,8 +41,6 @@
 ----
 ----
 #### - [BlueStacks is causing issues, how do i remove it (WINDOWS)](https://github.com/the-expanse/SideQuest/wiki/BlueStacks-is-causing-issues,-how-do-i-remove-it)
-
-#### - [Why Can't I Update My Official Oculus Apps](https://github.com/the-expanse/SideQuest/wiki/Why-can't-i-update-my-Official-Oculus-Apps)
 
 #### - [I'm having SideQuest Connection issues, are there solutions](https://github.com/the-expanse/SideQuest/wiki/I-am-having-issues-Connecting-,-what-do-i-do%3F)
 
