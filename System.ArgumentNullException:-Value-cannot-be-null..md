@@ -1,0 +1,2 @@
+Your SideQuest is out of date, please install the latest SideQuest [HERE](https://sidequestvr.com/#/download) 
+and then proceed to [HERE](https://github.com/the-expanse/SideQuest/wiki/Beat-On,-What-is-that-and-how-do-i-install-it) to learn how to now use, install and mod Songs,saber skins and such into Beat Saber, for any connection issues trying to install songs with the new system check [Beat On Connection Issues](https://github.com/the-expanse/SideQuest/wiki/Your-PC-and-quest-should-be-on-the-same-network!) and proceed to follow it's instructions. 
