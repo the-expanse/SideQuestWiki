@@ -5,10 +5,13 @@
 ### [How to Auto Update Installed Apps and mods in SideQuest](https://github.com/the-expanse/SideQuest/wiki/How-to-Auto-Update-app's-and-mods)
 **Common Device issues and solutions**
 ----
+### - [Error: Your PC and quest should be on the same network!](https://github.com/the-expanse/SideQuest/wiki/Your-PC-and-quest-should-be-on-the-same-network!)
 
-### - [Your PC and quest should be on the same network!](https://github.com/the-expanse/SideQuest/wiki/Your-PC-and-quest-should-be-on-the-same-network!)
+### - [Error: System.ArgumentNullException: Value cannot be null(https://github.com/the-expanse/SideQuest/wiki/System.ArgumentNullException:-Value-cannot-be-null.)
 
-### - [Missing DLLs or .NET Errors](https://github.com/the-expanse/SideQuest/wiki/Have-a-.NET-Error-or-a-missing-.DLL-(Windows-8))
+### - [Error: Missing DLLs or .NET ](https://github.com/the-expanse/SideQuest/wiki/Have-a-.NET-Error-or-a-missing-.DLL-(Windows-8))
+
+### - [Error: Some tasks failed. See the tasks screen for more info](https://github.com/the-expanse/SideQuest/wiki/The-Queue-System)
 
 ### - [Quest apps won't uninstall what's wrong](https://github.com/the-expanse/SideQuest/wiki/.My-apps-won't-uninstall-what's-wrong%3F)
 
@@ -17,6 +20,7 @@
 ### - [How to install Custom songs with SideQuest](https://github.com/the-expanse/SideQuest/wiki/How-to-install-Custom-Songs)
 
 ### - [About the Queue system](https://github.com/the-expanse/SideQuest/wiki/The-Queue-System)
+
 
 ### - [Manual APK installation](https://github.com/the-expanse/SideQuest/wiki/How-can-i-manually-install-apps)
 
@@ -34,7 +38,7 @@
 
 ### - [Sidequest Apps/Mods aren't installing properly](https://github.com/the-expanse/SideQuest/wiki/SideQuest-isn't-working-properly,-apps-won't-install)
 
-### - [Having an issue installing Pavlov](https://github.com/the-expanse/SideQuest/wiki/having-an-issue-installing-Pavlov%3F)
+### - [an installing Pavlov](https://github.com/the-expanse/SideQuest/wiki/having-an-issue-installing-Pavlov%3F)
 
 **Beat On / Beatsaber Information And Solutions**
 ----
