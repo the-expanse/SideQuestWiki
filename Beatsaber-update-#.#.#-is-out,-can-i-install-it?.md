@@ -1,4 +1,4 @@
-You absolutely can. You just need to go to the Apps tab in SideQuest click here
+For either updating, or getting properly installed you require a clean install of a Purchased Beatsaber copy from the official Oculus store, next for either updating or correctly installing Beat On You just need to go to the Apps tab in SideQuest click here
 
 ![](https://cdn.discordapp.com/attachments/608376262347587595/608407563263803396/Screenshot_1081.png)
 
@@ -10,20 +10,20 @@ Then go to BeatSabers settings
 
 
 
-and click Backup Game Data
+and if you have played the game and wish to save your Scores/Campaign progress click Backup Game Data
 
 ![](https://cdn.discordapp.com/attachments/608376262347587595/608409252272406607/backups.png)
 
 
-
-This saves your scores and such, after that then uninstall Beatsaber with the Uninstall button
+This saves your scores and such,
+after that uninstall Beatsaber with the `Uninstall` button as seen below
 
 ![](https://cdn.discordapp.com/attachments/608376262347587595/608405621741715487/Uninstall.png)
 
 
 
 
-After uninstalling Beatsaber Back out and uninstall Beat On as well
+After uninstalling Beatsaber Back out and uninstall Beat On as well from `My Apps` to make sure it is removed properly
 
 ![](https://cdn.discordapp.com/attachments/608376262347587595/608398315914133520/Screenshot_1080.png)
 
