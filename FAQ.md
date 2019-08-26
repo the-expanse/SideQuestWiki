@@ -66,7 +66,7 @@
 
 #### - [What is Sync Saber](https://github.com/the-expanse/SideQuest/wiki/What-is-Sync-Saber)
 
-#### - [Beatsaber update #.#.#-is out, can i install it](https://github.com/the-expanse/SideQuest/wiki/Beatsaber-update-%23.%23.%23-is-out,-can-i-install-it%3F)
+#### - [Beatsaber update #.#.#-is out, can i install it](https://github.com/the-expanse/SideQuest/wiki/Installing-Beatsabers-updates--Fixing-%22App-X-not-installed%22-beat-on-error)
 
 **Beat On/Beatsaber Issues And Solutions**
 ----
@@ -76,7 +76,7 @@
 
 #### - [Why are Beat On Songs are skipping in the Queue](https://github.com/the-expanse/SideQuest/wiki/Beat-On-songs-are-skipping-in-the-install-Queue)
 
-#### - [Beat on in Sidequest keeps saying i have not installed Beatsaber/Beat On](https://github.com/the-expanse/SideQuest/wiki/Beatsaber-update-%23.%23.%23-is-out,-can-i-install-it%3F)
+#### - [Beat on in Sidequest keeps saying i have not installed Beatsaber/Beat On](https://github.com/the-expanse/SideQuest/wiki/Installing-Beatsabers-updates--Fixing-%22App-X-not-installed%22-beat-on-error)
 
 #### - [Beatsaber is Permaloading, What can i do about it](https://github.com/the-expanse/SideQuest/wiki/Beatsaber-is--Permaloading,-what-can-i-do-about-it%3F)
 
