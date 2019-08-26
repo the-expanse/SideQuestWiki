@@ -35,6 +35,7 @@
 #### - [How do i Manual install APKs obtained outside of SideQuest](https://github.com/the-expanse/SideQuest/wiki/How-can-i-manually-install-apps)
 
 #### - [i have Windows 7, can i use SideQuest](https://github.com/the-expanse/SideQuest/wiki/I-Have-Windows-7,-can-i-use-SideQuest%3F)
+#### - [ Where can i find externally downloaded APKs in my headset](https://github.com/the-expanse/SideQuest/wiki/How-to-use-2D-APKs-such-as-phone-Apps-from-outside-of-Sidequest)
 
 ----
 **PC SideQuest Issues**
@@ -74,8 +75,6 @@
 #### - [Beatsaber is Permaloading, What can i do about it](https://github.com/the-expanse/SideQuest/wiki/Beatsaber-is--Permaloading,-what-can-i-do-about-it%3F)
 
 #### - [Beatsaber update #.#.#-is out, can i install it](https://github.com/the-expanse/SideQuest/wiki/Beatsaber-update-%23.%23.%23-is-out,-can-i-install-it%3F)
-
-#### - [ How can i see externally downloaded 2D APKs or Phone  APKs in my headset](https://github.com/the-expanse/SideQuest/wiki/How-to-use-2D-APKs-such-as-phone-Apps-from-outside-of-Sidequest)
 
 #### - [Anything else about transferring to Beat On from the old system](https://github.com/the-expanse/SideQuest/wiki/Anything-else-users-should-know-about-installing-Beat-On-from-the-old-system)
 ----
