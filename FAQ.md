@@ -1,75 +1,82 @@
-## [SideQuest Setup & How to Install Guide](https://github.com/the-expanse/SideQuest/wiki/SideQuest-Setup-&-How-To-install)
+# [SideQuest Setup & How to Install Guide](https://github.com/the-expanse/SideQuest/wiki/SideQuest-Setup-&-How-To-install)
 
-### [How To Submit Games/Apps/Mods to Sidequest](https://github.com/the-expanse/SideQuest/wiki/How-To-Submit-Games)
 
-### [How to Auto Update Installed Apps and mods in SideQuest](https://github.com/the-expanse/SideQuest/wiki/How-to-Auto-Update-app's-and-mods)
+#### [How To Submit Games/Apps/Mods to Sidequest](https://github.com/the-expanse/SideQuest/wiki/How-To-Submit-Games)
 
+#### [How to Auto Update Installed Apps and mods in SideQuest](https://github.com/the-expanse/SideQuest/wiki/How-to-Auto-Update-app's-and-mods)
+
+----
 **Errors and Fixes or information**
 ----
-### - [Error: Your PC and quest should be on the same network!](https://github.com/the-expanse/SideQuest/wiki/Your-PC-and-quest-should-be-on-the-same-network!)
+----
 
-### - [Error: System.ArgumentNullException: Value cannot be null](https://github.com/the-expanse/SideQuest/wiki/System.ArgumentNullException:-Value-cannot-be-null.)
+#### - [Error: Your PC and quest should be on the same network!](https://github.com/the-expanse/SideQuest/wiki/Your-PC-and-quest-should-be-on-the-same-network!)
 
-### - [Error: Missing DLLs or .NET ](https://github.com/the-expanse/SideQuest/wiki/Have-a-.NET-Error-or-a-missing-.DLL-(Windows-8))
+#### - [Error: System.ArgumentNullException: Value cannot be null](https://github.com/the-expanse/SideQuest/wiki/System.ArgumentNullException:-Value-cannot-be-null.)
 
-### - [Error: Some tasks failed. See the tasks screen for more info](https://github.com/the-expanse/SideQuest/wiki/The-Queue-System)
+#### - [Error: Missing DLLs or .NET ](https://github.com/the-expanse/SideQuest/wiki/Have-a-.NET-Error-or-a-missing-.DLL-(Windows-8))
 
+#### - [Error: Some tasks failed. See the tasks screen for more info](https://github.com/the-expanse/SideQuest/wiki/The-Queue-System)
+
+----
 **Common issues and solutions**
 ----
-
-### - [Quest apps won't uninstall what's wrong](https://github.com/the-expanse/SideQuest/wiki/.My-apps-won't-uninstall-what's-wrong%3F)
-
-### - [This Quest update breaking games, what do i do](https://github.com/the-expanse/SideQuest/wiki/Quest-update-breaking-games%3F)
-
-### - [How do i install Custom songs with SideQuest and Beat On](https://github.com/the-expanse/SideQuest/wiki/How-to-install-Custom-Songs)
-
-### - [What is the Queue system](https://github.com/the-expanse/SideQuest/wiki/The-Queue-System)
-
-
-### - [How do i Manual install APKs obtained outside of SideQuest](https://github.com/the-expanse/SideQuest/wiki/How-can-i-manually-install-apps)
-
-### - [i have Windows 7, can i use SideQuest](https://github.com/the-expanse/SideQuest/wiki/I-Have-Windows-7,-can-i-use-SideQuest%3F)
 ----
 
+#### - [Quest apps won't uninstall what's wrong](https://github.com/the-expanse/SideQuest/wiki/.My-apps-won't-uninstall-what's-wrong%3F)
+
+#### - [This Quest update breaking games, what do i do](https://github.com/the-expanse/SideQuest/wiki/Quest-update-breaking-games%3F)
+
+#### - [How do i install Custom songs with SideQuest and Beat On](https://github.com/the-expanse/SideQuest/wiki/How-to-install-Custom-Songs)
+
+#### - [What is the Queue system](https://github.com/the-expanse/SideQuest/wiki/The-Queue-System)
+
+#### - [How do i Manual install APKs obtained outside of SideQuest](https://github.com/the-expanse/SideQuest/wiki/How-can-i-manually-install-apps)
+
+#### - [i have Windows 7, can i use SideQuest](https://github.com/the-expanse/SideQuest/wiki/I-Have-Windows-7,-can-i-use-SideQuest%3F)
+
+----
 **PC SideQuest Issues**
 ----
+----
+#### - [BlueStacks is causing issues, how do i remove it (WINDOWS)](https://github.com/the-expanse/SideQuest/wiki/BlueStacks-is-causing-issues,-how-do-i-remove-it)
 
-### - [BlueStacks is causing issues, how do i remove it (WINDOWS)](https://github.com/the-expanse/SideQuest/wiki/BlueStacks-is-causing-issues,-how-do-i-remove-it)
+#### - [Why Can't I Update My Official Oculus Apps](https://github.com/the-expanse/SideQuest/wiki/Why-can't-i-update-my-Official-Oculus-Apps)
 
-### - [Why Can't I Update My Official Oculus Apps](https://github.com/the-expanse/SideQuest/wiki/Why-can't-i-update-my-Official-Oculus-Apps)
+#### - [I'm having SideQuest Connection issues, are there solutions](https://github.com/the-expanse/SideQuest/wiki/I-am-having-issues-Connecting-,-what-do-i-do%3F)
 
-### - [I'm having SideQuest Connection issues, are there solutions](https://github.com/the-expanse/SideQuest/wiki/I-am-having-issues-Connecting-,-what-do-i-do%3F)
+#### - [SideQuest Apps/Mods aren't installing properly, how can i fix it?](https://github.com/the-expanse/SideQuest/wiki/SideQuest-isn't-working-properly,-apps-won't-install)
 
-### - [Sidequest Apps/Mods aren't installing properly, how can i fix it?](https://github.com/the-expanse/SideQuest/wiki/SideQuest-isn't-working-properly,-apps-won't-install)
+#### - [I want to install PavLov, how do i because dragging and dropping the OBB and APK isn't working installing Pavlov](https://github.com/the-expanse/SideQuest/wiki/having-an-issue-installing-Pavlov%3F)
 
-### - [I want to install PavLov, how do i because dragging and dropping the OBB and APK isn't working installing Pavlov](https://github.com/the-expanse/SideQuest/wiki/having-an-issue-installing-Pavlov%3F)
-
+----
 **Beat On / Beatsaber Information And Solutions**
 ----
+----
 
-### - [I need to know about Beat On and how to properly install and enable it, how do i do that](https://github.com/the-expanse/SideQuest/wiki/Beat-On,-What-is-that-and-how-do-i-install-it)
+#### - [About Beat On and how to properly install and enable it so you can play custom songs](https://github.com/the-expanse/SideQuest/wiki/Beat-On,-What-is-that-and-how-do-i-install-it)
 
-### - [How do i Install Mods and custom songs through SideQuest](https://github.com/the-expanse/SideQuest/wiki/About-Installing-Mods-and-songs-through-SideQuest)
+#### - [How do i Install Mods and custom songs through SideQuest](https://github.com/the-expanse/SideQuest/wiki/About-Installing-Mods-and-songs-through-SideQuest)
 
-### - [Can i install songs Wirelessly with Beat On, but from my PC](https://github.com/the-expanse/SideQuest/wiki/Can-i-install-songs-Wireless-with-Beat-On,-but-from-my-PC%3F)
+#### - [Can i install songs Wirelessly with Beat On, but from my PC](https://github.com/the-expanse/SideQuest/wiki/Can-i-install-songs-Wireless-with-Beat-On,-but-from-my-PC%3F)
 
-### - [How do i go about Creating or installing Custom Sabers / Walls Colors Exc](https://github.com/the-expanse/SideQuest/wiki/I-want-to-create-or-install-Custom-sabers-wall-colors)
+#### - [How do i go about Creating or installing Custom Sabers / Walls Colors Exc](https://github.com/the-expanse/SideQuest/wiki/I-want-to-create-or-install-Custom-sabers-wall-colors)
 
-### - [How can i Manually installing Unzipped song folders into Beat On (WINDOWS)](https://github.com/the-expanse/SideQuest/wiki/How-to-manually-upload-Custom-Unzipped-songs-in-Beat-On-(Windows-only))
+#### - [How can i Manually installing Unzipped song folders into Beat On (WINDOWS)](https://github.com/the-expanse/SideQuest/wiki/How-to-manually-upload-Custom-Unzipped-songs-in-Beat-On-(Windows-only))
 
-### - [Why do Mod ZIP files give me an error when uploading to Beat On](https://github.com/the-expanse/SideQuest/wiki/Mod-ZIP-files-give-an-error-when-uploading-to-Beat-On)
+#### - [Why do Mod ZIP files give me an error when uploading to Beat On](https://github.com/the-expanse/SideQuest/wiki/Mod-ZIP-files-give-an-error-when-uploading-to-Beat-On)
 
-### - [Why are Beat On Songs are skipping in the Queue](https://github.com/the-expanse/SideQuest/wiki/Beat-On-songs-are-skipping-in-the-install-Queue)
+#### - [Why are Beat On Songs are skipping in the Queue](https://github.com/the-expanse/SideQuest/wiki/Beat-On-songs-are-skipping-in-the-install-Queue)
 
-### - [What is Sync Saber](https://github.com/the-expanse/SideQuest/wiki/What-is-Sync-Saber)
+#### - [What is Sync Saber](https://github.com/the-expanse/SideQuest/wiki/What-is-Sync-Saber)
 
-### - [Beatsaber asking to update after updating, how do i fix it](https://github.com/the-expanse/SideQuest/wiki/Beatsaber-asking-to-update-after-updating%3F)
+#### - [Beatsaber asking to update after updating, how do i fix it](https://github.com/the-expanse/SideQuest/wiki/Beatsaber-asking-to-update-after-updating%3F)
 
-### - [Beatsaber is Permaloading, What can i do about it](https://github.com/the-expanse/SideQuest/wiki/Beatsaber-is--Permaloading,-what-can-i-do-about-it%3F)
+#### - [Beatsaber is Permaloading, What can i do about it](https://github.com/the-expanse/SideQuest/wiki/Beatsaber-is--Permaloading,-what-can-i-do-about-it%3F)
 
-### - [Beatsaber update #.#.#-is out, can i install it](https://github.com/the-expanse/SideQuest/wiki/Beatsaber-update-%23.%23.%23-is-out,-can-i-install-it%3F)
+#### - [Beatsaber update #.#.#-is out, can i install it](https://github.com/the-expanse/SideQuest/wiki/Beatsaber-update-%23.%23.%23-is-out,-can-i-install-it%3F)
 
-### - [ How can i see externally downloaded 2D APKs or Phone  APKs in my headset](https://github.com/the-expanse/SideQuest/wiki/How-to-use-2D-APKs-such-as-phone-Apps-from-outside-of-Sidequest)
+#### - [ How can i see externally downloaded 2D APKs or Phone  APKs in my headset](https://github.com/the-expanse/SideQuest/wiki/How-to-use-2D-APKs-such-as-phone-Apps-from-outside-of-Sidequest)
 
-### - [Anything else about transferring to Beat On from the old system](https://github.com/the-expanse/SideQuest/wiki/Anything-else-users-should-know-about-installing-Beat-On-from-the-old-system)
+#### - [Anything else about transferring to Beat On from the old system](https://github.com/the-expanse/SideQuest/wiki/Anything-else-users-should-know-about-installing-Beat-On-from-the-old-system)
 ----
