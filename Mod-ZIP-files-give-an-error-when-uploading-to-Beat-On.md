@@ -1,6 +1,6 @@
 Be aware that PC mods are NOT compatible with Quest at this time
 
-If you're having issues installing a skin or MOD from SideQuests Mods tab try going to it's GitHub URL and installing the ZIP to your PC and head to Beat Ons Upload tab in SideQuest, then try clicking on the white Upload button and selecting the file you want to upload from your PC in your file explorer, that some times fixes the issue, otherwise you can ask for assistance in the discord if need be.
+If you're having issues installing a skin or MOD from SideQuests Mods tab try going to it's GitHub URL or alternative version of the Mod or Song and installing the ZIP to your PC before you head back to to BeatOn's Upload tab in SideQuest, then try clicking on the white Upload button and selecting the file you want to upload from your PC in your file explorer manually instead of dragging and dropping it, that some times fixes the issue, otherwise you can ask for assistance in the discord if need be.
 
 
 
