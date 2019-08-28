@@ -6,6 +6,19 @@
 #### [How to Auto Update Installed Apps and mods in SideQuest](https://github.com/the-expanse/SideQuest/wiki/How-to-Auto-Update-app's-and-mods)
 
 ----
+**Detailed Installation Procedures**
+----
+----
+
+#### - [How do i install Custom songs with SideQuest and Beat On](https://github.com/the-expanse/SideQuest/wiki/How-to-install-Custom-Songs)
+
+#### - [I want to install PavLov, how do i because dragging and dropping the OBB and APK isn't working installing Pavlov](https://github.com/the-expanse/SideQuest/wiki/having-an-issue-installing-Pavlov%3F)
+
+#### - [How do i Manual install APKs obtained outside of SideQuest](https://github.com/the-expanse/SideQuest/wiki/How-can-i-manually-install-apps)
+
+#### - [i have Windows 7, can i use SideQuest](https://github.com/the-expanse/SideQuest/wiki/I-Have-Windows-7,-can-i-use-SideQuest%3F)
+
+----
 **Errors and Fixes or information**
 ----
 ----
@@ -22,6 +35,8 @@
 
 #### - [BeatOn Error: Mod/Song ZIPs fail somehow when installing using Beat Ons Upload Tab](https://github.com/the-expanse/SideQuest/wiki/Mod-ZIP-files-give-an-error-when-uploading-to-Beat-On)
 
+#### - [BeatOn Error: Beatsaber asking me to update even after being updated](https://github.com/the-expanse/SideQuest/wiki/Beatsaber-asking-to-update-after-updating%3F)
+
 
 ----
 **Common issues and solutions**
@@ -33,13 +48,9 @@
 
 #### - [This Quest update breaking games, what do i do](https://github.com/the-expanse/SideQuest/wiki/Quest-update-breaking-games%3F)
 
-#### - [How do i install Custom songs with SideQuest and Beat On](https://github.com/the-expanse/SideQuest/wiki/How-to-install-Custom-Songs)
-
 #### - [What is the Queue system](https://github.com/the-expanse/SideQuest/wiki/The-Queue-System)
 
-#### - [How do i Manual install APKs obtained outside of SideQuest](https://github.com/the-expanse/SideQuest/wiki/How-can-i-manually-install-apps)
 
-#### - [i have Windows 7, can i use SideQuest](https://github.com/the-expanse/SideQuest/wiki/I-Have-Windows-7,-can-i-use-SideQuest%3F)
 #### - [ Where can i find externally downloaded APKs in my headset](https://github.com/the-expanse/SideQuest/wiki/How-to-use-2D-APKs-such-as-phone-Apps-from-outside-of-Sidequest)
 
 ----
@@ -52,18 +63,14 @@
 
 #### - [SideQuest Apps/Mods aren't installing properly, how can i fix it?](https://github.com/the-expanse/SideQuest/wiki/SideQuest-isn't-working-properly,-apps-won't-install)
 
-#### - [I want to install PavLov, how do i because dragging and dropping the OBB and APK isn't working installing Pavlov](https://github.com/the-expanse/SideQuest/wiki/having-an-issue-installing-Pavlov%3F)
-
 ----
-**Beat On/Beatsaber Information And Solutions**
+**Beat On/Beatsaber Installation How-Tos And Solutions**
 ----
 ----
 
 #### - [About Beat On and how to properly install and enable it so you can play custom songs](https://github.com/the-expanse/SideQuest/wiki/Beat-On,-What-is-that-and-how-do-i-install-it)
 
 #### - [How do i Install Mods and custom songs through SideQuest](https://github.com/the-expanse/SideQuest/wiki/About-Installing-Mods-and-songs-through-SideQuest)
-
-#### - [Can i install songs Wirelessly with Beat On, but from my PC](https://github.com/the-expanse/SideQuest/wiki/Can-i-install-songs-Wireless-with-Beat-On,-but-from-my-PC%3F)
 
 #### - [How do i go about Creating or installing Custom Sabers / Walls Colors Exc](https://github.com/the-expanse/SideQuest/wiki/I-want-to-create-or-install-Custom-sabers-wall-colors)
 
@@ -72,12 +79,6 @@
 #### - [What is Sync Saber](https://github.com/the-expanse/SideQuest/wiki/What-is-Sync-Saber)
 
 #### - [Beatsaber update #.#.#-is out, can i install it](https://github.com/the-expanse/SideQuest/wiki/Installing-Beatsabers-updates--Fixing-%22App-X-not-installed%22-beat-on-error)
-
-**Beat On/Beatsaber Issues And Solutions**
-----
-----
-
-#### - [Beatsaber keeps asking me to update it even after i have updated it, how do i fix this](https://github.com/the-expanse/SideQuest/wiki/Beatsaber-asking-to-update-after-updating%3F)
 
 #### - [Why are Beat On Songs are skipping in the Queue](https://github.com/the-expanse/SideQuest/wiki/Beat-On-songs-are-skipping-in-the-install-Queue)
 
