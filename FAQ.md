@@ -10,13 +10,18 @@
 ----
 ----
 
-#### - [Error: Your PC and quest should be on the same network!](https://github.com/the-expanse/SideQuest/wiki/Your-PC-and-quest-should-be-on-the-same-network!)
+#### - [SideQuest Error: Your PC and quest should be on the same network!](https://github.com/the-expanse/SideQuest/wiki/Your-PC-and-quest-should-be-on-the-same-network!)
 
-#### - [Error: System.ArgumentNullException: Value cannot be null](https://github.com/the-expanse/SideQuest/wiki/System.ArgumentNullException:-Value-cannot-be-null.)
+#### - [SideQuest Error: System.ArgumentNullException: Value cannot be null](https://github.com/the-expanse/SideQuest/wiki/System.ArgumentNullException:-Value-cannot-be-null.)
 
-#### - [Error: Missing DLLs or .NET ](https://github.com/the-expanse/SideQuest/wiki/Have-a-.NET-Error-or-a-missing-.DLL-(Windows-8))
+#### - [Error: Some tasks fail to Load](https://github.com/the-expanse/SideQuest/wiki/The-Queue-System)
 
-#### - [Error: Some tasks failed. See the tasks screen for more info](https://github.com/the-expanse/SideQuest/wiki/The-Queue-System)
+#### - [SideQuest Error: Missing DLLs or .NET ](https://github.com/the-expanse/SideQuest/wiki/Have-a-.NET-Error-or-a-missing-.DLL-(Windows-8))
+
+#### - [SideQuest Error: Some tasks failed. See the tasks screen for more info](https://github.com/the-expanse/SideQuest/wiki/The-Queue-System)
+
+#### - [BeatOn Error: Mod/Song ZIPs fail somehow when installing using Beat Ons Upload Tab](https://github.com/the-expanse/SideQuest/wiki/Mod-ZIP-files-give-an-error-when-uploading-to-Beat-On)
+
 
 ----
 **Common issues and solutions**
@@ -79,10 +84,6 @@
 #### - [Beat on in Sidequest keeps saying i have not installed Beatsaber/Beat On](https://github.com/the-expanse/SideQuest/wiki/Installing-Beatsabers-updates--Fixing-%22App-X-not-installed%22-beat-on-error)
 
 #### - [Beatsaber is Permaloading, What can i do about it](https://github.com/the-expanse/SideQuest/wiki/Beatsaber-is--Permaloading,-what-can-i-do-about-it%3F)
-
-#### - [Why do Mod or Song ZIP files give me an error when uploading to Beat On in it's Upload Tab](https://github.com/the-expanse/SideQuest/wiki/Mod-ZIP-files-give-an-error-when-uploading-to-Beat-On)
-
-
 
 #### - [Anything else about transferring to Beat On from the old system](https://github.com/the-expanse/SideQuest/wiki/Anything-else-users-should-know-about-installing-Beat-On-from-the-old-system)
 ----
