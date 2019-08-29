@@ -1,4 +1,4 @@
-This generally only occurs with improper installation of Beat on after an update to Beatsaber and will keep doing so until beat on it's self receives an update, after words make sure you uninstall both of them before anything, and make sure neither of them are on your device before reinstalling Beatsaber and Beat On, if you are having issues uninstalling just go [HERE](https://github.com/the-expanse/SideQuest/wiki/.My-apps-won't-uninstall-what's-wrong%3F)
+This generally only occurs with improper installation of Beat on after an update to Beatsaber and will keep doing so until beat on it's self receives an update, after Beat On is updated to accommodate the new BeatSaber update make sure you uninstall both of them before anything, and make sure neither of them are on your device before reinstalling Beatsaber and Beat On, if you are having issues uninstalling just go [HERE](https://github.com/the-expanse/SideQuest/wiki/.My-apps-won't-uninstall-what's-wrong%3F)
 
 For more explicit instructions on how to update click [HERE](https://github.com/the-expanse/SideQuest/wiki/Beatsaber-update-%23.%23.%23-is-out,-can-i-install-it%3F)
 
