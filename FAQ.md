@@ -70,7 +70,7 @@
 
 #### - [About Beat On and how to properly install and enable it so you can play custom songs](https://github.com/the-expanse/SideQuest/wiki/Beat-On,-What-is-that-and-how-do-i-install-it)
 
-### - [Beatsaber keeps Random crashes minimizing mid song](https://github.com/the-expanse/SideQuest/wiki/Beatsaber-keeps-Random-crashes-minimizing-mid-song)
+### - [Beatsaber keeps Randomly crashing minimizing mid song](https://github.com/the-expanse/SideQuest/wiki/Beatsaber-keeps-Random-crashes-minimizing-mid-song)
 
 #### - [How do i Install Mods and custom songs through SideQuest](https://github.com/the-expanse/SideQuest/wiki/About-Installing-Mods-and-songs-through-SideQuest)
 
