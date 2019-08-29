@@ -6,7 +6,9 @@
 
 # Welcome to the [SideQuest](https://sidequestvr.com/#/what-is-sidequest) wiki!
 ----
-Here you can find tons of info on SideQuest including an [**FAQ**](https://github.com/the-expanse/SideQuest/wiki/FAQ) section to help with the most common issues we have seen. Please take some time to search here if you have an issues with SideQuest, apps on SideQuest or Mods for Beat Saber including BeatOn. 
+Here you can find tons of info on SideQuest including an [**FAQ**](https://github.com/the-expanse/SideQuest/wiki/FAQ) section to help with the most common issues we have seen. Please take some time to search here if you have an issues with SideQuest its self or with Apps or Mods from or for BeatOn.
+
+We also have a growing [Reddit](https://www.reddit.com/r/sidequest/) comminity, so feel free to look into us over there if you are interested in keeping up with the most recent SideQuest or VR news from us.
 
 Thanks so much for your continued support. If you need help and cant find the answer here please come and say hello on [discord](https://discord.gg/HNnDPSu). 
 
