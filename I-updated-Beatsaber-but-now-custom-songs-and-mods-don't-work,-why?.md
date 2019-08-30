@@ -8,8 +8,7 @@ Locate your Beatsaber Backups
 
 then proceed to drag the APK into SideQuest here
 
-https://cdn.discordapp.com/attachments/615234075778875453/616918237824942080/dragdropheretosidequest.png
-
+![](https://cdn.discordapp.com/attachments/615234075778875453/616918237824942080/dragdropheretosidequest.png)
 After it is installed, reset your headset and run beat on to make sure it works properly, else run quick fix in Beat Ons settings and try again, beyond that if it fails it would be best to await a Beat On update, uninstall BeatSaber and just update your game, and play the vanilla songs until BeatOn is running once again, you can check for updates in your user DASHBOARD within SideQuest when logged in, as shown below
 
 ![](https://cdn.discordapp.com/attachments/615234075778875453/616920236863520779/Screenshot_88.png)
