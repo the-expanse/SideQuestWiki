@@ -64,18 +64,10 @@ Always try to connect directly to the same router as your PC or phone, to minimi
 
 If all the things above fail to assist you then try the below.
 
-Make sure SideQuest is open before proceeding 
+### Make sure SideQuest is open before proceeding
+
+How-To use commands to force boot or reset ADB for connection (Windows or Mac)
 =====================
-<!--This next bit will be tricky so make sure to only do it if no other options available work
-
-if you're still having issues with ADB try the below
-
-[Entire ADB folder](https://dl.google.com/android/repository/platform-tools-latest-windows.zip)
-
-Just unzip this, then in sidequest head to settings and click open main app folder
-then look for the same folder (Platform tools) and go into it, copy and paste all the files and folders from this into it and click replace all, then reboot sidequest.-->
-
-
 
 
 ![](https://cdn.discordapp.com/attachments/608376262347587595/609878697540976827/Screenshot_1162.png)
@@ -120,3 +112,17 @@ If you see `cannot connect to daemon` or similar
 ***Windows***: Open up task manager and kill the `adb.exe` process or in cmd with `taskkill /f /im adb.exe`
 
 ***Mac***: Run `pkill adb ` in terminal.
+
+Failing that, 
+
+This is only for windows, Also make sure to only do it if no other options available work and if you are still having issues with ADB try the below
+
+Install the below Folder
+
+[Entire ADB folder](https://dl.google.com/android/repository/platform-tools-latest-windows.zip)
+
+then proceed to unzip it,
+if you do not know how to, check google for how to unzip a folder for your version of windows,
+then in SideQuest head to settings
+Then at the top of the page click `Open Main App` folder and proceed to look for the (Platform tools) Folder
+Open it, make sure to close SideQuest, then delete everything in that folder before you then copy and paste all the files and folders from the installed unzipped folder into it and click replace all, when finished  reboot SideQuest and try once more.
