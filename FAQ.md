@@ -74,6 +74,8 @@
 
 #### - [How do i Install Mods and custom songs through SideQuest](https://github.com/the-expanse/SideQuest/wiki/About-Installing-Mods-and-songs-through-SideQuest)
 
+#### - [I updated BeatSaber and now custom songs and mods don't work, what can i do?](https://github.com/the-expanse/SideQuest/wiki/I-updated-Beatsaber-but-now-custom-songs-and-mods-don't-work,-why%3F)
+
 #### - [How do i go about Creating or installing Custom Sabers / Walls Colors Exc](https://github.com/the-expanse/SideQuest/wiki/I-want-to-create-or-install-Custom-sabers-wall-colors)
 
 #### - [How can i Manually installing Unzipped song folders into Beat On (WINDOWS)](https://github.com/the-expanse/SideQuest/wiki/How-to-manually-upload-Custom-Unzipped-songs-in-Beat-On-(Windows-only))
