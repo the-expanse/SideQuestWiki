@@ -22,7 +22,7 @@ Making sure you have done every one of the 6
 Re:Toggle Dev mode
 ----
 
-Some times something goes awry when you initially set things up, after trying the install steps more then once, or reinstalling or updating SideQuest so in your Oculus Application in your phone, try to disable, then re enable Developer mode in settings while your phone is connected Via Bluetooth to your Headset
+Some times something goes awry when you initially set things up, after trying the install steps more then once, or reinstalling or updating SideQuest so in your Oculus Application in your phone, try to disable it, turn your headset off then back on and then re enable Developer mode in settings while your phone is connected Via Bluetooth to your Headset
 
 
 A different cord
