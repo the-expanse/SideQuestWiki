@@ -1,8 +1,9 @@
-Apologies This generally only occurs with improper installation of Beat on after an update to Beatsaber, or because Beat On has yet to get updated to accommodate the new Beatsaber patch, it is suggested to wait for Beat On to be updated before installing any update to Beatsaber if you wish to continue playing and using your custom songs and mods at all as most times they will not function at all with most updates to Beatsaber, the system will continue to ask you to update annoyingly but just ignore it doing so until Beat On its self receives an update, of which you can find in SideQuests user DASHBOARD located below after creating an account and logging in
+Apologies This generally only occurs with improper installation of Beat on after an update to Beatsaber, or because Beat On has yet to get updated to accommodate the new Beatsaber patch, it is suggested to wait for Beat On to be updated before installing any update to Beatsaber if you wish to continue playing and using your custom songs and mods at all as most times they will not function whatsoever directly after BeatSaber updates, the system may continue to ask you to update so just ignore it doing so until Beat On its self receives an update, of which you can find in SideQuests user DASHBOARD located below after creating an account and logging in
 
 ![](https://cdn.discordapp.com/attachments/581519549027844106/616763372603572414/Dashboard_zoomed.png)
 
-#### Weather you are Updating, or getting properly installed 
+
+#### Updating, or getting properly installed 
 
 For doing either of these you require a proper clean install of your legally Purchased Beatsaber copy from the official Oculus store, next for updating/installing Beat On You just need to go to the Apps tab in SideQuest click here
 
