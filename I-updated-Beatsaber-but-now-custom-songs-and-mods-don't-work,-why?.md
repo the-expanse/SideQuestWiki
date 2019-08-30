@@ -15,8 +15,7 @@ After it is installed, reset your headset and run beat on to make sure it works 
 
 Alternatively Beat On has it's own backup system, you can locate a backup of the last APK it was functional with here
 
-![](https://cdn.discordapp.com/attachments/615234075778875453/617055720571142156/Screenshot_90.png)
-
+![](https://cdn.discordapp.com/attachments/615234075778875453/617055951014592542/Screenshot_90.png)
 Just use that instead if you have not made a local backup to SideQuest
 
 
