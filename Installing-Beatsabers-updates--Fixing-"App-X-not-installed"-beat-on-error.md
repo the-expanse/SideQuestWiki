@@ -3,7 +3,7 @@ Apologies This generally only occurs with improper installation of Beat on after
 ![](https://cdn.discordapp.com/attachments/581519549027844106/616763372603572414/Dashboard_zoomed.png)
 
 
-#### Updating after Beat On get's an update, or getting properly installed 
+### Updating after Beat On get's an update, or getting properly installed 
 
 For doing either of these you require a proper clean install of your legally Purchased Beatsaber copy from the official Oculus store, next for updating/installing Beat On You just need to go to the Apps tab in SideQuest click here
 
