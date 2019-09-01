@@ -40,7 +40,7 @@ NO VPN
 
 if your it, using Bluestacks, NOX or a Wifi Extenders of any kind can lead to problems as well, so be sure to disable VPN services of any kind when using SideQuest, best to refrain from them as they are all known to cause issues for SideQuest
 
-## [How to properly uninstalling BlueStacks](https://github.com/the-expanse/SideQuest/wiki/BlueStacks-is-causing-issues,-how-do-i-remove-it)
+## [How to properly uninstall BlueStacks](https://github.com/the-expanse/SideQuest/wiki/BlueStacks-is-causing-issues,-how-do-i-remove-it)
 
 Antivirus systems
 ----
