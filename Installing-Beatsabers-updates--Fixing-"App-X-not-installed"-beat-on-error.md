@@ -17,13 +17,14 @@ Then go to BeatSabers settings
 
 
 
-and if you have played the game and wish to save your Scores/Campaign progress click Backup Game Data
+If you have played the game and wish to try and save your Scores/Campaign progress click Backup Game Data
 
 ![](https://cdn.discordapp.com/attachments/608376262347587595/608409252272406607/backups.png)
 
 
-This saves your scores and such,
-after that uninstall Beatsaber with the `Uninstall` button as seen below
+This saves your scores and such, though some times there are issues bringing them up with the update and the scors may be found to be incompatible so be warned.
+
+After doing that, uninstall Beatsaber with the `Uninstall` button as seen below
 
 ![](https://cdn.discordapp.com/attachments/608376262347587595/608405621741715487/Uninstall.png)
 
