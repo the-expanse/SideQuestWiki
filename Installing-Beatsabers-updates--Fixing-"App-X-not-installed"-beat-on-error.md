@@ -51,4 +51,6 @@ Your playlist and songs will ask to be restored automatically upon launch of Bea
 
 If you don't see the (save game data button) and only see (Save SD card data) you are on an old version of SideQuest, be sure to update SideQuest from [Here](https://sidequestvr.com/#/setup-howto), if there are any issues afterwards make sure to try heading to Beat On in your headset under Oculus TV again  and go to tools to try clicking "QuickFix", 
 
-If issues continue to persist join the [Discord](https://discord.me/sidequestvr) and ask around, someone there may be able to assist you
+If issues continue to persist check the Reddit version [HERE](https://www.reddit.com/r/sidequest/comments/cxxwqi/how_to_update_beatonbeatsaber/) 
+
+or join the [Discord](https://discord.me/sidequestvr) and ask around, someone there may be able to assist you
