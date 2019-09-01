@@ -18,4 +18,4 @@ Just drag and drop it into the desired pack and click the Glowing ![](https://cd
 
 If you have anymore issues feel free to visit the [DISCORD](https://discord.me/sidequestvr) and ask for assistance, someone will try to help as soon as they have a moment to spare.
 
-### For Mods installation click [HERE](https://github.com/the-expanse/SideQuest/wiki/How-to-install-Custom-Songs)
+### For Mods installation click [HERE](https://github.com/the-expanse/SideQuest/wiki/About-Installing-Mods-and-songs-through-SideQuest)
