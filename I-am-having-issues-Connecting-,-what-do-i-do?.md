@@ -113,7 +113,8 @@ If you see `cannot connect to daemon` or similar
 
 ***Mac***: Run `pkill adb ` in terminal.
 
-Failing that, 
+Failing the above 
+----
 
 This is only for windows, Also make sure to only do it if no other options available work and if you are still having issues with ADB try the below
 
