@@ -61,7 +61,7 @@ Always try to connect directly to the same router as your PC or phone, to minimi
 
 Your Computer
 ----
-Next thing to try is unplugging your headset and turning your PC off completely to make sure all processes of ADB as well as any conflicting processes cease, make sure you do not `Reboot`, turn the computer completely off and wait a few seconds, then turn it back on before re opening SideQuest and trying once more.
+Next thing to try is unplugging your headset and turning your PC off completely to make sure all processes of ADB as well as any conflicting processes cease, make sure you do not `Reboot`, turn the computer completely off and wait a few seconds, also reboot your headset now to be sure both systems are prepped, then turn your PC back on before re opening SideQuest and trying once more to try connecting again.
 
 
 If all the things above fail to assist you then try the below.
