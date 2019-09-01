@@ -41,9 +41,9 @@ then proceed to reinstall Beatsaber from the oculus store and Beat On from
  [![](https://cdn.discordapp.com/attachments/608376262347587595/610258661109006347/Screenshot_1198.png)](https://sidequestvr.com/#/app/14) 
 
 
-After reinstalling everything DO NOT patch from PC, you can some times get it to work but the more assured way to patch with no issues is in headset by just Launching Beat On under Oculus TV, scrolling down and Open Beat On then leting it patch your Beatsaber game from there, your playlist and songs will ask to be restored automatically upon launch of Beat On after reinstalling it and Beatsaber, for updating from beatsaber 0.2 it is suggested to not agree, try a test song and see if it works alone by installing it new and then syncing the song to your BeatSaber game, if it succeds you can attempt to restore your songs utilizing the `Quckfix` function in Beat On's tools tab, however this is ill suggested as it may cause issues and if it dose so you will have to start the process over from the start once more.
+After reinstalling everything DO NOT patch from PC, you can some times get it to work but the more assured way to patch with no issues is in headset by just Launching Beat On under Oculus TV, scrolling down and Open Beat On then letting it patch your Beatsaber game from there, your playlist and songs will ask to be restored automatically upon launch of Beat On after reinstalling it and Beatsaber, for updating from beatsaber 0.2 it is suggested to not agree, try a test song and see if it works alone by installing it new and then syncing the song to your BeatSaber game, if it succeeds you can attempt to restore your songs utilizing the `Quckfix` function in Beat On's tools tab, `HOWEVER` this is ill suggested as it may cause issues and if it dose so you will have to delete Beat On data from your device before you start the process over from the start once more.
 
-When Beat On is done patching Beatsaber you can then retrieve your player data from here
+When Beat On is done patching Beatsaber you should then be able to retrieve your player data from here
 
 ![](https://cdn.discordapp.com/attachments/608376262347587595/608410316706938900/backups.png)
 
