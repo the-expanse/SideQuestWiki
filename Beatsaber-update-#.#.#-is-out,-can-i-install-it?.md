@@ -1,4 +1,6 @@
-During updates because Beat On has yet to get updated to accommodate the new Beatsaber patch, it is suggested to wait for Beat On to be updated before installing any update to Beatsaber if you wish to continue playing and using your custom songs and mods at all as most times they will not function at all with most updates to Beatsaber, the system will continue to ask you to update annoyingly but just ignore it doing so until Beat On its self receives an update, of which you can find in SideQuests user DASHBOARD found below after logging in
+During updates because Beat On has yet to get updated to accommodate the new Beatsaber patch,
+it is suggested to wait for Beat On to be updated before installing any update to Beatsaber if you wish to continue playing and using your custom songs and mods at all as most times they will not function whatsoever with updates to Beatsaber until Beat On is patched as well, the system will continue to ask you to update but if you wish to be sure not to loose your ability to install and play with custom materials you can choose to ignore it until Beat On its self receives an update, 
+when it dose so which you can find in SideQuests after [MAKING A USER ACCOUNT](https://sidequestvr.com/#/login) logging into it and heading to your DASHBOARD as seen below after logging in.
 
 ![](https://cdn.discordapp.com/attachments/581519549027844106/616763372603572414/Dashboard_zoomed.png)
 
