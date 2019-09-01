@@ -27,4 +27,4 @@ and head to the Mods tab to enable them
 ![](https://cdn.discordapp.com/attachments/608376262347587595/609099688838299678/Screenshot_1128.png)
 
 
-To enable and disable Mods you have installed from Beat On in headset, just open Beat On from OculusTV/SideQuest-TV and open Mods in there.
+To enable and disable Mods you have installed from Beat On in headset, just open Beat On from OculusTV/SideQuest-TV and open Mods in there, after doing so sync to beatsaber and launch the game, you now should have mods when playing songs.
