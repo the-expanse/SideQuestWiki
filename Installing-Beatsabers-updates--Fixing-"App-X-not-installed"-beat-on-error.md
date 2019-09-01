@@ -22,7 +22,7 @@ If you have played the game and wish to try and save your Scores/Campaign progre
 ![](https://cdn.discordapp.com/attachments/608376262347587595/608409252272406607/backups.png)
 
 
-This saves your scores and such, though some times there are issues bringing them up with the update and the scors may be found to be incompatible so be warned.
+This saves your scores and such, though some times there may be issues bringing them up with the update and the scores may be found to be incompatible so be warned.
 
 After doing that, uninstall Beatsaber with the `Uninstall` button as seen below
 
@@ -37,7 +37,7 @@ After uninstalling Beatsaber Back out and uninstall Beat On as well from `My App
 
 
 
-then proceed to reinstall Beatsaber from the oculus store and Beat On from
+Then proceed to reinstall Beatsaber from the Oculus store and Beat On from
 
  [![](https://cdn.discordapp.com/attachments/608376262347587595/610258661109006347/Screenshot_1198.png)](https://sidequestvr.com/#/app/14) 
 
