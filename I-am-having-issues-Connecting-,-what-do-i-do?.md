@@ -59,6 +59,10 @@ Your Router
 
 Always try to connect directly to the same router as your PC or phone, to minimize issues with Beat On and Beatsaber just install and manage songs in headset to avoid issues with Those two applications specifically 
 
+Your Computer
+----
+Next thing to try is unplugging your headset and turning your PC off completely to make sure all processes of ADBas well as any conflicting processes cease, make sure you do not `Reboot`, turn the computer completely off and wait a few seconds, then turn it back on before re opening SideQuest and trying once more.
+
 
 If all the things above fail to assist you then try the below.
 
