@@ -11,7 +11,7 @@ If you are having issues with Beat On Only
 
 if not, the most common things to check are
 
-Re:Toggle Dev mode
+Re:Toggle and Reset Dev mode
 ----
 
 Some times we forget we disabled it for some reason, always good to check, also very rarely there is a glitch causing somthing to goes awry when you initially set things up, after trying the install steps more then once, or reinstalling or updating SideQuest so in your Oculus Application in your phone try to dis and re enable it, if you turn it off and you suddenly connect it is an error with the application thinking on is of and off is on, to fix this just switch Dev mode to to disabled, turn your headset off, switch Dev mode to on, then re boot your headset while phone is connected Via Bluetooth to your Quest.
@@ -61,7 +61,7 @@ Always try to connect directly to the same router as your PC or phone, to minimi
 
 Your Computer
 ----
-Next thing to try is unplugging your headset and turning your PC off completely to make sure all processes of ADBas well as any conflicting processes cease, make sure you do not `Reboot`, turn the computer completely off and wait a few seconds, then turn it back on before re opening SideQuest and trying once more.
+Next thing to try is unplugging your headset and turning your PC off completely to make sure all processes of ADB as well as any conflicting processes cease, make sure you do not `Reboot`, turn the computer completely off and wait a few seconds, then turn it back on before re opening SideQuest and trying once more.
 
 
 If all the things above fail to assist you then try the below.
