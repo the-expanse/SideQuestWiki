@@ -55,6 +55,7 @@ When Beat On is done patching Beatsaber you should then be able to retrieve your
 Your playlist and songs will ask to be restored automatically upon launch of Beat On after reinstalling it and Beatsaber, then you should be set, 
 
 
-If you have any issues with this guide and how it is written, you may check the Reddit version [HERE](https://www.reddit.com/r/sidequest/comments/cxxwqi/how_to_update_beatonbeatsaber/) 
+If you have any issues with this guide and how it is written,
+## You may check the Reddit version [HERE](https://www.reddit.com/r/sidequest/comments/cxxwqi/how_to_update_beatonbeatsaber/) 
 
 or join the [Discord](https://discord.me/sidequestvr) and ask around, someone there may be able to assist you
