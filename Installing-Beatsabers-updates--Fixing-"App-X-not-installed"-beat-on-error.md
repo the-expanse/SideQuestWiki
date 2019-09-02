@@ -11,13 +11,13 @@ For doing either of these you require a proper clean install of your legally Pur
 
 
 
-Then go to BeatSabers settings
+uninstall after you go to BeatSabers settings
 
 ![](https://cdn.discordapp.com/attachments/608376262347587595/608408734515068943/Beatsaber_setting.png)
 
 
 
-If you have played the game and wish to try and save your Scores/Campaign progress click Backup Game Data
+that way If you have played the game and wish to try and save your Scores/Campaign progress click Backup Game Data you can do so
 
 ![](https://cdn.discordapp.com/attachments/608376262347587595/608409252272406607/backups.png)
 
