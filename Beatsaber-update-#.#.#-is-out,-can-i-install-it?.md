@@ -49,7 +49,7 @@ When Beat On is done patching Beatsaber you can then retrieve your player data f
 
 ![](https://cdn.discordapp.com/attachments/608376262347587595/608410316706938900/backups.png)
 
-Your playlist and songs will ask to be restored automatically upon launch of Beat On after reinstalling it and Beatsaber, then you should be set, 
+Your playlist and songs will ask to be restored automatically upon launch of Beat On after reinstalling it and Beatsaber, then you should be set, if not you can attempt to recover them using `Recover songs` but it is again ill advised unless you want to risk it.
 
 If you don't see the (save game data button) and only see (Save SD card data) you are on an old version of SideQuest, be sure to update SideQuest from [Here](https://sidequestvr.com/#/setup-howto)
 
