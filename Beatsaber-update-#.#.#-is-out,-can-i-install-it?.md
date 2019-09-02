@@ -7,7 +7,7 @@ when it dose so which you can find in SideQuests after [MAKING A USER ACCOUNT](h
 
 ## For either updating, or getting properly installed 
 
-check [HERE]( https://github.com/the-expanse/SideQuest/wiki/Installing-Beatsabers-updates--Fixing-%22App-X-not-installed%22-beat-on-error)
+# Check [HERE]( https://github.com/the-expanse/SideQuest/wiki/Installing-Beatsabers-updates--Fixing-%22App-X-not-installed%22-beat-on-error)
 
 Otherwise if BeatSaber claims it is out of date even after updating it, This generally only occurs with improper re-installation of Beat on after the update to Beatsaber, You will require a clean install of a Purchased Beatsaber copy from the official Oculus store to update properly as well as to un and reinstall Beat On, to start uninstalling properly You need to first go to the Apps tab in SideQuest click here
 
