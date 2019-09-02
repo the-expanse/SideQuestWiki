@@ -40,16 +40,16 @@ After uninstalling Beatsaber Back out and uninstall Beat On as well from the `My
 
 
 
-then proceed to reinstall Beatsaber from the Oculus store and Beat On from
+then proceed to reinstall Beatsaber from the Oculus store. You can then restore your player data from here
+
+![](https://cdn.discordapp.com/attachments/608376262347587595/608410316706938900/backups.png)
+
+Then install and Beat On by clicking 
 
  [![](https://cdn.discordapp.com/attachments/608376262347587595/610258661109006347/Screenshot_1198.png)](https://sidequestvr.com/#/app/14) 
 
 
 After reinstalling everything go into your headset and head to under Oculus TV, scroll down and Open Beat On then let it patch your Beatsaber game once more, your playlist and songs will ask to be restored automatically upon launch of Beat On after reinstalling it and Beatsaber.
-
-When Beat On is done patching Beatsaber you can then retrieve your player data from here
-
-![](https://cdn.discordapp.com/attachments/608376262347587595/608410316706938900/backups.png)
 
 Your playlist and songs will ask to be restored automatically upon launch of Beat On after reinstalling it and Beatsaber, then you should be set, if not you can attempt to recover them using `Recover songs` but it is again ill advised unless you want to risk it.
 
