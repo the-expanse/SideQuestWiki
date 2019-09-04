@@ -63,7 +63,9 @@ For Mac, use the Zip indead of the DMG else use the DMG instead of the ZIP depen
 
 Step 6: Install App Launcher
 ====================================================
-Install a launcher to make finding apps easier on your headset. This launcher will be found in the library under 'Unknown Sources' on the menu on the left. Open it to find all the Apps that have been installed on your device.
+Install a launcher to make finding Sideloaded apps easier on your headset.
+The launcher will be found in the library under 'Unknown Sources' on the menu on the left.
+Open it to find all the Apps that have been installed on your device.
 
 [SideQuest Headset launcher](https://sidequestvr.com/#/app/90)
 
@@ -74,7 +76,7 @@ or
 
 ![](https://cdn.discordapp.com/attachments/608376262347587595/614533518348910604/Screenshot_44.png)
 
-Just be sure to go back to the browser and click confirm in your web browser, then you are set to go, You can now install Apps to your headset and open them from the SideQuest launcher. You can find it in the side menu of the library under the Unknown Sources section called SideQuest - TV as well as SideQuest - Home. This will show you all the Apps on the device even hidden ones you would otherwise not see, to fast launch some Apps you can install the official OculusTV from the store and open it from your O-Bar with the (TV) button in headset and just scroll to the bottom, you will find most Apps there as well.
+if installing from these links directly, Just be sure to go back to the browser and click confirm in your web browser, then you are set to go, You can now install Apps to your headset and open them from the SideQuest launcher. You can find it in the side menu of the library under the Unknown Sources section called SideQuest - TV as well as SideQuest - Home. This will show you all the Apps on the device even hidden ones you would otherwise not see, to fast launch some Apps you can install the official OculusTV from the store and open it from your O-Bar with the (TV) button in headset and just scroll to the bottom, you will find most Apps there as well.
 
 To learn about BeatSaber and how to Install custom songs to it with Beat on just go [HERE](https://github.com/the-expanse/SideQuest/wiki/Beat-On,-What-is-that?)
 
