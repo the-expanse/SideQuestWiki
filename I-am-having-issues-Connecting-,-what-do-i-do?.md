@@ -14,7 +14,7 @@ if not, the most common things to check are
 Re:Toggle and Reset Dev mode
 ----
 
-Some times we forget we disabled it for some reason, always good to check, also very rarely there is a glitch causing somthing to goes awry when you initially set things up, after trying the install steps more then once, or reinstalling or updating SideQuest so in your Oculus Application in your phone try to dis and re enable it, if you turn it off and you suddenly connect it is an error with the application thinking on is of and off is on, to fix this just switch Dev mode to to disabled, turn your headset off, switch Dev mode to on, then re boot your headset while phone is connected Via Bluetooth to your Quest.
+Some times we forget we disabled it for some reason, also very rarely there is a glitch causing somthing to goes awry when you initially set things up, after trying the install steps more then once, or reinstalling or updating SideQuest so in your Oculus Application in your phone try to dis and re enable it, if you turn it off and you suddenly connect it is an error with the application thinking on is of and off is on, to fix this just switch Dev mode to to disabled, turn your headset off, switch Dev mode to on, then re boot your headset while phone is connected Via Bluetooth to your Quest.
 
 The main setup steps for installing SideQuest
 ---
