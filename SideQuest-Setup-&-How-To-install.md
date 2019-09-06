@@ -78,9 +78,6 @@ or
 
 if installing from these links directly, Just be sure to go back to the browser and click confirm in your web browser, then you are set to go, You can now install Apps to your headset and open them from the SideQuest launcher. You can find it in the side menu of the library under the Unknown Sources section called SideQuest - TV as well as SideQuest - Home. This will show you all the Apps on the device even hidden ones you would otherwise not see, to fast launch some Apps you can install the official OculusTV from the store and open it from your O-Bar with the (TV) button in headset and just scroll to the bottom, you will find most Apps there as well.
 
-To learn about BeatSaber and how to Install custom songs to it with Beat on just go [HERE](https://github.com/the-expanse/SideQuest/wiki/Beat-On,-What-is-that?)
-
-
 Just be sure to go back to the browser and click confirm in your web browser, then you are set to go, You can now install Apps to your headset and open them from the SideQuest launcher. You can find it in the side menu of the library under the Unknown Sources section called SideQuest - TV as well as SideQuest - Home. This will show you all the Apps on the device even hidden ones you would otherwise not see, to fast launch some Apps you can install the official OculusTV from the store and open it from your O-Bar with the (TV) button in headset and just scroll to the bottom, you will find most Apps there as well.
 
-To learn about BeatSaber and how to Install custom songs to it with Beat on just go [HERE](https://github.com/the-expanse/SideQuest/wiki/Beat-On,-What-is-that?)
+#### To learn about BeatSaber and how to Install custom songs to it with Beat on just go [HERE](https://github.com/the-expanse/SideQuest/wiki/How-to-install-Custom-Songs)
