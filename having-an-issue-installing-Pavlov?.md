@@ -1,4 +1,4 @@
-Note that SideQuest, the Expense and it's affiliates can not be held responsible for or maintain troubleshooting support with Pavlov as it will soon be on the official Oculus Store so anything beyond the below is out of our hands and updates to this how to will be few to non existent if they become outdated.
+Note that The Expense, SideQuest and it's affiliates can not be held responsible for, or maintain troubleshooting support with Pavlov as it will soon be on the official Oculus Store, Anything beyond the below is out of our hands and updates to this how to will be few to non existent if they become outdated.
 
 
 Mac users will also need to go to the  [PAVLOV DISCORD](https://discord.gg/wE5ZqBB) for direct instructions as this is a Windows only guide
