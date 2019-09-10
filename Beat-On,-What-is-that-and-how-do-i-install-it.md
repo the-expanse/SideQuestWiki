@@ -17,6 +17,8 @@ Make sure beatsaber is installed and up to date, then connect your headset to Si
  ![](https://cdn.discordapp.com/attachments/608376262347587595/608391608572051457/Screenshot_1076.png) 
 
 Icon, Then proceed to flip the switch on, you may need to click it twice to get it to the on position, and ignore the "same wifi" error if it appears,
+
+
 -------------------------------------------------------------------------------------
 
 ### For Manual installation upon failure of Auto Installation
