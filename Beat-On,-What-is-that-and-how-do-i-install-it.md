@@ -13,21 +13,36 @@ Beat On is an additional program for Beatsaber that makes custom song and Mod ma
 After installation of Side Quest if you do not have a [2D launcher](https://sidequestvr.com/#/app/199) installed into your headset, Beat On will only appear in OculusTV, Make sure Beat On is open in headset when you want to use any Beat On features from your PC in SideQuest you can once again find it in OculusTV, or in the 2D APP launcher found in unknown sources.
 
 
-To install Beat On
+To Install Beat On
 ----
-you can go about it two ways, 1 plug your headset in, then Open SideQuest, then on the top bar hit this icon 
+Plug connect your headset to SideQuest, then on the top black bar hit ![](https://cdn.discordapp.com/attachments/608376262347587595/608391608572051457/Screenshot_1076.png)
 
-![](https://cdn.discordapp.com/attachments/608376262347587595/608391608572051457/Screenshot_1076.png)
+Then proceed to flipping the switch on, ignoring the error below, you may need to click it twice to get it to the on possession.
+ 
+after it is on and opens the popup page click`install Beaton`
 
-Then proceed to follow through by flipping it on and clicking `install Beaton`
+After that just follow the Setup instructions located under Beat Ons page on [Opening Beat On for the first time](https://sidequestvr.com/#/app/14) 
+
+when finished go back to SideQuest and click ![](https://cdn.discordapp.com/attachments/608376262347587595/608391608572051457/Screenshot_1076.png)
+
+After installation is complete it will appear in Oculus TV at the very bottom of the page as you scroll down be sure to 
+### Make sure you launch it first time in headset to patch your game properly
 
 
-If that fails to work you can try manually installing Beat On by Plugging your headset in and following the steps below
+if you have any issues connecting check [HERE](https://github.com/the-expanse/SideQuest/wiki/I-am-having-issues-Connecting-,-what-do-i-do%3F)
+
+![](https://cdn.discordapp.com/attachments/608376262347587595/609093393183932446/Screenshot_1123.png)
+
+You should then see the below button show up in your bar
+
+![](https://cdn.discordapp.com/attachments/608376262347587595/608392290867871756/Screenshot_1077.png)
+
+
+If the above Auto Installer fails to you can try manually installing Beat On by Plugging your headset in and following the steps below
 
 First Click the Beat On link icon below to go to beat On's install page.
 
  [![](https://cdn.discordapp.com/attachments/608376262347587595/610258661109006347/Screenshot_1198.png)](https://sidequestvr.com/#/app/14)
-
 
 
 Then proceed to click install latest on the upper right of the page before doing the below
@@ -38,16 +53,6 @@ Then proceed to click install latest on the upper right of the page before doing
 Make sure to go back and Click Confirm so it registers to your accounts Dashboard you have installed Beat On properly.
 
 
-After following the Setup instructions located under the Beat On `Install latest` button make sure your headset is plugged in properly click ![](https://cdn.discordapp.com/attachments/608376262347587595/608391608572051457/Screenshot_1076.png) in SideQuest
-
-After installation it will appear in Oculus TV at the very bottom of the page as you scroll down be sure to launch it first time in headset if you have any issues connecting to Sidequest.
-
-
-if you have any issues connecting check [HERE](https://github.com/the-expanse/SideQuest/wiki/I-am-having-issues-Connecting-,-what-do-i-do%3F)
-
-![](https://cdn.discordapp.com/attachments/608376262347587595/609093393183932446/Screenshot_1123.png)
-You should then see the below button show up in your bar
-![](https://cdn.discordapp.com/attachments/608376262347587595/608392290867871756/Screenshot_1077.png)
 
 
 To learn more about Mods click [Here](https://github.com/the-expanse/SideQuest/wiki/About-Installing-Mods-and-songs-through-SideQuest)
