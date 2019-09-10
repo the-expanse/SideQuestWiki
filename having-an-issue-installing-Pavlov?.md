@@ -1,7 +1,4 @@
-Note that The Expense, SideQuest and it's affiliates can not be held responsible for, or maintain troubleshooting support with Pavlov as it will soon be on the official Oculus Store, Anything beyond the below is out of our hands and updates to this how to will be few to non existent if they become outdated.
-
-
-Mac users will also need to go to the  [PAVLOV DISCORD](https://discord.gg/wE5ZqBB) for direct instructions as this is a Windows only guide
+Mac users will need to go to the  [PAVLOV DISCORD](https://discord.gg/wE5ZqBB) for direct instructions as this is a Windows only guide
 
 
 Make sure you have the most recent Folder for PavLov from the [PAVLOV DISCORD](https://discord.gg/wE5ZqBB)
@@ -26,3 +23,6 @@ It may not have (.bat) at the end but it is the same thing, also again make sure
 
 
 If you have issues beyond that you can go to the [PAVLOV DISCORD](https://discord.gg/wE5ZqBB) , that will take you to their official Discord where you can ask for further and more in depth assistance, they have a wonderful server that we are sure would be delighted to help with any issues you may be experiencing, feel free to head there and ask for help from the pros of Pavlov and voice any concerns to them.
+
+'Note' that The Expense, SideQuest and it's affiliates can not be held responsible for, or maintain troubleshooting support with Pavlov as it will soon be on the official Oculus Store, Anything beyond the below is out of our hands and updates to this how to will be few to non existent if they become outdated.
+
