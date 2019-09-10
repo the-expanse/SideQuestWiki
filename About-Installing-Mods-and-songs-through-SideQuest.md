@@ -23,7 +23,7 @@ Then search for and install the latest of a Mod you want
 
 ![](https://cdn.discordapp.com/attachments/608376262347587595/609099705246416911/Screenshot_1127.png)
 
-and head to the Mods tab to enable them
+and head to the Mods tab to enable them by flipping the switch on the desired mod to the on possession 
 ![](https://cdn.discordapp.com/attachments/608376262347587595/609099688838299678/Screenshot_1128.png)
 
 
