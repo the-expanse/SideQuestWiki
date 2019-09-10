@@ -1,8 +1,8 @@
-Beat on is requiredl in order to download and use Custom songs and Mods with BeatSaber, songs can be managed in SideQuest, but it can be done with or without wires so long as Beat On is opened and linked in headset to SideQuest on the same Wifi network.
+Beat on is required in order to download and use Custom songs and Mods with BeatSaber, songs can be managed in SideQuest, but it can be done with or without wires so long as Beat On is opened and linked in headset to SideQuest on the same Wifi network. if you are updating from BeatSaber 1.3.2 or earlier see [HERE](https://www.reddit.com/r/OculusQuest/comments/cxx9yi/sidequest_how_to_update_beatonbeatsaber/)
 
-Also make sure you are on and install the most recent SideQuest below before installing Beat On. 
+Also make sure you are on and most recent SideQuest below before installing Beat On. 
 
-[Install SideQuest](https://sidequestvr.com/#/download)
+[Official SideQuest Installer](https://sidequestvr.com/#/download)
 
 What Beat On Is
 ----
@@ -13,10 +13,24 @@ After installation of Side Quest if you do not have a [2D launcher](https://side
 
 ### To Install Beat On
 ----
-Make sure beatsaber is installed and up to date, then connect your headset to SideQuest, make sure the green dot is in the upper left corner, when it is on the top right SideQuest hit the grayed out
- ![](https://cdn.discordapp.com/attachments/608376262347587595/608391608572051457/Screenshot_1076.png) 
+Make sure BeatSaber is installed and up to date on your device, Then connect your headset to SideQuest
+make sure the green connected dot is in the upper left corner, when it is on the top right SideQuest hit
 
-Icon, Then proceed to flip the switch on, you may need to click it twice to get it to the on position, and ignore the "same wifi" error if it appears,
+![](https://cdn.discordapp.com/attachments/615234122604085262/621098047534923816/Screenshot_203.png) 
+
+at the top right of SideQuest, Then proceed to flip the switch on, you may need to click it twice to get it to the on position, and ignore the "same wifi" error if it appears, it will start installing, after it has finished go into your headset and click the TV tab in your Oculus home bar, scroll down and open Beat On and follow the instructions to uninstall and patch your game, after that reboot your headset and in SideQuest click
+
+ ![](https://cdn.discordapp.com/attachments/615234122604085262/621098047534923816/Screenshot_203.png) 
+
+and flip it on again if not already, then click open beat On as shown below
+
+![](https://cdn.discordapp.com/attachments/608376262347587595/609093393183932446/Screenshot_1123.png)
+
+After that you are set, 
+
+### To learn about installing songs or mods see [Here](https://github.com/the-expanse/SideQuest/wiki/How-to-install-Custom-Songs)
+
+After you are finished you can then also install custom songs wireless to your headset Via Wi-Fi Inside Beat on while in Headset no PC needed, Or connect to SideQuest and click the ![](https://cdn.discordapp.com/attachments/615234122604085262/621098047534923816/Screenshot_203.png) icon to Open Beat On in headset so you can install Songs and Mods directly through SideQuest your Beat On Playlists or Mods tab
 
 
 -------------------------------------------------------------------------------------
@@ -24,18 +38,9 @@ Icon, Then proceed to flip the switch on, you may need to click it twice to get 
 ### For Manual installation upon failure of Auto Installation
 Make sure SideQuest is connected and head to [Beat On's install page](https://sidequestvr.com/#/app/14)
 and follow the instructions while in your headset that appear to the right side of the page under `Opening Beat On for the first time`
- 
 
-
-To learn more about Mods click [Here](https://github.com/the-expanse/SideQuest/wiki/About-Installing-Mods-and-songs-through-SideQuest)
-
-As well as watch the video below
+The video below should be a good tutorial of the basic abilities of Beat On if you wish to get an idea of what you can do with it, though it is a bit outdated so be aware while watching it that some things may look or work a bit different.
 
 [![](https://cdn.discordapp.com/attachments/608376262347587595/610247583352487936/Screenshot_1191.png)](https://www.youtube.com/watch?v=CPDqrAQWruU&lc=z23ag5ginnfbsl3iq04t1aokgbh5kytwso3tjwfl30kmbk0h00410.1563913415218266) 
-
-after you are finished you can then install custom songs wireless to your headset Via Wi-Fi Inside Beat on while in Headset no PC needed, or connect to SideQuest and click the ![](https://cdn.discordapp.com/attachments/615234122604085262/621098047534923816/Screenshot_203.png) icon to Open Beat On in headset so you can install Songs and Mods directly through SideQuest your Beat On Playlists or Mods tab
-
-
-If the Beat On auto installer fails to function for any reason, following [This link](https://sidequestvr.com/#/app/14) will take you to beat on and clicking install latest top right is another way to install beat on if flipping it on fails to work, you can then find the app in headset under Oculus TV at the bottom of the page, if you have not installed [2D launcher](https://sidequestvr.com/#/app/199) do so, you can also install OculusTV from the official Quest store,
 
 For any more information feel free to watch the video to learn more as well.
