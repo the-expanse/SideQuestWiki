@@ -1,10 +1,11 @@
 #### After installing beat on by following the instructions found [HERE](https://github.com/the-expanse/SideQuest/wiki/Beat-On,-What-is-that-and-how-do-i-install-it) 
 
+### For Mod installation click [HERE](https://github.com/the-expanse/SideQuest/wiki/About-Installing-Mods-and-songs-through-SideQuest)
+
 You can install custom songs by first enabling beat on in the upper bar of SideQuest Via the ![](https://cdn.discordapp.com/attachments/608376262347587595/608391608572051457/Screenshot_1076.png) button, enabling it and opening Beat On like below 
 
 ![](https://cdn.discordapp.com/attachments/608376262347587595/609093393183932446/Screenshot_1123.png)
 
-### For Mod installation click [HERE](https://github.com/the-expanse/SideQuest/wiki/About-Installing-Mods-and-songs-through-SideQuest)
 
 for songs proceed to Beast Saber in the secondary bar in SideQuest
 
