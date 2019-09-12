@@ -18,7 +18,7 @@ make sure the green connected dot is in the upper left corner, when it is on the
 
 ![](https://cdn.discordapp.com/attachments/615234122604085262/621098047534923816/Screenshot_203.png) 
 
-at the top right of SideQuest, Then proceed to flip the switch on, you may need to click it twice to get it to the on position, and ignore the "same wifi" error if it appears, it will start installing, after it has finished go into your headset and click the TV tab in your Oculus home bar, scroll down and open Beat On and follow the instructions to uninstall and patch your game, after that reboot your headset and in SideQuest click
+At the top right of SideQuest, Then proceed to flip the switch on, you may need to click it twice to get it to the on position, and ignore the "same wifi" error if it appears, it will start installing, after it has finished go into your headset and click the TV tab in your Oculus home bar, scroll down and open Beat On and follow the instructions to uninstall and patch your game, after that reboot your headset and in SideQuest click
 
  ![](https://cdn.discordapp.com/attachments/615234122604085262/621098047534923816/Screenshot_203.png) 
 
@@ -26,7 +26,13 @@ and flip it on again if not already, then click open beat On as shown below
 
 ![](https://cdn.discordapp.com/attachments/608376262347587595/609093393183932446/Screenshot_1123.png)
 
-After that you are set, 
+After that you should be set.
+
+
+If you ever see a popup that says
+#### `for security your phone is set to block installation of apps obtained from unknown sources`
+Go in headset and click the `Settings` option, then look for the toggle switch for unknown sources and turn it on to allow, after that you should not see that pop-up again unless you re enable the switch for some reason.
+
 
 ### To learn about installing songs or mods see [Here](https://github.com/the-expanse/SideQuest/wiki/How-to-install-Custom-Songs)
 
