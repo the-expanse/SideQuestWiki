@@ -1,4 +1,4 @@
-### After installing beat on by following the instructions found [HERE](https://github.com/the-expanse/SideQuest/wiki/Beat-On,-What-is-that-and-how-do-i-install-it) 
+### After installing the latest SideQuest from [HERE](https://xpan.cc/download) and Beat On by following the instructions found [HERE](https://github.com/the-expanse/SideQuest/wiki/Beat-On,-What-is-that-and-how-do-i-install-it) 
 
 #### For Mod installation click [HERE](https://github.com/the-expanse/SideQuest/wiki/About-Installing-Mods-and-songs-through-SideQuest)
 
