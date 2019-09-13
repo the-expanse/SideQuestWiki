@@ -59,7 +59,7 @@ Now it's time to connect the USB cable. Once you are connected you will have to 
 
 if it dose not appear and you are on windows, be sure to try the .EXE installer top instead of the ZIP folder, 
 
-For Mac, use the Zip indead of the DMG else use the DMG instead of the ZIP depending on what you tried as your Mac may not have processed one of the two properly and may work better with the alternative, beyond that for connection issues, check [HERE](https://github.com/the-expanse/SideQuest/wiki/I-am-having-issues-Connecting-,-what-do-i-do%3F) after you are connected properly make sure to select 'Always allow from this computer' within your headset while still plugged in to your PC to prevent this message from coming up every time you connect and you should be ready to install Apps,Games and Mods.
+For Mac, use the Zip instead of the DMG else use the DMG instead of the ZIP depending on what you tried as your Mac may not have processed one of the two properly and may work better with the alternative, beyond that for connection issues, check [HERE](https://github.com/the-expanse/SideQuest/wiki/I-am-having-issues-Connecting-,-what-do-i-do%3F) after you are connected properly make sure to select 'Always allow from this computer' within your headset while still plugged in to your PC to prevent this message from coming up every time you connect and you should be ready to install Apps,Games and Mods.
 
 Step 6: Install App Launcher
 ====================================================
@@ -74,8 +74,7 @@ Open it to find all the Apps that have been installed on your device.
 or 
 [Quest App launcher](https://sidequestvr.com/#/app/199)
 
-![](https://cdn.discordapp.com/attachments/608376262347587595/614533518348910604/Screenshot_44.png)
-
-if installing from these links directly, Just be sure to go back to the browser and click confirm in your web browser, then you are set to go, You can now install Apps to your headset and open them from the SideQuest launcher. You can find it in the side menu of the library under the Unknown Sources section called SideQuest - TV as well as SideQuest - Home. This will show you all the Apps on the device even hidden ones you would otherwise not see, to fast launch some Apps you can install the official OculusTV from the store and open it from your O-Bar with the (TV) button in headset and just scroll to the bottom, you will find most Apps there as well.
+Be sure to go back to the browser and click confirm in your web browser, then you are set to go.
+You can now install Apps to your headset and open them from the SideQuest launcher. You can find it in the side menu of the library under the Unknown Sources section called SideQuest - TV as well as SideQuest - Home. This will show you all the Apps on the device even hidden ones you would otherwise not see, to fast launch some Apps you can install the official OculusTV from the store and open it from your O-Bar with the (TV) button in headset and just scroll to the bottom, you will find most Apps there as well.
 
 #### To learn about BeatSaber and how to Install custom songs to it with Beat on just go [HERE](https://github.com/the-expanse/SideQuest/wiki/How-to-install-Custom-Songs)
