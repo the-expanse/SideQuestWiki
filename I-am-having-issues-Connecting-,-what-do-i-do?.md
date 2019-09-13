@@ -1,5 +1,7 @@
 # Having connection issues? First things to try
 
+Make sure to install the very latest SideQuest from [SideQuestVR.com](https://sidequestvr.com/#/download) before proceeding
+
 
 If you are having issues with Beat On Only
 ----
@@ -64,56 +66,20 @@ Your Computer
 Next thing to try is unplugging your headset and turning your PC off completely to make sure all processes of ADB as well as any conflicting processes cease, make sure you do not `Reboot`, turn the computer completely off and wait a few seconds, also reboot your headset now to be sure both systems are prepped, then turn your PC back on before re opening SideQuest and trying once more to try connecting again.
 
 
-If all the things above fail to assist you then try the below.
+### Resetting your connection
 
-### Make sure SideQuest is open before proceeding
+To reset your connecction just click the `Run ADB Commands` button top of SideQuest as seen here
 
-How-To use commands to force boot or reset ADB for connection (Windows or Mac)
-=====================
-
-
-![](https://cdn.discordapp.com/attachments/608376262347587595/609878697540976827/Screenshot_1162.png)
+![](https://cdn.discordapp.com/attachments/615234075778875453/622179541535817728/Screenshot_257.png)
 
 
-***Windows***: Open `cmd` or Command Prompt. `cd %appdata%\SideQuest\platform-tools\`
+then click `Disconnect everything` hit `Run Command, 
+Go back again and and hit `reset ADB`, then hit `Enable USB ADB` and you should connect
 
-***Mac***: Open terminal and type in `cd "~/Library/Application Support/SideQuest/platform-tools"`
+### For wireless connection 
 
-
-
-***Windows***: Type `adb disconnect`.
-
-***Mac***: Type `./adb disconnect`.
-
-Then type
-
-***Windows***: `adb devices`
-
-***Mac***: `./adb devices`
-
-You should see:
-```
-List of devices attached
-1SOTGDHHSXXX  device
-```
-
-If you see something like 
-
-`1SOTGDHHSXXX  unauthorized`
-
-Put on your headset now you should see the message to allow USB debugging - click always allow. 
-
-If you see something like 
-
-`1SOTGDHHSXXX  offline`
-
-Type `adb kill-server` and then `adb devices` again.
-
-If you see `cannot connect to daemon` or similar
-
-***Windows***: Open up task manager and kill the `adb.exe` process or in cmd with `taskkill /f /im adb.exe`
-
-***Mac***: Run `pkill adb ` in terminal.
+Make sure to connect your headset once and for into `Run ADB Commands, before you hit `Enable Wifi ADB`
+and then `Connect to Wifi ADB" it should then state two devices are connected, disconnect your headset and now you are in wireless, mode, every time you reboot SideQuest you can click `Connect to Wifi ADB` and it will connect so long as your headset is on and connected to the same Wifi network
 
 Failing the above 
 ----
