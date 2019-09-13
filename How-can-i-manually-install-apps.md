@@ -16,9 +16,10 @@ And put the APK and/or OBB inside it, close your explorer, close SideQuest , Reb
 
 ### Installation method two
 
-You can also install games with APK or OBB files under the games tab, make sure to do so in the order of APK, then OBB if both are presant, else only move the APK to the location below
+You can also install some games APK and OBB files under the games tab,
+Not this dose not always work and some games are incompatible with the system, but if they are able to work make sure drag and drop them in the order of APK, then OBB if both are present, else only move the one APK file that should be there to the location below.
 
-![](https://cdn.discordapp.com/attachments/413712766180786178/618345955040952320/dragdropheretosidequest.png)
+![](https://cdn.discordapp.com/attachments/615234075778875453/622172166196297745/Screenshot_251.png)
 
 If you have any issues, attempt to check the name of the folder and try to match the format, that being `AAAAAA.BBBBBB.CCCCCC`
 Once more, for phone and 2D applications or games that do not use the usual VR systems, hand controllers, Exc Exc) you will need the Quest launcher, or SideQuest 2D launcher from the applications tab in SideQuest, either can be used to let you find those types of games under unknown sources in your library.
