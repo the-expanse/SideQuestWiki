@@ -66,9 +66,9 @@ Your Computer
 Next thing to try is unplugging your headset and turning your PC off completely to make sure all processes of ADB as well as any conflicting processes cease, make sure you do not `Reboot`, turn the computer completely off and wait a few seconds, also reboot your headset now to be sure both systems are prepped, then turn your PC back on before re opening SideQuest and trying once more to try connecting again.
 
 
-### Resetting your connection
+### Resetting your connection and connecting to wifi
 
-To reset your connecction just click the `Run ADB Commands` button top of SideQuest as seen here
+To reset your connection just click the `Run ADB Commands` button top of SideQuest as seen here
 
 ![](https://cdn.discordapp.com/attachments/615234075778875453/622179541535817728/Screenshot_257.png)
 
@@ -79,7 +79,7 @@ Go back again and and hit `reset ADB`, then hit `Enable USB ADB` and you should 
 ### For wireless connection 
 
 Make sure to connect your headset once and for into `Run ADB Commands, before you hit `Enable Wifi ADB`
-and then `Connect to Wifi ADB" it should then state two devices are connected, disconnect your headset and now you are in wireless, mode, every time you reboot SideQuest you can click `Connect to Wifi ADB` and it will connect so long as your headset is on and connected to the same Wifi network
+and then `Connect to Wifi ADB" it should then state two devices are connected, disconnect your headset and now you are in wireless, mode, every time you reboot SideQuest you can click `Connect to Wifi ADB` and it will connect so long as your headset is on and connected to the same Wifi network, sometimes you will need to reconnect to update the Quest IP by hitting `Enable Wifi ADB` again but otherwise you are now capable of cordless installation, have fun 
 
 Failing the above 
 ----
