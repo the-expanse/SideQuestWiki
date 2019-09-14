@@ -63,7 +63,9 @@ For Mac, use the Zip instead of the DMG else use the DMG instead of the ZIP depe
 
 Step 6: Install App Launcher
 ====================================================
-Install a launcher to make finding Sideloaded apps easier on your headset.
+OPTIONAL
+----
+Installing the launcher will make finding Sideloaded apps easier on your headset,
 The launcher will be found in the library under 'Unknown Sources' on the menu on the left.
 Open it to find all the Apps that have been installed on your device.
 
