@@ -78,8 +78,8 @@ Go back again and and hit `reset ADB`, then hit `Enable USB ADB` and you should 
 
 ### For wireless connection 
 
-Make sure to connect your headset once and for into `Run ADB Commands, before you hit `Enable Wifi ADB`
-and then `Connect to Wifi ADB" it should then state two devices are connected, disconnect your headset and now you are in wireless, mode, every time you reboot SideQuest you can click `Connect to Wifi ADB` and it will connect so long as your headset is on and connected to the same Wifi network, sometimes you will need to reconnect to update the Quest IP by hitting `Enable Wifi ADB` again but otherwise you are now capable of cordless installation, have fun 
+Make sure to connect your headset once before you hit `Run ADB Commands, and then you can hit `Enable Wifi ADB`
+after that just hit `Connect to Wifi ADB" and it should then state two devices are connected, disconnect your headset and now you are in wireless, mode, every time you reboot SideQuest you can click `Connect to Wifi ADB` and it will connect so long as your headset is on and connected to the same Wifi network, sometimes you will need to reconnect to update the Quest IP by hitting `Enable Wifi ADB` again but otherwise you are now capable of cordless installation, have fun 
 
 Failing the above 
 ----
