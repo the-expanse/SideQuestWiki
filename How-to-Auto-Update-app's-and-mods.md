@@ -12,7 +12,7 @@ in order to creat a SideQuest account, just go to signup page located [HERE](htt
 
 There are two ways to update from your `DASHBOARD`, Either to Queue and install all available updates for all applications with one button, or to decide app by app what you want updated, it is up to you
 
-![](https://cdn.discordapp.com/attachments/608376262347587595/615111072784842765/Screenshot_56.png)
+![](https://cdn.discordapp.com/attachments/615234075778875453/622458464391790592/Updat_All.png)
 
 
 Also note that if you have created an account, but had already installed other applications before making or logging into your account in SideQuest, Most applications may not appear in your `DASHBOARD` the way to correct this is to just Uninstalled them Via SideQuests `Current Apps` tab
