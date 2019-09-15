@@ -10,7 +10,7 @@ that is usually an issue people overlook, Be sure uninstall the old version from
 
 
 
-Then delete the Zip folder you extracted from to make the new folder and go into to the new unzipped folder
+Then delete the Zip folder you extracted from to make the new folder, before you open the new unzipped folder
 
 ![](https://cdn.discordapp.com/attachments/608376262347587595/608755536984277002/Screenshot_1106.png)
 
