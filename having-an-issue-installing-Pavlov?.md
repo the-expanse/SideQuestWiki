@@ -1,4 +1,4 @@
-for any issues, Mac or otherwise see the  [PAVLOV DISCORD](https://discord.gg/wE5ZqBB) for direct instructions 
+For any issues, Mac or otherwise see the  [PAVLOV DISCORD](https://discord.gg/wE5ZqBB) for direct instructions 
 also this is a Windows only guide
 
 
