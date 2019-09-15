@@ -20,7 +20,7 @@ DO NOT drag and drop the files into SideQuest, also  and use the "Install.bat" l
 
 ![](https://cdn.discordapp.com/attachments/608376262347587595/608568197679153152/Pavlov_install_BAT.png)
 
-It may or may not have (.bat) at the end but it is the same, just run that, a windo will pop up and run some installation code, let that run adn when finished click enter, also again make sure you are using the newest version of the Pavlov installer, else some errors may occur, such as only one hand working at a time and visual glitching, after using the Install.Bat file while SideQuest is open and your headset is connected, a CMD will run and install it automatically so wait till it finishes, then close SideQuest and open the game in headset under Oculus TV or Unknown Sources, it will take some time to load for it's initialization boot so wait 5 or so minutes.
+It may or may not have (.bat) at the end but it is the same, just run that while sidequest is running and connected to your headset, a window will then pop up and run some installation code, let that run adn when finished click enter, also again make sure you are using the newest version of the Pavlov installer, else some errors may occur, such as only one hand working at a time and visual glitching, after using the Install.Bat file, after it finishes close SideQuest and reboot your headset, then open the game in Headset under Unknown Sources or Oculus TV if it appears, it will take some time to load for it's initialization boot so wait 5 or so minutes.
 
 
 ### If you have issues beyond that
