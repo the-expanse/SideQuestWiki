@@ -1,4 +1,5 @@
-Mac users will need to go to the  [PAVLOV DISCORD](https://discord.gg/wE5ZqBB) for direct instructions as this is a Windows only guide
+for any issues, Mac or otherwise see the  [PAVLOV DISCORD](https://discord.gg/wE5ZqBB) for direct instructions 
+also this is a Windows only guide
 
 
 Make sure you have the most recent Folder for PavLov from the [PAVLOV DISCORD](https://discord.gg/wE5ZqBB)
