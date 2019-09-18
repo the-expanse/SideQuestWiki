@@ -27,7 +27,7 @@
 
 #### - [SideQuest Error: System.ArgumentNullException: Value cannot be null](https://github.com/the-expanse/SideQuest/wiki/System.ArgumentNullException:-Value-cannot-be-null.)
 
-#### - [Error: Some tasks fail to Load](https://github.com/the-expanse/SideQuest/wiki/The-Queue-System)
+#### - [SideQuest Error: Some tasks fail to Load](https://github.com/the-expanse/SideQuest/wiki/The-Queue-System)
 
 #### - [SideQuest Error: Missing DLLs or .NET ](https://github.com/the-expanse/SideQuest/wiki/Have-a-.NET-Error-or-a-missing-.DLL-(Windows-8))
 
