@@ -3,7 +3,7 @@
 
 #### [How To Submit Games/Apps/Mods to Sidequest](https://github.com/the-expanse/SideQuest/wiki/How-To-Submit-Games)
 
-#### [How to Auto Update Installed Apps and mods in SideQuest](https://github.com/the-expanse/SideQuest/wiki/How-to-Auto-Update-app's-and-mods)
+#### [How to Best Update Installed Apps and Mods in SideQuest](https://github.com/the-expanse/SideQuest/wiki/How-to-Auto-Update-app's-and-mods)
 
 ----
 **Detailed Installation Procedures**
@@ -12,7 +12,7 @@
 
 #### - [How do i install Custom songs with SideQuest and Beat On](https://github.com/the-expanse/SideQuest/wiki/How-to-install-Custom-Songs)
 
-#### - [I want to install PavLov, how do i because dragging and dropping the OBB and APK isn't working installing Pavlov](https://github.com/the-expanse/SideQuest/wiki/having-an-issue-installing-Pavlov%3F)
+#### - [I want to install PavLov, how do i because dragdropping the OBB and APK in isn't working](https://github.com/the-expanse/SideQuest/wiki/having-an-issue-installing-Pavlov%3F)
 
 #### - [How do i Manual install APKs obtained outside of SideQuest](https://github.com/the-expanse/SideQuest/wiki/How-can-i-manually-install-apps)
 
