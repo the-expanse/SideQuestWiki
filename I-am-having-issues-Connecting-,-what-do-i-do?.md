@@ -38,7 +38,7 @@ NO VPN
 
 ![](https://cdn.discordapp.com/attachments/608376262347587595/609881862956908564/Screenshot_1164.png)
 
-if your it, using Bluestacks, NOX or a Wifi Extenders of any kind can lead to problems as well, so be sure to disable VPN services of any kind when using SideQuest, best to refrain from them as they are all known to cause issues for SideQuest
+if your it, using Bluestacks, NOX or a Wifi Extenders of any kind can lead to problems as well, Also be sure to disable ANY VPN services of any kind when using SideQuest, best to refrain from them as they are all known to cause issues for SideQuest
 
 ## [How to properly uninstall BlueStacks](https://github.com/the-expanse/SideQuest/wiki/BlueStacks-is-causing-issues,-how-do-i-remove-it)
 
