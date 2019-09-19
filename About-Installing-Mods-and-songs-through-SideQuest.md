@@ -10,7 +10,7 @@ To install any Mods Just head to the
 
 ![](https://cdn.discordapp.com/attachments/608376262347587595/608392779755683993/Screenshot_1078.png)
 
-Tab On the left directly in SideQuest and look for a Beatsaber Mod that looks interesting, 
+Tab On the left directly in SideQuest to the left and look for a Beatsaber Mod that looks interesting, 
 ![](https://cdn.discordapp.com/attachments/608376262347587595/609099226160300058/Screenshot_1126.png)
 
 Then just hit Install Latest up top right of the page.
