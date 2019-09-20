@@ -8,7 +8,7 @@ or the or the `Some tasks failed. See the tasks screen for more info` error,
 you can access the Queue list from the picture shown below.
 
 ##### For the `Some tasks failed. See the tasks screen for more info` error
-Be sure to Check your Queue tab carefully to make sure it didn't just download an application twice in a row, as if a song game or mod is already installed it may fail because it is already there, otherwise check your Wi-Fi, your cord or another port on your PC, as well as unplugging your Headset entirely and rebooting it and restarting SideQuest, before you re-plug your headset and attempting again
+Be sure to Check your Queue tab carefully to make sure it didn't just download an application twice in a row, as if a song game or mod is already installed it may fail because it is already there, otherwise check your Wi-Fi, your cord or another port on your PC, failing these steps try unplugging your Headset entirely and rebooting it and restarting SideQuest, before you re-plug your headset and attempting again
 
 ### General information About The Queue System
 
