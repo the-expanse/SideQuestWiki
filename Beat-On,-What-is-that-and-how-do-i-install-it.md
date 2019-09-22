@@ -1,4 +1,5 @@
-Beat on is required in order to download and use Custom songs and Mods with BeatSaber, songs can be managed in SideQuest, but it can be done with or without wires so long as Beat On is opened and linked in headset to SideQuest on the same Wifi network. if you are updating from BeatSaber 1.3.2 or earlier see [HERE](https://www.reddit.com/r/OculusQuest/comments/cxx9yi/sidequest_how_to_update_beatonbeatsaber/)
+Beat on is required in order to download and use Custom songs and Mods with BeatSaber, 
+To find beat on after it has been installed make sure you have download Oculus TV from the official Oculus store in headset, then songs can be managed in SideQuest, but it can be done with or without wires so long as Beat On is opened and linked in headset to SideQuest on the same Wifi network. if you are updating from BeatSaber 1.3.2 or earlier see [HERE](https://www.reddit.com/r/OculusQuest/comments/cxx9yi/sidequest_how_to_update_beatonbeatsaber/)
 
 Also make sure you are on and most recent SideQuest below before installing Beat On. 
 
