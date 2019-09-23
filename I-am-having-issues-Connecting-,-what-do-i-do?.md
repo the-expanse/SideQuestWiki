@@ -55,7 +55,7 @@ Antivirus applications such as AVG, Avast, BitDefender or similar programs can c
 Android Emulators
 ----
 
-The use of Android Emulators cause issues if it is being detected first, so make sure it is turned off completely and not running in task manager, as well as have it not set to "start on boot" in your Computer settings.
+The use of Android Emulators cause issues if it is being detected first, so make sure it is turned off completely and not running in task manager, as well as have it not set to "start on boot" in your Computer settings, or just uninstall it to remove the issue.
 
 
 Your Router
