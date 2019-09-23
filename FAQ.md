@@ -16,25 +16,19 @@
 
 #### - [i have Windows 7, can i use SideQuest](https://github.com/the-expanse/SideQuest/wiki/I-Have-Windows-7,-can-i-use-SideQuest%3F)
 
-**Errors and Fixes or information**
+
+**PC SideQuest Issues**
 ---
-#### - [SideQuest Error: Your PC and quest should be on the same network!](https://github.com/the-expanse/SideQuest/wiki/Your-PC-and-quest-should-be-on-the-same-network!)
 
-#### - [SideQuest Error: System.ArgumentNullException: Value cannot be null](https://github.com/the-expanse/SideQuest/wiki/System.ArgumentNullException:-Value-cannot-be-null.)
+#### - [I'm having SideQuest Connection issues, are there solutions](https://github.com/the-expanse/SideQuest/wiki/I-am-having-issues-Connecting-,-what-do-i-do%3F)
 
-#### - [SideQuest Error: Some tasks fail to Load](https://github.com/the-expanse/SideQuest/wiki/The-Queue-System)
+#### - [SideQuest Apps/Mods aren't installing properly, how can i fix it?](https://github.com/the-expanse/SideQuest/wiki/SideQuest-isn't-working-properly,-apps-won't-install)
 
-#### - [SideQuest Error: Missing DLLs or .NET ](https://github.com/the-expanse/SideQuest/wiki/Have-a-.NET-Error-or-a-missing-.DLL-(Windows-8))
-
-#### - [SideQuest Error: Some tasks failed. See the tasks screen for more info](https://github.com/the-expanse/SideQuest/wiki/The-Queue-System)
----
-#### - [BeatOn Error: Mod/Song ZIPs fail somehow when installing using Beat Ons Upload Tab](https://github.com/the-expanse/SideQuest/wiki/Mod-ZIP-files-give-an-error-when-uploading-to-Beat-On)
-
-#### - [BeatOn Error: Beatsaber asking me to update even after being updated](https://github.com/the-expanse/SideQuest/wiki/Beatsaber-asking-to-update-after-updating%3F)
-
+#### - [BlueStacks is causing issues, how do i remove it (WINDOWS)](https://github.com/the-expanse/SideQuest/wiki/BlueStacks-is-causing-issues,-how-do-i-remove-it)
 
 **Common issues and solutions**
 ---
+
 #### - [Why Can't I Update My Official Oculus Apps](https://github.com/the-expanse/SideQuest/wiki/Why-can't-i-update-my-Official-Oculus-Apps)
 
 #### - [Quest apps won't uninstall what's wrong](https://github.com/the-expanse/SideQuest/wiki/.My-apps-won't-uninstall-what's-wrong%3F)
@@ -45,14 +39,6 @@
 
 
 #### - [ Where can i find externally downloaded APKs in my headset](https://github.com/the-expanse/SideQuest/wiki/How-to-use-2D-APKs-such-as-phone-Apps-from-outside-of-Sidequest)
-
-
-**PC SideQuest Issues**
-#### - [I'm having SideQuest Connection issues, are there solutions](https://github.com/the-expanse/SideQuest/wiki/I-am-having-issues-Connecting-,-what-do-i-do%3F)
-
-#### - [SideQuest Apps/Mods aren't installing properly, how can i fix it?](https://github.com/the-expanse/SideQuest/wiki/SideQuest-isn't-working-properly,-apps-won't-install)
-
-#### - [BlueStacks is causing issues, how do i remove it (WINDOWS)](https://github.com/the-expanse/SideQuest/wiki/BlueStacks-is-causing-issues,-how-do-i-remove-it)
 
 
 **Beat On/Beatsaber Installation How-Tos And Solutions**
@@ -82,3 +68,19 @@
 
 #### - [How to Transfer up to Beat On from the Patcher system](https://github.com/the-expanse/SideQuest/wiki/Anything-else-users-should-know-about-installing-Beat-On-from-the-old-system)
 ----
+
+**Errors and Fixes or information**
+---
+#### - [SideQuest Error: Your PC and quest should be on the same network!](https://github.com/the-expanse/SideQuest/wiki/Your-PC-and-quest-should-be-on-the-same-network!)
+
+#### - [SideQuest Error: System.ArgumentNullException: Value cannot be null](https://github.com/the-expanse/SideQuest/wiki/System.ArgumentNullException:-Value-cannot-be-null.)
+
+#### - [SideQuest Error: Some tasks fail to Load](https://github.com/the-expanse/SideQuest/wiki/The-Queue-System)
+
+#### - [SideQuest Error: Missing DLLs or .NET ](https://github.com/the-expanse/SideQuest/wiki/Have-a-.NET-Error-or-a-missing-.DLL-(Windows-8))
+
+#### - [SideQuest Error: Some tasks failed. See the tasks screen for more info](https://github.com/the-expanse/SideQuest/wiki/The-Queue-System)
+---
+#### - [BeatOn Error: Mod/Song ZIPs fail somehow when installing using Beat Ons Upload Tab](https://github.com/the-expanse/SideQuest/wiki/Mod-ZIP-files-give-an-error-when-uploading-to-Beat-On)
+
+#### - [BeatOn Error: Beatsaber asking me to update even after being updated](https://github.com/the-expanse/SideQuest/wiki/Beatsaber-asking-to-update-after-updating%3F)
