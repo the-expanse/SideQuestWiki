@@ -8,6 +8,7 @@ You can install custom songs by first enabling beat on in the upper bar of SideQ
 ![](https://cdn.discordapp.com/attachments/608376262347587595/609093393183932446/Screenshot_1123.png)
 
 
+Make sure Beat On is open in the Oculus Quest and running if you get any errors,
 for songs proceed to Beast Saber in the secondary bar in SideQuest
 
 ![](https://cdn.discordapp.com/attachments/608376262347587595/609089714208768073/Screenshot_1121.png)
