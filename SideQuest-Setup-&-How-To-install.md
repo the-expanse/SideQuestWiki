@@ -1,6 +1,6 @@
-SideQuest is for PC only, not Mobile phones
+#### SideQuest is for PC only, not Mobile phones
 
-Make sure before anything to use a phone USB cable that can transfer data instead of the cable that comes with your Quest as the cable that comes with the device is not suited for data transfer.
+before installation make sure before anything to `use a phone USB cable that can transfer data` instead of the cable that comes with your Quest as the cable that comes with the device is not suited for data transfer.
 
 Step 1: Install SideQuest
 ====================================================
