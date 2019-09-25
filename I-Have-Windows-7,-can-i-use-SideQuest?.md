@@ -6,4 +6,5 @@ Beyond that you can see if this page helps
 
 [Install OEM USB drivers](https://developer.android.com/studio/run/oem-usb)
 
-If all else fails you can try to see if upgrading your system to windows 8 or 10 is an option to you but that is all we can suggest if you can not get SideQuest running on Windows 7 as even Microsoft themselves no longer support it, if you do you should be able to start using all it's functions as well as SideQuest itself right away after installing the drivers from [These Steps](https://sidequestvr.com/#/setup-howto) after that all should work perfectly with no issues at all
+If all else fails you can try to see if upgrading your system to windows 8 or 10 is an option to you but that is all we can suggest if you can not get SideQuest running on Windows 7 as even Microsoft themselves no longer support it, 
+if you do upgrade you should be able to start using all it's functions as well as SideQuest itself right away after installing the drivers from [These Steps](https://sidequestvr.com/#/setup-howto) after that all should work perfectly with no issues at all
