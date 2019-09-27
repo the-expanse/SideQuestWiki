@@ -43,9 +43,12 @@ After you are finished you can then also install custom songs wireless to your h
 
 
 -------------------------------------------------------------------------------------
-### Additional steps for transferring up from the old patcher 
+### Additional steps for transferring up from the old Patcher 
 
-Make sure that after you install and run Beat On in headset that your headset is connected, then install a song from beastsaber or beat saver so the system can create the "custom song" folder in your headset, then close beat on and in your computers file browser (Windows explorer, Mac terminal and so on) look for your Quest headset and open it (in it should be a sub folder called internal storage) after finding and opening it, Open Beat On Data and put all of your song folders from the custom song folder you have on your desktop into that folder (each folder should be placed in the song folder, not an entire folder of songs, or by opening and moving the song folders files)
+Make sure that after you install and run Beat On in headset that your headset is connected, then install a song from Beastsaber or beat saver so the system can create the "custom song" folder in your headset, then close beat on and in your computers file browser (Windows explorer, Mac terminal and so on) look for your Quest headset and open it (in it should be a sub folder called internal storage) after finding and opening it, Open Beat On Data and put all of your song folders from the custom song folder you have on your desktop into that folder (Each folder should be placed in the song folder, not an entire folder of songs, or by opening and moving the song folders files) Put the songs into the folder shown below
+
+![](https://cdn.discordapp.com/attachments/615234075778875453/626995764828045316/unknown.png)
+
 After it is done transferring restart your headset open beat on from OculusTV and go into TOOLS, when there click "Reload Songs Folder" it will load all those songs into your playlists tab and you can now organize and use them as you please before you sync them into your game
 
 
