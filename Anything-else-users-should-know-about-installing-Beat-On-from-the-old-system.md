@@ -12,5 +12,4 @@ After that locate the "custom songs" folder and copy it to desktop
 
 after doing so uninstall all Beatsaber old game data ![](https://cdn.discordapp.com/attachments/608376262347587595/608405621741715487/Uninstall.png)
 
-and reinstall BeatSaber entirely from the Oculus store
-After that install beat on by following directions from [HERE](https://github.com/the-expanse/SideQuest/wiki/Beat-On,-What-is-that-and-how-do-i-install-it#to-install-beat-on-for-the-first-time) to finish the process and install Beat On
+and reinstall BeatSaber entirely from the Oculus store and after that install beat on by following directions from [HERE](https://github.com/the-expanse/SideQuest/wiki/Beat-On,-What-is-that-and-how-do-i-install-it#to-install-beat-on-for-the-first-time) to finish the process and install Beat On
