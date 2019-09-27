@@ -43,7 +43,9 @@ After you are finished you can then also install custom songs wireless to your h
 
 
 -------------------------------------------------------------------------------------
-For transferring up from the old patcher make sure that after you install and run Beat On in headset that your headset is connected, then in your computers file browser (Windows explorer, Mac terminal and so on) look for your Quest headset and open it (in it should be a sub folder called internal storage) after finding and opening it, Open Beat On Data and put all of your song folders from the custom song folder you have on your desktop into that folder (each folder should be placed in the song folder, not an entire folder of songs, or by opening and moving the song folders files)
+### Additional steps for transferring up from the old patcher 
+
+Make sure that after you install and run Beat On in headset that your headset is connected, then in your computers file browser (Windows explorer, Mac terminal and so on) look for your Quest headset and open it (in it should be a sub folder called internal storage) after finding and opening it, Open Beat On Data and put all of your song folders from the custom song folder you have on your desktop into that folder (each folder should be placed in the song folder, not an entire folder of songs, or by opening and moving the song folders files)
 After it is done transferring restart your headset open beat on from OculusTV and go into TOOLS, when there click "Reload Songs Folder" it will load all those songs into your playlists tab and you can now organize and use them as you please before you sync them into your game
 
 
