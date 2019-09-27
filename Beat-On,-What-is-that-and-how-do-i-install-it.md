@@ -37,7 +37,7 @@ Go in headset and click the `Settings` option, then look for the toggle switch f
 
 ### PIRATED COPY'S OF BEATSABER WILL NOT WORK AND ARE NOT SUPPORTED, Apologies for the inconvenience  
 
-### To learn about installing songs or mods see [Here](https://github.com/the-expanse/SideQuest/wiki/How-to-install-Custom-Songs)
+#### To learn about installing songs or mods see [Here](https://github.com/the-expanse/SideQuest/wiki/How-to-install-Custom-Songs)
 
 After you are finished you can then also install custom songs wireless to your headset Via Wi-Fi Inside Beat on while in Headset no PC needed, Or connect to SideQuest and click the ![](https://cdn.discordapp.com/attachments/615234122604085262/621098047534923816/Screenshot_203.png) icon to Open Beat On in headset so you can install Songs and Mods directly through SideQuest your Beat On Playlists or Mods tab
 
