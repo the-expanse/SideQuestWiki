@@ -13,6 +13,4 @@ After that locate the "custom songs" folder and copy it to desktop
 after doing so uninstall all Beatsaber old game data ![](https://cdn.discordapp.com/attachments/608376262347587595/608405621741715487/Uninstall.png)
 
 and reinstall BeatSaber entirely from the Oculus store
-After that install beat on by following directions from [HERE](https://github.com/the-expanse/SideQuest/wiki/Beat-On,-What-is-that-and-how-do-i-install-it#to-install-beat-on-for-the-first-time) before returning for the next step.
-
-after you install and run Beat On, make sure your headset is connected, then in your computers file browser look for your quest headset and open it (it should be called internal storage) after finding and opening it, open Beat On Data and put all of your songs from the custom song folder you have on your desktop into that folder, after it is done transferring restart your headset, open beat on from Oculus TV and go into TOOLS, when there click "Reload Songs Folder" it will load all those songs into your playlists tab and you can now organize and use them as you please before you sync them into your game
+After that install beat on by following directions from [HERE](https://github.com/the-expanse/SideQuest/wiki/Beat-On,-What-is-that-and-how-do-i-install-it#to-install-beat-on-for-the-first-time) to finish the process and install Beat On
