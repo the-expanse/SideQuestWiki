@@ -1,3 +1,7 @@
+![https://www.youtube.com/watch?v=tt5m6rDL-UQ&feature=youtu.be](https://cdn.discordapp.com/attachments/615234075778875453/627007319687036947/Screenshot_390.png)
+
+
+### For the written walk-through
 To make the transition as smooth as possible be sure to clear out your old Beat On version if you had it from your headset,
 
 make sure to back up your songs folder from in headset, go to settings in SideQuest
