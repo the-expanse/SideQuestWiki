@@ -1,3 +1,5 @@
+
+Huge Thanks to Bobby McWho for making a video version for users.
 [![BeatOn Migration](https://cdn.discordapp.com/attachments/615234075778875453/627007319687036947/Screenshot_390.png)](https://www.youtube.com/watch?v=tt5m6rDL-UQ)
 
 ### For the written walk-through
