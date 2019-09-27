@@ -24,7 +24,7 @@ At the top right of SideQuest, Then proceed to flip the switch on, you may need 
 
  ![](https://cdn.discordapp.com/attachments/615234122604085262/621098047534923816/Screenshot_203.png) 
 
-and flip it on again if not already, then click open beat On as shown below
+and flip it on again if not already, then click open Beat On as shown below
 
 ![](https://cdn.discordapp.com/attachments/608376262347587595/609093393183932446/Screenshot_1123.png)
 
@@ -45,7 +45,7 @@ After you are finished you can then also install custom songs wireless to your h
 -------------------------------------------------------------------------------------
 ### Additional steps for transferring up from the old patcher 
 
-Make sure that after you install and run Beat On in headset that your headset is connected, then in your computers file browser (Windows explorer, Mac terminal and so on) look for your Quest headset and open it (in it should be a sub folder called internal storage) after finding and opening it, Open Beat On Data and put all of your song folders from the custom song folder you have on your desktop into that folder (each folder should be placed in the song folder, not an entire folder of songs, or by opening and moving the song folders files)
+Make sure that after you install and run Beat On in headset that your headset is connected, then install a song from beastsaber or beat saver so the system can create the "custom song" folder in your headset, then close beat on and in your computers file browser (Windows explorer, Mac terminal and so on) look for your Quest headset and open it (in it should be a sub folder called internal storage) after finding and opening it, Open Beat On Data and put all of your song folders from the custom song folder you have on your desktop into that folder (each folder should be placed in the song folder, not an entire folder of songs, or by opening and moving the song folders files)
 After it is done transferring restart your headset open beat on from OculusTV and go into TOOLS, when there click "Reload Songs Folder" it will load all those songs into your playlists tab and you can now organize and use them as you please before you sync them into your game
 
 
