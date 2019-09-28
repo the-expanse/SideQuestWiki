@@ -23,4 +23,10 @@ After that it will appear here
 
 Just drag and drop it into the desired pack and click the Glowing ![](https://cdn.discordapp.com/attachments/608376262347587595/609094963908575252/Screenshot_1125.png) button, then head in headset and open BeatSaber to find it in the desired list, Enjoy your custom songs 
 
+
+To create a new pack (a Sub category to put songs into) just click here
+
+![](https://cdn.discordapp.com/attachments/615234122604085262/627578065576525855/11.png)
+
+
 If you have anymore issues feel free to visit the [DISCORD](https://discord.me/sidequestvr) and ask for assistance, someone will try to help as soon as they have a moment to spare.
