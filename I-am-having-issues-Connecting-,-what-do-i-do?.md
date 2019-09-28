@@ -11,12 +11,18 @@ If you are having issues with Beat On Only
 2. If the above doesn't work for Beat On try to ping your headset,just Check [HERE](https://www.lifewire.com/how-to-ping-computer-or-website-818405) for how to ping your headset, Then go [HERE](https://www.makeuseof.com/tag/7-simple-steps-diagnose-network-problem/) for information on troubleshooting general network problems.
 
 
-if not, the most common things to check are
+if not see below
+
+### The most common things to check are
+
+No Pop-up in headset to connect
+----
+several things could cause that, Make sure your guardian is set up and active when looking, a standalone temporary one is fine, if still not showing, eve if windows detects it, try a new cable as yours may not fully support data transfer.
 
 Re:Toggle and Reset Dev mode
 ----
 
-Some times we forget we disabled it for some reason, also very rarely there is a glitch causing somthing to goes awry when you initially set things up, after trying the install steps more then once, or reinstalling or updating SideQuest so in your Oculus Application in your phone try to dis and re enable it, if you turn it off and you suddenly connect it is an error with the application thinking on is of and off is on, to fix this just switch Dev mode to to disabled, turn your headset off, switch Dev mode to on, then re boot your headset while phone is connected Via Bluetooth to your Quest.
+Some times we forget we disabled it for some reason, also very rarely there is a glitch causing something to goes awry when you initially set things up, after trying the install steps more then once, or reinstalling or updating SideQuest so in your Oculus Application in your phone try to dis and re enable it, if you turn it off and you suddenly connect it is an error with the application thinking on is of and off is on, to fix this just switch Dev mode to to disabled, turn your headset off, switch Dev mode to on, then re boot your headset while phone is connected Via Bluetooth to your Quest.
 
 The main setup steps for installing SideQuest
 ---
