@@ -5,11 +5,13 @@ before installation make sure before anything to `use a phone USB cable that can
 Step 1: Install SideQuest
 ====================================================
 
+Be sure to click your related OS out of the links shown below to download and install SideQuest before you continue with these steps, Windows users use the .EXE, Mac users use the DMG and so on.
+
+
+[![SideQuest Installer](https://cdn.discordapp.com/attachments/615234122604085262/627528253590077459/2unknown.png)](https://sidequestvr.com/#/download)
+
+
  [Install SideQuest](https://sidequestvr.com/#/download)
-
-Be sure to head to the link above and locate your related OS (Windows users use the .EXE, Mac the DMG)
-to download and install SideQuest before you continue with these steps.
-
 
 Step 2: Create Organization
 ====================================================
