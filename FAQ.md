@@ -73,6 +73,8 @@
 ---
 #### - [SideQuest Error: Your PC and quest should be on the same network!](https://github.com/the-expanse/SideQuest/wiki/Your-PC-and-quest-should-be-on-the-same-network!)
 
+#### - [SideQuest Error: Custom protocol not recognized](https://github.com/the-expanse/SideQuest/wiki/Custom-protocol-not-recognized)
+
 #### - [SideQuest Error: System.ArgumentNullException: Value cannot be null](https://github.com/the-expanse/SideQuest/wiki/System.ArgumentNullException:-Value-cannot-be-null.)
 
 #### - [SideQuest Error: Some tasks fail to Load](https://github.com/the-expanse/SideQuest/wiki/The-Queue-System)
