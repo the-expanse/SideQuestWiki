@@ -20,7 +20,9 @@ make sure the green connected dot is in the upper left corner, when it is green 
 
 ![](https://cdn.discordapp.com/attachments/615234122604085262/621098047534923816/Screenshot_203.png) 
 
-At the top right of SideQuest, Then proceed to flip the switch on, you may need to click it twice to get it to the on position, and `IGNORE` the "must be on same Wi-Fi" error or any other popup that may appear and click `Install Beat On` ,it will start installing, you can see weather or not it has installed via the `My Tasks` button bottom left of SideQuest, After it has finished go into your headset and click the TV tab in your Oculus home bar, scroll down and open Beat On and follow the instructions to uninstall and patch your game, after that reboot your headset and in SideQuest click
+At the top right of SideQuest, Then proceed to flip the switch on, you may need to click it twice to get it to the on position, and `IGNORE` the "must be on same Wi-Fi" error or any other popup that may appear and click `Install Beat On`, it will start installing, you can see weather or not it has installed via the `My Tasks` button bottom left of SideQuest,
+
+#### After it has finished make sure to first thing unplug your headset and go into your Quest, then open the TV tab in your Oculus home bar in the home dome ( it is in the Oculus Quests main menu near the library and settings buttons), If not installed install OculusTV, else when it opens just  scroll down, open Beat On and follow the instructions to let it uninstall and patch your game, after that reboot your headset and in SideQuest click
 
  ![](https://cdn.discordapp.com/attachments/615234122604085262/621098047534923816/Screenshot_203.png) 
 
