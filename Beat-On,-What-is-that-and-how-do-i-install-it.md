@@ -35,7 +35,7 @@ After that you should be set.
 
 If you ever see a popup that says
 `for security your phone is set to block installation of apps obtained from unknown sources`
-Go in headset and click the `Settings` option, then look for the toggle switch for unknown sources and turn it on to allow, after that you should not see that pop-up again unless you re enable the switch for some reason.
+Go in headset and click the `Settings` option, then look for the toggle switch for unknown sources and turn it on to allow, after that you should not see that pop-up again unless you disable it again or factory reset for some reason.
 
 ### PIRATED COPY'S OF BEATSABER WILL NOT WORK AND ARE NOT SUPPORTED, Apologies for the inconvenience  
 
