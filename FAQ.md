@@ -75,6 +75,8 @@
 
 #### - [SideQuest Error: Custom protocol not recognized](https://github.com/the-expanse/SideQuest/wiki/Custom-protocol-not-recognized)
 
+#### - [SideQuest Error: Istallation Aborted](https://github.com/the-expanse/SideQuest/wiki/Installation-Aborted)
+
 #### - [SideQuest Error: System.ArgumentNullException: Value cannot be null](https://github.com/the-expanse/SideQuest/wiki/System.ArgumentNullException:-Value-cannot-be-null.)
 
 #### - [SideQuest Error: Some tasks fail to Load](https://github.com/the-expanse/SideQuest/wiki/The-Queue-System)
