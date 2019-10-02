@@ -1,3 +1,5 @@
+##### Mod assistant or other external programs are not used on Quest, and playlists are not supported at the moment by Beat On, best you can do is book mark songs as you go with a Beast Saber account to have an emergency backup of all of them.
+
 Beat on is required in order to download and use Custom songs and Mods with BeatSaber, 
 To find beat on after it has been installed make sure you have download OculusTV from the official Oculus store in headset, then songs can be managed in SideQuest, but it can be done with or without wires so long as Beat On is opened and linked in headset to SideQuest on the same Wifi network. if you are updating from BeatSaber 1.3.0 or earlier try heading to the [Discord](https://discordapp.com/channels/413712766180786176/625267406150959104/625405816907759617) and checking the Support Pins within the server, or see [HERE](https://www.reddit.com/r/OculusQuest/comments/cxx9yi/sidequest_how_to_update_beatonbeatsaber/)
 
