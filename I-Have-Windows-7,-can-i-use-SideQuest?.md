@@ -1,12 +1,32 @@
 Windows 7 has been known to cause issues when installing SideQuest and sometimes will never properly install certain important needed assets, you might be able to get it running but it is unlikely, see if you can install the drivers needed for SideQuest by attempting to follow the [Setup Instructions](https://sidequestvr.com/#/setup-howto) and see if it works just be sure to install the drives manually.
 
 ### Simple Manual Drivers installing for Windows 7
-Go to device manager and find  `Quest` within the list of devices, then right click it and select `update driver`, in the popup located the extracted driver you obtained from the official [Sidequest Installation how to](https://github.com/the-expanse/SideQuest/wiki/SideQuest-Setup-&-How-To-install#step-3-install-drivers-windows-users-only) 
-also make sure you actually extract it, after that it should load in the drivers.
+Go to your device manager and find  `Quest` within the list of devices then right click it and select `update driver`, 
+
+![](https://cdn.discordapp.com/attachments/581519549027844106/629075790021263391/Screenshot_409.png)
+
+In the popup locate the extracted driver you obtained from the official [Sidequest Installation how to](https://github.com/the-expanse/SideQuest/wiki/SideQuest-Setup-&-How-To-install#step-3-install-drivers-windows-users-only) 
 
 
-### Expanded Manual Drivers installing for Windows 7
-Make sure your Headset is turned on prior to you connect your headset to your Computer, then open your Windows Explorer and navigate to the list panel on the left, right click on `Computer` or `This PC` from your Windows Explorer and select Manage. After that select Devices in the left pane, Then locate and expand Other device in the right pane before you right-click the Quest and select Update Driver Software., after that select `Browse My Computer for driver software` and click Next, you will then be able to click `Browse` and a window should appear to let you locate folders, find the Oculus drivers folder in your PC and select the folder, then click Next to install the driver before you try to restart SideQuest and see if it connects.
+Also do make sure you actually extract it, after that it should load in the drivers.
+
+
+## Expanded Manual Drivers installing for Windows 7
+
+Make sure your Headset is turned on prior to you connecting your headset to your Computer and that you are using a data capable cord/cable, then open your `Windows Explorer` then navigate to the list panel on the left, Right click on either `Computer` or `This PC` and select Manage from the pop-up. then select `Devices` in the left pane, Then locate `Other device` and open it to see `Quest` of which should appear in the drop down, right-click the `Quest` and select Update Driver Software. 
+
+![](https://cdn.discordapp.com/attachments/581519549027844106/629075790021263391/Screenshot_409.png)
+
+after that select `Browse My Computer for driver software` 
+
+![](https://cdn.discordapp.com/attachments/581519549027844106/629075882358603806/Screenshot_410.png)
+
+
+Then click Next, you will see another windows now like this
+
+![](https://cdn.discordapp.com/attachments/581519549027844106/629075434927030292/Screenshot_411.png)
+
+Click `Browse` to make a pop-up window appear and in it locate the folder with the Oculus drivers in it that you have installed and extracted, (most likely in downloads) and select the folder, then click Next and it should install the driver, then just restart SideQuest and see if it connects now.
 
 Beyond that you can see if this page helps
 
