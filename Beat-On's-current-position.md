@@ -2,3 +2,6 @@ Due to Legal concerns at the moment Beat On may not be getting any further updat
 
 Beat On Developer:
 ![](https://cdn.discordapp.com/attachments/615234122604085262/629790798896168961/33rc7vqq5lq31.png)
+
+
+[More Info](https://www.reddit.com/r/OculusQuest/comments/dddjb9/beaton_support_ending_illicit_mods_are_now/)
