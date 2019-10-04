@@ -11,7 +11,7 @@ What Beat On Is
 ----
 Beat On is an additional program for Beatsaber that makes custom song and Mod management both possible to install and use, as well as making doing so much more streamlined, allowing you to install Beatsaber songs from right inside your headset OR from your PC, while also allowing you to install new swords skins, wall colors and other various game modifications from a growing list in SideQuests [![](https://cdn.discordapp.com/attachments/608376262347587595/610263775584714773/Screenshot_1199.png)](https://sidequestvr.com/#/apps/4),
 
-After installation of Side Quest if you do not have a [2D launcher](https://sidequestvr.com/#/app/199) installed into your headset, Beat On will only appear in OculusTV, Make sure Beat On is open in headset when you want to use any Beat On features from your PC in SideQuest you can once again find it in OculusTV, or in the 2D APP launcher found in unknown sources.
+After installation of SideQuest if you do not have a [2D launcher](https://sidequestvr.com/#/app/199) installed into your headset, Beat On will only appear in OculusTV, Make sure Beat On is open in headset when you want to use any Beat On features from your PC in SideQuest you can once again find it in OculusTV, or in the 2D APP launcher found in unknown sources.
 
 
 ### To Install Beat On for the first time
@@ -24,7 +24,7 @@ make sure the green connected dot is in the upper left corner, when it is green 
 
 At the top right of SideQuest, Then proceed to flip the switch on, you may need to click it twice to get it to the on position, and `IGNORE` the "must be on same Wi-Fi" error or any other popup that may appear and click `Install Beat On`, it will start installing, you can see weather or not it has installed via the `My Tasks` button bottom left of SideQuest,
 
-#### After it has finished make sure to first thing unplug your headset and go into your Quest, then open the TV tab in your Oculus home bar in the home dome ( it is in the Oculus Quests main menu near the library and settings buttons), If not installed install OculusTV, else when it opens just  scroll down, open Beat On and follow the instructions to let it uninstall and patch your game, after that reboot your headset and in SideQuest click
+#### After it has finished make sure to, first thing restart SideQuest then unplug your headset and go into your Quest, then open the TV tab in your Oculus home bar in the home dome ( it is in the Oculus Quests main menu near the library and settings buttons), If not installed install OculusTV, else when it opens just  scroll down, open Beat On and follow the instructions to let it uninstall and patch your game, after that reboot your headset and in SideQuest click
 
  ![](https://cdn.discordapp.com/attachments/615234122604085262/621098047534923816/Screenshot_203.png) 
 
