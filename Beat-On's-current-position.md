@@ -1,4 +1,4 @@
 Due to Legal concerns at the moment Beat On may not be getting any further updates, so be warned that updating beatsaber will Brick Beat on and custom songs long term, make sure you make backups often of the APK to be able to avoid no longer being able to use custom songs in the event that Beat On is never updated again, thank you for your understanding.
 
 
-![](https://media.discordapp.net/attachments/599740612752703490/629773101349077013/Mxwi7nCpMg4AAAAASUVORK5CYII.png)
+[More Info](https://www.reddit.com/r/OculusQuest/comments/dddjb9/beaton_support_ending_illicit_mods_are_now/)
