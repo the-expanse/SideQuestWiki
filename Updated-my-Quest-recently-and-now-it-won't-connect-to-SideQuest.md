@@ -5,7 +5,8 @@ it may be that the Oculus drivers have been uninstalled from your PC causing the
 
 if in device manager you see something like this
 
-![](https://cdn.discordapp.com/attachments/581519549027844106/629631890953076746/adbscreencappostreset.PNG)
+![](https://cdn.discordapp.com/attachments/615234122604085262/629749839718121546/12.png)
+
 
 with unknown drivers, right click 
 `ADB Interface`
