@@ -56,7 +56,7 @@ Once you have enabled developer mode MAKE SURE TO REBOOT YOUR HEADSET to let you
 Step 5: Connect USB Cable and Allow USB Debugging
 ====================================================
 
-Now it's time to connect the USB cable. Once you are connected you will have to allow USB debugging `access inside your headset`. If you put your headset on at this point should see the below. 
+Now it's time to connect the USB cable. make sure a guardian is set up around your headset so that once you are connected you will have to allow USB debugging `access inside your headset`. If you put your headset on at this point should see the below. 
 
 ![](https://cdn.discordapp.com/attachments/608376262347587595/608761133444235275/Screenshot_1113.png)
 
