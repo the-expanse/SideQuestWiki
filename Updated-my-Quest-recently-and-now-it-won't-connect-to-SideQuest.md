@@ -23,9 +23,13 @@ then at the bottom click
 
 ![](https://cdn.discordapp.com/attachments/615234122604085262/629737481708896269/11.png)
 then you should see 
+
 `oculus device`
+
 from there you should be able to find find the 
+
 `oculus composite adb interface` 
+
 option and install it after that restart your PC and the issue should be resolved.
 
 Last resort failing this sadly is a Factory reset, that helps many users get back online.
