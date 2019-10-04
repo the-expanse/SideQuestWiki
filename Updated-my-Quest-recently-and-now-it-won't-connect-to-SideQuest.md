@@ -6,11 +6,15 @@ it may be that the Oculus drivers have been uninstalled from your PC causing the
 in windows just head to your device manager and search for 
 `adb interface` 
 when found then right-clicking 
-`adb interface` and in the popup hit `update driver software`
+`adb interface` and in the popup hit 
+`update driver software`
 in that pop-up click 
 `browse my computer for driver software`
- and at the bottom click 
+
+![](https://camo.githubusercontent.com/ed9362d3ded6cd7c70c3e22810141d7258ad222e/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3538313531393534393032373834343130362f3632393037353838323335383630333830362f53637265656e73686f745f3431302e706e67)
+and at the bottom click 
 `pick from a list of device drivers on my computer` 
+![](https://cdn.discordapp.com/attachments/615234122604085262/629737481708896269/11.png)
 then you should see 
 `oculus device`
 from there you should be able to find find the 
