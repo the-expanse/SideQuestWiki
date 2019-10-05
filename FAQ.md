@@ -22,6 +22,8 @@
 
 #### - [I'm having SideQuest Connection issues, are there solutions](https://github.com/the-expanse/SideQuest/wiki/I-am-having-issues-Connecting-,-what-do-i-do%3F)
 
+#### - [My Quest updated to 9.0, I re:enabled Dev mode again but it still fails to connect](https://github.com/the-expanse/SideQuest/wiki/Updated-my-Quest-recently-and-now-it-won%27t-connect-to-SideQuest)
+
 #### - [SideQuest Apps/Mods aren't installing properly, how can i fix it?](https://github.com/the-expanse/SideQuest/wiki/SideQuest-isn't-working-properly,-apps-won't-install)
 
 #### - [BlueStacks is causing issues, how do i remove it (WINDOWS)](https://github.com/the-expanse/SideQuest/wiki/BlueStacks-is-causing-issues,-how-do-i-remove-it)
