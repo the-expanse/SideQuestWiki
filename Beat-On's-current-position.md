@@ -4,4 +4,4 @@ Beat On Developer:
 ![](https://cdn.discordapp.com/attachments/615234122604085262/629790798896168961/33rc7vqq5lq31.png)
 
 
-[More Info](https://www.reddit.com/r/OculusQuest/comments/dddjb9/beaton_support_ending_illicit_mods_are_now/)
+if you wish to learn more in detail about the situation head to [Beat On Support Ending, Illicit Mods Are Pointed Out More In Quests Terms Of Service](https://www.reddit.com/r/OculusQuest/comments/dddjb9/beaton_support_ending_illicit_mods_are_now/) , Just click the blue link, and have a wonderful Day-fternoo-night.
