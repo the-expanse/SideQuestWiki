@@ -8,6 +8,8 @@
 
 **Detailed Installation Procedures**
 ---
+# - [Beat On's current status Due to legal concerns](https://github.com/the-expanse/SideQuest/wiki/Beat-On's-current-position)
+
 #### - [How do i install Custom songs with SideQuest and Beat On](https://github.com/the-expanse/SideQuest/wiki/How-to-install-Custom-Songs)
 
 #### - [I want to install PavLov, how do i because dragdropping the OBB and APK in isn't working](https://github.com/the-expanse/SideQuest/wiki/having-an-issue-installing-Pavlov%3F)
