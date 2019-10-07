@@ -1,4 +1,4 @@
-Re Enable Developer mode from the Oculus application on your Phone/Tablet as Updating the Quest some times switches it off automatically
+### FIRST BEFORE ANYTHING Re:Enable Developer mode from the Oculus application on your Phone/Tablet You set your Quest up with as Updating the Quest sometimes switches it off automatically.
 
 If you are still having issues connecting to SideQuest, and re-enabling developer mode did not fix the issue, 
 it may be that the Oculus drivers have been uninstalled from your PC causing the issue due to the latest update, so to check and fix that in windows just head to your device manager
