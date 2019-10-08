@@ -3,8 +3,6 @@
 
 #### [How to Best Update Installed Apps and Mods in SideQuest](https://github.com/the-expanse/SideQuest/wiki/How-to-Auto-Update-app's-and-mods)
 
-# - [Beat On's current status Due to legal concerns](https://github.com/the-expanse/SideQuest/wiki/Beat-On's-current-position)
-
 #### [How To Submit Games/Apps/Mods to Sidequest](https://github.com/the-expanse/SideQuest/wiki/How-To-Submit-Games)
 
 **Detailed Installation Procedures**
@@ -61,6 +59,9 @@
 
 **LEGACY Beat On/Beatsaber Installation How-Tos, Errors and Solutions**
 ---
+# - [Beat On's current status Due to legal concerns](https://github.com/the-expanse/SideQuest/wiki/Beat-On's-current-position)
+
+We no longer officially support beat on, but if you have an old version of Beatsaber from prior to the `Panic at the Disco ` update you can look here for some simple support tips
 
 #### - [About Beat On and how to properly install and enable it so you can play custom songs](https://github.com/the-expanse/SideQuest/wiki/Beat-On,-What-is-that-and-how-do-i-install-it)
 
