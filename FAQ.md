@@ -5,6 +5,8 @@
 
 # - [Beat On's current status Due to legal concerns](https://github.com/the-expanse/SideQuest/wiki/Beat-On's-current-position)
 
+#### [How To Submit Games/Apps/Mods to Sidequest](https://github.com/the-expanse/SideQuest/wiki/How-To-Submit-Games)
+
 **Detailed Installation Procedures**
 ---
 
@@ -59,8 +61,6 @@
 
 **LEGACY Beat On/Beatsaber Installation How-Tos, Errors and Solutions**
 ---
-
-#### [How To Submit Games/Apps/Mods to Sidequest](https://github.com/the-expanse/SideQuest/wiki/How-To-Submit-Games)
 
 #### - [About Beat On and how to properly install and enable it so you can play custom songs](https://github.com/the-expanse/SideQuest/wiki/Beat-On,-What-is-that-and-how-do-i-install-it)
 
