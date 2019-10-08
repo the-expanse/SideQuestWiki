@@ -1,16 +1,12 @@
 # [SideQuest Setup & How to Install Guide](https://github.com/the-expanse/SideQuest/wiki/SideQuest-Setup-&-How-To-install)
 
 
-#### [How To Submit Games/Apps/Mods to Sidequest](https://github.com/the-expanse/SideQuest/wiki/How-To-Submit-Games)
-
 #### [How to Best Update Installed Apps and Mods in SideQuest](https://github.com/the-expanse/SideQuest/wiki/How-to-Auto-Update-app's-and-mods)
 
+# - [Beat On's current status Due to legal concerns](https://github.com/the-expanse/SideQuest/wiki/Beat-On's-current-position)
 
 **Detailed Installation Procedures**
 ---
-# - [Beat On's current status Due to legal concerns](https://github.com/the-expanse/SideQuest/wiki/Beat-On's-current-position)
-
-#### - [How do i install Custom songs with SideQuest and Beat On](https://github.com/the-expanse/SideQuest/wiki/How-to-install-Custom-Songs)
 
 #### - [I want to install PavLov, how do i because dragdropping the OBB and APK in isn't working](https://github.com/the-expanse/SideQuest/wiki/having-an-issue-installing-Pavlov%3F)
 
@@ -43,10 +39,28 @@
 
 
 #### - [ Where can i find externally downloaded APKs in my headset](https://github.com/the-expanse/SideQuest/wiki/How-to-use-2D-APKs-such-as-phone-Apps-from-outside-of-Sidequest)
-
-
-**Beat On/Beatsaber Installation How-Tos And Solutions**
 ---
+
+**Errors and Fixes or information**
+---
+
+#### - [SideQuest Error: Custom protocol not recognized](https://github.com/the-expanse/SideQuest/wiki/Custom-protocol-not-recognized)
+
+#### - [SideQuest Error: Installation Aborted](https://github.com/the-expanse/SideQuest/wiki/Installation-Aborted)
+
+#### - [SideQuest Error: System.ArgumentNullException: Value cannot be null](https://github.com/the-expanse/SideQuest/wiki/System.ArgumentNullException:-Value-cannot-be-null.)
+
+#### - [SideQuest Error: Some tasks fail to Load](https://github.com/the-expanse/SideQuest/wiki/The-Queue-System)
+
+#### - [SideQuest Error: Missing DLLs or .NET ](https://github.com/the-expanse/SideQuest/wiki/Have-a-.NET-Error-or-a-missing-.DLL-(Windows-8))
+
+#### - [SideQuest Error: Some tasks failed. See the tasks screen for more info](https://github.com/the-expanse/SideQuest/wiki/The-Queue-System)
+---
+
+**LEGACY Beat On/Beatsaber Installation How-Tos, Errors and Solutions**
+---
+
+#### [How To Submit Games/Apps/Mods to Sidequest](https://github.com/the-expanse/SideQuest/wiki/How-To-Submit-Games)
 
 #### - [About Beat On and how to properly install and enable it so you can play custom songs](https://github.com/the-expanse/SideQuest/wiki/Beat-On,-What-is-that-and-how-do-i-install-it)
 
@@ -71,24 +85,12 @@
 #### - [Beatsaber is Permaloading, What can i do about it](https://github.com/the-expanse/SideQuest/wiki/Beatsaber-is--Permaloading,-what-can-i-do-about-it%3F)
 
 #### - [How to Transfer up to Beat On from the Patcher system](https://github.com/the-expanse/SideQuest/wiki/Anything-else-users-should-know-about-installing-Beat-On-from-the-old-system)
-----
 
-**Errors and Fixes or information**
----
 #### - [SideQuest Error: Your PC and quest should be on the same network!](https://github.com/the-expanse/SideQuest/wiki/Your-PC-and-quest-should-be-on-the-same-network!)
 
-#### - [SideQuest Error: Custom protocol not recognized](https://github.com/the-expanse/SideQuest/wiki/Custom-protocol-not-recognized)
-
-#### - [SideQuest Error: Istallation Aborted](https://github.com/the-expanse/SideQuest/wiki/Installation-Aborted)
-
-#### - [SideQuest Error: System.ArgumentNullException: Value cannot be null](https://github.com/the-expanse/SideQuest/wiki/System.ArgumentNullException:-Value-cannot-be-null.)
-
-#### - [SideQuest Error: Some tasks fail to Load](https://github.com/the-expanse/SideQuest/wiki/The-Queue-System)
-
-#### - [SideQuest Error: Missing DLLs or .NET ](https://github.com/the-expanse/SideQuest/wiki/Have-a-.NET-Error-or-a-missing-.DLL-(Windows-8))
-
-#### - [SideQuest Error: Some tasks failed. See the tasks screen for more info](https://github.com/the-expanse/SideQuest/wiki/The-Queue-System)
----
 #### - [BeatOn Error: Mod/Song ZIPs fail somehow when installing using Beat Ons Upload Tab](https://github.com/the-expanse/SideQuest/wiki/Mod-ZIP-files-give-an-error-when-uploading-to-Beat-On)
 
 #### - [BeatOn Error: Beatsaber asking me to update even after being updated](https://github.com/the-expanse/SideQuest/wiki/Beatsaber-asking-to-update-after-updating%3F)
+
+#### - [How do i install Custom songs with SideQuest and Beat On](https://github.com/the-expanse/SideQuest/wiki/How-to-install-Custom-Songs)
+----
