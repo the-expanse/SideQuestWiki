@@ -1,8 +1,8 @@
-For any issues, Mac or otherwise see the  [PAVLOV DISCORD](https://discord.gg/wE5ZqBB) for direct instructions 
+For any issues, Mac or otherwise see the  [OFFICIAL PAVLOV DISCORD SERVER](https://discord.gg/wE5ZqBB) for direct instructions 
 also this is a Windows only guide
 
 
-Make sure you have the most recent Folder for PavLov from the [PAVLOV DISCORD](https://discord.gg/wE5ZqBB)
+Make sure you have the most recent Folder for PavLov from the [OFFICIAL PAVLOV DISCORD SERVER](https://discord.gg/wE5ZqBB)
 
 that is usually an issue people overlook, Be sure uninstall the old version from SideQuests "My Apps" tab if you have PavLov installed already prior to you download and unzipping the newest Pavlov folder.
 
