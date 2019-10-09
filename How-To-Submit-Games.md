@@ -24,7 +24,8 @@ You can then add App urls or use Github Releases ( [Recommended](https://www.you
 The Github Release workflow supports an auto-update pipeline for apps on SideQuest - a one time setup allows you to deploy app updates to users automatically when you publish a new release. If you don't use GitHub Releases you can still leverage the app update pipeline by incrementing the `Version Code` on your listing - this will trigger an update notification in the user's Dashboard. 
 
 
-Warning: If you don't use GitHub Releases it is important to use a Direct Download URL, this means that the URL should automatically download the APK file without any kind of confirmation/download option. This means google drive does not work but you can use Dropbox if you change the file URL slightly, for instance:
+## Warning
+If you don't use GitHub Releases it is important to use a Direct Download URL, this means that the URL should automatically download the APK file without any kind of confirmation/download option. This means google drive does not work but you can use Dropbox if you change the file URL slightly, for instance:
 
 `https://www.dropbox.com/s/gsfgjg2g24gj42/MyCoolApp.apk` needs to have `?dl=1` added to the end so the full URL is 
 `https://www.dropbox.com/s/gsfgjg2g24gj42/MyCoolApp.apk?dl=1` which is then a direct download URL. You can also use your own servers to host the app files or any facility that supports a direct download ( Glitch CDN, GitHub Repo Raw Link ).
