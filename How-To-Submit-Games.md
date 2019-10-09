@@ -33,8 +33,13 @@ The Github Release workflow supports auto-updates for apps on SideQuest - a one 
 ## Warning
 If you don't use GitHub Releases it is important to use a Direct Download URL, Meaning that your URL if copied and pasted into a browser should automatically download the APK, and do so without any kind of confirmation/download option needing to be clicked. an example would be that google drive would not work as you need to click a confirmation to install it, however you can use Dropbox if you change the file URL slightly as it makes it a direct download URL, for instance:
 
-`https://www.dropbox.com/s/gsfgjg2g24gj42/MyCoolApp.apk` requires to to accept, but if you add `?dl=1` to the end so the full URL is 
-`https://www.dropbox.com/s/gsfgjg2g24gj42/MyCoolApp.apk?dl=1` it becomes a direct download URL.
+`https://www.dropbox.com/s/gsfgjg2g24gj42/MyCoolApp.apk`
+
+requires to to accept, but if you add `?dl=1` to the end so the full URL is 
+
+`https://www.dropbox.com/s/gsfgjg2g24gj42/MyCoolApp.apk?dl=1`
+
+it becomes a direct download URL.
 
 You can also use your own servers to host the app files or any facility that supports a direct download ( Glitch CDN, GitHub Repo Raw Link ). then just add the corrected direct install URL to the below
 
