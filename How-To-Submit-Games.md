@@ -17,7 +17,7 @@ You can then add App urls or use Github Releases ( [Recommended](https://www.you
 
 ![](https://cdn.discordapp.com/attachments/615234075778875453/622159152713564170/Screenshot_239.png)
 
-Properly setting up GitHub releases How-To Video
+## Properly setting up GitHub releases How-To Video
 
 [![](https://cdn.discordapp.com/attachments/608376262347587595/611697801360834600/Screenshot_10.png)](https://www.youtube.com/watch?v=B0IZv-ljwSI)
 
@@ -30,13 +30,13 @@ Warning: If you don't use GitHub Releases it is important to use a Direct Downlo
 `https://www.dropbox.com/s/gsfgjg2g24gj42/MyCoolApp.apk?dl=1` which is then a direct download URL. You can also use your own servers to host the app files or any facility that supports a direct download ( Glitch CDN, GitHub Repo Raw Link ).
 
 
-You can also add all sorts of social/donate/info links with the App URLs section.
+## You can also add all sorts of social/donate/info links with the App URLs section.
 
 ![](https://cdn.discordapp.com/attachments/615234075778875453/622159882862460928/Screenshot_241.png)
 
 
-## Fancy HTML Descriptions
-You can use HTML in the description field, obviously things like forms don't work, and any Javascript or inline CSS is automatically sanitized. You can however use any CSS classes from the UI kit we use - https://materializecss.com/
+## Fancy HTML Descriptions for your app
+You can use HTML in the description field, things like forms don't work and any Javascript or inline CSS is automatically sanitized. You can however use any CSS classes from the UI kit we use - https://materializecss.com/
 ![image](https://cdn.discordapp.com/attachments/591310408917450772/611690208768950272/unknown.png)
 ![image](https://cdn.discordapp.com/attachments/591310408917450772/611690319989178368/unknown.png)
 
