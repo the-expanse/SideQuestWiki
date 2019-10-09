@@ -15,13 +15,6 @@ Then set up your app listing as shown below.
 
 Be sure to also try and add screenshots and a video to promote your work if you can, If only one screenshot is uploaded it will be used for the parallax banner at the top, but it will be hidden from average users looking at the page if there are no screenshots, otherwise the very last screenshot added will be used for your applications parallax banner.
 
-## Fancy HTML Descriptions for your app
-You can use HTML in the description field, things like forms don't work and any Javascript or inline CSS is automatically sanitized. You can however use any CSS classes from the UI kit we use - https://materializecss.com/
-
-![image](https://cdn.discordapp.com/attachments/591310408917450772/611690208768950272/unknown.png)
-
-![image](https://cdn.discordapp.com/attachments/591310408917450772/611690319989178368/unknown.png)
-
 ## Add an APK File URL
 You can then add your Applications Urls using Github Releases to add a download option for your app/game, You can see how to easily use GitHub Releases below.
 
