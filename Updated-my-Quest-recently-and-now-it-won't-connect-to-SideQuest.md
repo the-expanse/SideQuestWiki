@@ -1,5 +1,5 @@
 # FIRST BEFORE ANYTHING 
-dis and Re:Enable Developer mode again right now from the Oculus application on your Phone/Tablet You set your Quest up with as Updating the Quest sometimes switches it off automatically.
+dis and Re:Enable Developer mode again right now from the Oculus application on your Phone/Tablet You set your Quest up with, Updating the Quest sometimes switches it off automatically but resetting it also helps the connection refresh.
 
 ----
 
