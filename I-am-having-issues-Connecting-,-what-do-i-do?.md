@@ -17,7 +17,7 @@ if not see below
 
 No Pop-up in headset to connect
 ----
-several things could cause that, Make sure your guardian is set up and active when looking, a standalone temporary one is fine, if still not showing, eve if windows detects it, try a new cable as yours may not fully support data transfer.
+several things could cause that, Make sure your guardian is set up and active when looking, a standalone temporary one is fine, if still not showing, even if windows detects it, try a new cable as yours may not fully support data transfer or have been burnt out from prior use and reduced to (Charge only) mode.
 
 Re:Toggle and Reset Dev mode
 ----
