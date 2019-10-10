@@ -3,13 +3,11 @@
 Make sure to install the very latest SideQuest from [SideQuestVR.com](https://sidequestvr.com/#/download) before proceeding
 
 
-If you are having issues with Beat On Only
+If you are having issues with BMBF Only
 ----
+we are not responsible for the BMBF application but here are a couple things to try
 
-1. Try to update Beat On first, just search "Beat On" in the mods category, click "open" and click "install latest" as usual. Then re-enable BeatOn from the Beat On icon at the top of SideQuest.
-
-2. If the above doesn't work for Beat On try to ping your headset,just Check [HERE](https://www.lifewire.com/how-to-ping-computer-or-website-818405) for how to ping your headset, Then go [HERE](https://www.makeuseof.com/tag/7-simple-steps-diagnose-network-problem/) for information on troubleshooting general network problems.
-
+1. Try to re launch BMBF while SideQuest is NOT open or running, failing that close it and if an issue in windows go to your task manager and look for `adb.exe` and end the process before retrying, also do not click ON until it says connected in the bottom.
 
 if not see below
 
