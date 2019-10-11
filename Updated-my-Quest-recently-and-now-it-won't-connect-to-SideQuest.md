@@ -35,6 +35,9 @@ from there you should be able to find find the
 
 `oculus composite adb interface` 
 
-option and install it after that restart your PC and the issue should be resolved.
+option and install it 
+
+if it dose not appear try to uncheck "show compatible drivers" and look for it then
+after that restart your PC and the issue should be resolved.
 
 Last resort failing this sadly is a Factory reset, that helps many users get back online.
