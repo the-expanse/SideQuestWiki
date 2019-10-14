@@ -1,4 +1,4 @@
-Pirated full copies of official games are not supported and will not function properly ever, they may also end up getting you banned with Oculus so be careful, also viruses are always a risk and SideQuest can not be held responsible for any game downloaded off any other website, knowing all of that and i you agree to these terms, that being SideQuest can not be held responsible for any exterior games or applications installed externally from other parties, continue on with the instructions below.
+Pirated full copies of official games upon the Quest store are not supported and will not function properly ever, they may also end up getting you banned with Oculus so be careful, also viruses are always a risk and SideQuest can not be held responsible for any game downloaded off any other website, knowing all of that and i you agree to these terms, that being SideQuest can not be held responsible for any exterior games or applications installed externally from other parties, continue on with the instructions below.
 
 
 ### Installation method one
