@@ -45,4 +45,4 @@ You can also add all sorts of social/donate/info links with the App URLs section
 You can create events with scheduled times that users can subscribe to in order to promote your app, this can easily be done in your user Dashboard as shown below.
 ![](https://cdn.discordapp.com/attachments/615234075778875453/622161090595389440/Screenshot_243.png)
 
-Connect with us on [discord](https://discord.gg/hzCf9Vj) and ask for the `AD` (App Developer) role to get access to resources and feedback options on the developer process, and if you wish for your application to be put on the featured page just ping Shane Harrison on discord.
+Connect with us on [discord](https://discord.gg/hzCf9Vj) and ask for the `AD` (App Developer) role to get access to resources and feedback options on the developer process, and if you wish for your application to be put on the featured page just ping Shane Harris on discord.
