@@ -4,14 +4,16 @@ dis and Re:Enable Developer mode again right now from the Oculus application on 
 ----
 
 If you are still having issues connecting to SideQuest, and re-enabling developer mode did not fix the issue,
-it may be that the Oculus drivers have been uninstalled from your PC causing the issue due to the latest update, or the Driver may be corrupted, either way firstly go to this [Install drivers page](https://developer.oculus.com/downloads/package/oculus-go-adb-drivers/) on your PC and download the Drivers to your pc,
-Though it may so it is for the GO The Oculus Go drivers work for the Quest as well.
-To install the drivers extract the zip folder,
+it may be that the Oculus drivers have been uninstalled from your PC causing the issue due to the latest update, or the Driver may be corrupted, either way firstly go to this [Install drivers page](https://developer.oculus.com/downloads/package/oculus-go-adb-drivers/) on your PC and download the Drivers to your PC,
+Though it may say it is for the GO The Oculus Go drivers are for the Quest.
+To install the drivers extract the zip folder, then open the extracted folder and find the INF file to install as seen below.
+
+![](https://sidequestvr.com/assets/images/right-click.png)
 
 
-So to fix it in windows just head to your `device manager`
+Now to fix it in windows just head to your PC's`device manager`
 
-and if in device manager you see ADB interface like this
+and in device manager if you see ADB interface like this
 
 ![](https://cdn.discordapp.com/attachments/615234122604085262/629749839718121546/12.png)
 
