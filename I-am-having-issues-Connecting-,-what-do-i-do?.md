@@ -1,6 +1,6 @@
 # Having connection issues? First things to try
 
-Make sure to install the very latest SideQuest from [SideQuestVR.com](https://sidequestvr.com/#/download) before proceeding
+Make sure to install the very latest SideQuest from [SideQuestVR.com](https://sidequestvr.com/#/download) properly before proceeding
 
 
 If you are having issues with BMBF Only
