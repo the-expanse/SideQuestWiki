@@ -72,7 +72,7 @@ Your Computer
 Next thing to try is unplugging your headset and turning your PC off completely to make sure all processes of ADB as well as any conflicting processes cease, make sure you do not `Reboot`, turn the computer completely off and wait a few seconds, also reboot your headset now to be sure both systems are prepped, then turn your PC back on before re opening SideQuest and trying once more to try connecting again.
 
 
-### Resetting your connection and connecting to wifi
+### Resetting your connection and/or connecting to wi-fi
 
 To reset your connection just click the `Run ADB Commands` button top of SideQuest as seen here
 
