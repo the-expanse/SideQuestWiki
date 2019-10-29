@@ -11,7 +11,7 @@ After creating an account, Head to [Your Account](https://sidequestvr.com/#/acco
 
 Then set up your app listing as shown below.
 
-![](https://cdn.discordapp.com/attachments/608376262347587595/608597561002950657/Screenshot_1095.png)
+![](https://i.imgur.com/Vd2DrFK.png)
 
 Be sure to also try and add screenshots and a video to promote your work if you can, If only one screenshot is uploaded it will be used for the parallax banner at the top, but it will be hidden from average users looking at the page if there are no screenshots, otherwise the very last screenshot added will be used for your applications parallax banner.
 
