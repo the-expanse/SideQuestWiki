@@ -1,5 +1,7 @@
+Pavlov is NOT supported by SideQuest as it will be officially purchasable Via the Oculus app store in the future.
+
 For any issues, Mac or otherwise see the  [OFFICIAL PAVLOV DISCORD SERVER](https://discord.gg/wE5ZqBB) for direct instructions 
-also this is a Windows only guide
+also Pavlov, beyond that this is a simple Windows only guide and is the most support we can provide in the matter
 
 
 Make sure you have the most recent Folder for PavLov from the [OFFICIAL PAVLOV DISCORD SERVER](https://discord.gg/wE5ZqBB)
