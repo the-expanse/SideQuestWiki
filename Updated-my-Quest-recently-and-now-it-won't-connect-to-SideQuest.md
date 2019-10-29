@@ -35,7 +35,7 @@ then at the bottom click
 then you should see 
 
 `oculus device`
-
+if it dose not appear try to locate the "show compatible drivers" box in one of the windows and un-check it,
 from there you should be able to find find the 
 
 `oculus composite adb interface` 
@@ -43,8 +43,8 @@ from there you should be able to find find the
 option and install it 
 ![](https://cdn.discordapp.com/attachments/625267367513030656/638791603011715083/unknown.png)
 
-if it dose not appear try to un-check "show compatible drivers" and look for it then
-after that restart your PC and the issue should be resolved.
+Then you should be functional, Just re launch SideQuest and connect with your viable cable/cord
+if you still have any issues restart your PC and the issue should be resolved.
 
 If you see this popup at any point just click yes
 ![](https://cdn.discordapp.com/attachments/541467913857662995/638831232360120391/unknown.png)
