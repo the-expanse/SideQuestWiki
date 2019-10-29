@@ -36,8 +36,12 @@ If you use another CI/CD workflow that does not involve Github Releases then you
 Copy the webhook url like normal here -
 ![image](
 https://cdn.discordapp.com/attachments/638666189039730690/638666413728464906/unknown.png)
-Which gives you `https://xpan.cc/release-webhook/BIG_LONG_TOKEN`
-Change it to `https://xpan.cc/version-webhook/VERSION_CODE/BIG_LONG_TOKEN`
+
+Which gives you 
+`https://xpan.cc/release-webhook/BIG_LONG_TOKEN`
+
+Change it to 
+`https://xpan.cc/version-webhook/VERSION_CODE/BIG_LONG_TOKEN`
 
 Just replace `VERSION_CODE` with your incremented version code and leave the `BIG_LONG_TOKEN` the same as the webhook url you copied. It accepts GET and POST requests and you can also optionally include a JSON payload with the url property to also update the URL of the APK file. It will remove any existing app urls with type `APK` and add the new one specified in the JSON payload. 
 
@@ -60,6 +64,13 @@ curl -X POST \
 ```
 
 
+## Promote your Social Media
+
+![](https://cdn.discordapp.com/attachments/615234075778875453/622159882862460928/Screenshot_241.png)
+
+You can also add all sorts of social/donate/info links with the App URLs section from this page for things like app promotion.
+
+
 
 ## Direct Download Warning
 It is important to use a Direct Download URL, meaning that if your URL is copied and pasted into a browser should automatically download the APK, and do so without any kind of confirmation screen. Google Drive does not work for this reason however you can use Dropbox if you change the file URL slightly as it makes it a direct download URL, for instance:
@@ -71,13 +82,6 @@ requires you to accept, but if you add `?dl=1` to the end so the full URL is
 `https://www.dropbox.com/s/gsfgjg2g24gj42/MyCoolApp.apk?dl=1`
 
 it becomes a direct download URL.
-
-You can also use your own servers to host the app files or any facility that supports a direct download ( Glitch CDN, GitHub Repo Raw Link ). Add a URL of type APK in the app URLs section. 
-
-![](https://cdn.discordapp.com/attachments/615234075778875453/622159882862460928/Screenshot_241.png)
-
-You can also add all sorts of social/donate/info links with the App URLs section from this page for things like app promotion.
-
 
 
 
