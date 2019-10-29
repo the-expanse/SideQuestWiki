@@ -1,7 +1,6 @@
 ## Sign Up and Enable Developer Mode
 
-Submitting your game or app to SideQuest is super easy! All you have to get started is to install SideQuest, Sign-up to 
-enable developer mode and create your listing, to get started.
+Submitting your game or app to SideQuest is super easy! Sign up and be ready to submit your app within minutes. Apps are approved on the first submit but can be updated after that without approval. We have a great relationship with our community of developers so if you have any issues please reach out on [discord](https://discord.gg/HNnDPSu) or on [SideQuest](https://sidequestvr.com/#/account/message-thread/1). 
 
 You can sign up and create an account for Sidequest [here](https://sidequestvr.com/#/sign-up)
 
