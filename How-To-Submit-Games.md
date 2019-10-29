@@ -13,7 +13,9 @@ Then set up your app listing as shown below.
 
 ![](https://i.imgur.com/Vd2DrFK.png)
 
-Be sure to also try and add screenshots and a video to promote your work if you can, If only one screenshot is uploaded it will be used for the parallax banner at the top, but it will be hidden from average users looking at the page if there are no screenshots, otherwise the very last screenshot added will be used for your applications parallax banner.
+![](https://i.imgur.com/DtFBePK.png)
+
+Try to add screenshots and a video to promote your work, the last screenshot is used as the parallax banner at the top. 
 
 ## Add an APK File URL
 You can manually add a url to your APK file under the App Urls section of the listing editor. Select The type `APK` in the drop down. If you update your app you can increase the Version Code on the listing to trigger auto-updates for users of your app.
