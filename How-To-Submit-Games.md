@@ -65,7 +65,7 @@ curl -X POST \
 
 
 ## Promote your Social Media and App Store Pages
-If you app is already on Desktop or Mobile VR stores such as Oculus Go/Quest/Rift, Steam, Viveport, Epic then include links to those pages also. 
+If your app is already on Desktop or Mobile VR stores such as Oculus Go/Quest/Rift, Steam, Viveport, Epic then include links to those pages also. 
 
 ![](https://cdn.discordapp.com/attachments/615234075778875453/622159882862460928/Screenshot_241.png)
 
