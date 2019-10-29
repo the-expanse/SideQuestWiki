@@ -17,7 +17,7 @@ Then set up your app listing as shown below.
 Try to add screenshots and a video to promote your work, the last screenshot is used as the parallax banner at the top. 
 
 ## Add an APK File URL
-You can manually add a url to your APK file under the App Urls section of the listing editor. Select The type `APK` in the drop down. If you update your app you can increase the Version Code on the listing to trigger auto-updates for users of your app.
+You can manually add a url to your APK file under the App Urls section of the listing editor. Select the type `APK` in the drop down. If you update your app you can increase the Version Code on the listing to trigger auto-updates for users of your app.
 
 
 ![](https://i.imgur.com/ULJiU6U.png)
