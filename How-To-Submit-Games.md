@@ -43,7 +43,7 @@ Which gives you
 Change it to 
 `https://xpan.cc/version-webhook/VERSION_CODE/BIG_LONG_TOKEN`
 
-Just replace `VERSION_CODE` with your incremented version code and leave the `BIG_LONG_TOKEN` the same as the webhook url you copied. It accepts GET and POST requests and you can also optionally include a JSON payload with the url property to also update the URL of the APK file. It will remove any existing app urls with type `APK` and add the new one specified in the JSON payload. 
+Just replace `VERSION_CODE` with your incremented version code and leave the `BIG_LONG_TOKEN` the same as the webhook url you copied. It accepts GET and POST requests and you can also optionally include a JSON payload with the url property to update the URL of the APK file. It will remove any existing app urls with type `APK` and add the new one specified in the JSON payload. 
 
 Here is a sample curl request:
 
