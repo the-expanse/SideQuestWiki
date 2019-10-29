@@ -16,18 +16,19 @@ Then set up your app listing as shown below.
 
 Try to add screenshots and a video to promote your work, the last screenshot is used as the parallax banner at the top. 
 
-## Add an APK File URL
-You can add a download url for your APK file under the App Urls section of the listing editor. Select the type `APK` in the drop down. If you update your app you can increase the Version Code on the listing to trigger auto-updates for users of your app. It is important to make sure it is a [Direct Download Url](https://github.com/the-expanse/SideQuest/wiki/How-To-Submit-Games#direct-download-warning)
-
+## SelfHost - Supply an APK URL
+You can supply a download url for your APK file under the App Urls section of the listing editor. Select the type `APK` in the drop down. If you update your app you can increase the Version Code on the listing to trigger auto-updates for users of your app. It is important to make sure it is a [Direct Download Url](https://github.com/the-expanse/SideQuest/wiki/How-To-Submit-Games#direct-download-warning)
 
 ![](https://i.imgur.com/ULJiU6U.png)
 
 
-## Github Releases
+## Deploy to Github Releases
 Here is a video tutorial on setting up an automated workflow with github releases. You can use an empty repository.
 [![](https://cdn.discordapp.com/attachments/608376262347587595/611697801360834600/Screenshot_10.png)](https://www.youtube.com/watch?v=B0IZv-ljwSI)
 
 The Github Release workflow also supports auto-updates for apps on SideQuest - a one time setup allows you to deploy app updates to users automatically when you publish a new release to GitHub.
+
+
 
 ## CI/CD without Github Releases
 If you use another CI/CD workflow that does not involve Github Releases then you can use the following webhook to trigger auto-updates for users:
