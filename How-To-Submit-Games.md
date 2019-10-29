@@ -27,7 +27,7 @@ You can add a download url for your APK file under the App Urls section of the l
 Here is a video tutorial on setting up an automated workflow with github releases. You can use an empty repository.
 [![](https://cdn.discordapp.com/attachments/608376262347587595/611697801360834600/Screenshot_10.png)](https://www.youtube.com/watch?v=B0IZv-ljwSI)
 
-The Github Release workflow also supports auto-updates for apps on SideQuest - a one time setup allows you to deploy app updates to users automatically when you publish a new release to the GitHub.
+The Github Release workflow also supports auto-updates for apps on SideQuest - a one time setup allows you to deploy app updates to users automatically when you publish a new release to GitHub.
 
 ## CI/CD without Github Releases
 If you use another CI/CD workflow that does not involve Github Releases then you can use the following webhook to trigger auto-updates for users:
