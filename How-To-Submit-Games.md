@@ -18,7 +18,8 @@ Be sure to also try and add screenshots and a video to promote your work if you 
 ## Add an APK File URL
 You can manually add a url to your APK file under the App Urls section of the listing editor. Select The type `APK` in the drop down. If you update your app you can increase the Version Code on the listing to trigger auto-updates for users of your app.
 
-![](https://cdn.discordapp.com/attachments/615234075778875453/622159882862460928/Screenshot_241.png)
+
+![](https://i.imgur.com/ULJiU6U.png)
 
 
 ## Github Releases
