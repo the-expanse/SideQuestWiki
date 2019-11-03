@@ -2,7 +2,7 @@
 
 before installation make sure before anything to `use a phone USB cable that can transfer data` instead of the cable that comes with your Quest as the cable that comes with the device is not suited for data transfer.
 
-Step 1: Install SideQuest
+Step 1: Install SideQuest To Your Computer
 ====================================================
 
 Be sure to click your related OS out of the links shown below to download and install SideQuest before you continue with these steps, Windows users use the .EXE, Mac users use the DMG and so on.
