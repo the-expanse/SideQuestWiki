@@ -14,6 +14,7 @@
 
 #### - [i have Windows 7, can i use SideQuest](https://github.com/the-expanse/SideQuest/wiki/I-Have-Windows-7,-can-i-use-SideQuest%3F)
 
+#### - [Manual Driver Installation (Windows)](https://github.com/the-expanse/SideQuest/wiki/SideQuest-driver-Re-installation)
 
 **PC SideQuest Issues**
 ---
