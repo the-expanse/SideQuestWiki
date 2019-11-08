@@ -59,6 +59,6 @@ If you see a warning about installing the driver just click `yes`.
 
 ![](https://cdn.discordapp.com/attachments/541467913857662995/641731673871876118/Screenshot_782.png)
 
-
+if it appears, repeat same process for XRSP Interface but at the end choose "Oculus Bootloader Interface" for XRSP Interface and you should be set.
 
 After that just restart everything your PC and your Headset and then open SideQuest again and you should be functioning, if not see our [Official connection issue solution list](https://github.com/the-expanse/SideQuest/wiki/I-am-having-issues-Connecting-,-what-do-i-do%3F).
