@@ -35,7 +35,7 @@ A different cord
 
 ![](https://cdn.discordapp.com/attachments/608376262347587595/609880483286876218/Screenshot_1163.png)
 
-make sure to abstain from using the cord the Quest came with as it is not the best quality and is quite faulty for anything save charging your device, it may work for a few installs but will very quickly never connect again, If you have a phone USB cable that fits use that, Also try a different USB port, be aware just because windows shows `Quest` DOSE NOT mean it is a viable cord as some cords will only ever show what the device is, and never let the user Open, modify or install things to the device.
+Make sure to abstain from using the cord the Quest came with as it is not the best quality and is quite faulty for anything save charging your device, it may work for a few installs but will very quickly never connect again, If you have a phone USB cable that fits use that, Also try a different USB port, be aware just because windows shows `Quest` DOSE NOT mean it is a viable cord as some cords will only ever show what the device is, and never let the user Open, modify or install things to the device.
 
 
 NO VPN
@@ -93,7 +93,7 @@ after that just hit `Connect to Wifi ADB" and it should then state two devices a
 If so far nothing else has worked the next thing to attempt would be a Driver re-installation, see how to do so at
 [SideQuests Driver Re-installation tutorial](https://www.reddit.com/r/sidequest/comments/dsebyq/cant_connect_to_sidequest_tried_everything_ive/)
 
-Failing the above  all of the abiove
+Failing the above  all of the above
 ----
 
 This is only for windows, Also make sure to only do it if no other options available work and if you are still having issues with ADB try the below
