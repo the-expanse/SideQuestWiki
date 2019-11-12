@@ -63,7 +63,7 @@ Now it's time to connect the USB cable. make sure a guardian is set up around yo
 
 if it does not appear and you are on windows, be sure to set up a standalone guardian and that you have SideQuest opened
 
-For Mac, use the Zip instead of the DMG else use the DMG instead of the ZIP depending on what you tried as your Mac may not have processed one of the two properly and may work better with the alternative, beyond that for connection issues, check [HERE](https://github.com/the-expanse/SideQuest/wiki/I-am-having-issues-Connecting-,-what-do-i-do%3F) after you are connected properly make sure to select 'Always allow from this computer' within your headset while still plugged in to your PC to prevent this message from coming up every time you connect and you should be ready to install Apps,Games and Mods.
+For any odd connection issues, check [HERE](https://github.com/the-expanse/SideQuest/wiki/I-am-having-issues-Connecting-,-what-do-i-do%3F) and try everything in the list, after you are connected properly make sure to select 'Always allow from this computer' within your headset while still plugged in to your PC to prevent this message from coming up every time you connect and you should be ready to install Apps,Games and Mods.
 
 Step 6: Install App Launcher
 ====================================================
