@@ -1,6 +1,8 @@
+For Creating and managing apps you made see [HOW TO SUBMIT GAMES](https://github.com/the-expanse/SideQuest/wiki/How-To-Submit-Games)
+
 Making a SideQuest account gains you access to the Dashboard, letting you gain a host of features such as messaging and friends, but also the `Auto Update` function, where you can Mass Update applications you have installed em mass,
 
-The Dashboard will be located here
+### The Dashboard will be located here
 ![](https://cdn.discordapp.com/attachments/615234075778875453/622169816719032361/Dashboard.png)
 
 
