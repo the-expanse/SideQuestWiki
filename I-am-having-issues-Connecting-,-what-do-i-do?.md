@@ -7,7 +7,7 @@ If you are having issues with BMBF Only
 ----
 we are not responsible for the BMBF application but here are a couple things to try
 
-1. Try to re launch BMBF while SideQuest is NOT open or running, failing that close it and if an issue in windows go to your task manager and look for `adb.exe` and end the process before retrying, also do not click ON until it says connected in the bottom.
+1. Try to re launch BMBF while SideQuest is NOT open or running, failing that close BMBF and Open SideQuest, then top right click the (RUN ADB commands) button and then in order click `Disconnect everything` then `Reset ADB`before closing SideQuest and re attempting
 
 if not see below
 
