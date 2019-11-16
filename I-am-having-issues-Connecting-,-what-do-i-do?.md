@@ -37,7 +37,7 @@ A different cord
 
 ![](https://cdn.discordapp.com/attachments/608376262347587595/609880483286876218/Screenshot_1163.png)
 
-Make sure to abstain from using the cord the Quest came with as it is not the best quality and is quite faulty for anything save charging your device, it may work for a few installs but will very quickly never connect again, If you have a phone USB cable that fits use that, Also try a different USB port, be aware just because windows shows `Quest` DOSE NOT mean it is a viable cord as some cords will only ever show what the device is, and never let the user Open, modify or install things to the device.
+Make sure to abstain from using the cord the Quest came with as it is not the best quality and is quite faulty for anything save charging your device, it may work for a few installs but will very quickly never connect again, If you have a phone USB cable that fits use that, Also try a different USB port, be aware just because windows shows `Quest` DOES NOT mean it is a viable cord as some cords will only ever show what the device is, and never let the user Open, modify or install things to the device.
 
 
 NO VPN
