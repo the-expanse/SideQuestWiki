@@ -1,6 +1,9 @@
 #### SideQuest is for PC only, not Mobile phones
+SideQuest is a side loading application and it requires a PC in order to sideload from, so be aware installing sidequest to your actual Quest device so you can download apps and games directly within headset and never touching a PC again is not possible, the SideQuest application within the App Store is only a launcher for apps installed from SideQuest on your PC.
 
-before installation make sure before anything to `use a phone USB cable that can transfer data` instead of the cable that comes with your Quest as the cable that comes with the device is not suited for data transfer.
+#### Before installation
+
+make sure before anything to `use a phone USB cable that can transfer data` instead of the cable that comes with your Quest as the cable that comes with the device is not suited for data transfer.
 
 Step 1: Install SideQuest To Your Computer
 ====================================================
