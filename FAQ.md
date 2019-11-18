@@ -8,7 +8,7 @@
 **Detailed Installation Procedures**
 ---
 
-#### - [I want to install PavLov, how do i because dragdropping the OBB and APK in isn't working](https://github.com/the-expanse/SideQuest/wiki/having-an-issue-installing-Pavlov%3F)
+#### - [I want to install PavLov, how do i](https://github.com/the-expanse/SideQuest/wiki/having-an-issue-installing-Pavlov%3F)
 
 #### - [How do i Manual install APKs obtained outside of SideQuest](https://github.com/the-expanse/SideQuest/wiki/How-can-i-manually-install-apps)
 
