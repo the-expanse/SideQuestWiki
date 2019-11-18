@@ -42,7 +42,7 @@ and right click the android_winusb.inf file to click install.
 
 Step 4: Reboot & Enable Developer Mode
 ====================================================
-Now that you're a "developer", open the Oculus app on your smartphone or tablet. and follow the below steps
+Now that you're a "developer", open the Oculus app on your smartphone or tablet. and follow the steps below from the Oculus application gotten for initial device setup.
 
 ![](https://cdn.discordapp.com/attachments/608376262347587595/609103817178611732/Screenshot_2019-08-07-13-23-35.png)
 ![](https://cdn.discordapp.com/attachments/608376262347587595/609103731979714597/Screenshot_2019-08-07-13-23-39.png)
