@@ -19,10 +19,10 @@ several things could cause that, Make sure your guardian is set up and active wh
 
 Re:Toggle and Reset Dev mode
 ----
+Doing so in the phone app tends to solve many issues, 
+also very rarely there is a glitch causing something to go awry sometimes making it off when it is on, the issue generally occurs on initial set up, after trying the install steps more then once, or reinstalling/ updating SideQuest,  so
 
-Very rarely there is a glitch causing something to goes awry sometimes making it off when it is on, the issue generally occurs on initial set up, after trying the install steps more then once, or reinstalling/ updating SideQuest,  so
-
-To fix the issue just head back in your Oculus Application in your phone app try to enable Dev mode, then turn off your quest while still on the Dev mode page and disable it while your system is off, then turn your headset back on and wait for it to reconnect before you re enable it,
+To try and fix such issues just head back in your Oculus Application in your phone app try to enable Dev mode, then turn off your quest while still on the Dev mode page and disable it while your system is off, then turn your headset back on and wait for it to reconnect before you re enable it,
 if you turn Dev mode off and you suddenly connect it is an error with the application thinking on is off and off is on, the steps above should fix it.
 
 The main setup steps for installing SideQuest
