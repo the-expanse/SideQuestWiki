@@ -1,10 +1,10 @@
+#### Below is the full guide to properly manually installing your Quest drivers on Windows 10. For Windows 7/8 or 8.1 the instructions are very similar, though there might be slight differences this guide should be able to get you to the proper pages and steps. 
+
 Some drivers are not automatically installed and the device simply will not connect, just because your headset connects as a MTP device or media device to Windows or popups up in the headset asking you to allow, it can be asking to allow access to the files not the ADB allow popup.
 If there is no checkbox for "Always Allow from this PC" the first time you are not properly connecting
 
 
-## Below is the full guide to properly manually installing your Quest drivers on Windows 10. For Windows 7 + 8 the instructions are very similar but there might be slight dependency. 
-
-Prerequisites
+## Prerequisites
 
 -  Make sure that your Oculus Quest is connected to your PC via a proper data capable USB cord/cable, d not use the one provided with the device by Oculus.
 
