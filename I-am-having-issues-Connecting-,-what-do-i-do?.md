@@ -1,35 +1,32 @@
 # Having connection issues? First things to try
 
-Make sure to install the very latest SideQuest from [SideQuestVR.com](https://sidequestvr.com/#/download) properly before proceeding
+Make sure to install the very latest SideQuest from [SideQuestVR.com](https://sidequestvr.com/#/download) properly before proceeding, also double check the main setup steps for installing SideQuest to make sure you have done every one of the 6 steps
+[Setup Steps](https://sidequestvr.com/#/setup-howto) 
+
 
 
 If you are having issues with BMBF Only
 ----
-we are not responsible for the BMBF application but here are a couple things to try
+###### We are not responsible for the BMBF application but here are a couple things to try
 
 1. Try to re launch BMBF while SideQuest is NOT open or running, failing that close BMBF and Open SideQuest, then top right click the (RUN ADB commands) button and then in order click `Disconnect everything` then `Reset ADB`before closing SideQuest and re attempting
 
-if not see below
+if not BMBF related see below
 
-### The most common things to check are
 
 No Pop-up in headset to connect
 ----
-several things could cause that, Make sure your guardian is set up and active when looking, a standalone temporary one is fine, if still not showing, even if windows detects it, try a new cable as yours may not fully support data transfer or have been burnt out from prior use and reduced to (Charge only) mode.
+Several things could cause that, Make sure your guardian is set up and active when looking, a standalone temporary one is fine, if still not showing, even if windows detects it, try a new cable as yours may not fully support data transfer or have been burnt out from prior use and reduced to (Charge only) mode.
+
+### Common solutions to connection issues
+
 
 Re:Toggle and Reset Dev mode
 ----
 Doing so in the phone app tends to solve many issues, 
 also very rarely there is a glitch causing something to go awry sometimes making it off when it is on, the issue generally occurs on initial set up, after trying the install steps more then once, or reinstalling/ updating SideQuest,  so
 
-To try and fix such issues just head back in your Oculus Application in your phone app try to enable Dev mode, then turn off your quest while still on the Dev mode page and disable it while your system is off, then turn your headset back on and wait for it to reconnect before you re enable it,
-if you turn Dev mode off and you suddenly connect it is an error with the application thinking on is off and off is on, the steps above should fix it.
-
-The main setup steps for installing SideQuest
----
-
-Making sure you have done every one of the 6 
-[Setup Steps](https://sidequestvr.com/#/setup-howto) 
+To try and fix such issues just head back in your Oculus Application in your phone app try to enable Dev mode, then turn off your quest while still on the Dev mode page and disable it while your system is off, then turn your headset back on and wait for it to reconnect before you re enable it, if you turn Dev mode off and you suddenly connect it is an error with the application thinking on is off and off is on, the steps above should fix it.
 
 
 A different cord
@@ -95,7 +92,7 @@ after that just hit `Connect to Wifi ADB" and it should then state two devices a
 If so far nothing else has worked the next thing to attempt would be a Driver re-installation, see how to do so at
 [SideQuests Driver Re-installation tutorial](https://www.reddit.com/r/sidequest/comments/dsebyq/cant_connect_to_sidequest_tried_everything_ive/)
 
-Failing the above  all of the above
+Failing the above  all of the above (Windows only)
 ----
 
 This is only for windows, Also make sure to only do it if no other options available work and if you are still having issues with ADB try the below
@@ -109,3 +106,9 @@ if you do not know how to, check google for how to unzip a folder for your versi
 then in SideQuest head to settings
 Then at the top of the page click `Open Main App` folder and proceed to look for the (Platform tools) Folder
 Open it, make sure to close SideQuest, then delete everything in that folder before you then copy and paste all the files and folders from the installed unzipped folder into it and click replace all, when finished  reboot SideQuest and try once more.
+
+
+
+
+
+If you still have issues you can ask around the official discord, if you already have done so you may check again as some one may have another idea to assist but do be aware that even if you are frustrated they are trying their best to assist out of the kindness of their hearts and with their free time so please do be kind, Thank you
