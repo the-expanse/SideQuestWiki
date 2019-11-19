@@ -1,7 +1,5 @@
 # [SideQuest Setup & How to Install Guide](https://github.com/the-expanse/SideQuest/wiki/SideQuest-Setup-&-How-To-install)
 
-#### [SideQuest Force Uninstall](https://github.com/the-expanse/SideQuest/wiki/Force-Uninstaller-for-SideQuest)
-
 #### [How to Best Update Installed Apps and Mods in SideQuest](https://github.com/the-expanse/SideQuest/wiki/How-to-Auto-Update-app's-and-mods)
 
 #### [How To Submit Games/Apps/Mods to Sidequest](https://github.com/the-expanse/SideQuest/wiki/How-To-Submit-Games)
@@ -16,6 +14,8 @@
 #### - [i have Windows 7, can i use SideQuest](https://github.com/the-expanse/SideQuest/wiki/I-Have-Windows-7,-can-i-use-SideQuest%3F)
 
 #### - [Manual Driver Installation (Windows)](https://github.com/the-expanse/SideQuest/wiki/SideQuest-driver-Re-installation)
+
+#### [SideQuest Force Uninstall](https://github.com/the-expanse/SideQuest/wiki/Force-Uninstaller-for-SideQuest)
 
 **PC SideQuest Issues**
 ---
