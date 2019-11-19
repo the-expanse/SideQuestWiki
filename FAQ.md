@@ -15,7 +15,7 @@
 
 #### - [Manual Driver Installation (Windows)](https://github.com/the-expanse/SideQuest/wiki/SideQuest-driver-Re-installation)
 
-#### [SideQuest Force Uninstall](https://github.com/the-expanse/SideQuest/wiki/Force-Uninstaller-for-SideQuest)
+#### - [SideQuest Force Uninstall](https://github.com/the-expanse/SideQuest/wiki/Force-Uninstaller-for-SideQuest)
 
 **PC SideQuest Issues**
 ---
