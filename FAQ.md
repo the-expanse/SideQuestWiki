@@ -1,5 +1,6 @@
 # [SideQuest Setup & How to Install Guide](https://github.com/the-expanse/SideQuest/wiki/SideQuest-Setup-&-How-To-install)
 
+## [SideQuest Force Uninstall](https://github.com/the-expanse/SideQuest/wiki/Force-Uninstaller-for-SideQuest)
 
 #### [How to Best Update Installed Apps and Mods in SideQuest](https://github.com/the-expanse/SideQuest/wiki/How-to-Auto-Update-app's-and-mods)
 
