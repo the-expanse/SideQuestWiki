@@ -5,11 +5,11 @@ Below is the full guide to properly installing your Quest drivers on Windows 10.
 
 Prerequisites
 
-Make sure that your Oculus Quest is connected to your PC via a proper data capable USB cord/cable, d not use the one provided with the device by Occulus.
+Make sure that your Oculus Quest is connected to your PC via a proper data capable USB cord/cable, d not use the one provided with the device by Oculus.
 
 That your Quest is the only android device connected to your PC and you have followed all the steps [HERE](https://github.com/the-expanse/SideQuest/wiki/SideQuest-Setup-&-How-To-install) to setup developer mode and get everything with SideQuest prepared 
 
-And to Double check that developer mode is enabled in the Oculus App on your phone.
+And to Double check that developer mode is enabled in the Oculus App on your phone by toggling it off and on again for restart.
 
 
 
