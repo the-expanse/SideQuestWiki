@@ -34,6 +34,8 @@
 
 #### - [Quest apps won't uninstall what's wrong](https://github.com/the-expanse/SideQuest/wiki/.My-apps-won't-uninstall-what's-wrong%3F)
 
+#### - [Beatsaber is Permaloading, What can i do about it](https://github.com/the-expanse/SideQuest/wiki/Beatsaber-is--Permaloading,-what-can-i-do-about-it%3F)
+
 #### - [This Quest update breaking games, what do i do](https://github.com/the-expanse/SideQuest/wiki/Quest-update-breaking-games%3F)
 
 #### - [What is the Queue system](https://github.com/the-expanse/SideQuest/wiki/The-Queue-System)
@@ -83,8 +85,6 @@ We no longer officially support beat on, but if you have an old version of Beats
 #### - [Why are Beat On Songs are skipping in the Queue](https://github.com/the-expanse/SideQuest/wiki/Beat-On-songs-are-skipping-in-the-install-Queue)
 
 #### - [Beat on in Sidequest keeps saying i have not installed Beatsaber/Beat On](https://github.com/the-expanse/SideQuest/wiki/Installing-Beatsabers-updates--Fixing-%22App-X-not-installed%22-beat-on-error)
-
-#### - [Beatsaber is Permaloading, What can i do about it](https://github.com/the-expanse/SideQuest/wiki/Beatsaber-is--Permaloading,-what-can-i-do-about-it%3F)
 
 #### - [How to Transfer up to Beat On from the Patcher system](https://github.com/the-expanse/SideQuest/wiki/Anything-else-users-should-know-about-installing-Beat-On-from-the-old-system)
 
