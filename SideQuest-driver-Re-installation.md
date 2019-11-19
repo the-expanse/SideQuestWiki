@@ -1,7 +1,8 @@
 Some drivers are not automatically installed and the device simply will not connect, just because your headset connects as a MTP device or media device to Windows or popups up in the headset asking you to allow, it can be asking to allow access to the files not the ADB allow popup.
 If there is no checkbox for "Always Allow from this PC" the first time you are not properly connecting
 
-Below is the full guide to properly installing your Quest drivers on Windows 10. For Windows 7 + 8 the instructions are very similar but there might be slight dependency. 
+
+## Below is the full guide to properly manually installing your Quest drivers on Windows 10. For Windows 7 + 8 the instructions are very similar but there might be slight dependency. 
 
 Prerequisites
 
