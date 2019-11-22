@@ -40,6 +40,8 @@ and right click the android_winusb.inf file to click install.
 
 ![](https://cdn.discordapp.com/attachments/608376262347587595/608755617242546233/drivers.png)
 
+Note that it may or may not have `.inf` at the end, both are the exact same file so do not worry about it being there or missing as that is normal.
+
 Step 4: Reboot & Enable Developer Mode
 ====================================================
 Now that you're a "developer", open the Oculus app on your smartphone or tablet. and follow the steps below from the Oculus application gotten for initial device setup.
