@@ -92,7 +92,7 @@ after that just hit `Connect to Wifi ADB" and it should then state two devices a
 If so far nothing else has worked the next thing to attempt would be a Driver re-installation, see how to do so at
 [SideQuests Driver Re-installation tutorial](https://www.reddit.com/r/sidequest/comments/dsebyq/cant_connect_to_sidequest_tried_everything_ive/)
 
-Failing the above  all of the above (Windows only)
+Failing the above  all of the above (Windows only) Try Installing the ADB folder manually
 ----
 
 This is only for windows, Also make sure to only do it if no other options available work and if you are still having issues with ADB try the below
