@@ -52,7 +52,7 @@ If BMBF askes for Beatsaber to be installed close the PC Installer/Launcher then
 After installing BMBF you should make sure to run the game without syncing any other custom songs yet, to do so just head in in headset and run Beatsaber from Oculus TVs Channels Sub section, to make sure beatsaber is properly working and connected, 
 Restarting your Quest device also helps so make sure to try that as well if having issues.
 
-Also to remember that update beatsaber you need to uninstall it via sidequest my apps Tab, or within BMBF if installed already under it's Tools tab from Oculus TV, You can then install the most up-to-date version of beatsaber directly from the Oculus store, after that you can install BMBF
+Also do remember that to update beatsaber you need to uninstall it via SideQuests my `Apps Tab` (or within BMBFs tools section if installed already from Oculus TV) You can then install the most up-to-date version of beatsaber directly from the Oculus store, after that you can uninstall the old BMBF version from your PC before installing and running it as normal.
  
 How to install mods to BMBF directly in the headset
 ----
