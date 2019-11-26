@@ -15,12 +15,14 @@ Then install and run the BMBF installer from PC while connected, which can be do
 ## Make sure to read ALL the information above before proceeding with BMBFs installation
 
 #### BMBF Auto installer 
-https://github.com/kihecido/BMBF/releases/tag/v1.4.5
+https://github.com/kihecido/BMBF/releases
+(Find the highest version number as that will the the most recent and latest one)
 
 
 #### BMBF OS GUIDE
 
-(Make sure you get the proper one suited to your OS)
+Make sure you get the proper one suited to your OS by
+Following the guide below
 
 ##### Windows
 `BMBFInstaller.Setup.X.X.X-x64-win.exe`
