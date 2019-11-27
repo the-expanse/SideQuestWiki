@@ -7,6 +7,8 @@
 **Detailed Installation Procedures**
 ---
 
+#### - (Known BMBF installation instructions)[https://github.com/the-expanse/SideQuest/wiki/BMBF]
+
 #### - [I want to install PavLov, how do i](https://github.com/the-expanse/SideQuest/wiki/having-an-issue-installing-Pavlov%3F)
 
 #### - [How do i Manual install APKs obtained outside of SideQuest](https://github.com/the-expanse/SideQuest/wiki/How-can-i-manually-install-apps)
