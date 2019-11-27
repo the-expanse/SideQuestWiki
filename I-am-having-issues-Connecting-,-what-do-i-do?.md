@@ -1,7 +1,8 @@
 ## Having connection issues? First things to try
 Make sure you have installed the very latest SideQuest from [SideQuestVR.com](https://sidequestvr.com/#/download) properly before proceeding.
 Also double check the main setup steps for installing SideQuest to make sure you have done every one of the 5 mandatory steps
-[Setup Steps](https://sidequestvr.com/#/setup-howto) 
+
+#### [Setup Steps](https://sidequestvr.com/#/setup-howto) 
 
 
 
@@ -25,11 +26,12 @@ Several things could cause that, Make sure your guardian is set up and active wh
 
 Re:Toggle and Reset Dev mode
 ----
-Doing so in the phone app tends to solve many issues, 
-also very rarely there is a glitch causing something to go awry sometimes making it off when it is on, the issue generally occurs on initial set up, after trying the install steps more then once, or reinstalling/ updating SideQuest,  so
 
-To try and fix such issues just head back in your Oculus Application in your phone app try to enable Dev mode, then turn off your quest while still on the Dev mode page and disable it while your system is off, then turn your headset back on and wait for it to reconnect before you re enable it, if you turn Dev mode off and you suddenly connect it is an error with the application thinking on is off and off is on, the steps above should fix it.
+###### If you turn Dev mode off and you suddenly connect it is an error with the application thinking on is off and off is on, the following should fix it.
 
+Head back in your Oculus Application on the device you set your Quest up with and head to settings while connected to your Quest via Bluetooth, after doing so try to Toggle Dev mode at least 3 times then back to enabled and try to connect once again, if the issue persists toggle Dev mode to enabled again, then power off your Quest completely while still on the Dev mode page in your phone application and disable it while your system is off, then turn your Headset back on, Reconnect it to your phone and Re-enable Dev mode,
+
+###### Doing so in the phone app tends to solve many issues, also some times there is a glitch causing something to go awry, such as sometimes making the headset connect to SideQuest only when Dev mode is off  and disconnect when it is on, the issue generally occurs on initial set up, after trying the install steps more then once, or Re-Installing/Updating SideQuest.
 
 A different cord
 ----
