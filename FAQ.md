@@ -7,7 +7,7 @@
 **Detailed Installation Procedures**
 ---
 
-#### - (Known BMBF installation instructions)[https://github.com/the-expanse/SideQuest/wiki/BMBF]
+#### - [Known BMBF installation instructions](https://github.com/the-expanse/SideQuest/wiki/BMBF)
 
 #### - [I want to install PavLov, how do i](https://github.com/the-expanse/SideQuest/wiki/having-an-issue-installing-Pavlov%3F)
 
