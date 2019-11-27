@@ -1,6 +1,6 @@
 ### To get or update BMBF
 
-Beat On has long since been Discontinued, BMBF is what has replaced it.
+## Beat On has long since been Discontinued, BMBF is what has replaced it.
 
 `Note that BMBF is a standalone replacement for Beat On of which SideQuest no longer supports. to install it follow the steps below. BMBF tries to recover songs, save data and such all automatically if you are transferring from Beat On.`
 
