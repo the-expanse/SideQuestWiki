@@ -1,6 +1,6 @@
-# Having connection issues? First things to try
-
-Make sure to install the very latest SideQuest from [SideQuestVR.com](https://sidequestvr.com/#/download) properly before proceeding, also double check the main setup steps for installing SideQuest to make sure you have done every one of the 6 steps
+## Having connection issues? First things to try
+Make sure you have installed the very latest SideQuest from [SideQuestVR.com](https://sidequestvr.com/#/download) properly before proceeding.
+Also double check the main setup steps for installing SideQuest to make sure you have done every one of the 5 mandatory steps
 [Setup Steps](https://sidequestvr.com/#/setup-howto) 
 
 
@@ -8,10 +8,9 @@ Make sure to install the very latest SideQuest from [SideQuestVR.com](https://si
 If you are having issues with BMBF Only
 ----
 ###### We are not responsible for the BMBF application but here are a couple things to try
-
 1. Try to re launch BMBF while SideQuest is NOT open or running, failing that close BMBF and Open SideQuest, then top right click the (RUN ADB commands) button and then in order click `Disconnect everything` then `Reset ADB`before closing SideQuest and re attempting
 
-if not BMBF related see below
+# If not BMBF related see below
 
 Check Oculus LINK
 ----
