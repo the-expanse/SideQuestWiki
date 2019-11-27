@@ -64,3 +64,13 @@ For MOD installation see here
 
 Where you go with the google search in the video
 https://github.com/RedBrumbler/BMBFCustomSabers
+
+
+
+
+
+
+
+
+
+##### Note that Beat On is no longer supported or updated, and won't be anywhere ever again, and that BMBF is it's replacement, and has it's own installer that you can use to download it right into your headset, also to be aware of is that when ever Beatsaber gets updates it usually (at least for a while) make BMBF non functional for importing custom songs and mods, Apologies but if you have updated and BMBF has stopped functioning there is little to be done, You can see if there is a backed up APK in the BMBF data backup folder in your device to recover to, if so be sure to uninstall Beatsaber first before using the backup, (usually called "donotuse" as an anti tamper measure) with the install APK button top right of SideQuest, Otherwise if you are new to BMBF and/or have no backup you will have to wait until the creators of BMBF are able to do some work to update BMBF and decided their work is ready to be released, until then the only thing to do is wait till they put out a new installer that is compatible with Beatsabers updated version to be able to be used and let you install custom songs once more,The time frame of which no one knows as each update is different.
