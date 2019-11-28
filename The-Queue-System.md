@@ -4,7 +4,7 @@ If you get an error like below.
 
 ![](https://cdn.discordapp.com/attachments/608376262347587595/614606619606515727/Screenshot_48.png)
 
-or the or the `Some tasks failed. See the tasks screen for more info` error,
+or the `Some tasks failed. See the tasks screen for more info` error,
 you can access the Queue list from the picture shown below.
 
 ##### For the `Some tasks failed. See the tasks screen for more info` error
