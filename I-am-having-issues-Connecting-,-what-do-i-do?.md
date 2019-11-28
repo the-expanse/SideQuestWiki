@@ -26,7 +26,7 @@ Several things could cause that, Make sure your guardian is set up and active wh
 
 Re:Toggle and Reset Dev mode
 ----
-Note you should do this after any Oculus OS update as it usually is auto disabled due to the update.
+Note you should toggle Developer mode after any Oculus OS update as it usually is auto disabled due to the update.
 
 ###### If you turn Dev mode off and you suddenly connect it is an error with the application thinking on is off and off is on, the following should fix it.
 
