@@ -1,11 +1,10 @@
+###### SideQuest is NOT responsible for BMBF, how it modifies BeatSaber or what it does and can not be held responsible for any issues that occur upon install be they from user error or from the program side.
+
 ### To get or update BMBF
 
 ## Beat On has long since been Discontinued, BMBF is what has replaced it.
 
 `Note that BMBF is a standalone replacement for Beat On of which SideQuest no longer supports. to install it follow the steps below. BMBF tries to recover songs, save data and such all automatically if you are transferring from Beat On.`
-
-SideQuest is NOT responsible for BMBF, how it modifies BeatSaber or what it does and can not be held responsible for any issues
-that occure upon install be they from user error or from the program side.
 
 First uninstall Beatsaber (and BMBF's old versions, to find them search the word `love` in the My apps tab and it should pop up as `We Love Oculus`,and then find and remove it's Wrapper, or Beat On if you have that still) in order to get a clean game for the newest BMBF to be able to patch properly. Any modifications to official games make them unable to update or uninstall naturally in headset so uninstall it in SideQuest's  my apps tab under the app settings icon (a Gear icon) to its right. Then just reinstall your game from the official Oculus store, 
 
