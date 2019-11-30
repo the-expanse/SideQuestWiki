@@ -1,6 +1,10 @@
 ###### SideQuest is NOT responsible for BMBF, how it modifies BeatSaber or what it does and can not be held responsible for any issues that occur upon install be they from user error or from the program side.
 
-### To get or update BMBF
+# To get or update BMBF
+
+### MAKE SURE TO HAVE AN OFFICIAL PAID FOR VERSION OF BEATSABER FROM THE OFFICIAL OCULUS QUEST STORE
+
+Like Beat On before it BMBF will NOT work without an official validation from your system so you will need to have bought the game and installed it before hand.
 
 ## Beat On has long since been Discontinued, BMBF is what has replaced it.
 
