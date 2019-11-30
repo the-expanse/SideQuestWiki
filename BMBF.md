@@ -63,6 +63,11 @@ Also do remember that to update beatsaber you need to uninstall it via SideQuest
 
 ## The BMBF installer is also a launcher so if you launch the BMBF installer when connected to your headset a second time it will allow you to click "Open BMBF" and it will launch a web page allowing management of BMBF and your songs and mods from PC, letting users install zips manually of songs and mods from it's UPLOAD tab
 
+#### Getting Songs with your PC
+You can get a zip from `Beastsaber.com` or `beatsaver.com` and click open BMBF on your PC
+then go to the upload tab and install it there.
+
+Alternatively you can use the built in bookmark system which is a bit easier, just log into a beastsaber account on your PC or phone in a web browser, find a song you like, click the bookmark icon on songs you want, and then in headset in the BMBF applications syncsaber tab put your user name/bookmark list name and enable bookmarks to infinite mode (set it to below zero) then you just click the sync button on the page and let them install, then your done.
 
 How to install mods to BMBF directly in the headset
 ----
