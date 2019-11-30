@@ -60,6 +60,10 @@ Restarting your Quest device also helps so make sure to try that as well if havi
 
 Also do remember that to update beatsaber you need to uninstall it via SideQuests my `Apps Tab` (or within BMBFs tools section if installed already from Oculus TV) You can then install the most up-to-date version of beatsaber directly from the Oculus store, after that you can uninstall the old BMBF version from your PC before installing and running it as normal.
  
+
+## The BMBF installer is also a launcher so if you launch the BMBF installer when connected to your headset a second time it will allow you to click "Open BMBF" and it will launch a web page allowing management of BMBF and your songs and mods from PC, letting users install zips manually of songs and mods from it's UPLOAD tab
+
+
 How to install mods to BMBF directly in the headset
 ----
 For MOD installation see here
