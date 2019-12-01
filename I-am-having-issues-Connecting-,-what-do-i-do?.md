@@ -45,6 +45,8 @@ Note you should toggle Developer mode after any Oculus OS update as it usually i
 
 ###### If you turn Dev mode off and you suddenly connect it is an error with the application thinking on is off and off is on, the following should fix it.
 
+######## Note that none of these steps are in about or with SideQuest, only the mobile phone application for Oculus
+
 Head back in your Oculus Application on the device you set your Quest up with and head to settings while connected to your Quest via Bluetooth, after doing so try to Toggle Dev mode at least 3 times then back to enabled and try to connect once again, if the issue persists toggle Dev mode to enabled again, then power off your Quest completely while still on the Dev mode page in your phone application and disable it while your system is off, then turn your Headset back on, Reconnect it to your phone and Re-enable Dev mode,
 
 ###### Doing so in the phone app tends to solve many issues, also some times there is a glitch causing something to go awry, such as sometimes making the headset connect to SideQuest only when Dev mode is off  and disconnect when it is on, the issue generally occurs on initial set up, after trying the install steps more then once, or Re-Installing/Updating SideQuest.
