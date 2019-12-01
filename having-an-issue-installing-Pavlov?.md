@@ -8,8 +8,11 @@ Also do make sure you have the most recent Folder for PavLov from the [OFFICIAL 
 
 that is usually an issue people overlook, Be sure uninstall the old version from SideQuests "My Apps" tab if you have had PavLov installed already prior to you downloading and unzipping the newest Pavlov folder for installation.
 
-### NOTE the file name may not be the same anymore but the process should be. 
-(As in right clicking to extract and such)
+### NOTE the file name may not be the same anymore but the process of right clicking and extraction should be.
+Also note that the "Go driver" folders shown in the pictures below are Example folders, you do these steps using
+your installed Pavlov folder.
+
+
 ![](https://cdn.discordapp.com/attachments/608376262347587595/608756299177656320/extract_drivers.png)
 
 
