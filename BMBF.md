@@ -22,6 +22,10 @@ First you need to get a clean unmodded Beatsaber version installed and run it to
 
 `Note any modifications to official games make them unable to update or uninstall naturally in headset, You can uninstall them in SideQuest's  my apps tab under the app settings icon (a Gear icon) to its right. Then just reinstall your game from the official Oculus store.`
 
+### For save data
+Make sure to run SideQuest and reload save data and that thr scores can be seen in the base game Prior to installing BMBF.
+
+
 ### For purchased packs
 `Be sure after re-installation to buy/re download any packs you have or want in game BEFORE patching with BMBF,
 Then install and run the BMBF installer from PC while connected, which can be downloaded from the below link and run it in headset from the Oculus TV  Channels subsection after it is done`
