@@ -85,8 +85,8 @@ For MOD installation see here
 
 [in headset BMBF Mod installation Tutorial](https://youtu.be/FcvZwF8j-ro)
 
-Where you go with the google search in the video
-https://github.com/RedBrumbler/BMBFCustomSabers
+`Where you go with the google search in the video above
+https://github.com/RedBrumbler/BMBFCustomSabers`
 
 
 So long as BMBF is properly installed SideQuest may be used to install mods from it's BMBF mod tab through a Cable of from Wireless mode if connected that way.
