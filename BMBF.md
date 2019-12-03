@@ -58,7 +58,9 @@ Make sure to connect your headset then run the BMBF installer to let it install 
 After installing BMBF you should make sure to run the game without syncing any other custom songs yet, to do so just head in in headset and run Beatsaber from Oculus TVs Channels Sub section, to make sure beatsaber is properly working and connected, 
 Restarting your Quest device also helps so make sure to try that as well if having issues.
 
-If you had purchased DLC, mods or custom songs installed before hand It will automatically transfer them to its self, 
+### - If you had purchased DLC, mods or custom songs installed before hand
+
+The system will automatically transfer them to its self, for bought packs make sure however you install them to your base game prior to modding it with BMBF.
 If they are not present go to the Tools tab in BMBF in PC or Headset and click Reload Song Folder, Then sync and launch the game and they should appear then.
 
 ### - PC song and mod management
