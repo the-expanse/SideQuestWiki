@@ -16,14 +16,18 @@ If this occurs be sure to in your main library click the 3 dot button on Beatsab
 
 ### - If you have modded before or your current BMBF is Non-functioning
 
-First you need to get a clean unmodded Beatsaber version installed and run it to Solo mode (open the game and enter solo mode) before closing it for the newest BMBF to be able to patch properly. to do so uninstall Beatsaber and BMBF's old version using SideQuests my apps tab, You can find it by searching the word `love` in the My apps tab and it should pop up as `We Love Oculus`and uninstall it by clicking the gear icon to the right and clicking uninstall, Then find and remove the BMBF related `Wrapper` 
+First you need to get a clean unmodded Beatsaber version installed and run it to Solo mode (open the game and enter solo mode) before closing it for the newest BMBF to be able to patch properly. Also if you care for your scores be sure to back them up in the SideQuests my tasks area before uninstalling Beatsaber
+
+###- To uninstall Beatsaber
+
+Go to the my task tab in sidequest and click the gear to the right of the application and click uninstall, you can do the same for BMBF's old version using SideQuests my apps tab by searching the word `love` in the My apps tab and it should pop up as `We Love Oculus`and uninstall it by clicking the gear icon to the right and clicking uninstall, Then find and remove the BMBF related `Wrapper` 
 (Uninstall Beat On if you have that still)
 
 
 `Note any modifications to official games make them unable to update or uninstall naturally in headset, You can uninstall them in SideQuest's  my apps tab under the app settings icon (a Gear icon) to its right. Then just reinstall your game from the official Oculus store.`
 
 ### For save data
-Make sure to run SideQuest and reload save data and that thr scores can be seen in the base game Prior to installing BMBF.
+Make sure to run SideQuest and reload your save data from the My Tasks tab and that the scores can be seen in the base game Prior to installing BMBF.
 
 
 ### For purchased packs
