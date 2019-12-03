@@ -81,15 +81,19 @@ Alternatively you can use the built in bookmark system which is a bit easier, ju
 
 How to install mods to BMBF directly in the headset
 ----
-##### For MOD installation see here
+##### For in headset MOD installation see here
 
-[In headset BMBF Mod installation Tutorial Video](https://youtu.be/FcvZwF8j-ro)
+[![](https://cdn.discordapp.com/attachments/541467913857662995/651403839605440513/Screenshot_956.png)](https://youtu.be/FcvZwF8j-ro)
 
 ##### Where you go with the google search in the video linked above
 `https://github.com/RedBrumbler/BMBFCustomSabers`
 
 
+#### - Alternative ways to install Mods
+
 So long as BMBF is properly installed SideQuest may be used to install mods from it's BMBF mod tab through a Cable of from Wireless mode if connected that way.
+
+You can also install mods by running the BMBF insteller.exe again and clicking open BMBF, then going to the upload tab in the browser page that opens and installing a ZIP file for a mod you have by dragdropping the zip folder over the large upload button. 
 
 
 
