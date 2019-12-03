@@ -8,14 +8,17 @@
 
 Like Beat On before it BMBF will NOT work without an official validation from your system so you will need to have bought the game and installed it before hand.
 
+## If your game perma loads
+if this occurs be sure to in your main library click the 3 dot button on Beatsabers game icon, then go to Permissions and turn allow Storage permissions for the game then restart your device.
+
 # To Install OR update BMBF 
 
 First uninstall Beatsaber and BMBF's old version using SideQuests my apps tab, you can find it by searching the word `love` in the My apps tab and it should pop up as `We Love Oculus`and uninstall it by clicking the gear icon to the right and clicking uninstall, Then find and remove the BMBF related `Wrapper` 
 (Uninstall Beat On if you have that still)
-In order to get a clean game for the newest BMBF to be able to patch properly you must make sure to properly remove all Beatsaber related programs as well as Beatsaber itself. 
-Any modifications to official games make them unable to update or uninstall naturally in headset, You can uninstall them in SideQuest's  my apps tab under the app settings icon (a Gear icon) to its right. Then just reinstall your game from the official Oculus store.
 
-After re-installation you NEED to run it to solo mode in game, this is so it can create certain files needed, Then close Beatsaber install BMBF to your PC to run it and install BMBF to your headset.
+Get a clean unmodded game and run it to Solo mode (open the game and enter solo mode) before closing it for the newest BMBF to be able to patch properly.
+
+Note any modifications to official games make them unable to update or uninstall naturally in headset, You can uninstall them in SideQuest's  my apps tab under the app settings icon (a Gear icon) to its right. Then just reinstall your game from the official Oculus store.
 
 ### For purchased packs
 `Be sure after re-installation to buy/re download any packs you have or want in game BEFORE patching with BMBF,
@@ -47,8 +50,6 @@ Following the guide below
 Both `BMBF_TVWrapper.apk` And `com.weloveoculus.BMBF.apk` are for manual installation only so unless you have issues with the auto installer they are un needed but can be installed in SideQuest top right with the APK installation button top left of SideQuest.
 
 After installing it make sure to connect your headset then run the BMBF installer to let it install BMBF to your headset.
-
-### If your game perma loads be sure to in your main library click the 3 dot button on Beatsabers game icon, then go to Permissions and turn allow Storage permissions for the game.
 
 If you had purchased DLC, mods or custom songs installed before hand It will automatically transfer them to its self, 
 If not go to the Tools tab in BMBF in PC or Headset and click Reload Song Folder , Then sync and launch the game and they should appear then.
