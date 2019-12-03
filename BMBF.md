@@ -9,7 +9,7 @@
 Like Beat On before it BMBF will NOT work without an official validation from your system so you will need to have bought the game and installed it before hand.
 
 ## - If your game perma loads
-if this occurs be sure to in your main library click the 3 dot button on Beatsabers game icon, then go to Permissions and turn allow Storage permissions for the game then restart your device.
+If this occurs be sure to in your main library click the 3 dot button on Beatsabers game icon, then go to Permissions and turn allow Storage permissions for the game, if the issue persists then restart your device and it should subside, if it does continue it would be best to clean install following the directions below.
 
 # - To Install OR update BMBF 
 
