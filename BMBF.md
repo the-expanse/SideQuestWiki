@@ -1,24 +1,27 @@
 ###### SideQuest is NOT responsible for BMBF, how it modifies BeatSaber or what it does and can not be held responsible for any issues that occur upon install be they from user error or from the program side.
 
-# To get or update BMBF
+## Beat On has long since been Discontinued, BMBF is what has replaced it.
+
+`Note that BMBF is a standalone replacement for Beat On of which SideQuest no longer supports. to install it follow the steps below. BMBF tries to recover songs, save data and such all automatically if you are transferring from Beat On.`
 
 ### MAKE SURE TO HAVE AN OFFICIAL PAID FOR VERSION OF BEATSABER FROM THE OFFICIAL OCULUS QUEST STORE
 
 Like Beat On before it BMBF will NOT work without an official validation from your system so you will need to have bought the game and installed it before hand.
 
-## Beat On has long since been Discontinued, BMBF is what has replaced it.
+# To Install OR update BMBF 
 
-`Note that BMBF is a standalone replacement for Beat On of which SideQuest no longer supports. to install it follow the steps below. BMBF tries to recover songs, save data and such all automatically if you are transferring from Beat On.`
-
-First uninstall Beatsaber (and BMBF's old versions, to find them search the word `love` in the My apps tab and it should pop up as `We Love Oculus`,and then find and remove it's Wrapper, or Beat On if you have that still) in order to get a clean game for the newest BMBF to be able to patch properly. Any modifications to official games make them unable to update or uninstall naturally in headset so uninstall it in SideQuest's  my apps tab under the app settings icon (a Gear icon) to its right. Then just reinstall your game from the official Oculus store, 
+First uninstall Beatsaber and BMBF's old version using SideQuests my apps tab, you can find it by searching the word `love` in the My apps tab and it should pop up as `We Love Oculus`and uninstall it by clicking the gear icon to the right and clicking uninstall, Then find and remove the BMBF related `Wrapper` 
+(Uninstall Beat On if you have that still)
+In order to get a clean game for the newest BMBF to be able to patch properly you must make sure to properly remove all Beatsaber related programs as well as Beatsaber itself. 
+Any modifications to official games make them unable to update or uninstall naturally in headset, You can uninstall them in SideQuest's  my apps tab under the app settings icon (a Gear icon) to its right. Then just reinstall your game from the official Oculus store.
 
 After re-installation you NEED to run it to solo mode in game, this is so it can create certain files needed, Then close Beatsaber install BMBF to your PC to run it and install BMBF to your headset.
 
-Also be sure after re-installation to buy/re download any packs you have or want in game BEFORE patching with BMBF,
-Then install and run the BMBF installer from PC while connected, which can be downloaded from the below link and run it in headset from the Oculus TV  Channels subsection after it is done
-.
+### For purchased packs
+`Be sure after re-installation to buy/re download any packs you have or want in game BEFORE patching with BMBF,
+Then install and run the BMBF installer from PC while connected, which can be downloaded from the below link and run it in headset from the Oculus TV  Channels subsection after it is done`
 
-## Make sure to read ALL the information above before proceeding with BMBFs installation
+# Make sure to read ALL the information above before proceeding with BMBFs installation
 
 #### BMBF Auto installer 
 https://github.com/kihecido/BMBF/releases
