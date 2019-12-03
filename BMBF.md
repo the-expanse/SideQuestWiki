@@ -4,21 +4,23 @@
 
 `Note that BMBF is a standalone replacement for Beat On of which SideQuest no longer supports. to install it follow the steps below. BMBF tries to recover songs, save data and such all automatically if you are transferring from Beat On.`
 
-### MAKE SURE TO HAVE AN OFFICIAL PAID FOR VERSION OF BEATSABER FROM THE OFFICIAL OCULUS QUEST STORE
+### - MAKE SURE TO HAVE AN OFFICIAL PAID FOR VERSION OF BEATSABER FROM THE OFFICIAL OCULUS QUEST STORE
 
 Like Beat On before it BMBF will NOT work without an official validation from your system so you will need to have bought the game and installed it before hand.
 
-## If your game perma loads
+## - If your game perma loads
 if this occurs be sure to in your main library click the 3 dot button on Beatsabers game icon, then go to Permissions and turn allow Storage permissions for the game then restart your device.
 
-# To Install OR update BMBF 
+# - To Install OR update BMBF 
 
-First uninstall Beatsaber and BMBF's old version using SideQuests my apps tab, you can find it by searching the word `love` in the My apps tab and it should pop up as `We Love Oculus`and uninstall it by clicking the gear icon to the right and clicking uninstall, Then find and remove the BMBF related `Wrapper` 
+
+### - If you have modded before or your current BMBF is Non-functioning
+
+First you need to get a clean unmodded Beatsaber version installed and run it to Solo mode (open the game and enter solo mode) before closing it for the newest BMBF to be able to patch properly. to do so uninstall Beatsaber and BMBF's old version using SideQuests my apps tab, You can find it by searching the word `love` in the My apps tab and it should pop up as `We Love Oculus`and uninstall it by clicking the gear icon to the right and clicking uninstall, Then find and remove the BMBF related `Wrapper` 
 (Uninstall Beat On if you have that still)
 
-Get a clean unmodded game and run it to Solo mode (open the game and enter solo mode) before closing it for the newest BMBF to be able to patch properly.
 
-Note any modifications to official games make them unable to update or uninstall naturally in headset, You can uninstall them in SideQuest's  my apps tab under the app settings icon (a Gear icon) to its right. Then just reinstall your game from the official Oculus store.
+`Note any modifications to official games make them unable to update or uninstall naturally in headset, You can uninstall them in SideQuest's  my apps tab under the app settings icon (a Gear icon) to its right. Then just reinstall your game from the official Oculus store.`
 
 ### For purchased packs
 `Be sure after re-installation to buy/re download any packs you have or want in game BEFORE patching with BMBF,
@@ -49,20 +51,24 @@ Following the guide below
 
 Both `BMBF_TVWrapper.apk` And `com.weloveoculus.BMBF.apk` are for manual installation only so unless you have issues with the auto installer they are un needed but can be installed in SideQuest top right with the APK installation button top left of SideQuest.
 
-After installing it make sure to connect your headset then run the BMBF installer to let it install BMBF to your headset.
+### - After installing BMBF
+
+Make sure to connect your headset then run the BMBF installer to let it install BMBF to your headset.
+
+After installing BMBF you should make sure to run the game without syncing any other custom songs yet, to do so just head in in headset and run Beatsaber from Oculus TVs Channels Sub section, to make sure beatsaber is properly working and connected, 
+Restarting your Quest device also helps so make sure to try that as well if having issues.
 
 If you had purchased DLC, mods or custom songs installed before hand It will automatically transfer them to its self, 
-If not go to the Tools tab in BMBF in PC or Headset and click Reload Song Folder , Then sync and launch the game and they should appear then.
+If they are not present go to the Tools tab in BMBF in PC or Headset and click Reload Song Folder, Then sync and launch the game and they should appear then.
+
+### - PC song and mod management
 
 You can manage BMBF on PC connecting your headset to your PC and RE:running the installer, clicking the switch that appears to the "on" position in the switch and  clicking 
 "Open BMBF" it will open a page for it,
 
-If BMBF askes for Beatsaber to be installed close the PC Installer/Launcher then in headset open BMBF in Oculus TVs Channels subsection and run the Beatsaber from it to solo mode before closing it, Dis and reconnecting your headset from your PC and Re:running the installer, Make sure to wait for it to say connected in the bottom left before flipping it on and clicking "open BMBF"
- 
-After installing BMBF you should make sure to run the game without syncing any other custom songs yet, to do so just head in in headset and run Beatsaber from Oculus TVs Channels Sub section, to make sure beatsaber is properly working and connected, 
-Restarting your Quest device also helps so make sure to try that as well if having issues.
+### - If BMBF acts like Beatsaber isn't installed
 
-Also do remember that to update beatsaber you need to uninstall it via SideQuests my `Apps Tab` (or within BMBFs tools section if installed already from Oculus TV) You can then install the most up-to-date version of beatsaber directly from the Oculus store, after that you can uninstall the old BMBF version from your PC before installing and running it as normal.
+Close the PC Installer/Launcher then in headset open BMBF in Oculus TVs Channels subsection and run the Beatsaber from it to solo mode before closing it, Dis and reconnecting your headset from your PC and Re:running the installer, Make sure to wait for it to say connected in the bottom left before flipping it on and clicking "open BMBF"
  
 
 ## The BMBF installer is also a launcher so if you launch the BMBF installer when connected to your headset a second time it will allow you to click "Open BMBF" and it will launch a web page allowing management of BMBF and your songs and mods from PC, letting users install zips manually of songs and mods from it's UPLOAD tab
