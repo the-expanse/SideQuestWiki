@@ -22,6 +22,8 @@
 **PC SideQuest Issues**
 ---
 
+#### - [How to Ping Your Quest Headset](https://github.com/the-expanse/SideQuest/wiki/How-to-PING-your-Quest)
+
 #### - [I'm having SideQuest Connection issues, are there solutions](https://github.com/the-expanse/SideQuest/wiki/I-am-having-issues-Connecting-,-what-do-i-do%3F)
 
 #### - [My Quest updated to 9.0, I re:enabled Dev mode again but it still fails to connect](https://github.com/the-expanse/SideQuest/wiki/Updated-my-Quest-recently-and-now-it-won%27t-connect-to-SideQuest)
