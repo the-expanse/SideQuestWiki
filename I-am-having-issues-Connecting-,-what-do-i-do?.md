@@ -11,7 +11,15 @@ Also double check the main setup steps for installing SideQuest to make sure you
 
 
 ## [Setup Steps](https://sidequestvr.com/#/setup-howto) 
+
+For Windows users be sure to double check step 3 to make sure the drivers were properly installed
+
+For windows 7 users see the below link for driver installation instructions
 ----
+
+https://github.com/the-expanse/SideQuest/wiki/I-Have-Windows-7,-can-i-use-SideQuest%3F
+
+
 
 ### BMBF issues
 
