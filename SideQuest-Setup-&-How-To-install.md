@@ -26,9 +26,9 @@ Step 3: Install Drivers (Windows users Only)
 ====================================================
 Make sure before anything further to use a proper cable, such as phone USB cable that can transfer data instead of the cable that comes with your Quest as the cable that comes with the device is not suited for data transfer.
 
-To properly install the driver software for your device into windows. Go to this [Install drivers page](https://developer.oculus.com/downloads/package/oculus-go-adb-drivers/) on your PC and download the drivers for your headset.
-Though it may so it is for the GO The Oculus Go drivers work for the Quest as well.
-To install the drivers extract the zip folder,
+To properly install the driver software for your device into windows. First Go to this [Install drivers page](https://developer.oculus.com/downloads/package/oculus-go-adb-drivers/) on your PC and download the folder containing the drivers to your PC, then locate the drivers ZIP folder and extract the zip folder as shown below.
+
+`(Though it may so it is for the GO The Oculus Go drivers work for the Quest as well)`
 
 ![](https://cdn.discordapp.com/attachments/608376262347587595/608756299177656320/extract_drivers.png)
 
