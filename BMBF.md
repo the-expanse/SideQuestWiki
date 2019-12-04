@@ -57,7 +57,9 @@ Following the guide below
 
 ##### Manual installation DO NOT INSTALL IF YOU USE THE AUTO INSTALLER EXE, this can cause various issues
 
-Both `BMBF_TVWrapper.apk` And `com.weloveoculus.BMBF.apk` are for manual installation only so unless you have issues with the auto installer they are un needed but can be installed in SideQuest top right with the APK installation button top left of SideQuest.
+Both `BMBF_TVWrapper.apk` And `com.weloveoculus.BMBF.apk` are for manual installation only so unless you have issues with the auto installer they are un-needed and should not be installed.
+
+If manually installing due to issues download both the APKs mentioned above, then launch SideQuest and click the button top right that when hovered over says `Install APK file from folder`, then you can locate and install both of the APKs in the popup window before restarting your headset, BMBF should then be located in headset under OculusTV under `Channels`.
 
 ### - After installing BMBF
 
