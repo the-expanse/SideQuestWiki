@@ -80,7 +80,7 @@ You can manage BMBF on PC connecting your headset to your PC and RE:running the 
 
 ### - If BMBF acts like Beatsaber isn't installed
 
-Close the PC Installer/Launcher then in headset open BMBF in Oculus TVs Channels subsection and run the Beatsaber from it to solo mode before closing it, Dis and reconnecting your headset from your PC and Re:running the installer, Make sure to wait for it to say connected in the bottom left before flipping it on and clicking "open BMBF"
+Close the PC Installer/Launcher then in headset open BMBF in Oculus TVs Channels subsection and run the Beatsaber from it to solo mode before closing it, Dis and reconnecting your headset from your PC and Re:running the installer, Make sure to wait for it to say connected in the bottom left before flipping it on and clicking "open BMBF" , Other things to try include Restarting your Computer, Trying a new Cable, Trying a new Port on your computer, uninstalling the BMBF installer and reinstalling it and Clicking `Reset ADB` in the ADB connection management area of SideQuest under the `Run ADB Commands" button top right of SideQuest.
  
 
 ## The BMBF installer is also a launcher so if you launch the BMBF installer when connected to your headset a second time it will allow you to click "Open BMBF" and it will launch a web page allowing management of BMBF and your songs and mods from PC, letting users install zips manually of songs and mods from it's UPLOAD tab
