@@ -63,7 +63,7 @@ If manually installing due to issues download both the APKs mentioned above, the
 
 ### - After running the BMBF installer
 
-Make sure to connect your headset then run the BMBF installer inside the headset from the main menu found in `OculusTV>Channels>BMBF` to let it patch, uninstall beatsaber and install the modded BMBFbeatsaber copy to your headset.
+Make sure to restart your headset, and that you connect your headset to your PC and run the BMBF installer on it and flip it to the on position, Then put your headset on and inside the headset (If not already opened and running) launch it from the main menu found in `OculusTV>Channels>BMBF` to let it patch, uninstall beatsaber and install the modded BMBFbeatsaber copy to your headset.
 
 After installing BMBF you should make sure to run the game from BMBFs launch button top right of the app without syncing any other custom songs yet, to do so just head in in headset and run Beatsaber from Oculus TVs Channels Sub section, to make sure beatsaber is properly working and connected, 
 Restarting your Quest device also helps so make sure to try that as well if having issues.
