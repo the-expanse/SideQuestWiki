@@ -61,11 +61,11 @@ Both `BMBF_TVWrapper.apk` And `com.weloveoculus.BMBF.apk` are for manual install
 
 If manually installing due to issues download both the APKs mentioned above, then launch SideQuest and click the button top right that when hovered over says `Install APK file from folder`, then you can locate and install both of the APKs in the popup window before restarting your headset, BMBF should then be located in headset under OculusTV under `Channels`.
 
-### - After installing BMBF
+### - After running the BMBF installer
 
-Make sure to connect your headset then run the BMBF installer to let it install BMBF to your headset.
+Make sure to connect your headset then run the BMBF installer inside the headset from the main menu found in `OculusTV>Channels>BMBF` to let it patch, uninstall beatsaber and install the modded BMBFbeatsaber copy to your headset.
 
-After installing BMBF you should make sure to run the game without syncing any other custom songs yet, to do so just head in in headset and run Beatsaber from Oculus TVs Channels Sub section, to make sure beatsaber is properly working and connected, 
+After installing BMBF you should make sure to run the game from BMBFs launch button top right of the app without syncing any other custom songs yet, to do so just head in in headset and run Beatsaber from Oculus TVs Channels Sub section, to make sure beatsaber is properly working and connected, 
 Restarting your Quest device also helps so make sure to try that as well if having issues.
 
 ### - If you had purchased DLC, mods or custom songs installed before hand
