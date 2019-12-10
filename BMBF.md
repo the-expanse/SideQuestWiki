@@ -55,7 +55,7 @@ Following the guide below
 ##### Linux
 `BMBFInstaller-X.X.X.tar.xz`
 
-##### Manual installation DO NOT INSTALL IF YOU USE THE AUTO INSTALLER EXE, this can cause various issues
+##### Manual installation DO NOT INSTALL THESE IF YOU USE THE AUTO INSTALLER EXE, this can cause various issues
 
 Both `BMBF_TVWrapper.apk` And `com.weloveoculus.BMBF.apk` are for manual installation only so unless you have issues with the auto installer they are un-needed and should not be installed.
 
