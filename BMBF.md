@@ -58,7 +58,7 @@ Following the guide below
 
 ##### Manual installation
 
-(DO NOT INSTALL THESE APKS IF YOU USE THE AUTO INSTALLER EXE, Doing so can cause various issues)
+(DO NOT MANUALLY INSTALL THESE APKS IF YOU USE THE AUTO INSTALLER EXE/DMG/TAR.XZ, Using both can cause various issues)
 
 Both `BMBF_TVWrapper.apk` And `com.weloveoculus.BMBF.apk` are for manual installation only so unless you have issues with the auto installer they are un-needed and should not be installed.
 
