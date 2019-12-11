@@ -43,16 +43,17 @@ If they are not present go to the Tools tab in BMBF in PC or Headset and click R
 
 ### For transferring up purchased packs and save data
 ----
+
 `Make sure to run SideQuest and reload your save data from the My Tasks tab and that the scores can be seen in the base game Prior to installing BMBF,
 For Purchased Packs make sure you install them to your base game BEFORE modding it with BMBF so be sure after re-installation of a clean Beatsaber to buy/re download any packs you have or want in game prior to doing anything with BMBF, Then you can install and run the BMBF installer from PC while connected as normal`
 
-# Make sure to read ALL the information above before proceeding with BMBFs installation
+# Read ALL the information above before proceeding with BMBFs installation
 
 
 ### BMBF OS GUIDE for the auto installer you need
 ----
 
-#####Make sure you get the proper one suited to your OS
+##### Make sure you get the proper one suited to your OS
 Follow the guide below to find the correct installer for your PC
 
 ##### Windows
