@@ -36,12 +36,8 @@ Then install and run the BMBF installer from PC while connected, which can be do
 
 # Make sure to read ALL the information above before proceeding with BMBFs installation
 
-#### BMBF Auto installer 
-https://github.com/kihecido/BMBF/releases
-(Find the highest version number as that will the the most recent and latest one)
 
-
-#### BMBF OS GUIDE
+#### BMBF OS GUIDE for the auto installer you need
 
 Make sure you get the proper one suited to your OS by
 Following the guide below
@@ -55,6 +51,11 @@ Following the guide below
 ##### Linux
 `BMBFInstaller-X.X.X.tar.xz`
 
+#### BMBF Auto installer 
+https://github.com/kihecido/BMBF/releases
+(Find the highest version number as that will the the most recent and latest one)
+
+### ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 ##### Manual installation
 
