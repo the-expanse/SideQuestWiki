@@ -36,8 +36,9 @@ If not BMBF related see below
 Issues caused by Oculus LINK
 -----
 
-Link sometimes overrides ADB connections if open and in use weather running in the background quietly or not so
-make sure if you use LINK that your headset is not upon being plugged into your PC automatically connecting to Oculus's software, make sure that the Oculus software is closed completely in your computers Task Manager, or in your Taskbar (lower right of windows PC) and that your system has SideQuest open and is connecting to SideQuest properly
+Link sometimes overrides ADB connections if open and in use whether running in the background quietly or not so
+it is possible if you use LINK that your headset is upon being plugged into your PC automatically connecting to Oculus's software, Make sure that the Oculus software is closed completely in your computers Task Manager as well as your Task-bar
+(lower right of windows PC) and that your system has SideQuest open and is connecting to SideQuest properly.
 
 ----
 No Pop-up in headset to connect
