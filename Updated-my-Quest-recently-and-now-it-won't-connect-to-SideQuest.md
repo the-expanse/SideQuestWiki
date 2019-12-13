@@ -50,4 +50,33 @@ If you see this popup at any point just click yes
 ![](https://cdn.discordapp.com/attachments/541467913857662995/638831232360120391/unknown.png)
 
 
+
+If that doesn't fix the issue after restarting your PC
+
+open `CMD` (Command Prompt) from your windows start bar, (Click the bottom left windows icon and search CMD)
+( If your on mac then click the wrench icon in the top right and click "open adb folder" - then drag this onto a terminal window)
+
+Then in the new window type 
+`cd %appdata%\SideQuest\platform-tools\`
+Click enter then
+`adb devices`
+And click enter again
+You should see something like:
+List of devices attached
+Example1SOTGDHHSD93  device
+
+
+If you see Example1SOTGDHHSD93  unauthorized - put on your headset now you should see the message to allow usb debugging - click always allow. 
+
+if it says Example1SOTGDHHSD93  offline - then type
+`adb kill-server`
+and then 
+`adb devices`
+again.
+
+if you see cannot connect to daemon then open up task manager and end the adb.exe process, or use
+- taskkill /f /im adb.exe
+
+
+
 Last resort failing this sadly is a Factory reset, that helps many users get back online.
