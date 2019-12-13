@@ -107,7 +107,8 @@ You can manage BMBF on PC connecting your headset to your PC and RE:running the 
 You can get a zip from `Beastsaber.com` or `beatsaver.com` and click open BMBF on your PCs BMBF Installer/Launcher
 then go to the upload tab and install it there.
 
-Alternatively you can use the built in bookmark system which is a bit easier, just log into a beastsaber account on your PC or phone in a web browser, find a song you like, click the bookmark icon on songs you want, and then in headset in the BMBF applications syncsaber tab put your user name/bookmark list name and enable bookmarks to infinite mode (set it to below zero) then you just click the sync button on the page and let them install, then your done.
+#### Song Bookmark system
+Alternatively you can use the built in bookmark system which is quite a bit easier and helps save and import songs using any browser, just log into a beastsaber account on your PC or phone in a web browser, find a song you like, click the bookmark icon on songs you want, and then in headset in the BMBF applications syncsaber tab put your user name/bookmark list name and enable bookmarks to infinite mode (set it to below zero) then you just click the sync button on the page and let them install, then your done.
 
 How to install mods to BMBF directly in the headset
 ----
