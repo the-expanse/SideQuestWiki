@@ -22,7 +22,7 @@ after that select `Browse My Computer for driver software`
 ![](https://cdn.discordapp.com/attachments/581519549027844106/629075882358603806/Screenshot_410.png)
 
 
-Then click Next, you will see another windows now like this
+Then click Next, you will see another windows pop up
 
 ![](https://cdn.discordapp.com/attachments/581519549027844106/629075434927030292/Screenshot_411.png)
 
