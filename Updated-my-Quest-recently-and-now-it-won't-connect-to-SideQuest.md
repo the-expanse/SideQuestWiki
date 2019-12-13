@@ -35,8 +35,7 @@ then at the bottom click
 then you should see 
 
 `oculus device`
-if it dose not appear try to locate the "show compatible drivers" box in one of the windows and un-check it,
-from there you should be able to find find the 
+ appear on the left list in the popup, if it dose not appear try to locate the "show compatible drivers" check box in one of the windows and un-check it, from there you should be able to find the 
 
 `oculus composite adb interface` 
 
