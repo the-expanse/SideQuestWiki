@@ -51,9 +51,9 @@ If you see this popup at any point just click yes
 
 
 
-If that doesn't fix the issue after restarting your PC
+#### If the above still doesn't fix the issue after restarting your PC
 
-open `CMD` (Command Prompt) from your windows start bar, (Click the bottom left windows icon and search CMD)
+The last thing to try is to open `CMD` (Command Prompt) from your windows start bar, (Click the bottom left windows icon and search CMD)
 ( If your on mac then click the wrench icon in the top right and click "open adb folder" - then drag this onto a terminal window)
 
 Then in the new window type 
