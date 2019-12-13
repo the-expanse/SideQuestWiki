@@ -50,8 +50,11 @@ If you see this popup at any point just click yes
 ![](https://cdn.discordapp.com/attachments/541467913857662995/638831232360120391/unknown.png)
 
 
+For a more detailed version go to 
 
-#### If the above still doesn't fix the issue after restarting your PC
+https://www.reddit.com/r/sidequest/comments/dsebyq/cant_connect_to_sidequest_tried_everything_ive/
+
+#### If both of the above still doesn't fix the issue after restarting your PC
 
 The last thing to try is to open `CMD` (Command Prompt) from your windows start bar, (Click the bottom left windows icon and search CMD)
 ( If your on mac then click the wrench icon in the top right and click "open adb folder" - then drag this onto a terminal window)
