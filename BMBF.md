@@ -10,7 +10,7 @@
 ----
 `(Gets a black screen and 3 dots forever)`
 
-If this occurs be sure to in your main library click the 3 dot button on Beatsabers game icon, then go to Permissions and turn allow Storage permissions for the game, if the issue persists then restart your device and it should subside, If it continues try dis and re enabling the storage permissions and hard restart your headset by holding the power button for 15 seconds, if it still persists it would be best to clean install following the directions below from scratch, make sure to remove all related programs (Beatsaber, BMBF, BeatOn) before installing Beatsaber again and starting the process.
+If this occurs be sure to check in your main library click the 3 dot button on Beatsabers game icon, then go to Permissions and turn allow Storage permissions for the game, if the issue persists then restart your device and it should subside, If it continues try dis and re enabling the storage permissions and hard restart your headset by holding the power button for 15 seconds, if it still persists it would be best to clean install following the directions below from scratch, make sure to remove all related programs (Beatsaber, BMBF, BeatOn) before installing Beatsaber again and starting the process.
 
 
 ### - If BMBF acts like Beatsaber isn't installed
