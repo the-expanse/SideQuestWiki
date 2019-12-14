@@ -94,7 +94,7 @@ BMBF will always be located in headset under OculusTV under `Channels` and can b
 
 
 
-### - PC song and mod management
+### - Song and mod management
 ----
 
 You can manage BMBF on PC connecting your headset to your PC and RE:running the installer, clicking the switch that appears to the "on" position in the switch and  clicking 
