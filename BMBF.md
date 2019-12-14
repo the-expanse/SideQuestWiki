@@ -75,7 +75,7 @@ ____
 ----
 Make sure to restart your headset reguardless of which installation method you use, After installing BMBF run Beatsaber from BMBFs launch button top right of the app without syncing any other custom songs or mods, to do so.
 In headset run BMBF from Oculus TVs Channels Sub section, then launch Beatsaber from within it to make sure it is properly working and connected. if not click this link and reset storage permissions accordingly
-[Perma-Loading](https://github.com/the-expanse/SideQuest/wiki/BMBF/_edit#--if-beatsaber-permaloads)
+[Perma-Loading](https://github.com/the-expanse/SideQuest/wiki/BMBF#--if-beatsaber-permaloads)
 Restarting your Quest so make sure to try that as well if having issues. 
 
 
