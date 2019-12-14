@@ -21,7 +21,7 @@ Close the PC Installer/Launcher then in headset open BMBF in Oculus TVs Channels
 ### - If you have modded before or your current BMBF is Non-functioning
 ----
 
-First you need to get a clean unmodded Beatsaber version installed and run it to Solo mode (open the game and enter solo mode) before closing it for the newest BMBF to be able to patch properly. Also if you care for your scores be sure to back them up in the SideQuests my tasks area before uninstalling Beatsaber
+First you need to get a clean unmodded Beatsaber version installed and run it to Solo mode (open the game and enter solo mode) before closing it for the newest BMBF to be able to patch properly. Also if you care for your scores be sure to back them up in the SideQuests m=My Apps area before uninstalling Beatsaber
 
 ## - To Uninstall Properly
 ----
