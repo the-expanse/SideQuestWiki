@@ -44,7 +44,7 @@ If they are not present go to the Tools tab in BMBF in PC or Headset and click R
 ### For Transferring up Purchased Packs and Save Data
 ----
 
-Make sure to run SideQuest and back up your pllayer data, then you can reload your save data from the My Apps tab and that the scores can be seen in the base game Prior to installing BMBF,
+Make sure to run SideQuest and back up your player data from Beatsabers Gear icon, then you can reload your save data from the My Apps tab and that the scores can be seen in the base game Prior to installing BMBF,
 For Purchased Packs make sure you install them to your base game BEFORE modding it with BMBF so be sure after re-installation of a clean Beatsaber to buy/re download any packs you have or want in game prior to doing anything with BMBF, Then you can install and run the BMBF installer from PC while connected as normal
 
 # Read ALL the information above before proceeding with BMBFs installation
