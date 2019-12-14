@@ -18,19 +18,19 @@ If this occurs be sure to in your main library click the 3 dot button on Beatsab
 
 Close the PC Installer/Launcher then in headset open BMBF in Oculus TVs Channels subsection and run the Beatsaber from it to solo mode before closing it, Dis and reconnecting your headset from your PC and Re:running the installer, Make sure to wait for it to say connected in the bottom left before flipping it on and clicking "open BMBF" , Other things to try include Restarting your Computer, Trying a new Cable, Trying a new Port on your computer, uninstalling the BMBF installer and reinstalling it and Clicking `Reset ADB` in the ADB connection management area of SideQuest under the `Run ADB Commands" button top right of SideQuest.
 
-### - If you have modded before or your current BMBF is Non-functioning
-----
+### - Before Proceeding, Backup creation of Game data and Scores
+----.
 
-First you need to get a clean unmodded Beatsaber version installed and run it to Solo mode (open the game and enter solo mode) before closing it for the newest BMBF to be able to patch properly. Also if you care for your scores be sure to back them up in the SideQuests m=My Apps area before uninstalling Beatsaber
+First since you need to get a clean unmodded Beatsaber version installed and run it to Solo mode (as in open the game and enter solo mode) bin order to to patch properly. And if you care for your scores be sure to back them up in the SideQuests My Apps area before uninstalling Beatsaber by clicking the settings button (Gear Icon) to the right of Beatsaber, then clicking Back Up Game Data, Check My Tasks to make sure it is finished installing then proceed
 
 ## - To Uninstall Properly
 ----
 
-Go to the `My Apps` manager tab in Sidequest and click the gear to the right of the application and click uninstall, you can do the same for BMBF's old version using SideQuests my apps tab by searching the word `love` in the My apps tab and it should pop up as `We Love Oculus`and uninstall it by clicking the gear icon to the right and clicking uninstall, Then find and remove the BMBF related `Wrapper` 
+Go to the `My Apps` manager tab in Sidequest and click the gear to the right of the application and click uninstall, you can do the same for BMBF's old version using SideQuests My apps tab by searching the word `love` in the My apps tab and it should pop up as `We Love Oculus`and uninstall it by clicking the gear icon to the right and clicking uninstall, Then find and remove the BMBF related `Wrapper` 
 (Uninstall Beat On if you have that still)
 
 
-`Note any modifications to official games make them unable to update or uninstall naturally in headset, You can uninstall them in SideQuest's  my apps tab under the app settings icon (a Gear icon) to its right. Then just reinstall your game from the official Oculus store.`
+`Note any modifications to official games make them unable to update or uninstall naturally in headset, You can uninstall them in SideQuest's  My apps tab under the app settings icon (a Gear icon) to its right. Then just reinstall your game from the official Oculus store.`
 
 
 
