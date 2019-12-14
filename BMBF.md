@@ -41,11 +41,11 @@ The system will automatically transfer them up despite the program being unisnta
 for bought packs make sure however you install them to your base game prior to modding it with BMBF.
 If they are not present go to the Tools tab in BMBF in PC or Headset and click Reload Song Folder, Then sync and launch the game and they should appear then.
 
-### For transferring up purchased packs and save data
+### For Transferring up Purchased Packs and Save Data
 ----
 
-`Make sure to run SideQuest and reload your save data from the My Tasks tab and that the scores can be seen in the base game Prior to installing BMBF,
-For Purchased Packs make sure you install them to your base game BEFORE modding it with BMBF so be sure after re-installation of a clean Beatsaber to buy/re download any packs you have or want in game prior to doing anything with BMBF, Then you can install and run the BMBF installer from PC while connected as normal`
+Make sure to run SideQuest and reload your save data from the My Tasks tab and that the scores can be seen in the base game Prior to installing BMBF,
+For Purchased Packs make sure you install them to your base game BEFORE modding it with BMBF so be sure after re-installation of a clean Beatsaber to buy/re download any packs you have or want in game prior to doing anything with BMBF, Then you can install and run the BMBF installer from PC while connected as normal
 
 # Read ALL the information above before proceeding with BMBFs installation
 
