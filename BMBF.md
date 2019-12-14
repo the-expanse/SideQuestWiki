@@ -23,7 +23,7 @@ Close the PC Installer/Launcher then in headset open BMBF in Oculus TVs Channels
 
 First you need to get a clean unmodded Beatsaber version installed and run it to Solo mode (open the game and enter solo mode) before closing it for the newest BMBF to be able to patch properly. Also if you care for your scores be sure to back them up in the SideQuests my tasks area before uninstalling Beatsaber
 
-###- To uninstall Properly
+## - To Uninstall Properly
 ----
 
 Go to the `my tasks` manager tab in Sidequest and click the gear to the right of the application and click uninstall, you can do the same for BMBF's old version using SideQuests my apps tab by searching the word `love` in the My apps tab and it should pop up as `We Love Oculus`and uninstall it by clicking the gear icon to the right and clicking uninstall, Then find and remove the BMBF related `Wrapper` 
