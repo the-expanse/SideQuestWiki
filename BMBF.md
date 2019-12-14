@@ -19,7 +19,7 @@ If this occurs be sure to check in your main library click the 3 dot button on B
 Close the PC Installer/Launcher then in headset open BMBF in Oculus TVs Channels subsection and run the Beatsaber from it to solo mode before closing it, Dis and reconnecting your headset from your PC and Re:running the installer, Make sure to wait for it to say connected in the bottom left before flipping it on and clicking "open BMBF" , Other things to try include Restarting your Computer, Trying a new Cable, Trying a new Port on your computer, uninstalling the BMBF installer and reinstalling it and Clicking `Reset ADB` in the ADB connection management area of SideQuest under the `Run ADB Commands" button top right of SideQuest.
 
 ### - Before Proceeding, Backup creation of Game data and Scores
-----.
+----
 
 First since you need to get a clean unmodded Beatsaber version installed and run it to Solo mode (as in open the game and enter solo mode) bin order to to patch properly. And if you care for your scores be sure to back them up in the SideQuests My Apps area before uninstalling Beatsaber by clicking the settings button (Gear Icon) to the right of Beatsaber, then clicking Back Up Game Data, Check My Tasks to make sure it is finished installing then proceed
 
