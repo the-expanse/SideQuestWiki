@@ -2,11 +2,11 @@
 
 ###### SideQuest is NOT responsible for BMBF, how it modifies BeatSaber or what it does and can not be held responsible for any issues that occur upon install be they from user error or from the program side.
 
-### - MAKE SURE TO HAVE AN OFFICIAL PAID FOR VERSION OF BEATSABER FROM THE OFFICIAL OCULUS QUEST STORE
-
 `Note that BMBF is a standalone replacement for Beat On of which SideQuest no longer supports. to install it follow the steps below. BMBF tries to recover songs, save data and such all automatically if you are transferring from Beat On.`
 
-## - If BeatSaber permaloads
+#### - MAKE SURE TO HAVE AN OFFICIAL PAID FOR VERSION OF BEATSABER FROM THE OFFICIAL OCULUS QUEST STORE
+
+## - If BeatSaber Permaloads
 ----
 `(Gets a black screen and 3 dots forever)`
 
@@ -50,7 +50,7 @@ For Purchased Packs make sure you install them to your base game BEFORE modding 
 # Read ALL the information above before proceeding with BMBFs installation
 
 
-### BMBF OS GUIDE for the auto installer you need
+## BMBF OS GUIDE for the auto installer you need
 ----
 
 ##### Make sure you get the proper one suited to your OS
