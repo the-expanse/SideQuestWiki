@@ -82,12 +82,14 @@ Restarting your Quest so make sure to try that as well if having issues.
 ### Manual installation
 
 
-#### (DO NOT MANUALLY INSTALL THESE APKS IF YOU USE THE AUTO INSTALLER EXE/DMG/TAR.XZ, Using both can cause various issues)
+#### (Using both manual installation and an Auto installer can cause various issues so only use one or the other)
 ----
 
-Both `BMBF_TVWrapper.apk` And `com.weloveoculus.BMBF.apk` are for manual installation only so unless you have issues with the auto installer they are un-needed and should not be installed.
+Install both Both `BMBF_TVWrapper.apk` And `com.weloveoculus.BMBF.apk` 
 
-If manually installing due to issues, uninstall all previous attempts and programs before again reinstalling beatsbaer to run to Solo mode, close beatsaber then download both the APKs mentioned above, After that launch SideQuest and click the button top right that when hovered over says `Install APK file from folder`, In the popup locate and install both of the APKs in the popup window before restarting your headset.
+Make sure you have properly uninstalled BeatSaber and BMBF again before proceeding,
+
+Ru base beatsabern to Solo mode then close beatsaber, After that launch SideQuest and click the button top right button that when hovered over says `Install APK file from folder`, In the popup locate and install both of the APKs in the popup window before restarting your headset, you can see they have both installed from `My Tasks` and after they are close SideQuest and you can run BMBF in headset.
 
 ### Where is BMBF in headset?
 BMBF will always be located in headset under OculusTV under `Channels` and can be launched from there to enable and disable mods, as well as install or remove songs without a PC.
