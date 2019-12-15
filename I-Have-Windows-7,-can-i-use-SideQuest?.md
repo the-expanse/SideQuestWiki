@@ -1,3 +1,5 @@
+## This guide also is for general Windows 7-10 manual installation
+
 Windows 7 has been known to cause issues when installing SideQuest and sometimes will never properly install certain important needed assets, you might be able to get it running but it is unlikely, see if you can install the drivers needed for SideQuest by attempting to follow the [Setup Instructions](https://sidequestvr.com/#/setup-howto) and see if it works just be sure to install the drives manually.
 
 ### Simple Manual Drivers installing for Windows 7
