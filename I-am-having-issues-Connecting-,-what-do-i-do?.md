@@ -50,10 +50,10 @@ Several things could cause that, Make sure your guardian is set up and active wh
 
 
 ----
-Re:Toggle and Reset Dev mode
+After a Oculus Software update or for general issues
 ----
 
-Note that none of these steps are in about or with SideQuest and are done only within the mobile phone application for Oculus. and that you should toggle Developer mode after any Oculus OS update as it usually is auto disabled due to the update
+Note that none of these steps are in about or with SideQuest and are done only within the mobile phone application for Oculus. You need to toggle Developer mode after any Oculus OS update as it usually is auto disabled due to the update, Open the official Oculus application on a bluetoith capable phone or tablet and log into your Oculus account, go to `Settings` within the app and click your headset to connect, make sure the power is on whrn doing so, then click advanced settings and go to `Developer mode` to dis then re enable it before hard rebooting your device, this is done by holding down the headsets power button for 15 seconds, then rebooting as normal.
 
 ###### If you turn Developer mode off in your Phone application and you suddenly your headset connects to SideQuest it is an error with the application thinking on is off and off is on, the following should fix it.
 
