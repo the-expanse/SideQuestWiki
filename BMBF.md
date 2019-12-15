@@ -50,7 +50,7 @@ For Purchased Packs make sure you install them to your base game BEFORE modding 
 # Read ALL the information above before proceeding with BMBFs installation
 
 
-## BMBF OS GUIDE for the auto installer you need
+## BMBF OS GUIDE for the auto installer you need (Currently has issues, use manual installation located below the auto installers)
 ----
 
 ##### Make sure you get the proper one suited to your OS
