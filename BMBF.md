@@ -101,7 +101,8 @@ Ru base beatsabern to Solo mode then close beatsaber, After that launch SideQues
 ### Where is BMBF in headset?
 BMBF will always be located in headset under OculusTV under `Channels` and can be launched from there to enable and disable mods, as well as install or remove songs without a PC.
 
-
+### Manual installation Video Link (TycoTech)
+[![](https://cdn.discordapp.com/attachments/541467913857662995/655955885465665537/Screenshot_1054.png)](https://www.youtube.com/watch?v=JGCf01gX4nU&list=PLt5tbz7PdomDAfUA3TDbPKG5zOgiiL1pw&index=1)
 
 ### - Song and mod management
 ----
