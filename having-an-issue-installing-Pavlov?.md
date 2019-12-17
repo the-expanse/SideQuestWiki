@@ -4,7 +4,7 @@ The following is all we know and can provide, For any issues or further help ins
 Beyond that this is a simple Windows only guide and is the most support we can provide in the matter
 
 
-Also do make sure you have the most recent Folder for PavLov from the [OFFICIAL PAVLOV DISCORD SERVER](https://discord.gg/wE5ZqBB)
+Also do make sure you have the most recent Folder for PavLov from the [LATEST PAVLOV BUILDS](https://discord.gg/wE5ZqBB)
 
 that is usually an issue people overlook, Be sure uninstall the old version from SideQuests "My Apps" tab if you have had PavLov installed already prior to you downloading and unzipping the newest Pavlov folder for installation.
 
