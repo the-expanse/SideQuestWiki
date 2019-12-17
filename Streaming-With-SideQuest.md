@@ -1,6 +1,6 @@
 ## You Can Stream Wireless
 
-You can do this by enabling Wi-Fi mode in the top right with the wireless button, make sure to be conencted by cable when enabling this feature and wait until the connection dot is purple before unplugging then launch the streamer and you should see it pop up with your screen live, you can also install apps and manage in headset recorded material this way.
+You can do this by enabling Wi-Fi mode in the top right with the wireless button, make sure to be connected by cable when enabling this feature and wait until the connection dot is purple before unplugging then launch the streamer and you should see it pop up with your screen live, you can also install apps and manage in headset recorded material this way.
 
 ### There is no audio
 
