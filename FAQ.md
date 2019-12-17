@@ -22,6 +22,8 @@
 **PC SideQuest Issues**
 ---
 
+#### - [Streaming with SideQuest](https://github.com/the-expanse/SideQuest/wiki/Streaming-With-SideQuest)
+
 #### - [How to Ping Your Quest Headset](https://github.com/the-expanse/SideQuest/wiki/How-to-PING-your-Quest)
 
 #### - [I'm having SideQuest Connection issues, are there solutions](https://github.com/the-expanse/SideQuest/wiki/I-am-having-issues-Connecting-,-what-do-i-do%3F)
