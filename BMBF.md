@@ -60,8 +60,7 @@ For Purchased Packs make sure you install them to your base game BEFORE modding 
 ----
 If using an auto installer causes any issues, use manual installation located below the auto installers and follow the directions there after properly uninstalling everything in SideQuests my apps tab.
 
-##### Make sure you get the proper one suited to your OS By
-Following the guide below to find the correct installer for your PC
+##### Make sure you get the proper one suited to your OS by following the guide below to find the correct installer for your PC
 
 ##### Windows
 `BMBFInstaller.Setup.X.X.X-x64-win.exe`
