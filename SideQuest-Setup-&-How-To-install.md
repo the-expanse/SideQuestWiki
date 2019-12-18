@@ -44,7 +44,7 @@ Note that it may or may not have `.inf` at the end, both are the exact same file
 
 Step 4: Reboot & Enable Developer Mode
 ====================================================
-Now that you're a "developer", open the Oculus app on your smartphone or tablet. and follow the steps below from the Oculus application gotten for initial device setup.
+Now that you're a "developer" in Oculus's system, open the Oculus app on your smartphone or tablet. and follow the steps below from the Oculus application gotten for initial device setup, This process is not done in Headset, you must connect your headset over Bluetooth to your Phone or Tablet that you set the Quest up in.
 
 ![](https://cdn.discordapp.com/attachments/608376262347587595/609103817178611732/Screenshot_2019-08-07-13-23-35.png)
 ![](https://cdn.discordapp.com/attachments/608376262347587595/609103731979714597/Screenshot_2019-08-07-13-23-39.png)
