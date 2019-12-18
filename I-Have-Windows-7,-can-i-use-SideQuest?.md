@@ -23,7 +23,6 @@ After that select `Browse My Computer for driver software`
 
 ![](https://preview.redd.it/7tx1ubgbh1x31.png?width=614&format=png&auto=webp&s=6c0151a2facd3c818eaa7aefaed17e8c7dce15e7)
 
-
 Then click Next, you will see another windows pop up
 
 ![](https://preview.redd.it/rpcg5jnhh1x31.png?width=613&format=png&auto=webp&s=35302cf1e1f42c3b6a4c3ba623601ea351f5e80e
