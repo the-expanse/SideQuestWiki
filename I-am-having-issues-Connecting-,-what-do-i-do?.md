@@ -19,14 +19,6 @@ Windows 7 is an older OS and requires manual installation of drivers so see this
 
 https://github.com/the-expanse/SideQuest/wiki/I-Have-Windows-7,-can-i-use-SideQuest%3F
 
-----
-## BMBF issues
-----
-
-###### We are not responsible for the BMBF application but here are a couple things to try
-1. Try to re launch BMBF while SideQuest is NOT open or running, failing that close BMBF and Open SideQuest, then top right click the (RUN ADB commands) button and then in order click `Disconnect everything` then `Reset ADB`before closing SideQuest and re attempting
-
-If not BMBF related see below
 
 ----
 ## 1 Issues caused by Oculus LINK
@@ -77,7 +69,7 @@ if your using Bluestacks, NOX or a Wifi Extenders of any kind can lead to proble
 For some VPN's such as NordVPN users, you may need to change a setting that masks your PC even when the VPN service is not actively running as some VPN services still control and mask your system in the background even when not actively open and running, Just locate the setting that disabled your VPN's ability to be masked/ Invisible to local LAN or through Wifi
 
 ----
-## [How to properly uninstall BlueStacks](https://github.com/the-expanse/SideQuest/wiki/BlueStacks-is-causing-issues,-how-do-i-remove-it)
+#### [How to properly uninstall BlueStacks](https://github.com/the-expanse/SideQuest/wiki/BlueStacks-is-causing-issues,-how-do-i-remove-it)
 
 ----
 ## 6 Antivirus Systems
@@ -179,6 +171,12 @@ then in SideQuest head to settings
 Then at the top of the page click `Open Main App` folder and proceed to look for the (Platform tools) Folder
 Open it, make sure to close SideQuest, then delete everything in that folder before you then copy and paste all the files and folders from the installed unzipped folder into it and click replace all, when finished  reboot SideQuest and try once more.
 
+----
+## BMBF issues
+----
+
+###### We are not responsible for the BMBF application but here are a couple things to try
+1. Try to re launch BMBF while SideQuest is NOT open or running, failing that close BMBF and Open SideQuest, then top right click the (RUN ADB commands) button and then in order click `Disconnect everything` then `Reset ADB`before closing SideQuest and re attempting
 
 
 `If you still have issues you can ask around the official discord, if you already have done so you may check again as some one may have another idea to assist but do be aware that even if you are frustrated they are trying their best to assist out of the kindness of their hearts and with their free time so please do be kind, Thank you`
