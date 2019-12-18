@@ -1,13 +1,10 @@
 ###### Beat On has long since been Discontinued, BMBF is what has replaced it.
 
 ## BE AWARE THAT PC SABERS AND MODS WILL NOT WORK ON THE QUEST
-
-So if a mod was obtained from Beastsaber or some external website and not from Quest built proper sources such as SideQuest its self or the [Redbrumbler Github](https://github.com/RedBrumbler/BMBFCustomSabers/tree/master/Sabers)  know they more then likely are NOT Quest saber.
+###### SideQuest is NOT responsible for BMBF, how it modifies BeatSaber or what it does and can not be held responsible for any issues that occur upon install be they from user error or from the program side, Know also that if a mod was obtained from Beastsaber or some external website and not from Quest built proper sources such as SideQuest its self or the [Redbrumbler Github](https://github.com/RedBrumbler/BMBFCustomSabers/tree/master/Sabers)  know they more then likely are NOT Quest saber.
 
 #### MAKE SURE TO HAVE AN OFFICIAL PAID FOR VERSION OF BEATSABER FROM THE OFFICIAL OCULUS QUEST STORE
 Pirated copy's will not work in any capacity with BMBF nor will the Demo.
-
-###### SideQuest is NOT responsible for BMBF, how it modifies BeatSaber or what it does and can not be held responsible for any issues that occur upon install be they from user error or from the program side.
 
 `Note that BMBF is a standalone replacement for Beat On of which SideQuest no longer supports. to install it follow the steps below. BMBF tries to recover songs, save data and such all automatically if you are transferring from Beat On.`
 
