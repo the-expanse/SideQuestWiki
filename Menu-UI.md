@@ -57,6 +57,9 @@ This is a developer and troubleshooting button so you really only press this if 
 ### Minimize, maximize close
 ----
 Universal icons, but to cover everything
-Minimize hides SideQuest without shutting down any processes, tasks in progress or connection to the Quest weather corded or wireless.
-Maximize centers the page to your Desktop
-Close force closes the application ending any communication to the Quest and halting any tasks in progress, as well as erases any finished, in progress or ended tasks
+
+**Minimize** hides SideQuest without shutting down any processes, tasks in progress or connection to the Quest weather corded or wireless.
+
+**Maximize** centers the page to your Desktop
+
+**Close** force closes the application ending any communication to the Quest and halting any tasks in progress, as well as erases any finished, in progress or ended tasks
