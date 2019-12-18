@@ -136,10 +136,40 @@ When properly connected SideQuest should show a purple connection dot and then s
 If so far nothing else has worked the next thing to attempt would be a Driver re-installation, see how to do so at
 [SideQuests Driver Re-installation tutorial](https://www.reddit.com/r/sidequest/comments/dsebyq/cant_connect_to_sidequest_tried_everything_ive/)
 
+
+### Force connect With CMD
+
+`If your on mac then click the wrench icon in the top right and click "open adb folder" - then drag these commands into a terminal window`
+Type 
+`cd %appdata%\SideQuest\platform-tools\`
+Click enter Then
+`adb devices`
+Click enter
+
+You should see:
+List of devices attached
+`Example1SOTGDHHSD93  device`
+
+
+If you see 
+`Example1SOTGDHHSD93  unauthorized`
+put on your headset now you should see the message to allow usb debugging - click always allow. 
+
+if you see  
+`1SOTGDHHSD93  offline`
+Then type 
+`adb kill-server`
+ and then use the `adb devices` command again.
+
+if you see 
+`Cannot connect to daemon` 
+Then open up task manager and kill the adb.exe process - taskkill /f /im adb.exe
+
+
 Failing the above  all of the above (Windows only) Try Installing the ADB folder manually
 ----
 
-This is only for windows, Also make sure to only do it if no other options available work and if you are still having issues with ADB try the below
+These are only for windows, Also make sure to only do it if no other options available work and if you are still having issues with ADB try the below
 
 ----
 Install the below Folder
@@ -157,3 +187,5 @@ Open it, make sure to close SideQuest, then delete everything in that folder bef
 
 
 If you still have issues you can ask around the official discord, if you already have done so you may check again as some one may have another idea to assist but do be aware that even if you are frustrated they are trying their best to assist out of the kindness of their hearts and with their free time so please do be kind, Thank you
+
+### Last thing to try
