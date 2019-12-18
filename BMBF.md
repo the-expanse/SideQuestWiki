@@ -89,8 +89,10 @@ You can install songs in BMBF all in headset by opening BMBF from `Oculus TV`s C
 You can get a zip from `Beastsaber.com` or `beatsaver.com` and click open BMBF on your PCs BMBF Installer/Launcher
 then go to the upload tab and install it there.
 
-## Song Bookmark system
-Alternatively you can use the built in bookmark system which is quite a bit easier and helps save and import songs using any browser, just log into a beastsaber account on your PC or phone in a web browser, find a song you like, click the bookmark icon on songs you want, and then in headset in the BMBF applications syncsaber tab put your user name/bookmark list name and enable bookmarks to infinite mode (set it to below zero) then you just click the sync button on the page and let them install, then your done.
+# Song Bookmark system
+You can use the built in bookmark system, it much more simple and helps save and import songs using any browser.
+Just create and/or log into a beastsaber account on your PC, Phone Tablet or what ever you have access to in a web browser, Find a song you like and click the bookmark icon on songs you want.
+You can then in headset open the the BMBF application under `Oculus TV` and open the syncsaber tab, put your user name into the text box and enable bookmarks to infinite mode (set it to below zero) then you just click the sync button on the page and let them install, then your done.
 
 How to install mods to BMBF directly in the headset
 ----
