@@ -7,6 +7,9 @@ You can do this by enabling Wi-Fi mode in the top right with the wireless button
 There will be no game sound streaming and this feature is highly unlikely at all let alone any time soon so you will need an alternative solution such as a Bluetooth transmitter hooked to your headset and a Bluetooth receiver hooked to your PC, or a proper AUX cable from your headset jack to your PC if you wish to have in game sound.
 
 
+### Cropping
+The SideQuest streamer has it set to auto crop the original video usually sent to SCRCPY due to it being unsuitable for streaming to begin with, but you can change the crop to your liking in the settings and mess about with it.
+
 # If you are having issues running the Streaming feature in SideQuest here are a few things to try.
 
 #### Double check ADB is coming from SideQuest
