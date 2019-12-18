@@ -1,5 +1,7 @@
 # [SideQuest Setup & How to Install Guide](https://github.com/the-expanse/SideQuest/wiki/SideQuest-Setup-&-How-To-install)
 
+#### [Menu UI Guide](https://github.com/the-expanse/SideQuest/wiki/Menu-UI)
+
 #### [How to Best Update Installed Apps and Mods in SideQuest](https://github.com/the-expanse/SideQuest/wiki/How-to-Auto-Update-app's-and-mods)
 
 #### [How To Submit Games/Apps/Mods to Sidequest](https://github.com/the-expanse/SideQuest/wiki/How-To-Submit-Games)
