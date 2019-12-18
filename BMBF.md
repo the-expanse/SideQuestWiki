@@ -57,13 +57,12 @@ In headset run BMBF from Oculus TVs Channels Sub section.
 
 # Read ALL the information above before proceeding with BMBFs installation
 
-### Manual installation Video Link (TycoTech)
+# BMBF installation Video Link (TycoTech)
 [![](https://cdn.discordapp.com/attachments/541467913857662995/655955885465665537/Screenshot_1054.png)](https://www.youtube.com/watch?v=JGCf01gX4nU&list=PLt5tbz7PdomDAfUA3TDbPKG5zOgiiL1pw&index=1)
 
 #### BMBF APKs
 https://github.com/kihecido/BMBF/releases
 
-#### (Using both manual installation and an Auto installer can cause various issues so only use one or the other)
 ----
 
 Install both Both `BMBF_TVWrapper.apk` And `com.weloveoculus.BMBF.apk` 
