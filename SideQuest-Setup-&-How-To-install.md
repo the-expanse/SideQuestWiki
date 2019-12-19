@@ -76,9 +76,9 @@ Step 6: Install App Launcher
 OPTIONAL
 ----
 Installing the launcher will make finding Sideloaded apps easier on your headset.
-Make sure you are properly connected to SideQuest before proceeding, if not see 
-
-https://github.com/the-expanse/SideQuest/wiki/I-am-having-issues-Connecting-,-what-do-i-do%3F#resetting-your-connection-and-connecting-to-wifi
+Make sure you are properly connected to SideQuest before proceeding, 
+If not properly connected see here.
+[I'm having connection issues what are some solutions](https://github.com/the-expanse/SideQuest/wiki/I-am-having-issues-Connecting-,-what-do-i-do%3F#resetting-your-connection-and-connecting-to-wifi)
 
 The launcher will be found in headset after installed in you library under 'Unknown Sources' on the menu on the left.
 Open it to find all the Apps that have been installed on your device.
