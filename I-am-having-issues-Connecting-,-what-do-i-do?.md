@@ -113,8 +113,10 @@ Go back again and and hit `reset ADB`, then hit `Enable USB ADB` and you should 
 ----
 ### 11 For Wireless Connection 
 ----
+
 Make sure to connect your headset once before you hit the connect button in the wireless connection popup.
 When properly connected SideQuest should show a purple connection dot and then state two devices are connected, that is when you can disconnect your headset, Note that Every time you reboot SideQuest you Will need to re connect this way with a cable for initial connection.  Make sure your headset is on and connected to the same Wifi network but otherwise you should now be capable of cordless installation,m you can also while connected this way if away from home and logged into a SideQuest account install games from a phone or alternate PC from the SideQuestVR.com website.
+
 ----
 ## 12 Properly Reinstall
 ----
