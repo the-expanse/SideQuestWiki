@@ -115,16 +115,20 @@ Go back again and and hit `reset ADB`, then hit `Enable USB ADB` and you should 
 ----
 Make sure to connect your headset once before you hit the connect button in the wireless connection popup.
 When properly connected SideQuest should show a purple connection dot and then state two devices are connected, that is when you can disconnect your headset, Note that Every time you reboot SideQuest you Will need to re connect this way with a cable for initial connection.  Make sure your headset is on and connected to the same Wifi network but otherwise you should now be capable of cordless installation,m you can also while connected this way if away from home and logged into a SideQuest account install games from a phone or alternate PC from the SideQuestVR.com website.
+----
+## 12 Properly Reinstall
+----
+SideQuest uses some folders that are a bit hard to find or remove some times so to make sure everything is in order Install the [SideQuest Force Uninstaller](https://github.com/the-expanse/SideQuest/wiki/Force-Uninstaller-for-SideQuest) from that blue link text and install then run the program there, then reinstall the latest SideQuest again, this will remove any residual files, folders and settings that may be causing issues.
 
 ----
-## 12 Driver Re-installation
+## 13 Driver Re-installation
 ----
 
 If so far nothing else has worked the next thing to attempt would be a Driver re-installation, see how to do so at
 [SideQuests Driver Re-installation tutorial](https://www.reddit.com/r/sidequest/comments/dsebyq/cant_connect_to_sidequest_tried_everything_ive/)
 
 ----
-## 13 Force connect With CMD
+## 14 Force connect With CMD
 ----
 
 `If your on mac then click the wrench icon in the top right and click "open adb folder" - then drag these commands into a terminal window`
@@ -170,6 +174,7 @@ if you do not know how to, check google for how to unzip a folder for your versi
 then in SideQuest head to settings
 Then at the top of the page click `Open Main App` folder and proceed to look for the (Platform tools) Folder
 Open it, make sure to close SideQuest, then delete everything in that folder before you then copy and paste all the files and folders from the installed unzipped folder into it and click replace all, when finished  reboot SideQuest and try once more.
+
 
 ----
 ## BMBF issues
