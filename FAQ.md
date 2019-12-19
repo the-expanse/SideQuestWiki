@@ -9,6 +9,7 @@
 **Detailed Installation Procedures**
 ---
 
+### - [Beat On not found](https://github.com/the-expanse/SideQuest/wiki/BMBF#beat-on-has-long-since-been-discontinued-bmbf-is-what-has-replaced-it)
 ### - [Known BMBF installation instructions](https://github.com/the-expanse/SideQuest/wiki/BMBF)
 
 ### - [I want to install PavLov, how do i](https://github.com/the-expanse/SideQuest/wiki/having-an-issue-installing-Pavlov%3F)
