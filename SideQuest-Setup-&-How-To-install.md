@@ -70,12 +70,13 @@ Now it's time to connect the USB cable. make sure a guardian is set up around yo
 if it does not appear and you are on windows, be sure to set up a standalone guardian and that you have SideQuest opened
 
 For any odd connection issues, check [HERE](https://github.com/the-expanse/SideQuest/wiki/I-am-having-issues-Connecting-,-what-do-i-do%3F) and try everything in the list, after you are connected properly make sure to select 'Always allow from this computer' within your headset while still plugged in to your PC to prevent this message from coming up every time you connect and you should be ready to install Apps,Games and Mods.
+OPTIONAL
+----
 
 Step 6: Install App Launcher
 ====================================================
-OPTIONAL
-----
-Installing the launcher will make finding Sideloaded apps easier on your headset.
+
+Installing the launcher will just make finding Sideloaded apps easier on your headset, it is not an installer only a sorting and convenience app.
 Make sure you are properly connected to SideQuest before proceeding, 
 If not properly connected see here.
 [I'm having connection issues what are some solutions](https://github.com/the-expanse/SideQuest/wiki/I-am-having-issues-Connecting-,-what-do-i-do%3F#resetting-your-connection-and-connecting-to-wifi)
