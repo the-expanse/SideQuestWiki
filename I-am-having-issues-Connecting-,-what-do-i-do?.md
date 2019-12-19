@@ -8,7 +8,7 @@ Make sure you have installed the very latest SideQuest from [SideQuestVR.com](ht
 Also double check the main setup steps for installing SideQuest to make sure you have done every one of the 5 mandatory steps.
 
 
-## [Setup Steps](https://sidequestvr.com/#/setup-howto) 
+# [Setup Steps](https://sidequestvr.com/#/setup-howto) 
 
 For Windows users be sure to double check step 3 to make sure the drivers were properly installed
 
@@ -21,7 +21,7 @@ https://github.com/the-expanse/SideQuest/wiki/I-Have-Windows-7,-can-i-use-SideQu
 
 
 ----
-## 1 Issues caused by Oculus LINK
+# 1 Issues caused by Oculus LINK
 -----
 
 Link sometimes overrides ADB connections if open and in use whether running in the background quietly or not so
@@ -29,14 +29,14 @@ it is possible if you use LINK that your headset is upon being plugged into your
 (lower right of windows PC) and that your system has SideQuest open and is connecting to SideQuest properly.
 
 ----
-## 2 No Pop-up in headset to connect
+# 2 No Pop-up in headset to connect
 ----
 
 Several things could cause that, Make sure your guardian is set up and active when looking, a standalone temporary one is fine, if still not showing, even if windows detects it, try a new cable as yours may not fully support data transfer or have been burnt out from prior use and reduced to (Charge only) mode, Also be sure SideQuest is opened and running.
 
 
 ----
-## 3 After a Oculus Software update or for general issues
+# 3 After a Oculus Software update or for general issues
 ----
 
 Note that none of these steps are in about or with SideQuest and are done only within the mobile phone application for Oculus. You need to toggle Developer mode after any Oculus OS update as it usually is auto disabled due to the update, Open the official Oculus application on a Bluetooth capable phone or tablet and log into your Oculus account, go to `Settings` within the app and click your headset to connect, make sure the power is on when doing so, then click advanced settings and go to `Developer mode` to dis then re enable it before hard rebooting your device, this is done by holding down the headsets power button for 15 seconds, then rebooting as normal.
@@ -51,7 +51,7 @@ If the issue persists toggle Dev mode to enabled again, then power off your Ques
 ###### Doing so in the phone app tends to solve many issues, also some times there is a glitch causing something to go awry, such as sometimes making the headset connect to SideQuest only when Dev mode is off  and disconnect when it is on, the issue generally occurs on initial set up, after trying the install steps more then once, or Re-Installing/Updating SideQuest.
 
 ----
-## 4 Your Cord
+# 4 Your Cord
 ----
 
 ![](https://cdn.discordapp.com/attachments/608376262347587595/609880483286876218/Screenshot_1163.png)
@@ -59,7 +59,7 @@ If the issue persists toggle Dev mode to enabled again, then power off your Ques
 Make sure to try a few different ones, and to abstain from using the cord the Quest came with as it is not the best quality and is quite faulty for anything save charging your device, it may work for a few installs but will very quickly never connect again, burning it out in a sense to the point of it only being capable of charging your device, If you have a phone USB cable that fits use that, Also try a different USB port, be aware just because windows shows `Quest` DOES NOT mean it is a viable cord as some cords will only ever show what the device is and never let the user Open, modify or install things to the device. So be sure if your having issues to try a few different cables in a different port on your PC to see if your Quest registers to SideQuest then.
 
 ----
-## 5 Conflicting Software
+# 5 Conflicting Software
 ----
 
 ![](https://cdn.discordapp.com/attachments/608376262347587595/609881862956908564/Screenshot_1164.png)
@@ -72,7 +72,7 @@ For some VPN's such as NordVPN users, you may need to change a setting that mask
 #### [How to properly uninstall BlueStacks](https://github.com/the-expanse/SideQuest/wiki/BlueStacks-is-causing-issues,-how-do-i-remove-it)
 
 ----
-## 6 Antivirus Systems
+# 6 Antivirus Systems
 ----
 
 ![](https://cdn.discordapp.com/attachments/608376262347587595/609882817962442752/Screenshot_1165.png)
@@ -82,25 +82,25 @@ Antivirus applications such as AVG, Avast, BitDefender or similar programs can c
 Note for Mac users you may need to allow SideQuest in your Privacy new settings.
 
 ----
-## 7 Android Emulators
+# 7 Android Emulators
 ----
 
 The use of Android Emulators cause issues if it is being detected first, so make sure it is turned off completely and not running in task manager, as well as have it not set to "start on boot" in your Computer settings, or just uninstall it to remove the issue.
 
 ----
-## 8 Your Router
+# 8 Your Router
 ----
 
 Always connect directly to the same router as your PC or phone to minimize issues, avoid things like hotspots, router extenders, mesh networks, smart,connection systems and other specialized settings,
 For programs such as BMBF (Beat Ons standalone replacment) you can install and manage songs in headset to avoid issues with that application specifically.
 
 ----
-## 9 Power cycling your devices 
+# 9 Power cycling your devices 
 ----
 Next thing to try is unplugging your headset and turning your PC off completely to make sure all processes of ADB as well as any conflicting processes cease, make sure you do not `Reboot`, Turn the computer completely off and wait a few seconds, Also Hard reboot your headset by holding the power button for at least 15 seconds before restating it to be sure both systems are prepped, then turn your PC back on before re-opening SideQuest and trying once more to try connecting again.
 
 
-### 10 Resetting your connection and/or connecting to wi-fi
+# 10 Resetting your connection and/or connecting to wi-fi
 
 To reset your connection just click the `Run ADB Commands` button top of SideQuest as seen here
 
@@ -111,26 +111,26 @@ Then click `Disconnect everything` hit `Run Command,
 Go back again and and hit `reset ADB`, then hit `Enable USB ADB` and you should connect
 
 ----
-### 11 For Wireless Connection 
+# 11 For Wireless Connection 
 ----
 
 Make sure to connect your headset once before you hit the connect button in the wireless connection popup.
 When properly connected SideQuest should show a purple connection dot and then state two devices are connected, that is when you can disconnect your headset, Note that Every time you reboot SideQuest you Will need to re connect this way with a cable for initial connection.  Make sure your headset is on and connected to the same Wifi network but otherwise you should now be capable of cordless installation,m you can also while connected this way if away from home and logged into a SideQuest account install games from a phone or alternate PC from the SideQuestVR.com website.
 
 ----
-## 12 Properly Reinstall
+# 12 Properly Reinstall
 ----
 SideQuest uses some folders that are a bit hard to find or remove some times so to make sure everything is in order Install the [SideQuest Force Uninstaller](https://github.com/the-expanse/SideQuest/wiki/Force-Uninstaller-for-SideQuest) from that blue link text and install then run the program there, then reinstall the latest SideQuest again, this will remove any residual files, folders and settings that may be causing issues.
 
 ----
-## 13 Driver Re-installation
+# 13 Driver Re-installation
 ----
 
 If so far nothing else has worked the next thing to attempt would be a Driver re-installation, see how to do so at
 [SideQuests Driver Re-installation tutorial](https://www.reddit.com/r/sidequest/comments/dsebyq/cant_connect_to_sidequest_tried_everything_ive/)
 
 ----
-## 14 Force connect With CMD
+# 14 Force connect With CMD
 ----
 
 `If your on mac then click the wrench icon in the top right and click "open adb folder" - then drag these commands into a terminal window`
@@ -165,21 +165,17 @@ Then open up task manager and kill the adb.exe process - taskkill /f /im adb.exe
 
 These are only for windows, Also make sure to only do it if no other options available work and if you are still having issues with ADB try the below
 
-----
-Install the below Folder
-----
+Install the folder from [Entire ADB folder](https://dl.google.com/android/repository/platform-tools-latest-windows.zip)
 
-[Entire ADB folder](https://dl.google.com/android/repository/platform-tools-latest-windows.zip)
-
-then proceed to unzip it,
-if you do not know how to, check google for how to unzip a folder for your version of windows,
+Then proceed to unzip it,
+If you do not know how to check google for how to unzip a folder for your version of windows,
 then in SideQuest head to settings
 Then at the top of the page click `Open Main App` folder and proceed to look for the (Platform tools) Folder
 Open it, make sure to close SideQuest, then delete everything in that folder before you then copy and paste all the files and folders from the installed unzipped folder into it and click replace all, when finished  reboot SideQuest and try once more.
 
 
 ----
-## BMBF issues
+# BMBF issues
 ----
 
 ###### We are not responsible for the BMBF application but here are a couple things to try
