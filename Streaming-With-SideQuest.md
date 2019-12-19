@@ -4,7 +4,11 @@ You can do this by enabling Wi-Fi mode in the top right with the wireless button
 
 ### There is no audio
 
-There will be no game sound streaming and this feature is highly unlikely at all let alone any time soon so you will need an alternative solution such as a Bluetooth transmitter hooked to your headset and a Bluetooth receiver hooked to your PC, or a proper AUX cable from your headset jack to your PC if you wish to have in game sound.
+There will be no game sound streaming and this feature is highly unlikely at all let alone any time soon so you will need an alternative solution.
+
+### Alternative Audio Solutions
+
+You can use a Bluetooth transmitter hooked to your headset and a Bluetooth receiver hooked to your PC which shouldn't have to bad of lag with good quality one (Always check the reviews if looking for good ones), Else you can use a proper physical AUX audio cable from your headsets headphone jack to your PC to allow transmission of in game sounds along side the Video.
 
 
 ### Cropping
