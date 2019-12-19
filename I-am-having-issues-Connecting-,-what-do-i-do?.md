@@ -51,12 +51,12 @@ If the issue persists toggle Dev mode to enabled again, then power off your Ques
 ###### Doing so in the phone app tends to solve many issues, also some times there is a glitch causing something to go awry, such as sometimes making the headset connect to SideQuest only when Dev mode is off  and disconnect when it is on, the issue generally occurs on initial set up, after trying the install steps more then once, or Re-Installing/Updating SideQuest.
 
 ----
-## 4 Your Cord Different Cord
+## 4 Your Cord
 ----
 
 ![](https://cdn.discordapp.com/attachments/608376262347587595/609880483286876218/Screenshot_1163.png)
 
-Make sure to abstain from using the cord the Quest came with as it is not the best quality and is quite faulty for anything save charging your device, it may work for a few installs but will very quickly never connect again, burning it out in a sense to the point of it only being capable of charging your device, If you have a phone USB cable that fits use that, Also try a different USB port, be aware just because windows shows `Quest` DOES NOT mean it is a viable cord as some cords will only ever show what the device is and never let the user Open, modify or install things to the device. So be sure if your having issues to try a few different cables in a different port on your PC to see if your Quest registers to SideQuest then.
+Make sure to try a few different ones, and to abstain from using the cord the Quest came with as it is not the best quality and is quite faulty for anything save charging your device, it may work for a few installs but will very quickly never connect again, burning it out in a sense to the point of it only being capable of charging your device, If you have a phone USB cable that fits use that, Also try a different USB port, be aware just because windows shows `Quest` DOES NOT mean it is a viable cord as some cords will only ever show what the device is and never let the user Open, modify or install things to the device. So be sure if your having issues to try a few different cables in a different port on your PC to see if your Quest registers to SideQuest then.
 
 ----
 ## 5 Conflicting Software
