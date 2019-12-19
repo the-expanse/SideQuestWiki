@@ -133,7 +133,8 @@ If so far nothing else has worked the next thing to attempt would be a Driver re
 # 14 Force connect With CMD
 ----
 
-`If your on mac then click the wrench icon in the top right and click "open adb folder" - then drag these commands into a terminal window`
+`If your on mac then you can also click the wrench icon in the top right and click "open adb folder" - then drag these commands into a terminal window`
+
 Type 
 `cd %appdata%\SideQuest\platform-tools\`
 Click enter Then
