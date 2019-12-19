@@ -14,9 +14,13 @@ Takes you to the previous page.
 ----
 This button lets you can type in any URL and use SideQuests web browser function, this can be used to for example to use Discord within SideQuest or install Beastsaber songs for BMBF or Mods, there are also Default links you can choose from below when in the URL popup.
 
-### Stream
+### Streamer
 ----
 This lets you connect your headset physically and stream video from in headset using SideQuest and ScrCpy, it has a few settings as well to tinker with such as the Bitrate and Crop amount, audio is not supported however and will require external hardware such as Bluetooth Transmitters and receivers or a cable, (Works with WiFi).
+
+For more information see here. 
+
+https://github.com/the-expanse/SideQuest/wiki/Streaming-With-SideQuest
 
 ### Wireless mode
 ----
