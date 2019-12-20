@@ -15,7 +15,7 @@
 
 First since you need to get a clean unmodded Beatsaber version installed and run it to Solo mode (as in open the game and enter solo mode) in order to to patch properly. If you care for your scores be sure to back them up in the SideQuests `My Apps` tab by clicking the settings button (Gear Icon) to the right of Beatsaber, Clicking Back Up Game Data then checking the `My Tasks` tab to make sure it is finished installing before you proceed.
 
-## - To Uninstall Properly
+## - To Uninstall Properly if you have used BMBF or have failed installing previously
 ----
 
 Go to the `My Apps` manager tab in Sidequest and click the gear to the right of the application and click uninstall, you can do the same for BMBF's old version using SideQuests My apps tab by searching the word `love` in the My apps tab and it should pop up as `We Love Oculus`and uninstall it by clicking the gear icon to the right and clicking uninstall, Then find and remove the BMBF related `Wrapper` 
