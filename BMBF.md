@@ -52,12 +52,11 @@ For Purchased Packs make sure you install them to your base game BEFORE modding 
 Make sure to be safe to properly restart your headset after you install BMBF and open BMBF from the Quests `Oculus TV tab run Beatsaber from BMBFs launch button top right of the app without syncing any other custom songs or mods, to do so.
 In headset run BMBF from `Oculus TV`s Channels Sub section.
 
-## Make sure you have properly uninstalled BeatSaber and BMBF again before proceeding if updating to a new version or previously installed and faulty.
+# Make sure you have properly uninstalled BeatSaber and BMBF again before proceeding if updating to a new version or previously installed and faulty.
 
-# Read ALL the information above before proceeding with BMBFs installation
 ----
 
-# BMBF installation Video Link (TycoTech)
+## BMBF installation Video Link (TycoTech)
 [![](https://cdn.discordapp.com/attachments/541467913857662995/655955885465665537/Screenshot_1054.png)](https://www.youtube.com/watch?v=JGCf01gX4nU&list=PLt5tbz7PdomDAfUA3TDbPKG5zOgiiL1pw&index=1)
 
 ### BMBF APKs
