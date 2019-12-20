@@ -1,3 +1,5 @@
+# All about BMBF the custom song installer for BeatSaber and installing it
+
 ## Beat On has long since been Discontinued, BMBF is what has replaced it, any error seen about Beat On is lingering code and can be ignored.
 
 #### MAKE SURE TO HAVE AN OFFICIAL PAID FOR VERSION OF BEATSABER FROM THE OFFICIAL OCULUS QUEST STORE AND THAT PC SABERS AND MODS WILL NOT WORK ON THE QUEST
