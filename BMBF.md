@@ -1,4 +1,4 @@
-# BMBF the custom song installer for BeatSaber and how to install it (Beat on is no longer supported see here for custom songs)
+# BMBF the custom song installer for BeatSaber and how to install it (Beat on is no longer supported and SideQuest is unaffiliated with it directly except for mods, see here for installing BMBF and custom songs)
 
 ## Beat On has long since been Discontinued, BMBF is what has replaced it, any error seen about Beat On is lingering code and can be ignored.
 
