@@ -107,9 +107,8 @@ To reset your connection just click the `Run ADB Commands` button top of SideQue
 ![](https://cdn.discordapp.com/attachments/615234075778875453/622179541535817728/Screenshot_257.png)
 
 
-Then click `Disconnect everything` hit `Run Command, 
-Go back again and and hit `reset ADB`, then hit `Enable USB ADB` and you should connect
-
+Then click `Disconnect everything` hit `Run Command`, 
+Go back again and and hit `reset ADB`, then hit `Enable USB ADB` and you should connect.
 ----
 # 11 For Wireless Connection 
 ----
