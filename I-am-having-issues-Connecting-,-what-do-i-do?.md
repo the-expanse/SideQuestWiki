@@ -162,7 +162,7 @@ Then type
 
 if you see 
 `Cannot connect to daemon` 
-Then open up task manager and kill the adb.exe process - taskkill /f /im adb.exe
+Then open up task manager and kill the adb.exe process by clicking it, then hitting end task for windows, else try the commands - taskkill /f /im adb.exe
 
 ----
 ## Failing the above  all of the above (Windows only) Try Installing the ADB folder manually
