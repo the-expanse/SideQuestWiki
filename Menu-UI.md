@@ -44,7 +44,7 @@ This button is for checking how long it will take to install something, if it su
 
 ### Settings
 ----
-This button is to get to SideQuests settings and deeper functions such as the folders it is housed in, as well as certain Quest options and a keyboard input option so you can enter text anywhere in a text box on the Quest.
+This button is to get to SideQuests settings and deeper functions such as the folders it is housed in, as well as certain Quest options and a keyboard input option so you can enter text anywhere in a text box on the Quest, most resolution settings either fail to function entirely or only improve the quality of images a fraction due to the hardware limitation of the Quest, and restarting the headset will reset these settings if applied..
 
 ### Gift shop
 ----
