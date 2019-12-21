@@ -2,7 +2,7 @@
 
 You can do this by enabling Wi-Fi mode in the top right with the wireless button, make sure to be connected by cable when enabling this feature and wait until the connection dot is purple before unplugging then launch the streamer and you should see it pop up with your screen live, you can also install apps and manage in headset recorded material this way.
 
-## Make sure you unplug
+### Make sure you unplug
 After enabling Wireless mode it will think there are two devices connected at once as it accesses your Quest from both a Cable and the Wi-Fi, so be sure you unplug your cable and it has a green dot top right before running the Streamer
 
 ### There is no audio
