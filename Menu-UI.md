@@ -12,7 +12,7 @@ Takes you to the previous page.
 
 ### Web Browser
 ----
-This button lets you can type in any URL and use SideQuests web browser function, this can be used to for example to use Discord within SideQuest or install Beastsaber songs for BMBF or Mods, there are also Default links you can choose from below when in the URL popup.
+This button lets you can type in any URL and use SideQuests web browser function, this can be used to for example to use Discord within SideQuest, SynthRider songs or install Beastsaber songs for BMBF or Mods, there are also Default links you can choose from below when in the URL popup.
 
 ### Forward
 ----
