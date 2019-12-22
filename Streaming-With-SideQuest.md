@@ -30,10 +30,9 @@ Windows windows Task Manager and locate ADB.exe, then right click it, if it does
 
 Check that your headset is not in sleep mode and that the screen is on and showing video, the streamer will show everything the headset sees so be aware is shows your room if you leave your guardian boundary as well.
 
-#### Uninstall any old versions of ScrCpy
-
-Make sure if you have installed ScrCpy before that you properly remove all related folders and files not in SideQuests folders, leaving any such files may lead to conflictions.
-
 #### Check for any alternate ADB versions.
 
 Make sure to search your PC using auto search and whatever you can to check for any other versions of ADB.exe and remove them in case of interference before re launching SideQuest
+#### Uninstall any old versions of ScrCpy
+
+Make sure if you have installed ScrCpy before that you properly remove all related folders and files not in SideQuests folders, leaving any such files may lead to conflictions.
