@@ -20,7 +20,7 @@ Takes you to the next saved page in the history if you clicked Back.
 
 ### Streamer
 ----
-This lets you connect your headset physically or Via Wi-Fi and stream video from in headset using SideQuest and ScrCpy, it has a few settings as well to tinker with such as the Bitrate and Crop amount, audio is not supported however and will require external hardware such as Bluetooth Transmitters and receivers or a cable, (Works with WiFi).
+This lets you connect your headset physically or Via Wi-Fi and stream video from in headset using SideQuest and ScrCpy, it has a few settings as well to tinker with such as the Bitrate and Crop amount, audio is not supported however and will require external hardware such as Bluetooth Transmitters and receivers or a cable.
 
 For more information see here. 
 
