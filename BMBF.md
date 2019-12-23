@@ -44,7 +44,7 @@ If purchased packs still do not appear try to re install from scratch completely
 ----
 
 Make sure to run SideQuest and back up your player data from Beatsabers Gear icon, then you can reload your save data from the My Apps tab and that the scores can be seen in the base game Prior to installing BMBF,
-For Purchased Packs make sure you install them to your base game BEFORE modding it with BMBF so be sure after re-installation of a clean Beatsaber to buy/re download any packs you have or want in game prior to doing anything with BMBF, Then you can install and run the BMBF installer from PC while connected as normal
+For Purchased Packs make sure restart the headset entirely by powering it off for at least 5 seconds then back on, then you can install them to your base game BEFORE modding it with BMBF so be sure after re-installation of a clean Beatsaber to buy/re download any packs you have or want in game prior to doing anything with BMBF, Then you can install and run the BMBF installer from PC while connected as normal
 
 
 # - After you do install BMBF
