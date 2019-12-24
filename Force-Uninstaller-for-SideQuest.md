@@ -1,4 +1,4 @@
-This uninstaller is for if you have issues updating or removing and reinstalling SideQuest for any reason and should fix your issues and remove any file or folder residue
+This uninstaller is for if you have issues updating or removing and reinstalling SideQuest for any reason and should fix your issues and remove any file or folder residue, make sure to run the uninstaller in your control panel first before running this, whether the default uninstaller succeeds or fails you want to run it to make sure everything is gone.
 
 [Download Uninstaller](https://drive.google.com/open?id=1Nw3UIa0p0SJ1w7-FBLL7hr57jnIj6MQS)
 
