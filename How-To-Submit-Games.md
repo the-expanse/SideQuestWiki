@@ -91,3 +91,12 @@ You can create events with scheduled times that users can subscribe to in order 
 ![](https://i.imgur.com/V19jKpj.png)
 
 Connect with us on [Discord](https://discord.gg/hzCf9Vj) and ask for the `AD` (App Developer) role to get access to resources and feedback options on the developer process, and if you wish for your application to be put on the featured page just ping Shane Harris on discord.
+
+
+## HTML format
+
+SideQuest uses HTML formating for processing your application and game description so if you want to make the most out of your pages description in the app submission page see a list of commands here
+
+https://www.javatpoint.com/html-formatting
+
+Also note that you can link other URLs to external websites if you wish to have social links to Discord, Facebook or other such sites, Even custom urls to personal sites are supported and an icon to your link will appear in the top-right of your apps public page.
