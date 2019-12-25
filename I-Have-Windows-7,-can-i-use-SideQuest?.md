@@ -25,7 +25,7 @@ After that select `Browse My Computer for driver software`
 
 Then click Next, you will see another windows pop up
 
-![](https://preview.redd.it/rpcg5jnhh1x31.png?width=613&format=png&auto=webp&s=35302cf1e1f42c3b6a4c3ba623601ea351f5e80e
+![](https://preview.redd.it/rpcg5jnhh1x31.png?width=613&format=png&auto=webp&s=35302cf1e1f42c3b6a4c3ba623601ea351f5e80e)
 
 Click `Let me pick from a list of available drivers` to make a pop-up window appear and in it locate the entire unzipped folder with the Oculus drivers in it that you have installed and extracted, (most likely in downloads) and select the folder, then click Next and it should install the driver, then just restart SideQuest and see if it connects now.
 
