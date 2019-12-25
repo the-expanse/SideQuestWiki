@@ -18,7 +18,7 @@ First since you need to get a clean unmodded Beatsaber version installed and run
 ## - To Uninstall Properly if you have used BMBF or have failed installing previously
 ----
 
-Go to the `My Apps` manager tab in Sidequest and click the gear to the right of the application and click uninstall, you can do the same for BMBF's old version using SideQuests My apps tab by searching the word `love` in the My apps tab and it should pop up as `We Love Oculus`and uninstall it by clicking the gear icon to the right and clicking uninstall, Then find and remove the BMBF related `Wrapper` 
+Connect your headset to your PC and go to the `My Apps` manager tab in Sidequest and click the gear to the right of the application and click uninstall, you can do the same for BMBF's old version using SideQuests My apps tab by searching the word `love` in the My apps tab and it should pop up as `We Love Oculus`and uninstall it by clicking the gear icon to the right and clicking uninstall, Then find and remove the BMBF related `Wrapper` 
 ##### (Uninstall Beat On if you have that still)
 
 
