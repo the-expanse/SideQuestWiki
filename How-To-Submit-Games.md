@@ -99,4 +99,4 @@ SideQuest uses HTML formating for processing your application and game descripti
 
 https://www.javatpoint.com/html-formatting
 
-Also note that you can link other URLs to external websites if you wish to have social links to Discord, Facebook or other such sites, Even custom urls to personal sites are supported and an icon to your link will appear in the top-right of your apps public page.
+Also again note that you can link other URLs to external websites if you wish to have social links for promotion, socialising or other information such as links to specialized Discords, Facebook/Twitter pages and other such sites, Even custom urls to personal sites are supported and an icon to your link will appear in the top-right of your apps public page.
