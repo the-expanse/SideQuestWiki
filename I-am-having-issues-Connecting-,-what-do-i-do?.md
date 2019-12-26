@@ -4,7 +4,7 @@ If not seeing green dot in the top left inside SideQuest to be green, or yellow.
 #### First things to try
 
 
-Note all information below is not are specific as some errors chair Solutions so be sure to try everything and look into each one at least once.
+Note all information below is not error specific as some errors share Solutions so be sure to try everything and look into each one at least once.
 
 Make sure you have installed the very latest SideQuest from [SideQuestVR.com](https://sidequestvr.com/#/download) properly before proceeding.
 Also double check the main setup steps for installing SideQuest to make sure you have done every one of the 5 mandatory steps.
