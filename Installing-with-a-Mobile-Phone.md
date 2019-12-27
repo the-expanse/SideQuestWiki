@@ -4,11 +4,20 @@ Using Android phone or tablet to install APKs (such as BMBF) - Tutorial
 
 ### WARNING
 
-You will need need some basic understanding of Android devices and ADB, So if you do not know your way around ADB and general coding commands and I have no idea what ADB even does or is do NOT attempt this, Be aware also that it is not guaranteed to work and even if it does be aware that it is VERY difficult to fix any issues that may crop up due to using this method later on so if at all possible try your best to use a PC with use SideQuest to install.
+You will need need some basic understanding of Android devices and ADB, So if you do not know your way around ADB and general coding commands or
+### If you have no idea what ADB even does or is DO NOT attempt this.
+
+----
+
+### This is NOT guaranteed to work
+
+Note that this method is unreliable and even if it does work foe you at first be aware that it is VERY difficult to fix any issues that may crop up due to using this method after installing or later down the line so if at all possible try your best to use a PC with use SideQuest to install.
 
 ### You could break your Quest.
 
 ADB is a very powerful tool and installing the wrong apps, running the wrong commands or just messing around randomly with it can permanently damage your Quest.
+
+----
 
 ### We aren't responsible for any damages
 
@@ -16,7 +25,10 @@ SideQuest will hold no responsibility if anything goes wrong, Proceeding with th
 
 ----
 
-Pretty much any Android phone or tablet theoretically should work with this method but again it is not guaranteed, you will also need a few things,to get started.
+### On to business.
+
+A last check, you could break your Quest entirely doing this so be warned.
+Moving on, Pretty much any Android phone or tablet theoretically should work with this method but again it is not guaranteed, you will also need a few things to get started.
 
 
 You will need an USB C-to-C OTG cable or an USB OTG adapter and an USB A-to-C cable.
