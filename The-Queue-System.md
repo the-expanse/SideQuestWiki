@@ -1,4 +1,4 @@
-If you have further issues see here
+# If you have further issues see here
 
 [Known connection and installation issues and solutions](https://github.com/the-expanse/SideQuest/wiki/SideQuest-Setup-&-How-To-install) 
 
