@@ -2,6 +2,10 @@
 
 [Known connection and installation issues and solutions](https://github.com/the-expanse/SideQuest/wiki/SideQuest-Setup-&-How-To-install) 
 
+#### All about app and game uninstallation 
+
+[Uninstalling Apps and Games](https://github.com/the-expanse/SideQuest/wiki/.My-apps-won't-uninstall-what's-wrong%3F#all-about-un-installation-of-applications-or-games)
+
 ## The Queue System
 Our Queue system is a how we are able to let users install many things at once without seeing a long loading screen and having your screen freeze up as an app or game installs making you unable to do anything else but stare at it and wait and sometimes it gives an error. 
 
