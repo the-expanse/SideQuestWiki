@@ -2,7 +2,7 @@ Using Android phone or tablet to install APKs (such as BMBF) - Tutorial
 
 # This is not meant for complete newbies!
 
-WARRNING: ADB is a pretty powerful tool and installing the wrong apps, running the wrong commands or just fucking around randomly with it can permanently kill your Quest. I will take zero responsibility if anything goes wrong, this is entirely your own risk and decision. I tested this and it worked for me with my setup and LG G6, and it SHOULD work for any other Android phone or tablet, but is obviously untested.
+#### WARRNING: ADB is a pretty powerful tool and installing the wrong apps, running the wrong commands or just fucking around randomly with it can permanently kill your Quest. I will take zero responsibility if anything goes wrong, this is entirely your own risk and decision. I tested this and it worked for me with my setup and LG G6, and it SHOULD work for any other Android phone or tablet, but is obviously untested.
 
 It's also really difficult to fix any issues that may crop up using this method and it's software so if at all possible try your best to use a PC with use SideQuest to install.
 
@@ -50,3 +50,7 @@ Choose "Select APK file".
 Point it to the BMBF APKs you downloaded earlier. The order is not important.
 
 Once installed, you can start BMBF from Unknown Sources or via OculusTV and follow the usual steps.
+
+
+Original steps provided by 
+https://www.reddit.com/r/OculusQuest/comments/eg8gea/using_android_phone_or_tablet_to_install_apks/
