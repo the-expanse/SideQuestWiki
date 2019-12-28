@@ -1,11 +1,14 @@
-# [Installation Guide & Wiki](http://wiki.pavlov-vr.com/index.php?title=Quest)
+# Official Pavlov links and information
 
-# [Known Issues and Solution](http://wiki.pavlov-vr.com/index.php?title=Quest_FAQ#Known_bugs_and_solutions)
+## [Installation Guide & Wiki](http://wiki.pavlov-vr.com/index.php?title=Quest)
 
-# [Information about Pavlov for Quest](http://wiki.pavlov-vr.com/index.php?title=Quest_FAQ)
+## [Known Issues and Solution](http://wiki.pavlov-vr.com/index.php?title=Quest_FAQ#Known_bugs_and_solutions)
 
+## [Information about Pavlov for Quest](http://wiki.pavlov-vr.com/index.php?title=Quest_FAQ)
 
-## Pavlov is not currently supported by SideQuest and will be officially purchasable Via the Oculus app store in the future.
+----
+
+### Pavlov is not currently supported by SideQuest and will be officially purchasable Via the Oculus app store in the future.
 
 #### Pavlov Discord link
 For any issues or help installing Pavlov see the links at the top of this page otherwise head to the  [OFFICIAL PAVLOV DISCORD SERVER](https://discord.gg/wE5ZqBB) for direct instructions as SideQuest can not assist you past this page. 
