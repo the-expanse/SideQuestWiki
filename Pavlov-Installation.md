@@ -16,7 +16,7 @@ Here is a Windows only guide (This is the most support we can provide in the mat
 Also do make sure you have the most recent Folder for PavLov from [LATEST PAVLOV BUILDS](https://discord.gg/wE5ZqBB)
 that is usually an issue people overlook as they install an old version or incorrect file/folder.
 
-## Clean install Pacloc
+## Clean install Paclov
 Be sure uninstall any old version of Pavlov you may have had with SideQuest under your "My Apps" tab if you have had PavLov installed already or have attempted and failed to properly install it prior to you downloading and unzipping the newest Pavlov folder for installation.
 
 ### NOTE the file name may not be the same anymore but the process of right clicking and extraction of the folder will be.
