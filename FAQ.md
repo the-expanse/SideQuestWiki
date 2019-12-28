@@ -10,7 +10,7 @@
 ---
 
 ### - [Beat On not found](https://github.com/the-expanse/SideQuest/wiki/BMBF#beat-on-has-long-since-been-discontinued-bmbf-is-what-has-replaced-it)
-### - [Installing song and mods on Beatsaber with BMBF](https://github.com/the-expanse/SideQuest/wiki/BMBF)
+### - [Installing songs and mods on Beatsaber with BMBF](https://github.com/the-expanse/SideQuest/wiki/BMBF)
 
 ### - [I want to install PavLov, how do i](https://github.com/the-expanse/SideQuest/wiki/having-an-issue-installing-Pavlov%3F)
 
@@ -31,7 +31,7 @@
 
 ### - [I'm having SideQuest Connection issues, are there solutions](https://github.com/the-expanse/SideQuest/wiki/I-am-having-issues-Connecting-,-what-do-i-do%3F)
 
-### - [My Quest updated and i re:enabled Dev mode again but it still fails to connect](https://github.com/the-expanse/SideQuest/wiki/Updated-my-Quest-recently-and-now-it-won%27t-connect-to-SideQuest)
+### - [My Quest updated and i re:enabled Dev mode again and checked connection issues but it still fails to connect](https://github.com/the-expanse/SideQuest/wiki/Updated-my-Quest-recently-and-now-it-won%27t-connect-to-SideQuest)
 
 ### - [SideQuest Apps/Mods aren't installing properly, how can i fix it?](https://github.com/the-expanse/SideQuest/wiki/SideQuest-isn't-working-properly,-apps-won't-install)
 
@@ -46,7 +46,7 @@
 
 ### - [Beatsaber is Permaloading, What can i do about it](https://github.com/the-expanse/SideQuest/wiki/Beatsaber-is--Permaloading,-what-can-i-do-about-it%3F)
 
-### - [This Quest update breaking games, what do i do](https://github.com/the-expanse/SideQuest/wiki/Quest-update-breaking-games%3F)
+### - [This Quest update broke most of my games and apps, what do i do](https://github.com/the-expanse/SideQuest/wiki/Quest-update-breaking-games%3F)
 
 ### - [What is the Queue system](https://github.com/the-expanse/SideQuest/wiki/The-Queue-System)
 
