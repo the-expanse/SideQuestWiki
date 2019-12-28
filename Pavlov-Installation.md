@@ -7,17 +7,17 @@
 
 ## Pavlov is not currently supported by SideQuest and will be officially purchasable Via the Oculus app store in the future.
 
-#### PavLov Discord link
-For any issues or help installing Pavlov see the links at the top of this page otherwise head to the  [OFFICIAL PAVLOV DISCORD SERVER](https://discord.gg/wE5ZqBB) for direct instructions asSideQuest can not assist you past this page. 
+#### Pavlov Discord link
+For any issues or help installing Pavlov see the links at the top of this page otherwise head to the  [OFFICIAL PAVLOV DISCORD SERVER](https://discord.gg/wE5ZqBB) for direct instructions as SideQuest can not assist you past this page. 
 
-Here is a Windows only guide (This is the most support we can provide in the matter)
+##Here is a Windows only guide (This is the most support we can provide in the matter)
 
 
 Also do make sure you have the most recent Folder for PavLov from [LATEST PAVLOV BUILDS](https://discord.gg/wE5ZqBB)
 that is usually an issue people overlook as they install an old version or incorrect file/folder.
 
 ## Clean install Pavlov
-Be sure uninstall any old version of Pavlov you may have had with SideQuest under your "My Apps" tab if you have had PavLov installed already or have attempted and failed to properly install it prior to you downloading and unzipping the newest Pavlov folder for installation.
+Be sure uninstall any old version of Pavlov you may have had with SideQuest under your "My Apps" tab if you have had Pavlov installed already or have attempted and failed to properly install it prior to you downloading and unzipping the newest Pavlov folder for installation.
 
 ### NOTE the file name may not be the same anymore but the process of right clicking and extraction of the folder will be.
 
