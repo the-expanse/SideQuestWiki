@@ -1,4 +1,5 @@
-#### If you have a .NET error or a missing DLL when starting SideQuest and are on windows 8 or higher you can try installing the .NET core with this
+#### If you have a .NET error or a missing DLL when starting SideQuest
+Also for if you are on windows 8 or higher you can try installing the .NET core with this
 
 ### [Microsoft .NET installer](https://dotnet.microsoft.com/download/thank-you/dotnet-runtime-2.2.4-windows-x64-installer)
 
