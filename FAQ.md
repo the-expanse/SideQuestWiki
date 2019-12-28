@@ -12,7 +12,7 @@
 ### - [Beat On not found](https://github.com/the-expanse/SideQuest/wiki/BMBF#beat-on-has-long-since-been-discontinued-bmbf-is-what-has-replaced-it)
 ### - [Installing songs and mods on Beatsaber with BMBF](https://github.com/the-expanse/SideQuest/wiki/BMBF)
 
-### - [I want to install PavLov, how do i](https://github.com/the-expanse/SideQuest/wiki/having-an-issue-installing-Pavlov%3F)
+### - [About installing Pavlov](hhttps://github.com/the-expanse/SideQuest/wiki/Pavlov-Installation)
 
 ### - [How do i Manual install APKs obtained outside of SideQuest](https://github.com/the-expanse/SideQuest/wiki/How-can-i-manually-install-apps)
 
