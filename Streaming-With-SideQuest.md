@@ -4,7 +4,7 @@ You can do this by enabling Wi-Fi mode in the top right with the wireless button
 
 ### Cable Needed
 
-Unfortunately yes a cable will be required as you will need a cable to first initialize wireless mode in SideQuest, as well as every subsequent time you either reboot of your headset, or the PC as IPs can change and as a safety measure for users against hacking, it records and saves the IP of your device (which can change over restarts) if SideQuest is closed and reopened but upon a reboot of either device it will loose that connection so you will need to re engage it with the cable once again.
+Unfortunately yes a cable will be required even with wireless mode as you will need a cable to first initialize wireless mode in SideQuest, as well as every subsequent time you either reboot of your headset, or the PC as IPs can change and as a safety measure for users against hacking, it records and saves the IP of your device (which can change over restarts) if SideQuest is closed and reopened but upon a reboot of either device it will loose that connection so you will need to re engage it with the cable once again.
 
 ### Make sure you unplug
 After enabling Wireless mode it will think there are two devices connected at once as it accesses your Quest from both a Cable and the Wi-Fi, so be sure you unplug your cable and it has a green dot top right before running the Streamer
@@ -15,7 +15,7 @@ There will be no game sound streaming and this feature is highly unlikely at all
 
 ### Alternative Audio Solutions
 
-You can use a Bluetooth transmitter hooked to your headset and a Bluetooth receiver hooked to your PC which shouldn't have to bad of lag with good quality one (Always check the reviews if looking for good ones), Else you can use a proper physical AUX audio cable from your headsets headphone jack to your PC to allow transmission of in game sounds along side the Video.
+You can use a Bluetooth transmitter plugged into your headset and a Bluetooth receiver hooked to your PC which shouldn't have notable lag at all with a good quality one (Always check the reviews if looking for good ones), Else you can use a proper physical AUX audio cable from your headsets headphone jack to your PC to allow transmission of in game sounds along side the Video.
 
 
 ### Cropping
