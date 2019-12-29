@@ -110,7 +110,7 @@ How to install mods to BMBF directly in the headset
 
 #### - Alternative ways to install Mods
 
-So long as BMBF is properly installed SideQuest may be used to install mods from it's BMBF mod tab through a Cable of from Wireless mode if connected that way by clicking Install latest like any game, though some may be out dated or non functioning so be aware of the convenient `Reset assets` button within BMBFs tools tab
+So long as BMBF is properly installed SideQuest may be used to install mods from it's BMBF mod tab with either a Cable or from Wireless mode so long as it states it is connected, then you just locate a mod you desire and install it by clicking Install latest like any game, though some may be out dated or non functioning so be aware of the convenient `Reset assets` button within BMBFs tools tab
 
 
 ## - Updating Beatsaber before BMBF get's an update to match.
