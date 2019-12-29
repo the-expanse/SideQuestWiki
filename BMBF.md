@@ -118,7 +118,7 @@ You can use the built in bookmark system, it much more simple and helps save and
 
 ----
 
-##How to install MODS to BMBF directly in the headset without a PC
+## How to install MODS to BMBF directly in the headset without a PC
 ----
 
 
@@ -133,8 +133,7 @@ You can use the built in bookmark system, it much more simple and helps save and
 So long as BMBF is properly installed SideQuest may be used to install mods from it's BMBF mod tab with either a Cable or from Wireless mode so long as it states it is connected, then you just locate a mod you desire and install it by clicking Install 
 latest like any game, though some may be out dated or non functioning so be aware of the convenient `Reset assets` button within BMBFs tools tab, Be aware any mods obtained externally from SideQuest more then likely are PC only such as those from BeastSaber.com
 
-
-## - Updating Beatsaber before BMBF get's an update to match.
+# - Updating Beatsaber before BMBF get's an update to match.
 
 Something to be aware of is that when ever Beatsaber gets updates it usually (at least for a while) makes BMBF non functional for the updated version, so do not update right away if you care for your custom songs for importing custom songs and 
 mods, Apologies but if you have updated and BMBF has stopped functioning there is little to be done, You can see if there is a backed up APK in the BMBF data backup folder in your device to recover to, if so be sure to uninstall Beatsaber first 
