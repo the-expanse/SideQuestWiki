@@ -1,4 +1,4 @@
-## Having connection issues? 
+## Having issues? 
 If not seeing green dot in the top left inside SideQuest to be green, or yellow.
 
 #### First things to try
