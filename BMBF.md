@@ -131,7 +131,7 @@ You can use the built in bookmark system, it much more simple and helps save and
 ## - Alternative ways to install Mods
 
 So long as BMBF is properly installed SideQuest may be used to install mods from it's BMBF mod tab with either a Cable or from Wireless mode so long as it states it is connected, then you just locate a mod you desire and install it by clicking Install 
-latest like any game, though some may be out dated or non functioning so be aware of the convenient `Reset assets` button within BMBFs tools tab
+latest like any game, though some may be out dated or non functioning so be aware of the convenient `Reset assets` button within BMBFs tools tab, Be aware any mods obtained externally from SideQuest more then likely are PC only such as those from BeastSaber.com
 
 
 ## - Updating Beatsaber before BMBF get's an update to match.
