@@ -1,6 +1,6 @@
 # If you have further issues see here
 
-[Known connection and installation issues and solutions](https://github.com/the-expanse/SideQuest/wiki/SideQuest-Setup-&-How-To-install) 
+[Known connection and installation issues and solutions](https://github.com/the-expanse/SideQuest/wiki/I-am-having-issues-Connecting-,-what-do-i-do%3F#having-connection-issues) 
 
 #### All about app and game uninstallation 
 
