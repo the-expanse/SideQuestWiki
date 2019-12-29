@@ -62,7 +62,7 @@ In headset run BMBF from `Oculus TV`s Channels Sub section.
 
 ----
 
-## BMBF installation Video Link (TycoTech)
+# BMBF installation Video Link (TycoTech)
 [![](https://cdn.discordapp.com/attachments/541467913857662995/655955885465665537/Screenshot_1054.png)](https://www.youtube.com/watch?v=JGCf01gX4nU&list=PLt5tbz7PdomDAfUA3TDbPKG5zOgiiL1pw&index=1)
 
 ### BMBF APKs
@@ -70,11 +70,14 @@ https://github.com/kihecido/BMBF/releases
 
 ----
 
-Install both Both `BMBF_TVWrapper.apk` And `com.weloveoculus.BMBF.apk` 
+# Detailed Written BMBF installation
 
-(If you have installed custom songs before make sure you have a clean version of BeatSaber and BMBF before proceeding and that
-after reinstalling Beatsaber fresh you run base beatsaber to Solo mode and start a song before you then close beatsaber to continue.)
-launch SideQuest and click the button top right button that when hovered over says `Install APK file from folder`, In the popup locate and install both of the APKs in the popup window before restarting your headset, you can see they have both installed from `My Tasks` and after they are close SideQuest and you can run BMBF in headset.
+Install both both the `BMBF_TVWrapper.apk` And `com.weloveoculus.BMBF.apk`s from the link above
+
+###### If you have installed custom songs before make sure you have a clean version of BeatSaber before you run base BeatSaber and open Solo mode to start a song, then click the oculus home button on your left controller and close BeatSaber then continue.
+
+## Installing the BMBF APKs into your headset
+After you have downloaded both the APKs for BMBF Launch SideQuest and look for a button top right button that when hovered over says `Install APK file from folder`, and click it, In the popup it opens locate and install both of the APKs before restarting your headset, you can see they have both installed from `My Tasks` which you can also get to in the top bar and after they are installed you can close SideQuest run BMBF in headset which can be found in Oculus TV under Channels.
 
 ### Where is BMBF in headset?
 BMBF will always be located in headset under OculusTV under `Channels` and can be launched from there to enable and disable mods, as well as install or remove songs without a PC.
