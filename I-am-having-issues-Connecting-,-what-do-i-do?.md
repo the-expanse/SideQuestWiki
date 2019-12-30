@@ -1,5 +1,5 @@
 ## Having issues? 
-If not seeing green dot in the top left inside SideQuest to be green, or yellow.
+If not seeing green dot in the top left inside SideQuest to be green or yellow, If purple it means another device is connected, try disconnecting your headset if you are in Wireless mode and it should resolve else try all of the solutions below.
 
 #### First things to try
 
