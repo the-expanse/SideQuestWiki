@@ -108,14 +108,14 @@ You can install songs and with BMBF all in headset, you only need to open BMBF f
 You can also manage BMBF on PC connecting your headset to your PC typing in your Quest IP (located top left of SideQuest) Followed by `:500000` and clicking enter, it will open a BMBF management page on any device.
 
 
-## Management and installation of songs and mods in headset
+## Management and installation of songs and mods in headset after installation
 ----
 
-For songs
-You can manage and install songs from in headset easily, just open bmbf from Oculus TV channel Tab and go to the browser tab within it, then search the song you desire and click the download zip button, it looks like a down arrow.
+FOR SONGS
+You can manage and install songs from in headset directly without a PC easily, just open BMBF from `Oculus TV`s channels Tab and go to the browser tab within it, then search the song you desire and click the download zip button, it looks like a down arrow.
 
-For mods
-Fou can install those within headset as well  by locating the globe web browser icon in the top-right of bmbf under the browser Tab, and clicking SideQuest,  then just click install latest on a mod you want,  after that you can dismiss and re-enable the mod at will from the mods tab in BMBF.
+FOR MODS
+Fou can install those within headset as well  by locating the globe web browser icon in the top-right of BMBF under the browser Tab, and clicking SideQuest,  then just click install latest on a mod you want,  after that you can dismiss and re-enable the mod at will from the mods tab in BMBF.
 
 ## Managing or Installing Songs and Mods with your PC or managing them on mobile devices
 
