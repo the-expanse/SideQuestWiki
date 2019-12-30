@@ -1,5 +1,9 @@
 ## BMBF is a custom song installer for BeatSaber 
 
+For any further assistance be on this page see the beat saber modding group Discord at
+[BSMG Discord](https://discord.gg/beatsabermods)
+Where are you can also obtain the mod extender which some songs require or they will just permanently load in your beat saber window.
+
 ### MAKE SURE TO HAVE AN OFFICIAL PAID FOR VERSION OF BEATSABER 
 FROM THE OFFICIAL OCULUS QUEST STORE AND THAT PC SABERS AND MODS 
 WILL NOT WORK ON THE QUEST Pirated copy's will not work in any 
