@@ -70,6 +70,12 @@ Make sure to properly restart your headset after you install BMBF and to after d
 ## BMBF installation Video Link (TycoTech)
 [![](https://cdn.discordapp.com/attachments/541467913857662995/655955885465665537/Screenshot_1054.png)](https://www.youtube.com/watch?v=JGCf01gX4nU&list=PLt5tbz7PdomDAfUA3TDbPKG5zOgiiL1pw&index=1)
 
+
+### If you have installed custom songs before
+----
+
+Make 100% sure you get a clean version of BeatSaber by seeing the guide on how to properly uninstall at the top of this page  before you go any further if you have installed custom songs before as if you do not uninstall correctly many issues may arise upon updating or re-installation of BMBF.
+
 ### BMBF APKs
 https://github.com/kihecido/BMBF/releases
 
@@ -79,11 +85,6 @@ https://github.com/kihecido/BMBF/releases
 ----
 
 Install both both the `BMBF_TVWrapper.apk` And `com.weloveoculus.BMBF.apk`s from the link above
-
-## If you have installed custom songs before
-----
-
-Make 100% sure you have a clean version of BeatSaber by seeing the guide on how to properly uninstall at the top of this page  before you go any further if you have installed custom songs before as if yo do not uninstall correctly many issues may arise upon updating or reinstallation of BMBF.
 
 ## How to Install the BMBF APKs into your headset
 ----
