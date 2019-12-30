@@ -2,9 +2,13 @@
 
 SideQuest is a side loading application and it requires an external device (A PC) in order to sideload from, so be aware installing SideQuest to your actual Quest device so you can download apps and games directly within headset and never touching a PC again is not possible, the SideQuest application within SideQuests own App Store is only a launcher for apps installed from SideQuest on your PC.
 
-#### Before installation
+## Before installation
 
 Make sure before anything to `use a phone USB cable that can transfer data` instead of the cable that comes with your Quest as the cable that comes with the device is not suited for data transfer, also making a SideQuest account helps in many ways such as with updating your apps so be sure to look into making an account [SIGN UP HERE](https://sidequestvr.com/#/sign-up)
+
+Video installation tutorial
+
+![https://www.youtube.com/watch?v=dRWSAQJ13Zc](https://cdn.discordapp.com/attachments/615234075778875453/661114893528858656/Screenshot_1158.png)
 
 Step 1: Install SideQuest To Your Computer
 ====================================================
