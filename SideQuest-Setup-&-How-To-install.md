@@ -4,7 +4,7 @@ SideQuest is a side loading application and it requires an external device (A PC
 
 #### Before installation
 
-make sure before anything to `use a phone USB cable that can transfer data` instead of the cable that comes with your Quest as the cable that comes with the device is not suited for data transfer.
+Make sure before anything to `use a phone USB cable that can transfer data` instead of the cable that comes with your Quest as the cable that comes with the device is not suited for data transfer, also making a SideQuest account helps in many ways such as with updating your apps so be sure to look into making an account [SIGN UP HERE](https://sidequestvr.com/#/sign-up)
 
 Step 1: Install SideQuest To Your Computer
 ====================================================
@@ -88,7 +88,9 @@ The launcher will be found in headset after installed in you library under 'Unkn
 Open it to find all the Apps that have been installed on your device.
 
 
-install the [Quest App launcher](https://sidequestvr.com/#/app/199) by clicking the link and hitting install latest, then going back to your browser to click confirm. 
+Install 
+[Quest App launcher](https://sidequestvr.com/#/app/199) 
+and hit install latest, then go back to your browser to click confirm.
 
 Be sure to go back to the browser and click confirm in your web browser, then you are set to go.
 You can now install Apps to your headset and open them from the SideQuest launcher. You can find it in the side menu of the library under the Unknown Sources section called SideQuest - TV as well as SideQuest - Home. This will show you all the Apps on the device even hidden ones you would otherwise not see, to fast launch some Apps you can install the official OculusTV from the store and open it from your O-Bar with the (TV) button in headset and just scroll to the bottom, you will find most Apps there as well.
