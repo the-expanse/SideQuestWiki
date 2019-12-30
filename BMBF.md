@@ -100,7 +100,8 @@ BMBF will always be located in headset under OculusTV under `Channels` and can b
 ## - Song and Mod Management
 ----
 
-You can install songs with BMBF all in headset, you only need to open BMBF from `Oculus TV`s Channel tab and click the Browser tab, Then you can install songs by searching them and clicking the `Download Zip` button, You can also manage BMBF on PC connecting your headset to your PC typing in your Quest IP (located top left of SideQuest) Followed by `:500000` and clicking enter, it will open a BMBF management page on any device.
+You can install songs and with BMBF all in headset, you only need to open BMBF from `Oculus TV`s Channel tab and click the Browser tab, Then you can install songs by searching them and clicking the `Download Zip` button,  you install mod by clicking the globe icon on the top-right and selecting sidequest, then locating whatever BMBF mod you want and clicking `install latest`
+You can also manage BMBF on PC connecting your headset to your PC typing in your Quest IP (located top left of SideQuest) Followed by `:500000` and clicking enter, it will open a BMBF management page on any device.
 
 
 ## Management and installation of songs and mods in headset
