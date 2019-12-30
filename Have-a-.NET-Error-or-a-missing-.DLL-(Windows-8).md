@@ -7,4 +7,4 @@ Also for if you are on windows 8 or higher you can try installing the .NET core 
 
 ### [.NET base installer](https://www.microsoft.com/en-us/download/details.aspx?id=55170)
 
-#### Otherwise best to check Google or ask around in server to see if there is another issue not fixable via these installers.
+#### Otherwise best to check Google for the exact `DLL` your error is asking for and how to install it or ask around in server to see if there is another issue not fixable via these installers.
