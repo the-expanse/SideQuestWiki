@@ -61,7 +61,7 @@ Make sure to run SideQuest and back up your player data from Beatsabers Gear ico
 
 # - (IMPORTANT) Directly after you install BMBF
 ----
-Make sure to properly restart your headset after you install BMBF and to after doing so open BMBF from the Quests `Oculus TV tab run Beatsaber via the top right blue or red glowing button from BMBF before syncing any of your own other custom songs or mods, it will also upon running ask to uninstall Beatsaber, click YES as it does this in order to copy the beatsaber apk and inject the modded code into it so it reinstall right away.
+Make sure to properly restart your headset after you install BMBF and to after doing so open BMBF from the Quests `Oculus TV` tab run Beatsaber via the top right blue or red glowing button from BMBF before syncing any of your own other custom songs or mods, it will also upon running ask to uninstall Beatsaber, click YES as it does this in order to copy the beatsaber apk and inject the modded code into it so it reinstall right away, DO NOT let the headset go into sleep mode during BMBF installation as it may halt the install process and cause issues resulting in a need to clean install both programs.
 
 ## Make sure you have properly uninstalled any non functioning or old BeatSaber and BMBF using SideQuests "My Apps" tab before proceeding if updating to a new version or previously installed and faulty.
 
