@@ -111,11 +111,16 @@ You can also manage BMBF on PC connecting your headset to your PC typing in your
 ## Management and installation of songs and mods in headset
 ----
 
-You can manage your songs from in headset after making an account with Beastsaber as well manually install song zips one by one to the BMBF web managers `UPLOAD` tab with a PC, you can manage them on any device with a browser on the same network by typing in your Quests IP address (Located when connected to SideQuest in the top left corner) and typing it into a browser followed by :500000 , so an example if an IP looked like 10.0.0.1 to launch BMBF and manage it on my phone would be opening Chrome on my phone and typing in `10.0.0.1:500000` and clicking enter, this page can be used on PC to install Zip songs and mods manually, if the page looks off refresh the page and if the problem persists reinstall BMBF and Beatsaber again with the steps previously stated.
+For songs
+You can manage and install songs from in headset easily, just open bmbf from Oculus TV channel Tab and go to the browser tab within it, then search the song you desire and click the download zip button, it looks like a down arrow.
 
-## Managing or Installing Songs and Mods with your PC, and managing them on mobile devices
+For mods
+Fou can install those within headset as well  by locating the globe web browser icon in the top-right of bmbf under the browser Tab, and clicking SideQuest,  then just click install latest on a mod you want,  after that you can dismiss and re-enable the mod at will from the mods tab in BMBF.
 
-You can get a song zip from `Beastsaber.com` or `beatsaver.com` , in your PC browser as long as you are on the same Wi-Fi connection type your Quests IP (Found top left of SideQuest when connected" followed by `:500000` then go to the upload tab and install it there, you can manage your playlists and install songs from a phone even using the IP from a phone browser on the same Wi-Fi, but make sure BMBF is open and running in headset, you can also do this with MODS but most are not advised and ill compatible if not obtained Via SideQuests own list.
+## Managing or Installing Songs and Mods with your PC or managing them on mobile devices
+
+You can get a song zip from `Beastsaber.com` or `beatsaver.com` , in your PC browser as long as you are on the same Wi-Fi connection type your Quests IP (Found top left of SideQuest when connected" followed by `:500000` then go to the upload tab and install it there, always make sure BMBF is open and running in headset, you can also do this with MODS but most are not advised and ill compatible if not obtained Via SideQuests own list,
+You can manage your playlists and even install songs from a phone or tablet  using the same IP from their browser  so long as the device and your Quest are on the same Wi-Fi network.
 
 # Song Bookmark system
 ----
