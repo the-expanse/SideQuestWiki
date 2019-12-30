@@ -14,9 +14,10 @@ If you get an error like below.
 ![](https://cdn.discordapp.com/attachments/608376262347587595/614606619606515727/Screenshot_48.png)
 
 or the `Some tasks failed. See the tasks screen for more info` error,
-you can access the Queue list from the picture shown below.
+you can access the Queue list from the top right of side quests dashboard, and attempt to retry your download with the retry failed button
 
-##### For the `Some tasks failed. See the tasks screen for more info` error
+##### For further errors with the `Some tasks failed. See the tasks screen for more info` error
+
 Be sure to Check your Queue tab carefully to make sure it didn't just download an application twice in a row, as if a song, game or mod is already installed it may fail as it is already installed, otherwise check your Wi-Fi, your cord or another port on your PC.
 
 Failing those steps try unplugging your Headset entirely and rebooting it, then restarting SideQuest, before you re-plug your headset in to attempting again
