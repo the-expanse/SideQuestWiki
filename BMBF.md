@@ -9,8 +9,10 @@ FROM THE OFFICIAL OCULUS QUEST STORE AND THAT PC SABERS AND MODS
 WILL NOT WORK ON THE QUEST Pirated copy's will not work in any 
 capacity with BMBF nor will the Demo.
 
-### Not Beat On
-##### Beat On has long since been Discontinued, BMBF is what has replaced it, any error seen about Beat On is lingering code and can be ignored as is no longer supported and SideQuest is unaffiliated with it directly except for mods, see the bottom of this page for installing mods and custom songs with BMBF, if you have any issues read this page in it's entirety
+## Not Beat On
+##### Beat On has long since been Discontinued BMBF is what has replaced it
+
+Any error seen about Beat On is lingering code and can be ignored as is no longer supported and SideQuest is unaffiliated with it directly except for mods, see the bottom of this page for installing mods and custom songs with BMBF, if you have any issues read this page in it's entirety
 
 ## Disclaimers
 ###### SideQuest is NOT responsible for BMBF, how it modifies BeatSaber or what it does and can not be held responsible for any 
