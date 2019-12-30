@@ -80,7 +80,7 @@ Step 6: Install App Launcher
 ====================================================
 
 Installing the launcher will just make finding Sideloaded apps easier on your headset, it is not an installer only a sorting and convenience app.
-Make sure you are properly connected to SideQuest before proceeding, and install it from SideQuests PC launcher while proeprly connected
+Make sure you are properly connected to SideQuest before proceeding, and install it from SideQuests PC launcher while properly connected
 If not properly connected see here.
 [I'm having connection issues what are some solutions](https://github.com/the-expanse/SideQuest/wiki/I-am-having-issues-Connecting-,-what-do-i-do%3F#resetting-your-connection-and-connecting-to-wifi)
 
