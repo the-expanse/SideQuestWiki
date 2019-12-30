@@ -76,15 +76,15 @@ Make sure to properly restart your headset after you install BMBF and to after d
 
 Make 100% sure you get a clean version of BeatSaber by seeing the guide on how to properly uninstall at the top of this page  before you go any further if you have installed custom songs before as if you do not uninstall correctly many issues may arise upon updating or re-installation of BMBF.
 
-### BMBF APKs
-https://github.com/kihecido/BMBF/releases
-
 ----
 
 # Detailed Written BMBF installation
 ----
 
-Install both both the `BMBF_TVWrapper.apk` And `com.weloveoculus.BMBF.apk`s from the link above
+Install both both the `BMBF_TVWrapper.apk` And `com.weloveoculus.BMBF.apk`s from the link below
+
+### BMBF APKs
+https://github.com/kihecido/BMBF/releases
 
 ## How to Install the BMBF APKs into your headset
 ----
