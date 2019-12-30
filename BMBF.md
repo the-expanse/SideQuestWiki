@@ -127,7 +127,7 @@ You can manage your playlists and even install songs from a phone or tablet  usi
 # Song Bookmark system
 ----
 
-You can use the built in bookmark system, it much more simple and helps save and import songs using any browser. Just create and/or log into a beastsaber account on your PC, Phone Tablet or what ever you have access to in a web browser, Find a song you like and click the bookmark icon on songs you want. You can then in headset open the the BMBF application under `Oculus TV` and open the syncsaber tab, put your user name into the text box and enable bookmarks to infinite mode (set it to below zero) then you just click the sync button on the page and let them install, then your done.
+You can use the built in bookmark system, it much more simple and helps save and import songs using any browser. Just create and/or log into a beastsaber account on your PC, Phone Tablet or what ever you have access to in a web browser, Find a song you like and click the bookmark icon on songs you want. You can then in headset open the the BMBF application under `Oculus TV` and open the syncsaber tab, put your user name into the text box and enable bookmarks by clicking it's switch on, then set bookmarks to infinite mode (set it to below zero) then you just click the sync button on the page and let them install, then your done.
 
 ----
 
