@@ -53,11 +53,12 @@ Make sure to properly restart your headset after you install BMBF and to after d
 
 
 
-## - Song and Mod installation
+## - Song and Mod installation in headset
 ----
 
-You can install songs and Mods with BMBF all in headset without plugging into a PC after initial installation again you only need to open BMBF in headset and click the Browser tab, Then you can install songs by searching them and clicking the `Download Zip` button NOT ONE CLICK INSTALL, Bookmarks are highly suggested to use though instead,install mod by clicking the globe icon on the top-right and selecting SideQuest, then locating whatever BMBF mod you want and clicking `install latest`
-You can also manage BMBF on PC connecting your headset to your PC typing in your Quest IP (located top left of SideQuest) Followed by `:500000` and clicking enter, it will open a BMBF management page on any device.
+You can install songs and Mods with BMBF all in headset without plugging into a PC after initial installation again you only need to open BMBF in headset and click the Browser tab, Then you can install songs by searching them and clicking the `Download Zip` button NOT ONE CLICK INSTALL. 
+
+Bookmarks are highly suggested to use though instead To install MODS click the globe icon on the top-right and selecting SideQuest, then locating whatever BMBF mod you want and clicking `install latest`
 
 # Song Bookmark system
 ----
@@ -72,17 +73,18 @@ FOR SONGS
 You can manage and install songs from in headset directly without a PC easily, just open BMBF from `Oculus TV`s channels Tab and go to the browser tab within it, then search the song you desire and click the download zip button, it looks like a down arrow.
 
 FOR MODS
-Fou can install those within headset as well  by locating the globe web browser icon in the top-right of BMBF under the browser Tab, and clicking SideQuest,  then just click install latest on a mod you want,  after that you can dismiss and re-enable the mod at will from the mods tab in BMBF.
+You can install Mods from within headset as well  by locating the globe web browser icon in the top-right of BMBF under the browser Tab, and clicking SideQuest,  then just click install latest on a mod you want, after that you can dismiss and re-enable the mod at will from the mods tab in BMBF.
 
 ## Managing or Installing Songs and Mods with your PC or managing them on mobile devices
 
-You can get a song zip from `Beastsaber.com` or `beatsaver.com` , in your PC browser as long as you are on the same Wi-Fi connection type your Quests IP (Found top left of SideQuest when connected" followed by `:500000` then go to the upload tab and install it there, always make sure BMBF is open and running in headset, you can also do this with MODS but most are not advised and ill compatible if not obtained Via SideQuests own list,
+You can get a song zip from `Beastsaber.com` or `beatsaver.com` , in your PC browser as long as you are on the same Wi-Fi connection type your Quests IP (Found top left of SideQuest when connected" followed by `:500000`, Be sure to type the IP properly in your browser on whatever device you are attempting to use then type `:500000` fully, it should open a page for BMBF management then, after that if on PC you can to the upload tab and install it there, make sure to always have BMBF open and running in headset when managing on other devices.
+You can also use this meathod to install mod zip folders but that is ill advised as most are PC only and not compatible with the Quest so if not obtained Via SideQuests own list be wary
 You can manage your playlists and even install songs from a phone or tablet  using the same IP from their browser  so long as the device and your Quest are on the same Wi-Fi network.
 
 
 ----
 
-## How to install MODS to BMBF directly in the headset without a PC
+## Alternative How to install MODS to BMBF directly in the headset without a PC
 ----
 
 
