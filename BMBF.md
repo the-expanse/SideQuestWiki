@@ -53,11 +53,16 @@ Make sure to properly restart your headset after you install BMBF and to after d
 
 
 
-## - Song and Mod Management
+## - Song and Mod installation
 ----
 
-You can install songs and with BMBF all in headset, you only need to open BMBF from `Oculus TV`s Channel tab and click the Browser tab, Then you can install songs by searching them and clicking the `Download Zip` button,  you install mod by clicking the globe icon on the top-right and selecting SideQuest, then locating whatever BMBF mod you want and clicking `install latest`
+You can install songs and Mods with BMBF all in headset without plugging into a PC after initial installation again you only need to open BMBF in headset and click the Browser tab, Then you can install songs by searching them and clicking the `Download Zip` button NOT ONE CLICK INSTALL, Bookmarks are highly suggested to use though instead,install mod by clicking the globe icon on the top-right and selecting SideQuest, then locating whatever BMBF mod you want and clicking `install latest`
 You can also manage BMBF on PC connecting your headset to your PC typing in your Quest IP (located top left of SideQuest) Followed by `:500000` and clicking enter, it will open a BMBF management page on any device.
+
+# Song Bookmark system
+----
+
+You can use the built in bookmark system, it much more simple and helps save and import songs using any browser. Just create and/or log into a beastsaber account on your PC, Phone Tablet or what ever you have access to in a web browser, Find a song you like and click the bookmark icon on songs you want. You can then in headset open the the BMBF application under `Oculus TV` and open the syncsaber tab, put your user name into the text box and enable bookmarks by clicking it's switch on, then set bookmarks to infinite mode (set it to below zero) then you just click the sync button on the page and let them install, then your done.
 
 
 ## Management and installation of songs and mods in headset after installation
@@ -74,10 +79,6 @@ Fou can install those within headset as well  by locating the globe web browser 
 You can get a song zip from `Beastsaber.com` or `beatsaver.com` , in your PC browser as long as you are on the same Wi-Fi connection type your Quests IP (Found top left of SideQuest when connected" followed by `:500000` then go to the upload tab and install it there, always make sure BMBF is open and running in headset, you can also do this with MODS but most are not advised and ill compatible if not obtained Via SideQuests own list,
 You can manage your playlists and even install songs from a phone or tablet  using the same IP from their browser  so long as the device and your Quest are on the same Wi-Fi network.
 
-# Song Bookmark system
-----
-
-You can use the built in bookmark system, it much more simple and helps save and import songs using any browser. Just create and/or log into a beastsaber account on your PC, Phone Tablet or what ever you have access to in a web browser, Find a song you like and click the bookmark icon on songs you want. You can then in headset open the the BMBF application under `Oculus TV` and open the syncsaber tab, put your user name into the text box and enable bookmarks by clicking it's switch on, then set bookmarks to infinite mode (set it to below zero) then you just click the sync button on the page and let them install, then your done.
 
 ----
 
