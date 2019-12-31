@@ -60,7 +60,9 @@ Make sure to properly restart your headset after you install BMBF and to after d
 
 You can install songs and Mods with BMBF all in headset without plugging into a PC after initial installation again you only need to open BMBF in headset and click the Browser tab, Then you can install songs by searching them and clicking the `Download Zip` button NOT ONE CLICK INSTALL. 
 
-Bookmarks are highly suggested to use though instead To install MODS click the globe icon on the top-right and selecting SideQuest, then locating whatever BMBF mod you want and clicking `install latest`
+Bookmarks are highly suggested to use though for songs
+
+To install MODS click the globe icon on the top-right and selecting SideQuest, then locating whatever BMBF mod you want and clicking `install latest`
 
 # Song Bookmark system
 ----
