@@ -95,18 +95,18 @@ https://github.com/kihecido/BMBF/releases
 ## How to Install the BMBF APKs into your headset
 ----
 
-After you have downloaded both the APKs for BMBF Launch SideQuest and look for a button top right button that when hovered over says `Install APK file from folder`, and click it, In the popup it opens locate and install both of the APKs before restarting your headset, you can see they have both installed from `My Tasks` which you can also get to in the top bar and after they are installed you can close SideQuest run BMBF in headset which can be found in Oculus TV under Channels.
+After you have downloaded both the APKs for BMBF Launch SideQuest and look for a button top right button that when hovered over says `Install APK file from folder`, and click it, In the popup it opens locate and install both of the APKs before restarting your headset, you can see they have both installed from `My Tasks` which you can also get to in the top bar and after they are installed you can close SideQuest.
 
 ## Where is BMBF in headset?
 ----
 
-BMBF will always be located in headset under OculusTV under `Channels` and can be launched from there to enable and disable mods, as well as install or remove songs without a PC.
+BMBF will always be located in headset in `OculusTV` located on your main Oculus menu navigation bar in your home dome under `Channels` and can be launched from there to enable and disable mods, as well as install or remove songs without a PC.
 
 
 ## - Song and Mod Management
 ----
 
-You can install songs and with BMBF all in headset, you only need to open BMBF from `Oculus TV`s Channel tab and click the Browser tab, Then you can install songs by searching them and clicking the `Download Zip` button,  you install mod by clicking the globe icon on the top-right and selecting sidequest, then locating whatever BMBF mod you want and clicking `install latest`
+You can install songs and with BMBF all in headset, you only need to open BMBF from `Oculus TV`s Channel tab and click the Browser tab, Then you can install songs by searching them and clicking the `Download Zip` button,  you install mod by clicking the globe icon on the top-right and selecting SideQuest, then locating whatever BMBF mod you want and clicking `install latest`
 You can also manage BMBF on PC connecting your headset to your PC typing in your Quest IP (located top left of SideQuest) Followed by `:500000` and clicking enter, it will open a BMBF management page on any device.
 
 
