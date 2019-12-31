@@ -138,9 +138,9 @@ If so far nothing else has worked the next thing to attempt would be a Driver re
 
 ### For both Mac and Windows
 
-##### If your on mac then you can also click the wrench icon in the top right and click "open adb folder" - then drag these commands into a terminal window`
+##### If your on mac then you can also click the wrench icon in the top right and click "open ADB folder" - then drag these commands into a terminal window
 
-##### For windows use the commands in `CMD` which can be found by using your `windows start tab` (bottom left windows button) and searching `CMD` then right click `CMD` and click run as Administrator`
+##### For windows use the commands in `CMD` which can be found by using your `windows start tab` (bottom left windows button) and searching `CMD` then right click `CMD` and click run as Administrator
 
 Type 
 `cd %appdata%\SideQuest\platform-tools\`
