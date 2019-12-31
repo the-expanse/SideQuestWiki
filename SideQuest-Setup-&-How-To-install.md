@@ -9,6 +9,8 @@ Make sure before anything to `use a phone USB cable that can transfer data` inst
 ## Video installation tutorial
 
 ![https://www.youtube.com/watch?v=dRWSAQJ13Zc](https://cdn.discordapp.com/attachments/615234075778875453/661114893528858656/Screenshot_1158.png)
+
+
 # if you have issues connecting check our page [HERE](https://github.com/the-expanse/SideQuest/wiki/I-am-having-issues-Connecting-,-what-do-i-do%3F#resetting-your-connection-and-connecting-to-wifi) for known solutions
 
 Step 1: Install SideQuest To Your Computer
