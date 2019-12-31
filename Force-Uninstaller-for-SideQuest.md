@@ -6,3 +6,13 @@ After uninstalling normally with the windows control panel uninstaller system th
 
 All you need to do is install it to your PC and run it.
 Running it will let the program force remove any traces of SideQuests old folders and settings in order to allow you to update or reinstall properly again, if you have a SideQuest account you will have to log back in so be sure you remember your password or have access to it, else you can reset the password before uninstalling in your user dashboard without any issue.
+
+## If you have further issues
+
+Try deleting this folder
+
+C:\Users\`YOUR ACCOUNT NAME`\AppData\Roaming\SideQuest
+With your Windows Explorer file manager, note the below WARNING though
+
+## WARNING
+Be aware that deleting this folder will delete all backup data and saved information made with sidequest for games applications and other such things in its entirety so only do so if no other option is present.
