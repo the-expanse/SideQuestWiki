@@ -1,4 +1,5 @@
 ## BMBF is a custom song installer for BeatSaber 
+##### Note that Beat On has long since been Discontinued BMBF is what has replaced it
 
 For any further assistance be on this page see the beat saber modding group Discord at
 [BSMG Discord](https://discord.gg/beatsabermods)
@@ -103,7 +104,6 @@ When ever manually adding mods or songs be sure to click "reload song folder" in
 If you run into issues
 ----
 
-##### Note that Beat On has long since been Discontinued BMBF is what has replaced it
 
 Any error seen about Beat On is lingering code and can be ignored as is no longer supported and SideQuest is unaffiliated with it directly except for mods, see the bottom of this page for installing mods and custom songs with BMBF, if you have any issues read this page in it's entirety
 
