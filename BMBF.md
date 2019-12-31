@@ -20,6 +20,7 @@ Make 100% sure you get a clean version of BeatSaber by seeing the guide on how t
 ----
 
 First If you care for your scores you'll want to be sure you back them up, you can do so in the SideQuests `My Apps` tab by clicking the settings button (Gear Icon) to the right of Beatsaber, Clicking Back Up Game Data then checking the `My Tasks` tab to make sure it is finished installing before you proceed, they can be recovered to an un modded BeatSaber (prior to running BMBF and letting it mod) at any point from the same page by clicking the o refresh icon with arrows under "Backup game data" just be sure if you have more then one to select the one with the most recent date.
+
 ----
 
 # Detailed Written BMBF installation
