@@ -113,6 +113,7 @@ To reset your connection just click the `Run ADB Commands` button top of SideQue
 
 Then click `Disconnect everything` hit `Run Command`, 
 Go back again and and hit `reset ADB`, then hit `Enable USB ADB` and you should connect.
+
 ----
 # 11 For Wireless Connection 
 ----
