@@ -104,7 +104,7 @@ For programs such as BMBF (Beat Ons standalone replacment) you can install and m
 Next thing to try is unplugging your headset and turning your PC off completely to make sure all processes of ADB as well as any conflicting processes cease, make sure you do not `Reboot`, Turn the computer completely off and wait a few seconds, Also Hard reboot your headset by holding the power button for at least 15 seconds before restating it to be sure both systems are prepped, then turn your PC back on before re-opening SideQuest and trying once more to try connecting again.
 
 
-# 10 Resetting your connection and/or connecting to wi-fi
+# 10 Resetting your ADB connection 
 
 To reset your connection just click the `Run ADB Commands` button top of SideQuest as seen here
 
