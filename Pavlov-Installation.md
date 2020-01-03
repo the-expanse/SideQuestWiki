@@ -41,7 +41,7 @@ Then delete the Zip folder you extracted from to make the new folder, before you
 
 
 
-Then just use the built in installer for the Pavlov from the new Extracted folder, not the original zipped folder.                                              
+Then just use the built in installer for Pavlov from the new Extracted folder, not the original zipped folder.                                              
 
 ### DO NOT drag and drop the files into SideQuest, Use the "Install.bat" located below
 
