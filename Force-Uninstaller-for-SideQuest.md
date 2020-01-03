@@ -1,3 +1,5 @@
+# SideQuest clean force uninstaller
+
 This uninstaller is for if you have issues updating, installing or removing and reinstalling SideQuest for any reason
 
 Uninstall SideQuest with the windows control panel uninstaller system if you can, then this application will remove any file or folder residue, make sure to run the uninstaller in your control panel first before running this, whether the default uninstaller succeeds or fails you want to run it to make sure everything is gone.
