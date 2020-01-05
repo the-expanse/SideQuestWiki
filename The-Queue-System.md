@@ -2,6 +2,13 @@
 
 [Known connection and installation issues and solutions](https://github.com/the-expanse/SideQuest/wiki/I-am-having-issues-Connecting-,-what-do-i-do%3F#having-connection-issues) 
 
+### Possible Issues With Ports
+
+USB-3 is not very well supported and has it's own specialized hardware and drivers and in some cases and can cause connection issues, if the system is putting out an error when installing an application attempt use of a few different USB ports on your computer to be sure  that it isn't the USB port type causing the problem, if everything continues you can try a new cable in that should help, beyond that the connection issue Wiki at the top of this page should help.
+
+## About The Queue System
+Our Queue system is a how we are able to let users install many things at once without seeing a long loading screen and having your screen freeze up as an app or game installs making you unable to do anything else but stare at it and wait and sometimes it gives an error. 
+
 #### All about app and game uninstallation 
 
 [Uninstalling Apps and Games](https://github.com/the-expanse/SideQuest/wiki/.My-apps-won't-uninstall-what's-wrong%3F#all-about-un-installation-of-applications-or-games)
