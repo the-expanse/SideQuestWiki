@@ -49,7 +49,7 @@ Here is a sample curl request:
 
 ```bash
 curl -X POST \
-  https://xpan.cc/version-webhook/VERSION_CODE/BIG_LONG_TOKEN \
+  https://sdq.st/version-webhook/VERSION_CODE/BIG_LONG_TOKEN \
   -H 'Accept: */*' \
   -H 'Accept-Encoding: gzip, deflate' \
   -H 'Cache-Control: no-cache' \
