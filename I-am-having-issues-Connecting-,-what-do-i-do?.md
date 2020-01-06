@@ -8,6 +8,7 @@ Note all information below is not error specific as some errors share Solutions 
 
 Make sure you have installed the very latest SideQuest from [SideQuestVR.com](https://sidequestvr.com/#/download) properly before proceeding.
 Also double check the main setup steps for installing SideQuest to make sure you have done every one of the 5 mandatory steps.
+Some times you need to reset Dev mode in your phone app for connection issues, for that issue see #3
 
 
 # [Setup Steps](https://sidequestvr.com/#/setup-howto) 
@@ -41,7 +42,7 @@ Several things could cause that, Make sure your guardian is set up and active wh
 
 
 ----
-# 3 After a Oculus Software update or for general issues
+# 3 Dev mode toggling
 ----
 
 Note that none of these steps are in about or with SideQuest and are done only within the mobile phone application for Oculus. You need to toggle Developer mode after any Oculus OS update as it usually is auto disabled due to the update, Open the official Oculus application on a Bluetooth capable phone or tablet and log into your Oculus account, go to `Settings` within the app and click your headset to connect, make sure the power is on when doing so, then click advanced settings and go to `Developer mode` to dis then re enable it before hard rebooting your device, this is done by holding down the headsets power button for 15 seconds, then rebooting as normal.
