@@ -3,6 +3,8 @@ Be sure uninstall any old version of Pavlov you may have had with SideQuest unde
 
 # Official Pavlov links and information
 
+## [Pavlov FAQ](http://wiki.pavlov-vr.com/index.php?title=Pavlov_FAQ)
+
 ## [Installation Guide & Wiki](http://wiki.pavlov-vr.com/index.php?title=Quest)
 
 ## [Known Issues and Solution](http://wiki.pavlov-vr.com/index.php?title=Quest_FAQ#Known_bugs_and_solutions)
