@@ -1,7 +1,8 @@
 ## Having issues? 
 If not seeing green dot in the top left inside SideQuest to be green or yellow, If purple it means another device is connected, try disconnecting your headset if you are in Wireless mode and it should resolve else try all of the solutions below.
 
-Quest is the only supported device by SideQuest, The Oculus GO is no longer supported and unsupported devices are as follows, Tablets, Nintendo Labo, GearVR, Index Google cardboard are all unsupported, note you will need a PC to install programs with SideQuest, Phones are supported but it is not recommended and they only support normal APKs, be wary of viruses if attempting such.
+##### Supported Devices
+The Oculus Quest is the only supported device by SideQuest, The Oculus GO is no longer supported and unsupported devices are as follows, Tablets, Nintendo Labo, GearVR, Index Google cardboard are all unsupported, note you will need a PC to install programs with SideQuest, Phones are supported but it is not recommended and they only support normal APKs, be wary of viruses if attempting such.
 
 #### First things to try
 
