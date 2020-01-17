@@ -16,7 +16,7 @@
 
 ### - [How do i Manual install APKs obtained outside of SideQuest](https://github.com/the-expanse/SideQuest/wiki/How-can-i-manually-install-apps)
 
-### - [I have Windows 7, can i use SideQuest](https://github.com/the-expanse/SideQuest/wiki/I-Have-Windows-7,-can-i-use-SideQuest%3F)
+### - [I have Windows 7, can i use SideQuest](https://github.com/the-expanse/SideQuest/wiki/Windows-7-Support)
 
 ### - [Manual Driver Installation (Windows)](https://github.com/the-expanse/SideQuest/wiki/SideQuest-driver-Re-installation)
 
