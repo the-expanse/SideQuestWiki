@@ -1,5 +1,5 @@
 ## BMBF is a custom song installer for BeatSaber 
-#### Note that Beat On has long since been Discontinued BMBF is what has replaced it
+#### Note that Beat On, the original custom song and mod installer for Beatsaber has long since been Discontinued and BMBF is what has replaced it.
 
 For any assistance with Modding past BMBF join the beatsaber modding group Discord at
 [BSMG Discord](https://discord.gg/beatsabermods)
