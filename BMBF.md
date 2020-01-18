@@ -52,22 +52,7 @@ Restart your headset installing BMBF then open BMBF in headset and click run Bea
 
 
 
-## - Song and Mod installation in headset
-----
-
-Install songs and Mods with BMBF in headset without a PC by opening BMBF in headset and clicking the Browser tab, You can then search and install them and clicking the `Download Zip` button
-NOT ONE CLICK INSTALL. 
-Bookmarks are highly suggested to use for song installation, see below for how to use Bookmarks
-
-For MODS click the globe icon on the top-right in BMBF and selecting SideQuest, then locating whatever BMBF mod you want and clicking `install latest` if it errors or has issues restart BMBF, if problems persist assume the mod has yet to be updated for the latest BS version and try another one.
-
-# Song Bookmark system
-----
-
-You can use the built in bookmark system which helps save and import songs using any browser. Just create and/or log into a beastsaber account on your PC, Phone Tablet or what ever you have access to in a web browser, Find a song you like and click the bookmark icon on songs you want. You can then in headset open the the BMBF application under `Oculus TV` and open the syncsaber tab, put your user name into the text box and enable bookmarks by clicking it's switch on, then set bookmarks to infinite mode (set it to below zero) then you just click the sync button on the page and let them install, then your done.
-
-
-## Management and installation of songs and mods in headset after installation
+## Management and installation of Songs and Mods in headset
 ----
 
 FOR SONGS
@@ -76,7 +61,13 @@ You can manage and install songs from in headset directly without a PC easily, j
 FOR MODS
 You can install Mods from within headset as well  by locating the globe web browser icon in the top-right of BMBF under the browser Tab, and clicking SideQuest,  then just click install latest on a mod you want, after that you can dismiss and re-enable the mod at will from the mods tab in BMBF.
 
-## Managing or Installing Songs and Mods with your PC or managing them on mobile devices
+# Song Bookmark system
+----
+
+You can use the built in bookmark system which helps save and import songs using any browser. Just create and/or log into a beastsaber account on your PC, Phone Tablet or what ever you have access to in a web browser, Find a song you like and click the bookmark icon on songs you want. You can then in headset open the the BMBF application under `Oculus TV` and open the syncsaber tab, put your user name into the text box and enable bookmarks by clicking it's switch on, then set bookmarks to infinite mode (set it to below zero) then you just click the sync button on the page and let them install, then your done.
+
+
+## Managing or Installing Songs and Mods a PC or on mobile devices
 
 You can get a song zip from `Beastsaber.com` or `beatsaver.com` , in your PC browser as long as you are on the same Wi-Fi connection type your Quests IP (Found top left of SideQuest when connected" followed by `:50000`, Be sure to type the IP properly in your browser on whatever device you are attempting to use then type `:50000` fully, it should open a page for BMBF management then, after that if on PC you can to the upload tab and install it there, make sure to always have BMBF open and running in headset when managing on other devices.
 You can also use this meathod to install mod zip folders but that is ill advised as most are PC only and not compatible with the Quest so if not obtained Via SideQuests own list be wary
@@ -108,12 +99,9 @@ If you run into issues
 Any error seen about Beat On is lingering code and can be ignored as is no longer supported and SideQuest is unaffiliated with it directly except for mods, see the bottom of this page for installing mods and custom songs with BMBF, if you have any issues read this page in it's entirety
 
 ## Disclaimers
-###### SideQuest is NOT responsible for BMBF, how it modifies BeatSaber or what it does and can not be held responsible for any 
-issues that occur upon install be they from user error or from the program side, Know also that if a mod was obtained from Beastsaber or some external website and not from Quest built proper sources such as SideQuest its self or the [Redbrumbler Github](https://github.com/RedBrumbler/BMBFCustomSabers/tree/master/Sabers)  know they more then likely are NOT Quest saber.
-
-Pirated copy's will not work in any capacity with BMBF nor will the Demo.MAKE SURE TO HAVE AN OFFICIAL PAID FOR VERSION OF BEATSABER FROM THE OFFICIAL OCULUS QUEST STORE AND THAT PC SABERS AND MODS WILL NOT WORK ON THE QUEST AND WE AT SIDEQUEST WILL NOT SUPPORT NOR BE HELD RESPONSIBLE FOR OR WITH ANY PIRATED CONTENT UNDER ANY CIRCUMSTANCES.
-
 `Note that BMBF is a standalone replacement for Beat On of which SideQuest no longer supports. to install it follow the steps below. BMBF tries to recover songs, save data and such all automatically if you are transferring from Beat On.`
+
+###### SideQuest is NOT responsible for BMBF, how it modifies BeatSaber or what it does and can not be held responsible for any issues that occur upon install be they from user error or from the program side, Know also that if a mod was obtained from Beastsaber or some external website and not from Quest built proper sources such as SideQuest its self or the [Redbrumbler Github](https://github.com/RedBrumbler/BMBFCustomSabers/tree/master/Sabers)  know they more then likely are NOT Quest saber.
 
 
 ## - If you have used BMBF before or have failed to install previously how to uninstall properly so you can install BMBF correctly
