@@ -4,7 +4,7 @@
 
 ### Possible Issues With Ports
 
-USB-3 is not very well supported and has it's own specialized hardware and drivers and in some cases and can cause connection issues, if the system is putting out an error when installing an application attempt use of a few different USB ports on your computer to be sure  that it isn't the USB port type causing the problem, if everything continues you can try a new cable in that should help, beyond that the connection issue Wiki at the top of this page should help.
+USB-3 is not truly supported and in many cases can cause connection issues, if the system is putting out an error when installing an application attempt use of a few different USB ports on your computer to be sure  that it isn't the USB port type causing the problem, if everything continues you can try a new cable in that should help, beyond that the connection issue Wiki at the top of this page should help.
 
 ## About The Queue System
 Our Queue system is a how we are able to let users install many things at once without seeing a long loading screen and having your screen freeze up as an app or game installs making you unable to do anything else but stare at it and wait and sometimes it gives an error. 
