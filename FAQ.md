@@ -15,7 +15,7 @@
 
 #### - [SideQuest Force Uninstall](https://github.com/the-expanse/SideQuest/wiki/Force-Uninstaller-for-SideQuest)
 
-#### - [Beat On not found](https://github.com/the-expanse/SideQuest/wiki/BMBF#beat-on-has-long-since-been-discontinued-bmbf-is-what-has-replaced-it)
+#### - [BeatOn?](https://github.com/the-expanse/SideQuest/wiki/BMBF#beat-on-has-long-since-been-discontinued-bmbf-is-what-has-replaced-it)
 
 #### - [Installing or Updating BMBF, The custom song and mod manager for BeatSaber](https://github.com/the-expanse/SideQuest/wiki/BMBF)
 
