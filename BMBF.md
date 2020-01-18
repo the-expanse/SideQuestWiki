@@ -1,27 +1,24 @@
 ## BMBF is a custom song installer for BeatSaber 
 #### Note that Beat On has long since been Discontinued BMBF is what has replaced it
 
-For any further assistance be on this page see the beat saber modding group Discord at
+For any assistance with Modding past BMBF join the beatsaber modding group Discord at
 [BSMG Discord](https://discord.gg/beatsabermods)
-Where are you can also obtain the mod extender which some songs require or they will just permanently load in your beat saber window.
+Where are you can also obtain the mod extender, Some songs and more detailed mods require it else they will just permanently load in beatsaber or never activate.
 
 ### MAKE SURE TO HAVE AN OFFICIAL PAID FOR VERSION OF BEATSABER 
-HAVE A COPY OF BEATSABER OBTAINED FROM THE OFFICIAL OCULUS QUEST STORE AND THAT PC SABERS AND MODS 
-WILL NOT WORK ON THE QUEST
-Pirated copy's will not work in any 
-capacity with BMBF nor will the Demo.
+Pirated copy's or the beatsaber Demo will not work in any capacity with BMBF.
 
 
 ### If you have installed custom songs before
 ----
 
-Make 100% sure you get a clean version of BeatSaber by seeing the guide on how to properly uninstall at the top of this page  before you go any further if you have installed custom songs before as if you do not uninstall correctly many issues may arise upon updating or re-installation of BMBF.
+Make sure to reinstall BeatSaber fresh and uninstall BMBFs old version before you go any further if you have installed custom songs before as if you do not un and reinstall correctly many issues may arise upon updating or re-installation of BMBF.
 
 
 ## - Before Proceeding, Backup creation of Game data and Scores
 ----
 
-First If you care for your scores you'll want to be sure you back them up, you can do so in the SideQuests `My Apps` tab by clicking the settings button (Gear Icon) to the right of Beatsaber, Clicking Back Up Game Data then checking the `My Tasks` tab to make sure it is finished installing before you proceed, they can be recovered to an un modded BeatSaber (prior to running BMBF and letting it mod) at any point from the same page by clicking the o refresh icon with arrows under "Backup game data" just be sure if you have more then one to select the one with the most recent date.
+If you care for your scores you can save and transfer them up, do so in the SideQuests currently installed Apps tab at the top right in SideQuest (Looks like a square of 9 smaller squares) then find beatsaber and click its setting button (Gear Icon) then click Back Up Game Data and let it back up, you can check the `My Tasks` tab to be sure it properly saved, your scores can then be recovered prior to running BMBF and letting it mod beatsaber from the same page you backed it up on by clicking the refresh icon (The icon with half moon arrows that point at each other) under "Backup game data" if you have more then one select the most recent date.
 
 ----
 
@@ -36,12 +33,12 @@ https://github.com/kihecido/BMBF/releases
 ## How to Install the BMBF APKs into your headset
 ----
 
-After you have downloaded both the APKs for BMBF Launch SideQuest and look for a button top right button that when hovered over says `Install APK file from folder`, and click it, In the popup it opens locate and install both of the APKs before restarting your headset, you can see they have both installed from `My Tasks` which you can also get to in the top bar and after they are installed you can close SideQuest.
+After you have downloaded both the APKs for BMBF Launch SideQuest and look for a button top right button that when hovered over says `Install APK file from folder` (looks like a box icon with a down arrow on it) and click it, In the popup locate both the first and second APKs and install them each, then restart your headset, after they are installed you can close SideQuest and find the launcher for BMBF at the bottom of OculusTV>Channels
 
 ## Where is BMBF in headset?
 ----
 
-BMBF will always be located in headset in `OculusTV` located on your main Oculus menu navigation bar in your home dome under `Channels` and can be launched from there to enable and disable mods, as well as install or remove songs without a PC.
+BMBF will always be located in headset in `OculusTV` found on your main Oculus menu navigation bar in your home dome under `Channels` and can be launched from there to enable and disable and install mods, as well as install or remove songs all without a PC.
 
 ## Make sure you have properly uninstalled any non functioning or old BeatSaber and BMBF using SideQuests "My Apps" tab before proceeding if updating to a new version or previously installed and faulty.
 
@@ -51,23 +48,23 @@ BMBF will always be located in headset in `OculusTV` located on your main Oculus
 [![](https://cdn.discordapp.com/attachments/541467913857662995/655955885465665537/Screenshot_1054.png)](https://www.youtube.com/watch?v=JGCf01gX4nU&list=PLt5tbz7PdomDAfUA3TDbPKG5zOgiiL1pw&index=1)
 # - (IMPORTANT) Directly after you install BMBF
 ----
-Make sure to properly restart your headset after you install BMBF and to after doing so open BMBF from the Quests `Oculus TV` tab run Beatsaber via the top right blue or red glowing button from BMBF before syncing any of your own other custom songs or mods, it will also upon running ask to uninstall Beatsaber, click YES as it does this in order to copy the beatsaber apk and inject the modded code into it so it reinstall right away, DO NOT let the headset go into sleep mode during BMBF installation as it may halt the install process and cause issues resulting in a need to clean install both programs.
+Restart your headset installing BMBF then open BMBF in headset and click run Beatsaber via the top right blue button before syncing any custom songs or mods, if it upon running ask to uninstall Beatsaber click YES as this is normal. DO NOT let the headset go into sleep mode during BMBF installation as it may halt the install process and cause issues resulting in a need to clean install both programs.
 
 
 
 ## - Song and Mod installation in headset
 ----
 
-You can install songs and Mods with BMBF all in headset without plugging into a PC after initial installation again you only need to open BMBF in headset and click the Browser tab, Then you can install songs by searching them and clicking the `Download Zip` button NOT ONE CLICK INSTALL. 
+Install songs and Mods with BMBF in headset without a PC by opening BMBF in headset and clicking the Browser tab, You can then search and install them and clicking the `Download Zip` button
+NOT ONE CLICK INSTALL. 
+Bookmarks are highly suggested to use for song installation, see below for how to use Bookmarks
 
-Bookmarks are highly suggested to use though for songs
-
-To install MODS click the globe icon on the top-right and selecting SideQuest, then locating whatever BMBF mod you want and clicking `install latest`
+For MODS click the globe icon on the top-right in BMBF and selecting SideQuest, then locating whatever BMBF mod you want and clicking `install latest` if it errors or has issues restart BMBF, if problems persist assume the mod has yet to be updated for the latest BS version and try another one.
 
 # Song Bookmark system
 ----
 
-You can use the built in bookmark system, it much more simple and helps save and import songs using any browser. Just create and/or log into a beastsaber account on your PC, Phone Tablet or what ever you have access to in a web browser, Find a song you like and click the bookmark icon on songs you want. You can then in headset open the the BMBF application under `Oculus TV` and open the syncsaber tab, put your user name into the text box and enable bookmarks by clicking it's switch on, then set bookmarks to infinite mode (set it to below zero) then you just click the sync button on the page and let them install, then your done.
+You can use the built in bookmark system which helps save and import songs using any browser. Just create and/or log into a beastsaber account on your PC, Phone Tablet or what ever you have access to in a web browser, Find a song you like and click the bookmark icon on songs you want. You can then in headset open the the BMBF application under `Oculus TV` and open the syncsaber tab, put your user name into the text box and enable bookmarks by clicking it's switch on, then set bookmarks to infinite mode (set it to below zero) then you just click the sync button on the page and let them install, then your done.
 
 
 ## Management and installation of songs and mods in headset after installation
