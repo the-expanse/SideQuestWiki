@@ -6,9 +6,13 @@ SideQuest is a side loading application and it requires an external device (A PC
 
 Make sure before anything to `use a phone USB cable that can transfer data` instead of the cable that comes with your Quest as the cable that comes with the device is not suited for data transfer, also making a SideQuest account helps in many ways such as with updating your apps so be sure to look into making an account [SIGN UP HERE](https://sidequestvr.com/#/sign-up)
 
-## Video installation tutorial
+## Windows Video installation tutorial
 
 [![Video Tutorial](https://cdn.discordapp.com/attachments/615234075778875453/661114893528858656/Screenshot_1158.png)](https://www.youtube.com/watch?v=dRWSAQJ13Zc)
+
+## Mac Video Installation Tutorial
+
+[![Video Tutorial](https://cdn.discordapp.com/attachments/615234075778875453/668592647018905600/Screenshot_1208.png)](https://youtu.be/nNvfA5ZRM9o)
 
 
 # if you have issues connecting check our page [HERE](https://github.com/the-expanse/SideQuest/wiki/I-am-having-issues-Connecting-,-what-do-i-do%3F#resetting-your-connection-and-connecting-to-wifi) for known solutions
