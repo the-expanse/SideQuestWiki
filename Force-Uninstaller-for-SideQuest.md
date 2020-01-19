@@ -11,10 +11,7 @@ Running it will let the program force remove any traces of SideQuests old folder
 
 ## If you have further issues
 
-Try deleting this folder
-
-C:\Users\`YOUR ACCOUNT NAME`\AppData\Roaming\SideQuest
-With your Windows Explorer file manager, note the below WARNING though
-
-## WARNING
-Be aware that deleting this folder will delete all backup data and saved information made with sidequest for games applications and other such things in its entirety so only do so if no other option is present.
+Close SideQuest and rename this folder
+`C:\Users\`YOUR ACCOUNT NAME`\AppData\Roaming\SideQuest`
+With your Windows Explorer file manager to anything else, suck as `SideQuest backup` for example
+before restating SideQuest to see if you connect
