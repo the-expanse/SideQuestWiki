@@ -183,7 +183,7 @@ These are only for windows, Also make sure to only do it if no other options ava
 
 Install the folder from 
 
-[Entire Platform Tools folder](https://dl.google.com/android/repository/platform-tools-latest-windows.zip)
+[Platform Tools Zip folder](https://dl.google.com/android/repository/platform-tools-latest-windows.zip)
 
 Then proceed to unzip it,
 `If you do not know how to check google for how to unzip a folder for your version of windows`
