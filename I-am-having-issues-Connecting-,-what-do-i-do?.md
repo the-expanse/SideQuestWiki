@@ -177,17 +177,20 @@ Then open up task manager and kill the adb.exe process by clicking it, then hitt
 ## 15 Reinstall Platform tools manually
 ----
 
-Failing the above  all of the above (Windows only) Try reinstalling the ADB foldealong with Platform Tools manually
+Failing the above  all of the above (Windows only) Try reinstalling the ADB Platform Tools folder manually
 
 These are only for windows, Also make sure to only do it if no other options available work and if you are still having issues with ADB try the below
 
-Install the folder from [Entire ADB folder](https://dl.google.com/android/repository/platform-tools-latest-windows.zip)
+Install the folder from 
+
+[Entire Platform Tools folder](https://dl.google.com/android/repository/platform-tools-latest-windows.zip)
 
 Then proceed to unzip it,
-If you do not know how to check google for how to unzip a folder for your version of windows,
-then in SideQuest head to settings
-Then at the top of the page click `Open Main App` folder and proceed to look for the (Platform tools) Folder
-Open it, make sure to close SideQuest, then delete everything in that folder before you then copy and paste all the files and folders from the installed unzipped folder into it and click replace all, when finished  reboot SideQuest and try once more.
+`If you do not know how to check google for how to unzip a folder for your version of windows`
+
+Then in SideQuest head to settings
+Then at the top of the page click `Open Main App` folder and proceed to look for the `Platform tools` Folder
+Delete the entire folder then move the extracted new platform tools folder you downloaded and extracted into its place, when finished reboot SideQuest and try once more to connect your headset.
 
 
 ----
