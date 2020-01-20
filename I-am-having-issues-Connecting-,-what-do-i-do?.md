@@ -174,8 +174,10 @@ if you see
 Then open up task manager and kill the adb.exe process by clicking it, then hitting end task for windows, else try the commands - taskkill /f /im adb.exe
 
 ----
-## Failing the above  all of the above (Windows only) Try Installing the ADB folder manually
+## 15 Reinstall Platform tools manually
 ----
+
+Failing the above  all of the above (Windows only) Try reinstalling the ADB foldealong with Platform Tools manually
 
 These are only for windows, Also make sure to only do it if no other options available work and if you are still having issues with ADB try the below
 
