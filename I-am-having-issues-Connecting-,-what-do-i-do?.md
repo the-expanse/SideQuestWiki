@@ -73,7 +73,7 @@ it is possible if you use LINK that your headset is upon being plugged into your
 
 ![](https://cdn.discordapp.com/attachments/608376262347587595/609881862956908564/Screenshot_1164.png)
 
-if your using Bluestacks, NOX or a Wifi Extenders of any kind can lead to problems as well, Also be sure to disable ANY VPN services of any kind when using SideQuest, best to refrain from them as they are all known to cause issues for SideQuest.
+if your using Bluestacks, NOX or any android emulators be sure to close them and that thy are not running in the background, a Wifi Extender of any kind can lead to problems as well and be sure to disable ANY VPN services of any kind when using SideQuest, best to refrain from them as they are all known to cause issues for SideQuest.
 
 For some VPN's such as NordVPN users, you may need to change a setting that masks your PC even when the VPN service is not actively running as some VPN services still control and mask your system in the background even when not actively open and running, Just locate the setting that disabled your VPN's ability to be masked/ Invisible to local LAN or through Wifi
 
