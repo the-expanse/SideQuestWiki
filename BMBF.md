@@ -40,7 +40,8 @@ After you have downloaded both the APKs for BMBF Launch SideQuest and look for a
 
 BMBF will always be located in headset in `OculusTV` found on your main Oculus menu navigation bar in your home dome under `Channels` and can be launched from there to enable and disable and install mods, as well as install or remove songs all without a PC.
 
-## Make sure you have properly uninstalled any non functioning or old BeatSaber and BMBF using SideQuests "My Apps" tab before proceeding if updating to a new version or previously installed and faulty.
+## If updating from an old version
+Make sure you have properly uninstalled any non functioning or old BeatSaber and BMBF using SideQuests "My Apps" tab (Top right) before proceeding if updating to a new version or previously installed and faulty.
 
 ----
 
