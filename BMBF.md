@@ -106,8 +106,10 @@ If you run into issues
 if a mod was obtained from Beastsaber or some external website and not a mod built for the Quest or from proper sources such as SideQuest its self or the [Redbrumbler Github](https://github.com/RedBrumbler/BMBFCustomSabers/tree/master/Sabers)  know they more then likely are to be incompatible and PC only sabers.
 
 
-## - If you have used BMBF before or have failed to install previously how to uninstall properly so you can install BMBF correctly
+## - If you have used BMBF before or have a faulty installation
 ----
+
+#### Songs are safe even if the program is uninstalled but packs (how you organized them) are lost
 
 Connect your headset to your PC and go to the `My Apps` manager tab relocatable in Sidequests launchers top right management bar, then locate BMBF and Beatsaber using the search function click the gear to the right of the application and click uninstall, for BMBF search the word `love` in the My apps tab and it should pop up as `We Love Oculus` or something similar and uninstall the same way as BeatSaber.
 ##### (Uninstall Beat On if you have that still)
