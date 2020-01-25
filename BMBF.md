@@ -26,8 +26,8 @@ If you care for your scores you can save and transfer them up, do so in the Side
 ----
 
 Step 1
-
-Install both both the `BMBF_TVWrapper.apk` And `com.weloveoculus.BMBF.apk`s from the link below
+Have a purchased copy of Beatsaber installed in your headset, then
+Install both both the `BMBF_TVWrapper.apk` And `com.weloveoculus.BMBF.apk`s from the link below onto your PC
 
 ### BMBF APKs
 https://github.com/kihecido/BMBF/releases
@@ -37,7 +37,14 @@ https://github.com/kihecido/BMBF/releases
 
 Step 2
 
-After you have downloaded both the APKs for BMBF Launch SideQuest and look for a button top right button that when hovered over says `Install APK file from folder` (looks like a box icon with a down arrow on it) and click it, In the popup locate both the first and second APKs and install them each, then restart your headset, after they are installed you can close SideQuest and find the launcher for BMBF at the bottom of OculusTV>Channels
+After downloading both APKs for BMBF onto your PC Launch SideQuest and look for a button top right button that when hovered over says `Install APK file from folder` (looks like a box icon with a down arrow on it) and click it
+
+Step 3
+
+In the popup locate both the first and second APKs and install them each, then restart your headset.
+
+Step 4
+When installed properly you can close SideQuest and put on your headset, then head to OculusTV (TV on your main menu bar) and find the launcher for BMBF at the bottom of OculusTV>Channels
 
 ## Where is BMBF in headset?
 ----
