@@ -22,8 +22,10 @@ If you care for your scores you can save and transfer them up, do so in the Side
 
 ----
 
-# Detailed Written BMBF installation
+# BMBF Installation How-To
 ----
+
+Step 1
 
 Install both both the `BMBF_TVWrapper.apk` And `com.weloveoculus.BMBF.apk`s from the link below
 
@@ -33,11 +35,14 @@ https://github.com/kihecido/BMBF/releases
 ## How to Install the BMBF APKs into your headset
 ----
 
+Step 2
+
 After you have downloaded both the APKs for BMBF Launch SideQuest and look for a button top right button that when hovered over says `Install APK file from folder` (looks like a box icon with a down arrow on it) and click it, In the popup locate both the first and second APKs and install them each, then restart your headset, after they are installed you can close SideQuest and find the launcher for BMBF at the bottom of OculusTV>Channels
 
 ## Where is BMBF in headset?
 ----
 
+Location
 BMBF will always be located in headset in `OculusTV` found on your main Oculus menu navigation bar in your home dome under `Channels` and can be launched from there to enable and disable and install mods, as well as install or remove songs all without a PC.
 
 ## If updating from an old version
