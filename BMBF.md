@@ -42,6 +42,7 @@ BMBF will always be located in headset in `OculusTV` found on your main Oculus m
 
 ## If updating from an old version
 Make sure you have properly uninstalled any non functioning or old BeatSaber and BMBF using SideQuests "My Apps" tab (Top right) before proceeding if updating to a new version or previously installed and faulty.
+For more information see [this section](https://github.com/the-expanse/SideQuest/wiki/BMBF#--if-you-have-used-bmbf-before-or-have-failed-to-install-previously-how-to-uninstall-properly-so-you-can-install-bmbf-correctly) of the page
 
 ----
 
@@ -96,13 +97,13 @@ When ever manually adding mods or songs be sure to click "reload song folder" in
 If you run into issues
 ----
 
-
-Any error seen about Beat On is lingering code and can be ignored as is no longer supported and SideQuest is unaffiliated with it directly except for mods, see the bottom of this page for installing mods and custom songs with BMBF, if you have any issues read this page in it's entirety
-
 ## Disclaimers
 `Note that BMBF is a standalone replacement for Beat On of which SideQuest no longer supports. to install it follow the steps below. BMBF tries to recover songs, save data and such all automatically if you are transferring from Beat On.`
 
-###### SideQuest is NOT responsible for BMBF, how it modifies BeatSaber or what it does and can not be held responsible for any issues that occur upon install be they from user error or from the program side, Know also that if a mod was obtained from Beastsaber or some external website and not from Quest built proper sources such as SideQuest its self or the [Redbrumbler Github](https://github.com/RedBrumbler/BMBFCustomSabers/tree/master/Sabers)  know they more then likely are NOT Quest saber.
+###### SideQuest is NOT responsible for BMBF, how it modifies BeatSaber or what it does and can not be held responsible for any issues that occur upon install be they from user error or from the program side,
+
+## Mods outside of SideQuest
+if a mod was obtained from Beastsaber or some external website and not a mod built for the Quest or from proper sources such as SideQuest its self or the [Redbrumbler Github](https://github.com/RedBrumbler/BMBFCustomSabers/tree/master/Sabers)  know they more then likely are to be incompatible and PC only sabers.
 
 
 ## - If you have used BMBF before or have failed to install previously how to uninstall properly so you can install BMBF correctly
