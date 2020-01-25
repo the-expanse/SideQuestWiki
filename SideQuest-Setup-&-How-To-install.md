@@ -1,6 +1,6 @@
 ### SideQuest is for PC only, not Mobile phones or Headsets
 
-SideQuest is a side-loading application and it requires an external device (A PC) in order to side-load from, so be aware installing SideQuest to your actual Quest device so you can download apps and games directly within headset and never touching a PC again is not possible, the SideQuest application within SideQuests own App Store is only a launcher for apps installed from SideQuest on your PC, SideQuest Legends will also not be capable of doing so due to code infringement concerns and security issues.
+SideQuest is a side-loading application and requires an external device (A PC) in order to side-load from, so be aware installing SideQuest to your actual Quest device to download apps and games directly within a headset without a PC again is not possible, the SideQuest application within SideQuests own App Store is only a launcher for apps installed from SideQuest on your PC, SideQuest Legends will also not be capable of doing so due to code infringement concerns and security issues.
 
 ## Before installation
 
