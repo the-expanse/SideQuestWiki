@@ -44,7 +44,14 @@ Step 3
 In the popup locate both the first and second APKs and install them each, then restart your headset.
 
 Step 4
+
 When installed properly you can close SideQuest and put on your headset, then head to OculusTV (TV on your main menu bar) and find the launcher for BMBF at the bottom of OculusTV>Channels
+
+Step 5
+
+Run BMBF and read the installation pages, be sure to read before clicking any prompts so you do not mess up installation else you may have to uninstall BMBF and Beatsaber to start from the beginning
+
+For any issues with this process or questions about BMBF and how it works or things like how to transfer up scores or old songs data just see the rest of this page.
 
 ## Where is BMBF in headset?
 ----
