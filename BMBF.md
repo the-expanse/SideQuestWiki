@@ -58,7 +58,7 @@ BMBF will always be located in headset in `OculusTV` found on your main Oculus m
 
 ## If updating from an old version
 Make sure you have properly uninstalled any non functioning or old BeatSaber and BMBF using SideQuests "My Apps" tab (Top right) before proceeding if updating to a new version or previously installed and faulty.
-For more information see [this section](https://github.com/the-expanse/SideQuest/wiki/BMBF#--if-you-have-used-bmbf-before-or-have-failed-to-install-previously-how-to-uninstall-properly-so-you-can-install-bmbf-correctly) of the page
+For more information see [this section](https://github.com/the-expanse/SideQuest/wiki/BMBF#--if-you-have-used-bmbf-before-or-have-a-faulty-installation) of the page
 
 ----
 
