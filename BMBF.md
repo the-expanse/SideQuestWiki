@@ -25,6 +25,10 @@ If you care for your scores you can save and transfer them up, do so in the Side
 # BMBF Installation How-To
 ----
 
+Have the latest SideQuest installed from
+https://sidequestvr.com/#/download
+Before proceeding 
+
 #### Step 1
 Have a purchased copy of Beatsaber installed in your headset, then
 Install both both the `BMBF_TVWrapper.apk` And `com.weloveoculus.BMBF.apk`s from the link below onto your PC
