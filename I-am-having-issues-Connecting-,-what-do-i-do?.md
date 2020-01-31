@@ -189,8 +189,7 @@ Then proceed to unzip it,
 `If you do not know how to check google for how to unzip a folder for your version of windows`
 
 Then in SideQuest head to settings
-Then at the top of the page click `Open Main App` folder and proceed to look for the `Platform tools` Folder
-Delete the entire folder then move the extracted new platform tools folder you downloaded and extracted into its place, when finished reboot SideQuest and try once more to connect your headset.
+Then at the top of the page click `Open Main App` folder and proceed to look for the `Platform tools` Folder, close SideQuest then delete the entire folder then move the extracted new platform tools folder you downloaded and extracted into its place, when finished reboot SideQuest and try once more to connect your headset.
 
 
 ----
