@@ -45,3 +45,8 @@ Make sure if you have installed ScrCpy before that you properly remove all relat
 
 Antivirus systems such as Avast, BitDefender and Windows Defender have always has issues with SideQuest so be sure to try disabling them and see if it works then, you can also check your AV's system Quarantine, if you don't know how
 [Click Here](https://www.google.com/search?rlz=1C1CHBD_enUS862US862&sxsrf=ACYBGNTOcP_sjV4YJm4NFJWMTR-ycYTJvQ%3A1576998921936&ei=CRj_XZfpOPqy0PEPteiuuAY&q=YOUR+AV+HERE+checking+quarantine+for+my+antivirus+system&oq=YOUR+AV+HERE+checking+quarantine+for+my+antivirus+system&gs_l=psy-ab.3...6171.33987..35807...1.2..0.242.3166.36j1j1......0....1..gws-wiz.......0i71j33i10.WnBt3GAw-08&ved=0ahUKEwjXkbbk2sjmAhV6GTQIHTW0C2cQ4dUDCAs&uact=5) ,
+
+
+### Try reinstalling 
+
+If issues persist you can attempt a clean installation of SideQuest to see if it helps by using our force uninstaller at the [SideQuest force uninstaller](https://github.com/the-expanse/SideQuest/wiki/Force-Uninstaller-for-SideQuest#sidequest-clean-force-uninstaller) page and reinstall with windows defender or what ever antivirus system you have disabled temporarily 
