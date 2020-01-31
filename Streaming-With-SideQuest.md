@@ -46,6 +46,9 @@ Make sure if you have installed ScrCpy before that you properly remove all relat
 Antivirus systems such as Avast, BitDefender and Windows Defender have always has issues with SideQuest so be sure to try disabling them and see if it works then, you can also check your AV's system Quarantine, if you don't know how
 [Click Here](https://www.google.com/search?rlz=1C1CHBD_enUS862US862&sxsrf=ACYBGNTOcP_sjV4YJm4NFJWMTR-ycYTJvQ%3A1576998921936&ei=CRj_XZfpOPqy0PEPteiuuAY&q=YOUR+AV+HERE+checking+quarantine+for+my+antivirus+system&oq=YOUR+AV+HERE+checking+quarantine+for+my+antivirus+system&gs_l=psy-ab.3...6171.33987..35807...1.2..0.242.3166.36j1j1......0....1..gws-wiz.......0i71j33i10.WnBt3GAw-08&ved=0ahUKEwjXkbbk2sjmAhV6GTQIHTW0C2cQ4dUDCAs&uact=5) ,
 
+### The ScrCpy folder
+
+Try deleting the ScrCpy folder by going to the settings tab in SideQuest under the wrench icon and clicking `Open main app folder` then locating the ScrCpy folder, close SideQuest completely prior to deleting it and then after removal restart SideQuest and see if streaming functions properly then.
 
 ### Try reinstalling 
 
