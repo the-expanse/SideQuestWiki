@@ -16,5 +16,5 @@ If you have a SideQuest account you will have to log back in so be sure you reme
 
 Close SideQuest and rename this folder
 `C:\Users\`YOUR ACCOUNT NAME`\AppData\Roaming\SideQuest`
-With your Windows Explorer file manager to anything else, suck as `SideQuest backup` for example
+With your Windows Explorer file manager to anything else, such as `SideQuest backup` for example
 before restating SideQuest to see if you connect
