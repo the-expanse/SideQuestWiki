@@ -1,5 +1,8 @@
 For creating and managing apps you made see [HOW TO SUBMIT GAMES](https://github.com/the-expanse/SideQuest/wiki/How-To-Submit-Games)
 
+To create an account just go to signup, located here
+https://sidequestvr.com/#/sign-up
+
 ### SideQuest account required
 
 making a SideQuest account lets the system properly keep track of your installations and inform you of updates so you need to make an account for the system to work properly. but once you do it gains you access to the Dashboard, letting you gain a host of features such as messaging and friends, but also the `Auto Update` function, where you can update applications you have installed en mass, Else you can click app updates from the user pop-up. 
@@ -25,5 +28,5 @@ Also note that if you have created an account, but had already installed other a
 
 Then reinstall them as normal, They only need to be Un- then reinstalled once, they will then get shown in your `DASHBOARD` and have an icon when the application has been updated as it will be able to detect and check each application for updates from their developers on the fly, you can look to see weather or not you have an app that needs to be updated in your `DASHBOARD` from any device you are logged into [SideQuestVR.com](https://sidequestvr.com/#/account) from, but you can only install them when directly connected to SideQuest on your PC.
 
-To create an account just go to signup, located here
+Again if you want to create an account you can signup below
 https://sidequestvr.com/#/sign-up
