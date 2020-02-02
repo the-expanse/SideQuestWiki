@@ -36,7 +36,7 @@ To be able to sideload to the Headset at all you have to be a registered "develo
 Step 3: Install Drivers (Windows users Only)
 ====================================================
 
-(Windows 7 users see [here](https://github.com/the-expanse/SideQuest/wiki/I-Have-Windows-7,-can-i-use-SideQuest%3F)
+(Windows 7 users see [here](https://github.com/the-expanse/SideQuest/wiki/I-Have-Windows-7,-can-i-use-SideQuest%3F) )
 
 Make sure before anything further to use a proper cable, such as phone USB cable that can transfer data instead of the cable that comes with your Quest as the cable that comes with the device is not suited for data transfer.
 
