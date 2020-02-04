@@ -11,7 +11,7 @@ Unfortunately yes a cable will be required even with wireless mode as you will n
 After enabling Wireless mode it will think there are two devices connected at once as it accesses your Quest from both a Cable and the Wi-Fi, so be sure you unplug your cable and it has a green dot top right before running the Streamer
 
 
-### There is no audio
+### There is no in built audio
 
 There will be no game sound streaming and this feature is highly unlikely at all let alone any time soon so you will need an alternative solution.
 
