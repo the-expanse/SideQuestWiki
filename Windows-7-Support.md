@@ -1,6 +1,6 @@
 ## Windows 7 is not officially supported by Windows anymore so you may have some trouble
 
-The below information is provided as is and without warranty. SideQuest does not support windows 7 but we have had reports that it can work. The most difficult part is usually the driver installation which we go into more detail on below. 
+The below information is provided as is and without warranty. SideQuest does not support Windows 7 directly but we have had reports that it can work. The most difficult part is usually the driver installation which we go into more detail on below. 
 
 
 ## This guide is for Windows 7 manual installation
