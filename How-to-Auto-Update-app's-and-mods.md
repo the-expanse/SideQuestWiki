@@ -22,7 +22,7 @@ There are two ways to update from your `DASHBOARD`, Either to Queue and install 
 ![](https://cdn.discordapp.com/attachments/541467913857662995/656290810433765388/dashboard_4.png)
 
 
-Also note that if you have created an account, but had already installed other applications before making or logging into your account in SideQuest, Most applications may not appear in your `DASHBOARD` the way to correct this is either go to each application one by one and click subscribe or install latest, or to just Uninstalled them Via SideQuests `Current Apps` tab
+Also note that if you have created an account, but had already installed other applications before making or logging into your account in SideQuest, Most applications may not appear in your `DASHBOARD` the way to correct this is either go to each application one by one and click subscribe or install latest, or to back up player data and just Uninstalled them Via SideQuests `Current Apps` tab, then reinstall
 
 ![](https://cdn.discordapp.com/attachments/541467913857662995/656294631482589209/Screenshot_1061.png)
 
