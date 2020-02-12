@@ -60,7 +60,7 @@ BMBF will always be located in headset in `OculusTV` found on your main Oculus m
 
 ## If updating from an old version
 Make sure you have properly uninstalled any non functioning or old BeatSaber and BMBF using SideQuests "My currently installed Apps" tab (Top right) before proceeding if updating to a new version or previously installed and faulty.
-For more information see [this section](https://github.com/the-expanse/SideQuest/wiki/BMBF#--if-you-have-used-bmbf-before-or-have-a-faulty-installation) of the page
+For more information see [this section](https://github.com/the-expanse/SideQuest/wiki/BMBF#--if-your-updating-have-used-bmbf-before-or-have-a-faulty-installation) of the page
 
 ----
 
@@ -128,7 +128,7 @@ If you run into issues
 if a mod was obtained from Beastsaber or some external website and not a mod built for the Quest or from proper sources such as SideQuest its self or the [Redbrumbler Github](https://github.com/RedBrumbler/BMBFCustomSabers/tree/master/Sabers)  know they more then likely are to be incompatible and PC only sabers.
 
 
-## - If you have used BMBF before or have a faulty installation
+## - If your updating have used BMBF before or have a faulty installation
 ----
 
 #### Songs are safe even if the program is uninstalled but packs (how you organized them) are lost, after re-installation just open BMBF in headset, go to TOOLS and click it's `Reload song folder` button
