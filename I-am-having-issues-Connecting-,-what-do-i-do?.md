@@ -10,7 +10,7 @@ The Oculus Quest is the only supported device by SideQuest, you will need a PC t
 Note all information below is not error specific as some errors share Solutions so be sure to try everything and look into each one at least once.
 
 Make sure you have installed the very latest SideQuest from [SideQuestVR.com](https://sidequestvr.com/#/download) properly before proceeding.
-Also double check the main setup steps for installing SideQuest to make sure you have done every one of the 5 mandatory steps.
+Also double check the main setup steps for installing SideQuest to make sure you have done every one of the 5 [mandatory setup steps](https://github.com/the-expanse/SideQuest/wiki/SideQuest-Setup-&-How-To-install#step-1-install-sidequest-to-your-computer).
 Some times you need to reset Dev mode in your phone app for connection issues, for that issue see #3
 
 
