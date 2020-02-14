@@ -26,21 +26,21 @@ If you care for your scores you can save and transfer them up, do so in the Side
 ----
 
 Have the latest SideQuest installed from
-https://sidequestvr.com/#/download and have a purchased copy of Beatsaber installed and have run at least one song once in your headset before proceeding 
+https://sidequestvr.com/#/download and have a purchased copy of Beatsaber installed and have run at least one song once in your headset before proceeding, and when installing songs or mods from SideQuest while connected make sure BMBF is open in headset and running.
 
 #### Step 1
-Install both both the `BMBF_TVWrapper.apk` And `com.weloveoculus.BMBF.apk`s from the link below onto your PC
+Install The `com.weloveoculus.BMBF.apk`s from the link below onto your PC
 
 ### BMBF APKs
 https://github.com/kihecido/BMBF/releases
 
 #### Step 2
 
-After downloading both APKs for BMBF onto your PC Launch SideQuest and look for a button top right button that when hovered over says `Install APK file from folder` (looks like a box icon with a down arrow on it) and click it
+After downloading the APK for BMBF onto your PC Launch SideQuest and look for a button top right button that when hovered over says `Install APK file from folder` (looks like a box icon with a down arrow on it) and click it
 
 #### Step 3
 
-In the popup locate both the first and second APKs and install them each, then restart your headset.
+In the popup locate the APK and install it, then restart your headset.
 
 #### Step 4
 
@@ -59,12 +59,14 @@ Location
 BMBF will always be located in headset in `OculusTV` found on your main Oculus menu navigation bar in your home dome under `Channels` and can be launched from there to enable and disable and install mods, as well as install or remove songs all without a PC.
 
 ## If updating from an old version
+
 Make sure you have properly uninstalled any non functioning or old BeatSaber and BMBF using SideQuests "My currently installed Apps" tab (Top right) before proceeding if updating to a new version or previously installed and faulty.
 For more information see [this section](https://github.com/the-expanse/SideQuest/wiki/BMBF#--if-your-updating-have-used-bmbf-before-or-have-a-faulty-installation) of the page
 
 ----
 
 ## BMBF installation Video Link (TycoTech)
+
 [![](https://cdn.discordapp.com/attachments/541467913857662995/655955885465665537/Screenshot_1054.png)](https://www.youtube.com/watch?v=JGCf01gX4nU&list=PLt5tbz7PdomDAfUA3TDbPKG5zOgiiL1pw&index=1)
 # - (IMPORTANT) Information needed for directly after you install BMBF
 ----
@@ -93,7 +95,7 @@ You can use the built in bookmark system which helps save and import songs using
 
 ## Managing or Installing Songs and Mods a PC or on mobile devices
 
-You can get a song zip from `Beastsaber.com` or `beatsaver.com` , in your PC browser as long as you are on the same Wi-Fi connection type your Quests IP (Found top left of SideQuest when connected" followed by `:50000`, Be sure to type the IP properly in your browser on whatever device you are attempting to use then type `:50000` fully, it should open a page for BMBF management then, after that if on PC you can to the upload tab and install it there, make sure to always have BMBF open and running in headset when managing on other devices.
+You can get a song zip from `Beastsaber.com` or `beatsaver.com` (Not Mods as they are PC only), in your PC browser as long as you are on the same Wi-Fi connection type your Quests IP (Found top left of SideQuest when connected" followed by `:50000`, Be sure to type the IP properly in your browser on whatever device you are attempting to use then type `:50000` fully, it should open a page for BMBF management then, after that if on PC you can to the upload tab and install it there, make sure to always have BMBF open and running in headset when managing on other devices.
 You can also use this meathod to install mod zip folders but that is ill advised as most are PC only and not compatible with the Quest so if not obtained Via SideQuests own list be wary
 You can manage your playlists and even install songs from a phone or tablet  using the same IP from their browser  so long as the device and your Quest are on the same Wi-Fi network.
 
@@ -120,11 +122,13 @@ If you run into issues
 ----
 
 ## Disclaimers
+
 `Note that BMBF is a standalone replacement for Beat On of which SideQuest no longer supports. to install it follow the steps below. BMBF tries to recover songs, save data and such all automatically if you are transferring from Beat On.`
 
 ###### SideQuest is NOT responsible for BMBF, how it modifies BeatSaber or what it does and can not be held responsible for any issues that occur upon install be they from user error or from the program side,
 
 ## Mods outside of SideQuest
+
 if a mod was obtained from Beastsaber or some external website and not a mod built for the Quest or from proper sources such as SideQuest its self or the [Redbrumbler Github](https://github.com/RedBrumbler/BMBFCustomSabers/tree/master/Sabers)  know they more then likely are to be incompatible and PC only sabers.
 
 
@@ -133,7 +137,7 @@ if a mod was obtained from Beastsaber or some external website and not a mod bui
 
 #### Songs are safe even if the program is uninstalled but packs (how you organized them) are lost, after re-installation just open BMBF in headset, go to TOOLS and click it's `Reload song folder` button
 
-Connect your headset to your PC and go to the `My Apps` manager tab locatable in SideQuests launchers top right management bar, then locate BMBF and Beatsaber using the search function click the gear to the right of the application and click uninstall, for BMBF search the word `love` in the My apps tab and it should pop up as `We Love Oculus` or something similar and uninstall the same way as BeatSaber.
+Connect your headset to your PC and go to the `My Apps` manager tab locatable in SideQuests launchers top right management bar, then locate BMBF and Beatsaber using the search function click the gear to the right of the application and click uninstall, For BMBF search the word `love` in the My apps tab and it should pop up as `We Love Oculus` or something similar and uninstall the same way as BeatSaber, as well as the BMBF wrapper which is no longer needed.
 ##### (Uninstall Beat On if you have that still)
 
 
