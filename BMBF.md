@@ -137,7 +137,7 @@ if a mod was obtained from Beastsaber or some external website and not a mod bui
 
 #### Songs are safe even if the program is uninstalled but packs (how you organized them) are lost, after re-installation just open BMBF in headset, go to TOOLS and click it's `Reload song folder` button
 
-Connect your headset to your PC and go to the `My Apps` manager tab locatable in SideQuests launchers top right management bar, then locate BMBF and Beatsaber using the search function click the gear to the right of the application and click uninstall, For BMBF search the word `love` in the My apps tab and it should pop up as `We Love Oculus` or something similar and uninstall the same way as BeatSaber, if you have the the BMBF wrapper also uninstall that as it is no longer needed.
+Connect your headset to your PC and go to the `My Apps` manager tab locatable in the top right of SideQuests management bar, then locate BMBF and Beatsaber using the search function, click the gear to the right of both the applications and click uninstall on each of them, if you can not find BMBF search for the word `love` in the `My apps` tab (the Top right square of 9 squares icon) and it should pop up as `We Love Oculus` (or something similar), Make sure to uninstall them both then reboot your headset before you reinstall and then run beatsaber once, if you have the the BMBF wrapper also uninstall that as it is no longer needed. After that just reinstall BMBF again as dictated in the steps [here](https://github.com/the-expanse/SideQuest/wiki/BMBF/_edit#bmbf-installation-how-to)
 
 ##### (Uninstall Beat On if you have that still as it is no longer supported)
 
