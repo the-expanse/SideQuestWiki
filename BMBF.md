@@ -142,7 +142,8 @@ Connect your headset to your PC and go to the `My Apps` manager tab locatable in
 ##### (Uninstall Beat On if you have that still as it is no longer supported)
 
 
-##### `Note any modifications to official games make them unable to update or uninstall naturally in headset, You can uninstall them in SideQuest's  My apps tab under the app settings icon (a Gear icon) to its right. Then just reinstall your game from the official Oculus store.` For how to uninstall apps and games that have been modified properly (Such as BMBF BeatSaber) [see here](https://github.com/the-expanse/SideQuest/wiki/Force-Uninstaller-for-SideQuest)
+##### `Note any modifications to official games make them unable to update or uninstall naturally in headset, You can uninstall them in SideQuest's  My apps tab under the app settings icon (a Gear icon) to its right. Then just reinstall your game from the official Oculus store.` 
+For how to uninstall apps and games that have been modified properly (Such as BMBF BeatSaber) [see here](https://github.com/the-expanse/SideQuest/wiki/Force-Uninstaller-for-SideQuest)
 
 
 ----
