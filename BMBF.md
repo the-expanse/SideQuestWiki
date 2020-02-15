@@ -29,7 +29,7 @@ Have the latest SideQuest installed from
 https://sidequestvr.com/#/download and have a purchased copy of Beatsaber installed and have run at least one song once in your headset before proceeding, and when installing songs or mods from SideQuest while connected make sure BMBF is open in headset and running.
 
 #### Step 1
-Install The `com.weloveoculus.BMBF.apk`s from the link below onto your PC
+Install The `com.weloveoculus.BMBF.apk` from the link below onto your PC
 
 ### BMBF APKs
 https://github.com/kihecido/BMBF/releases
@@ -137,8 +137,9 @@ if a mod was obtained from Beastsaber or some external website and not a mod bui
 
 #### Songs are safe even if the program is uninstalled but packs (how you organized them) are lost, after re-installation just open BMBF in headset, go to TOOLS and click it's `Reload song folder` button
 
-Connect your headset to your PC and go to the `My Apps` manager tab locatable in SideQuests launchers top right management bar, then locate BMBF and Beatsaber using the search function click the gear to the right of the application and click uninstall, For BMBF search the word `love` in the My apps tab and it should pop up as `We Love Oculus` or something similar and uninstall the same way as BeatSaber, as well as the BMBF wrapper which is no longer needed.
-##### (Uninstall Beat On if you have that still)
+Connect your headset to your PC and go to the `My Apps` manager tab locatable in SideQuests launchers top right management bar, then locate BMBF and Beatsaber using the search function click the gear to the right of the application and click uninstall, For BMBF search the word `love` in the My apps tab and it should pop up as `We Love Oculus` or something similar and uninstall the same way as BeatSaber, if you have the the BMBF wrapper also uninstall that as it is no longer needed.
+
+##### (Uninstall Beat On if you have that still as it is no longer supported)
 
 
 ##### `Note any modifications to official games make them unable to update or uninstall naturally in headset, You can uninstall them in SideQuest's  My apps tab under the app settings icon (a Gear icon) to its right. Then just reinstall your game from the official Oculus store.` For how to uninstall apps and games that have been modified properly (Such as BMBF BeatSaber) [see here](https://github.com/the-expanse/SideQuest/wiki/Force-Uninstaller-for-SideQuest)
