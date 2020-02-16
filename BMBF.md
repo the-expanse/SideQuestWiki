@@ -68,15 +68,18 @@ For more information see [this section](https://github.com/the-expanse/SideQuest
 ## BMBF installation Video Link (TycoTech)
 
 [![](https://cdn.discordapp.com/attachments/541467913857662995/655955885465665537/Screenshot_1054.png)](https://www.youtube.com/watch?v=JGCf01gX4nU&list=PLt5tbz7PdomDAfUA3TDbPKG5zOgiiL1pw&index=1)
-# - (IMPORTANT) Information needed for directly after you install BMBF
+# - (IMPORTANT)
+
+Information you need to know for directly after you install BMBF
 ----
-Restart your headset before you open BMBF in headset.
-Always run from OculusTV>Channels
-Make sure you click run Beatsaber via the top right blue button before syncing any custom songs or mods to launch Beatsaber,
-if it upon running asks to uninstall Beatsaber click YES as this is normal.
-DO NOT let the headset go into sleep mode during BMBF installation as it may halt the install process and cause issues resulting in a need to clean install both programs.
+1. Be sure to restart your headset before you open BMBF in headset.
+2. If BMBF upon running asks to uninstall Beatsaber click YES as this is normal.
+3. Always run from OculusTV>Channels as it can crash and cause issues if launched from unknown sources
+4. Make sure you click run Beatsaber via the top right blue button before installing or syncing any custom songs or mods to launch Beatsaber
+5. DO NOT let the headset go into sleep mode during BMBF installation as it may halt the install process and cause issues resulting in a need to clean install both programs.
 
 
+# Song and Mod management instructions and information
 
 ## Management and installation of Songs and Mods in headset
 ----
