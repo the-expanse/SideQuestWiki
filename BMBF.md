@@ -58,6 +58,8 @@ Run BMBF and read the installation pages, be sure to read before clicking any pr
 Location
 BMBF will always be located in headset in `OculusTV` found on your main Oculus menu navigation bar in your home dome under `Channels` and can be launched from there to enable and disable and install mods, as well as install or remove songs all without a PC.
 
+# UPDATING/RE-INSTALLATION 
+
 ## If updating or reinstalling BMBF due to issues
 
 Make sure you have properly uninstalled any non functioning or old BeatSaber and BMBF using SideQuests "My currently installed Apps" tab (Top right) before proceeding if updating to a new version or previously installed and faulty.
