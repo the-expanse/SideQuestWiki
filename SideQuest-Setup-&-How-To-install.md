@@ -33,7 +33,7 @@ Step 2: Create Organization
 
 To be able to sideload to the Headset at all you have to be a registered "developer" first, so just go to [Create new organization](https://dashboard.oculus.com/organizations/create/) on your PC and put in a dummy organization name. You'll be asked to accept the developer agreement, do so and then your set to move on.
 
-Step 3: Install Drivers (Windows users Only)
+Step 3: IMPORTANT, Install Drivers (Windows users Only)
 ====================================================
 
 (Windows 7 users see [here](https://github.com/the-expanse/SideQuest/wiki/I-Have-Windows-7,-can-i-use-SideQuest%3F) )
