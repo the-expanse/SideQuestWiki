@@ -4,6 +4,8 @@ SideQuest is a side-loading application and requires an external device (A PC) i
 
 ## Before installation
 
+Know that Unknown Sources will NOT appear until you successfully install an application or game from an external source, that is not the Oculus store.
+
 Make sure before anything to `use a phone USB cable that can transfer data` instead of the cable that comes with your Quest as the cable that comes with the device is not suited for data transfer, also making a SideQuest account helps in many ways such as with updating your apps so be sure to look into making an account [SIGN UP HERE](https://sidequestvr.com/#/sign-up)
 
 ## Windows Video installation tutorial
