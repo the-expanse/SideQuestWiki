@@ -5,6 +5,8 @@ Submitting your game or app to SideQuest is super easy! Sign up and be ready to 
 
 [Listing Best Practices](https://github.com/the-expanse/SideQuest/wiki/How-To-Submit-Games#listing-best-practices)
 
+[Featured Listings](https://github.com/the-expanse/SideQuest/wiki/How-To-Submit-Games#featured-listings)
+
 [SelfHost/Itch.io - Supply an APK/Itch URL](https://google.com)
 
 [Deploy to Github Releases](https://google.com)
