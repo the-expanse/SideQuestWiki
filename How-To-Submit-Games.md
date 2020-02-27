@@ -23,7 +23,7 @@ Submitting your game or app to SideQuest is super easy! Sign up and be ready to 
 
 You can sign up and create an account for Sidequest [here](https://sidequestvr.com/#/sign-up)
 
-After creating an account, Head to [Your Account](https://sidequestvr.com/#/account) and enable developer mode as shown below
+After creating an account, Head to [your dashboard](https://sidequestvr.com/#/account) and enable developer mode as shown below:
 
 ![](https://i.imgur.com/809Ft7i.png)
 
