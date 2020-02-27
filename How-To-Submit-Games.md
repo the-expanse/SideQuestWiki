@@ -37,7 +37,7 @@ Then set up your app listing as shown below.
 
 It is important to represent your work as best you can in the listing, this is vital to be able to convert people from viewers into users who download your content. As SideQuest grows it will become increasingly difficult to get exposure so having a well laid out listing is important if you want to catch the attention of users. We are always eager to promote your work and we will feature developers on the home page of SideQuest for free upon request, but its important to create a lasting impression once they get to your app listing page. Below is one of the finest examples of an app listing on SideQuest that really demonstrates an engaging piece of content giving it the best possibly chances of catching the users eye. Add a video, use a high quality image for the top banner, add some structure to your description ( html supported ) to really make it shine!
 
-Tip #1: Use <br> in your listing for line breaks.
+Tip #1: Use `<br>` in your listing for line breaks.
 
 Tip #2: The last screenshot is used as the banner at the top ( this might change in future ). 
 
