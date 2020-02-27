@@ -1,7 +1,7 @@
 Submitting your game or app to SideQuest is super easy! Sign up and be ready to submit your app within minutes. Apps are approved on the first submit but can be updated after that without approval. We have a great relationship with our community of developers so if you have any issues please reach out on [Discord](https://discord.gg/HNnDPSu) or on [SideQuest](https://sidequestvr.com/#/account/message-thread/1). 
 
 ## Index
-[Sign Up and Enable Developer Mode](https://google.com)
+[Sign Up and Enable Developer Mode](https://github.com/the-expanse/SideQuest/wiki/How-To-Submit-Games#sign-up-and-enable-developer-mode)
 
 [Listing Best Practices](https://google.com)
 
