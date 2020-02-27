@@ -11,7 +11,7 @@ Submitting your game or app to SideQuest is super easy! Sign up and be ready to 
 
 [Deploy to Github Releases](https://github.com/the-expanse/SideQuest/wiki/How-To-Submit-Games#deploy-to-github-releases)
 
-[CI/CD without Github Releases](https://google.com)
+[CI/CD without Github Releases](https://github.com/the-expanse/SideQuest/wiki/How-To-Submit-Games#cicd-without-github-releases)
 
 [Promote your Social Media and App Store Pages](https://google.com)
 
