@@ -7,11 +7,11 @@ Submitting your game or app to SideQuest is super easy! Sign up and be ready to 
 
 [Featured Listings](https://github.com/the-expanse/SideQuest/wiki/How-To-Submit-Games#featured-listings)
 
-[SelfHost/Itch.io - Supply an APK/Itch URL](https://github.com/the-expanse/SideQuest/wiki/How-To-Submit-Games#selfhostitchio---supply-an-apkitch-url)
+[Supply an APK / Itch URL](https://github.com/the-expanse/SideQuest/wiki/How-To-Submit-Games#supply-an-apk--itch-url)
 
 [Deploy to Github Releases](https://github.com/the-expanse/SideQuest/wiki/How-To-Submit-Games#deploy-to-github-releases)
 
-[CI/CD without Github Releases](https://github.com/the-expanse/SideQuest/wiki/How-To-Submit-Games#cicd-without-github-releases)
+[CI without Github Releases](https://github.com/the-expanse/SideQuest/wiki/How-To-Submit-Games#ci-without-github-releases)
 
 [Promote your Social Media and App Store Pages](https://github.com/the-expanse/SideQuest/wiki/How-To-Submit-Games#promote-your-social-media-and-app-store-pages)
 
@@ -55,7 +55,7 @@ Mobile view          |  Desktop View
 ![i](https://i.imgur.com/7HXhh1d.png)  |  ![i](https://i.imgur.com/jCxQHcp.png)
 
 
-## SelfHost/Itch.io - Supply an APK/Itch URL
+## Supply an APK / Itch URL
 You can supply a download url for your APK file under the App Urls section of the listing editor. Select the type `APK` in the drop down. If you update your app you can increase the Version Code on the listing to trigger auto-updates for users of your app. It is important to make sure it is a [Direct Download Url](https://github.com/the-expanse/SideQuest/wiki/How-To-Submit-Games#direct-download). If you want to link to an existing itch listing, just supply the itch.io listing page. SideQuest can install APK files or ZIP files from itch.io ( all APK + OBB files inside the zip ). 
 
 ![](https://i.imgur.com/SzHTXwO.png)
@@ -70,7 +70,7 @@ The Github Release workflow also supports auto-updates for apps on SideQuest - a
 
 
 
-## CI/CD without Github Releases
+## CI without Github Releases
 If you use another CI/CD workflow that does not involve Github Releases then you can use the following webhook to trigger auto-updates for users:
 
 Copy the webhook url like normal here -
