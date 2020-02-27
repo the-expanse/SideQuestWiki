@@ -112,11 +112,11 @@ You can also add all sorts of social/donate/info links with the App URLs section
 
 
 ## Direct Download
-It is important to use a Direct Download URL, meaning that if your URL is copied and pasted into a browser should automatically download the APK, and do so without any kind of confirmation screen. Google Drive does not work for this reason however you can use Dropbox if you change the file URL slightly as it makes it a direct download URL, for instance:
+It is important to use a Direct Download URL for APK or OBB files meaning that if your URL is copied and pasted into a browser it should automatically download the file, without any kind of confirmation screen. Google Drive does not work for this reason however you can use Dropbox if you change the file URL slightly as it makes it a direct download URL, for instance:
 
 `https://www.dropbox.com/s/gsfgjg2g24gj42/MyCoolApp.apk`
 
-requires you to accept, but if you add `?dl=1` to the end so the full URL is 
+requires you to accept before downloading, but if you add `?dl=1` to the end so the full URL is 
 
 `https://www.dropbox.com/s/gsfgjg2g24gj42/MyCoolApp.apk?dl=1`
 
