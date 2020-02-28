@@ -17,6 +17,7 @@ If you care for your scores you can save and transfer them up, do so in the Side
 Some songs have special lighting or game assets that the base BMBF can not do, for help with getting such songs running you need a separate extender obtainable from the BSMG Discord where you can install it and ask for help and information about the mod extender so for any assistance with Modding past BMBF join the beatsaber modding group Discord at
 [BSMG Discord](https://discord.gg/beatsabermods)
 Where are you can also obtain the mod extender, Some songs and more detailed mods require it else they will just permanently load in beatsaber or never activate.
+
 ----
 
 # BMBF Installation How-To
