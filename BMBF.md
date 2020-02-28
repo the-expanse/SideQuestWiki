@@ -23,7 +23,7 @@ If you care for your scores you can save and transfer them up, do so in the Side
 ### A song is permanently loading
 ----
 
-Some songs have special lighting or game assets that the base BMBF can not do, for help with getting such songs running you need a separate extender obtainable from the below Discord where you can install it and ask for help and information about the mod extender
+Some songs have special lighting or game assets that the base BMBF can not do, for help with getting such songs running you need a separate extender obtainable from the BSMG Discord where you can install it and ask for help and information about the mod extender
 https://discord.gg/beatsabermods
 
 ----
