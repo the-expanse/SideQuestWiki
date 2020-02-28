@@ -20,6 +20,11 @@ Make sure to reinstall BeatSaber fresh and uninstall BMBFs old version before yo
 
 If you care for your scores you can save and transfer them up, do so in the SideQuests currently installed Apps tab at the top right in SideQuest (Looks like a square of 9 smaller squares) then find beatsaber and click its setting button (Gear Icon) then click Back Up Game Data and let it back up, you can check the `My Tasks` tab to be sure it properly saved, your scores can then be recovered prior to running BMBF and letting it mod beatsaber from the same page you backed it up on by clicking the refresh icon (The icon with half moon arrows that point at each other) under "Backup game data" if you have more then one select the most recent date.
 
+### A song is permanently loading
+
+Some songs have special lighting or game assets that the base BMBF can not do, for help with getting such songs running you need a separate extender obtainable from the below Discord where you can install it and ask for help and information about the mod extender
+https://discord.gg/beatsabermods
+
 ----
 
 # BMBF Installation How-To
