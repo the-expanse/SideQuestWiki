@@ -13,7 +13,7 @@ After enabling Wireless mode it will think there are two devices connected at on
 
 ### There is no in built audio
 
-There will be no game sound streaming and this feature is highly unlikely at all let alone any time soon so you will need an alternative solution.
+There will be no game sound streaming and this feature is highly unlikely at all let alone any time soon so you will need an alternative solution none of which do not require some sort of hardware.
 
 ### Alternative Audio Solutions
 
