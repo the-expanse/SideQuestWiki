@@ -18,9 +18,9 @@ Locate `Other device` and open it to see `ADB Interface` of which should appear 
 
 ![](https://cdn.discordapp.com/attachments/615234075778875453/659967062306848768/unknown.png)
 
-Make sure you have the drivers you obtained from the official [Sidequest Installation how to](https://github.com/the-expanse/SideQuest/wiki/SideQuest-Setup-&-How-To-install#step-3-install-drivers-windows-users-only)
+Make sure you have the drivers you obtained from the official [SideQuest Installation how to](https://github.com/the-expanse/SideQuest/wiki/SideQuest-Setup-&-How-To-install#step-3-install-drivers-windows-users-only)
 
-and that they are properly extracted, be that with WinRAR or 7Zip (Free online via google) or another built in extractor program.
+and that they are properly extracted, be that with WinRAR or 7Zip (Free online via Google) or another built in extractor program.
 
 Navigate the popups until you see `Have Disk` and click `Have Disk` and locate the extracted folder with the driver in it,
 install `ADB Composite` for ADB interface, after that let it install and click ok, then locate the XRSP driver in your device manager and do the same, but after selecting the driver file in the folder, choose The one that mentions`Bootloader`
@@ -42,4 +42,4 @@ Beyond that you can see if this page helps
 If all else fails you can try to see if upgrading your system to windows 8 or 10 is an option to you,
 All we can suggest if you can not get SideQuest running on Windows 7 with this page and information is to upgrade as even Microsoft themselves no longer support Windows 7.
 
-If you do upgrade you should be able to start using all it's functions as well as SideQuest itself right away after installing the drivers from [These Steps](https://sidequestvr.com/#/setup-howto) , extract themm right click Win_Usb and clicking install but for that easy way to install Windows 8 or 10 is required.
+If you do upgrade you should be able to start using all it's functions as well as SideQuest itself right away after installing the drivers from [These Steps](https://sidequestvr.com/#/setup-howto) , extract them right click Win_Usb and clicking install but for that easy way to install Windows 8 or 10 is required.
