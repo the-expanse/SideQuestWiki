@@ -6,13 +6,11 @@ The Oculus Quest is the only supported device by SideQuest, you will need a PC t
 
 #### First things to try
 
-
 Note all information below is not error specific as some errors share Solutions so be sure to try everything and look into each one at least once.
 
 Make sure you have installed the very latest SideQuest from [SideQuestVR.com](https://sidequestvr.com/#/download) properly before proceeding.
 Also double check the main setup steps for installing SideQuest to make sure you have done every one of the 5 [mandatory setup steps](https://github.com/the-expanse/SideQuest/wiki/SideQuest-Setup-&-How-To-install#step-1-install-sidequest-to-your-computer).
-Some times you need to reset Dev mode in your phone app for connection issues, for that issue see #3
-
+Some times you need to reset Developer mode in your phone app for connection issues, for that issue see #3 on this list
 
 # [Setup Steps](https://sidequestvr.com/#/setup-howto) 
 
@@ -47,20 +45,20 @@ Several things could cause that, Make sure your guardian is set up and active wh
 
 
 ----
-# 3 Dev mode toggling
+# 3 Developer mode toggling
 ----
 
 `Note that none of these steps are in about or with SideQuest and are done only within the mobile phone application for Oculus. Also users usually need to toggle Developer mode after any Oculus OS update as it usually is auto disabled due to the update`
 
-Open the official Oculus application on a Bluetooth capable phone or tablet and log into your Oculus account, go to `Settings` within the app and click your headset to connect, make sure the power is on when doing so, then click advanced settings and go to `Developer mode` to dis then re enable it before hard rebooting your device, this is done by holding down the headsets power button for 15 seconds, then rebooting as normal.
+Open the official Oculus application on a Bluetooth capable phone or tablet and log into your Oculus account, go to `Settings` within the app and click your headset to connect, make sure the power is on when doing so, then click advanced settings and go to `Developer mode` to disable then re enable it before hard rebooting your device, this is done by holding down the headsets power button for 15 seconds, then rebooting as normal.
 
 ###### If you turn Developer mode off in your Phone application and you suddenly your headset connects to SideQuest it is an error with the application thinking on is off and off is on, the following should fix it.
 
-Open your Oculus Application on the device you set your Quest up with and head to settings while connected to your Quest via Bluetooth, After doing so try to Toggle Dev mode (at the least 3 times) Then set it back to enabled and restart your Quest device before you try to connect once again to SideQuest
+Open your Oculus Application on the device you set your Quest up with and head to settings while connected to your Quest via Bluetooth, After doing so try to Toggle Developer mode (at the least 3 times) Then set it back to enabled and restart your Quest device before you try to connect once again to SideQuest
 
-`If the issue persists toggle Dev mode to enabled again, then power off your Quest completely while still on the Dev mode page in your phone application and disable it while your system is off, then turn your Headset back on, Reconnect it to your phone and Re-enable Dev mode`
+`If the issue persists toggle Developer mode to enabled again, then power off your Quest completely while still on the Developer mode page in your phone application and disable it while your system is off, then turn your Headset back on, Reconnect it to your phone and Re-enable Developer mode`
 
-###### Doing so in the phone app tends to solve many issues, also some times there is a glitch causing something to go awry, such as sometimes making the headset connect to SideQuest only when Dev mode is off  and disconnect when it is on, the issue generally occurs on initial set up, after trying the install steps more then once, or Re-Installing/Updating SideQuest.
+###### Doing so in the phone app tends to solve many issues, also some times there is a glitch causing something to go awry, such as sometimes making the headset connect to SideQuest only when Developer mode is off  and disconnect when it is on, the issue generally occurs on initial set up, after trying the install steps more then once, or Re-Installing/Updating SideQuest.
 
 ----
 # 4 Issues caused by Oculus LINK
@@ -89,7 +87,7 @@ For some VPN's such as NordVPN users, you may need to change a setting that mask
 
 ![](https://cdn.discordapp.com/attachments/608376262347587595/609882817962442752/Screenshot_1165.png)
 
-Antivirus applications such as AVG, Avast, BitDefender or similar programs can cause issues so try to check if ADB.exe is running, if not see it it has been Quarantined/Vaulted by it and tell your antivirus to allow it through, if you do not know how to do this search google for "how to allow a program through quarantine" for your specific Anti Virus software, for example if it is windows defender search how to for windows defender on your PC and allow SideQuest however the tutorial tells you to let programs through your system, if you have further issues try disabling your Anti-virus system for the duration of the SideQuest installation and see if doing so helps upon Relaunch of SideQuest.
+Antivirus applications such as AVG, Avast, BitDefender or similar programs can cause issues so try to check if ADB.exe is running, if not see if it has been Quarantined/Vaulted by it and tell your antivirus to allow it through, if you do not know how to do this search Google for "how to allow a program through quarantine" for your specific Anti Virus software, for example if it is windows defender search how to for windows defender on your PC and allow SideQuest however the tutorial tells you to let programs through your system, if you have further issues try disabling your Anti-virus system for the duration of the SideQuest installation and see if doing so helps when launching SideQuest once more.
 
 Note for Mac users you may need to allow SideQuest in your Privacy new settings.
 
@@ -104,7 +102,7 @@ The use of Android Emulators cause issues if it is being detected first, so make
 ----
 
 Always connect directly to the same router as your PC or phone to minimize issues, avoid things like hotspots, router extenders, mesh networks, smart,connection systems and other specialized settings,
-For programs such as BMBF (Beat Ons standalone replacment) you can install and manage songs in headset to avoid issues with that application specifically.
+For programs such as BMBF (Beat Ons standalone replacement) you can install and manage songs in headset to avoid issues with that application specifically.
 
 ----
 # 9 Power cycling your devices 
@@ -120,7 +118,7 @@ To reset your connection just click the `Run ADB Commands` button top of SideQue
 
 
 Then click `Disconnect everything` hit `Run Command`, 
-Go back again and and hit `reset ADB`, then hit `Enable USB ADB` and you should connect.
+Go back again and hit `reset ADB`, then hit `Enable USB ADB` and you should connect.
 
 ----
 # 11 For Wireless Connection 
@@ -166,13 +164,13 @@ If you see
 `Example1SOTGDHHSD93  unauthorized`
 put on your headset now you should see the message to allow usb debugging - click always allow. 
 
-if you see  
+If you see  
 `1SOTGDHHSD93  offline`
 Then type 
 `adb kill-server`
  and then use the `adb devices` command again.
 
-if you see 
+If you see 
 `Cannot connect to daemon` 
 Then open up task manager and kill the adb.exe process by clicking it, then hitting end task for windows, else try the commands - taskkill /f /im adb.exe
 
@@ -189,10 +187,10 @@ Install the folder from
 [Platform Tools Zip folder](https://dl.google.com/android/repository/platform-tools-latest-windows.zip)
 
 Then proceed to unzip it,
-`If you do not know how to check google for how to unzip a folder for your version of windows`
+`If you do not know how to check Google for how to unzip a folder for your version of windows`
 
 Then in SideQuest head to settings
-Then at the top of the page click `Open Main App` folder , remember the folder location and log out and back in to your pcs account, then navigate back to the folder manually using windows file explorer (Not SideQuest` and look for the `Platform tools` Folder, delete the entire folder then move the extracted new platform tools folder you downloaded and extracted into its place, when finished reboot SideQuest and try once more to connect your headset.
+Then at the top of the page click `Open Main App` folder , remember the folder location and log out and back in to your PC's account, then navigate back to the folder manually using windows file explorer (Not SideQuest` and look for the `Platform tools` Folder, delete the entire folder then move the extracted new platform tools folder you downloaded and extracted into its place, when finished reboot SideQuest and try once more to connect your headset.
 
 
 ----
