@@ -3,7 +3,7 @@
 ### If you have installed custom songs before
 ----
 
-Make sure to reinstall BeatSaber fresh and uninstall BMBFs old version before you go any further if you have installed custom songs before as if you do not un and reinstall correctly many issues may arise upon updating or re-installation of BMBF.
+Make sure to reinstall BeatSaber fresh and uninstall BMBFs old version before you go any further if you have installed custom songs before as if you do not uninstall and then reinstall correctly many issues may arise upon updating or re-installation of BMBF.
 
 
 ### - Before Proceeding, Backup creation of Game data and Scores
@@ -14,9 +14,9 @@ If you care for your scores you can save and transfer them up though sometimes c
 ### A song is permanently loading
 ----
 
-Some songs have special lighting or game assets that the base BMBF can not do, for help with getting such songs running you need a separate extender obtainable from the BSMG Discord where you can install it and ask for help and information about the mod extender so for any assistance with Modding past BMBF join the beatsaber modding group Discord at
+Some songs have special lighting or game assets that the base BMBF can not do, for help with getting such songs running you need a separate extender obtainable from the BSMG Discord where you can install it and ask for help and information about the mod extender so for any assistance with Modding past BMBF join the Beatsaber Modding Group Discord at
 [BSMG Discord](https://discord.gg/beatsabermods)
-Where are you can also obtain the mod extender, Some songs and more detailed mods require it else they will just permanently load in beatsaber or never activate.
+Where are you can also obtain the mod extender, Some songs and more detailed mods require it or else they will just load infinitely in beatsaber or never activate.
 
 ----
 
@@ -93,13 +93,13 @@ You can install Mods from within headset as well  by locating the globe web brow
 ### Song Bookmark system
 ----
 
-You can use the built in bookmark system which helps save and import songs using any browser. Just create and/or log into a beastsaber account on your PC, Phone Tablet or what ever you have access to in a web browser, Find a song you like and click the bookmark icon on songs you want. You can then in headset open the the BMBF application under `Oculus TV` and open the syncsaber tab, put your user name into the text box and enable bookmarks by clicking it's switch on, then set bookmarks to infinite mode (set it to below zero) then you just click the sync button on the page and let them install, then your done.
+You can use the built in bookmark system which helps save and import songs using any browser. Just create and/or log into a beastsaber account on your PC, Phone Tablet or what ever you have access to in a web browser, Find a song you like and click the bookmark icon on songs you want. You can then in headset open the BMBF application under `Oculus TV` and open the syncsaber tab, put your user name into the text box and enable bookmarks by clicking it's switch on, then set bookmarks to infinite mode (set it to below zero) then you just click the sync button on the page and let them install, then your done.
 
 
 ### Managing or Installing Songs and Mods a PC or on mobile devices
 
 You can get a song zip from `Beastsaber.com` or `beatsaver.com` (Not Mods as they are PC only), in your PC browser as long as you are on the same Wi-Fi connection type your Quests IP (Found top left of SideQuest when connected" followed by `:50000`, Be sure to type the IP properly in your browser on whatever device you are attempting to use then type `:50000` fully, it should open a page for BMBF management then, after that if on PC you can to the upload tab and install it there, make sure to always have BMBF open and running in headset when managing on other devices.
-You can also use this meathod to install mod zip folders but that is ill advised as most are PC only and not compatible with the Quest so if not obtained Via SideQuests own list be wary
+You can also use this method to install mod zip folders but that is ill advised as most are PC only and not compatible with the Quest so if not obtained Via SideQuests own list be wary
 You can manage your playlists and even install songs from a phone or tablet  using the same IP from their browser  so long as the device and your Quest are on the same Wi-Fi network.
 
 
@@ -111,7 +111,7 @@ You can manage your playlists and even install songs from a phone or tablet  usi
 
 [![](https://cdn.discordapp.com/attachments/541467913857662995/651403839605440513/Screenshot_956.png)](https://youtu.be/FcvZwF8j-ro)
 
-##### Where you go with the google search in the video linked above
+##### Where you go with the Google search in the video linked above
 `https://github.com/RedBrumbler/BMBFCustomSabers`
 
 
@@ -126,7 +126,7 @@ If you run into issues
 
 ### Disclaimers and other information
 
-`Note that BMBF is a standalone replacement for Beat On of which SideQuest no longer supports. to install it follow the steps below. BMBF tries to recover songs, save data and such all automatically if you are transferring from Beat On.`
+`Note that BMBF is a standalone replacement for Beat On of which SideQuest no longer supports. To install it follow the steps below. BMBF tries to recover songs, save data and such all automatically if you are transferring from Beat On.`
 
 ###### SideQuest is NOT responsible for BMBF, how it modifies BeatSaber or what it does and can not be held responsible for any issues that occur upon install be they from user error or from the program side,
 
@@ -140,7 +140,7 @@ if a mod was obtained from Beastsaber or some external website and not a mod bui
 
 #### Songs are safe even if the program is uninstalled but packs (how you organized them) are lost, after re-installation just open BMBF in headset, go to TOOLS and click it's `Reload song folder` button
 
-Connect your headset to your PC and go to the `My Apps` manager tab locatable in the top right of SideQuests management bar, then locate BMBF and Beatsaber using the search function, click the gear to the right of both the applications and click uninstall on each of them, if you can not find BMBF search for the word `love` in the `My apps` tab (the Top right square of 9 squares icon) and it should pop up as `We Love Oculus` (or something similar), Make sure to uninstall them both then reboot your headset before you reinstall and then run beatsaber once, if you have the the BMBF wrapper also uninstall that as it is no longer needed. After that just reinstall BMBF again as dictated in the steps [here](https://github.com/the-expanse/SideQuest/wiki/BMBF/_edit#bmbf-installation-how-to)
+Connect your headset to your PC and go to the `My Apps` manager tab locatable in the top right of SideQuests management bar, then locate BMBF and Beatsaber using the search function, click the gear to the right of both the applications and click uninstall on each of them, if you can not find BMBF search for the word `love` in the `My apps` tab (the Top right square of 9 squares icon) and it should pop up as `We Love Oculus` (or something similar), Make sure to uninstall them both then reboot your headset before you reinstall and then run beatsaber once, if you have the BMBF wrapper also uninstall that as it is no longer needed. After that just reinstall BMBF again as dictated in the steps [here](https://github.com/the-expanse/SideQuest/wiki/BMBF/_edit#bmbf-installation-how-to)
 
 ##### (Uninstall Beat On if you have that still as it is no longer supported)
 
@@ -163,12 +163,12 @@ If they are not present try and go to the Tools tab in BMBF in PC or Headset and
 ----
 
 If this occurs be sure to check in your main library click the 3 dot button on Beatsabers game icon, then go to Permissions and turn allow Storage permissions for the game, if the issue persists then restart your device and it should subside, 
-If it continues try dis and re enabling the storage permissions and hard restart your headset by holding the power button for 15 seconds, if it still persists it would be best to clean install following the directions below from scratch, make sure to remove all related programs (Beatsaber, BMBF, BeatOn) before installing Beatsaber again and starting the process.
+If it continues try uninstall and re enabling the storage permissions and hard restart your headset by holding the power button for 15 seconds, if it still persists it would be best to clean install following the directions below from scratch, make sure to remove all related programs (Beatsaber, BMBF, BeatOn) before installing Beatsaber again and starting the process.
 
 
 ##### `WARNING IF DELETING THE BMBF FOLDER`
 
-###### `Deleting the BMBF folder will mean ALL CUSOM SONGS AND MODS are completly wiped and will note be recoverable with anything in the BMBFs TOOL tab. They will all have to be reinstalled once again from where you got them originally, though songs can be recovered faster if you utilize the Syncsaber bookmark system after making an account on Beastsaber.com 
+###### `Deleting the BMBF folder will mean ALL CUSOM SONGS AND MODS are completely wiped and will note be recoverable with anything in the BMBFs TOOL tab. They will all have to be reinstalled once again from where you got them originally, though songs can be recovered faster if you utilize the Syncsaber bookmark system after making an account on Beastsaber.com 
 with this method mods will always need to always be manually recovered when doing this.`
 
 ## For Transferring up Purchased Packs and Save Data
