@@ -1,5 +1,5 @@
 # FIRST BEFORE ANYTHING 
-dis and Re:Enable Developer mode again right now from the Oculus application on your Phone/Tablet You set your Quest up with, Updating the Quest sometimes switches it off automatically but resetting it also helps the connection refresh.
+Disable and Re:Enable Developer mode again right now from the Oculus application on your Phone/Tablet You set your Quest up with, Updating the Quest sometimes switches it off automatically but resetting it also helps the connection refresh.
 
 ----
 
@@ -12,7 +12,6 @@ To install the drivers extract the zip folder, then open the extracted folder an
 
 
 If that didn't solve the issue to fix it in windows just head to your PC's `device manager`
-
 and in it if you see ADB interface like this
 
 ![](https://cdn.discordapp.com/attachments/615234122604085262/629749839718121546/12.png)
@@ -35,7 +34,7 @@ then at the bottom click
 then you should see 
 
 `oculus device`
- appear on the left list in the popup, if it dose not appear try to locate the "show compatible drivers" check box in one of the windows and un-check it, from there you should be able to find the 
+ appear on the left list in the popup, if it doesn't appear try to locate the “show compatible drivers” check box in one of the windows and uncheck it, from there you should be able to find the 
 
 `oculus composite adb interface` 
 
@@ -56,7 +55,7 @@ https://www.reddit.com/r/sidequest/comments/dsebyq/cant_connect_to_sidequest_tri
 #### If both of the above still doesn't fix the issue after restarting your PC
 
 The last thing to try is to open `CMD` (Command Prompt) from your windows start bar, (Click the bottom left windows icon and search CMD)
-( If your on mac then click the wrench icon in the top right and click "open adb folder" - then drag this onto a terminal window)
+(If you're on mac then click the wrench icon in the top right and click "open adb folder" - then drag this onto a terminal window)
 
 Then in the new window type 
 `cd %appdata%\SideQuest\platform-tools\`
@@ -76,9 +75,9 @@ and then
 `adb devices`
 again.
 
-if you see cannot connect to daemon then open up task manager and end the adb.exe process, or use
+If you see cannot connect to daemon then open up task manager and end the adb.exe process, or use
 - taskkill /f /im adb.exe
 
 
 
-Last resort failing this sadly is a Factory reset, that helps many users get back online.
+The only remaining option if the above fails sadly is a Factory reset, that helps many users get back online.
