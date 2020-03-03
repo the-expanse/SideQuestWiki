@@ -4,26 +4,26 @@
 
 ### Possible Issues With Ports
 
-USB-3 is not truly supported and in many cases can cause connection issues, if the system is putting out an error when installing an application attempt use of a few different USB ports on your computer to be sure  that it isn't the USB port type causing the problem, if everything continues you can try a new cable in that should help, beyond that the connection issue Wiki at the top of this page should help.
+USB-3 is not truly supported and in many cases can cause connection issues, if the system is putting out an error when installing an application attempt use of a few different USB ports on your computer to be sure that it isn't the USB port type causing the problem, if everything continues you can try a new cable in that should help, beyond that the connection issue Wiki at the top of this page should help.
 
 ## About The Queue System
-Our Queue system is a how we are able to let users install many things at once without seeing a long loading screen and having your screen freeze up as an app or game installs making you unable to do anything else but stare at it and wait and sometimes it gives an error. 
+Our Queue system is a how we are able to let users install many things at once without seeing a long loading screen and having your screen freeze up as an app or game installations making you unable to do anything else but stare at it and wait and sometimes it gives an error. 
 
 #### All about app and game uninstallation 
 
 [Uninstalling Apps and Games](https://github.com/the-expanse/SideQuest/wiki/.My-apps-won't-uninstall-what's-wrong%3F#all-about-un-installation-of-applications-or-games)
 
 ## The Queue System
-Our Queue system is a how we are able to let users install many things at once without seeing a long loading screen and having your screen freeze up as an app or game installs making you unable to do anything else but stare at it and wait and sometimes it gives an error. 
+Our Queue system is a how we are able to let users install many things at once without seeing a long loading screen and having your screen freeze up as an app or game installations making you unable to do anything else but stare at it and wait and sometimes it gives an error. 
 
 If you get an error like below.
 
 ![](https://cdn.discordapp.com/attachments/608376262347587595/614606619606515727/Screenshot_48.png)
 
-or the `Some tasks failed. See the tasks screen for more info` error,
-you can access the Queue list from the top right of side quests dashboard, and attempt to retry your download with the retry failed button
+Or the `Some tasks failed. See the tasks screen for more info` error,
+you can access the Queue list from the top right of SideQuests dashboard, and attempt to retry your download with the retry failed button.
 
-##### For further errors with the `Some tasks failed. See the tasks screen for more info` error
+##### For further errors with the `Some tasks failed. See the tasks screen for more info` error.
 
 Be sure to Check your Queue tab carefully to make sure it didn't just download an application twice in a row, as if a song, game or mod is already installed it may fail as it is already installed, otherwise check your Wi-Fi, your cord or another port on your PC.
 
