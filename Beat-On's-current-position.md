@@ -8,4 +8,4 @@ if you wish to learn more in detail about the situation head to
 
 [Beat On Support Ending, Here Is Why](https://www.reddit.com/r/OculusQuest/comments/dddjb9/beaton_support_ending_illicit_mods_are_now/)
 
-Just click the blue link, and have a wonderful Day-fternoo-night.
+Just click the blue link, and have a wonderful Dayfternoonight.
