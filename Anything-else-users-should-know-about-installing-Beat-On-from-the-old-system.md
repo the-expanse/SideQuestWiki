@@ -5,9 +5,7 @@ Huge Thanks to Bobby McWho for making a video version for users.
 
 To make the transition as smooth as possible be sure to clear out your old Beat On version if you had it from your headset,
 
-make sure to back up your songs folder from in headset, go to settings in SideQuest
-
-![](https://cdn.discordapp.com/attachments/615234075778875453/623923594820321301/Screenshot_316.png)
+Make sure to back up your songs folder from in headset, Go to settings in SideQuest top right under the wrench icon.
 
 Then go into your main app folder by clicking here
 
