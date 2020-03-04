@@ -1,5 +1,5 @@
 ## Having issues? 
-If not seeing green dot in the top left inside SideQuest and instead finding it to be purple or yellow, If purple it means another device is connected, try disconnecting your headset if you are in Wireless mode and it should resolve else try all the solutions below.
+If not seeing green dot and the phrase (Connected) followed by a string of numbers (Your Quests IP) in the top left inside SideQuest and instead finding it to be purple or yellow, If purple it means another device is connected, try disconnecting your headset if you are in Wireless mode and it should resolve else try all the solutions below.
 
 #### Supported Devices
 The Oculus Quest is the only supported device by SideQuest, you will need a PC to install applications and games with SideQuest as it is not installed onto the Quest device it's self, The Oculus GO is no longer properly supported, and we can do little to help with any issues installing apps to a GO, unsupported devices are as follows, Tablets, Nintendo Labo, GearVR, Index and Google cardboard are all unsupported, Note you will need a PC to install programs with SideQuest, Phones are supported but it is not recommended, and they only support normal APKs, be wary of viruses if attempting such.
@@ -76,7 +76,7 @@ it is possible if you use LINK that your headset is upon being plugged into your
 
 If you're using Bluestacks, NOX or any android emulators be sure to close them and that thy are not running in the background by checking your task manager, a Wi-Fi Extender of any kind can lead to problems as well and be sure to disable ANY VPN services of any kind when using SideQuest, best to refrain from them as they are all known to cause issues for SideQuest.
 
-For some VPN's such as NordVPN users, you may need to change a setting that masks your PC even when the VPN service is not actively running as some VPN services still control and mask your system in the background even when not actively open and running, Just locate the setting that disabled your VPN's ability to be masked/ Invisible to local LAN or through Wi-Fi
+For some VPN's such as NordVPN users, you may need to change a setting that masks your PC even when the VPN service is not actively running as some VPN services still control and mask your system in the background even when not actively open and running, Just locate the setting that disabled your VPN's ability to be masked/ Invisible to local LAN or through Wi-Fi.
 
 ----
 #### [How to properly uninstall BlueStacks](https://github.com/the-expanse/SideQuest/wiki/BlueStacks-is-causing-issues,-how-do-i-remove-it)
