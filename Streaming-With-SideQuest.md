@@ -4,7 +4,7 @@ You can do this by enabling Wi-Fi mode in the top right with the wireless button
 
 ### Cable Needed
 
-Unfortunately yes a cable will be required even with wireless mode as you will need a cable to first initialize wireless mode in SideQuest, as well as every subsequent time you either reboot of your headset, or the PC as IPs can change and as a safety measure for users against hacking, it records and saves the IP of your device (which can change over restarts) if SideQuest is closed and reopened but upon a reboot of either device it will loose that connection so you will need to re engage it with the cable once again.
+Unfortunately yes a cable will be required even with wireless mode as you will need a cable to first initialize wireless mode in SideQuest, as well as every subsequent time you either reboot of your headset, or the PC as IPs can change and as a safety measure for users against hacking, it records and saves the IP of your device (which can change over restarts) if SideQuest is closed and reopened but upon a reboot of either device it will loose that connection so you will need to re-engage it with the cable once again.
 
 ### Make sure you unplug
 
@@ -27,7 +27,7 @@ The SideQuest streamer has it set to auto crop the original video usually sent t
 
 #### Double check ADB is coming from SideQuest
 
-Windows windows Task Manager and locate ADB.exe, then right click it, if it does not open to a folder having to do with SideQuest unplug your headset stop ADB.exe and remove the conflicting ADB.exe from whatever folder opened before restarting SideQuest and trying again.
+Run Windows Task Manager and locate ADB.exe, then right click it, if it does not open to a folder having to do with SideQuest unplug your headset stop ADB.exe and remove the conflicting ADB.exe from whatever folder opened before restarting SideQuest and trying again.
 
 #### Make sure your headset screen is enabled
 
