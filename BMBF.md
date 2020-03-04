@@ -70,7 +70,7 @@ You can install Mods from within headset as well  by locating the globe web brow
 
 ## - [If updating or reinstalling BMBF for any reason](https://github.com/the-expanse/SideQuest/wiki/If-your-updating,-have-used-BMBF-before-or-have-a-faulty-installation)
 
-## -[What happens to your old Purchased, Custom songs and mods if you are updating to BMBF from a previous version or from Beat On](https://github.com/the-expanse/SideQuest/wiki/What-happens-to-old-Purchased,-Custom-songs-and-mods-if-you-are-updating-to-BMBF-from-a-previous-version-or-from-Beat-On)
+## -[What happens to Purchased songs, and pre-update custom songs and mods when updating BMBF or from Beat On](https://github.com/the-expanse/SideQuest/wiki/What-happens-to-old-Purchased,-Custom-songs-and-mods-if-you-are-updating-to-BMBF-from-a-previous-version-or-from-Beat-On)
 
 ## - [If BeatSaber Permaloads or BMBF won't let you sync](https://github.com/the-expanse/SideQuest/wiki/If-BeatSaber-Permaloads-or-BMBF-won't-let-you-sync)
 
