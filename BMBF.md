@@ -1,12 +1,11 @@
 ----
-# BMBF is the newest functioning custom song and mod installer for BeatSaber for the Oculus Quest
+### BMBF is the newest functioning custom song and mod installer for BeatSaber for the Oculus Quest
 
 ----
 
-##### (Make sure to unninstall Beat On if you have that still as it is no longer supported)
+##### (Make sure to uninstall Beat On if you have that still as it is no longer supported)
 
 ## Installed custom songs before?
-----
 
 If you have and are updating or installing because your version of BMBF never or no longer functions properly make sure to reinstall BeatSaber fresh and uninstall BMBFs old version before you go any further if you have installed custom songs before as if you do not uninstall and then reinstall correctly many issues may arise upon updating or re-installation of BMBF.
 
@@ -49,7 +48,7 @@ Run BMBF and read the installation pages, be sure to read before clicking any pr
 
 ----
 
-## - [Song Bookmark system, The song cloud storage and recovery system](https://github.com/the-expanse/SideQuest/wiki/Song-Bookmark-system,-The-song-cloud-storage-and-recovery-system)
+## - [All about Beastsabers Song Bookmark system, The song cloud storage and recovery system for your songs](https://github.com/the-expanse/SideQuest/wiki/Song-Bookmark-system,-The-song-cloud-storage-and-recovery-system)
 ----
 
 ## Management and installation of Songs and Mods in headset
