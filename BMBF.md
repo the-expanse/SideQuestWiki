@@ -61,31 +61,20 @@ FOR MODS
 You can install Mods from within headset as well  by locating the globe web browser icon in the top-right of BMBF under the browser Tab, and clicking SideQuest,  then just click install latest on a mod you want, after that you can dismiss and re-enable the mod at will from the mods tab in BMBF.
 
 ## - [Where is BMBF in headset?](https://github.com/the-expanse/SideQuest/wiki/Where-do-i-launch-BMBF-in-headset%3F)
-----
 
 ## - [Managing or Installing Songs and Mods a PC or on mobile devices](https://github.com/the-expanse/SideQuest/wiki/Managing-or-Installing-Songs-and-Mods-on-a-PC-or-on-mobile-devices)
 
-----
-
 ## - [Alternative ways to install Mods or Songs](https://github.com/the-expanse/SideQuest/wiki/Alternative-ways-to-install-Mods-or-Songs)
 
-----
 ## - [Mods obtained from outside of SideQuest or the Redbrumbler github](https://github.com/the-expanse/SideQuest/wiki/About-Mods-obtained-from-outside-of-SideQuest-or-the-Redbrumbler-github)
 
 ## - [If updating or reinstalling BMBF for any reason](https://github.com/the-expanse/SideQuest/wiki/If-your-updating,-have-used-BMBF-before-or-have-a-faulty-installation)
 
-----
-
 ## -[What happens to your old Purchased, Custom songs and mods if you are updating to BMBF from a previous version or from Beat On](https://github.com/the-expanse/SideQuest/wiki/What-happens-to-old-Purchased,-Custom-songs-and-mods-if-you-are-updating-to-BMBF-from-a-previous-version-or-from-Beat-On)
-----
-
 
 ## - [If BeatSaber Permaloads or BMBF won't let you sync](https://github.com/the-expanse/SideQuest/wiki/If-BeatSaber-Permaloads-or-BMBF-won't-let-you-sync)
-----
-
 
 ## - [For Transferring up Purchased Packs and Save Data](https://github.com/the-expanse/SideQuest/wiki/Transferring-up-Purchased-Packs-and-Save-Data-for-Beatsaber-after-Modding)
-----
 
 ## - [Updated Beatsaber before BMBF got an update to match?](https://github.com/the-expanse/SideQuest/wiki/Updating-Beatsaber-before-BMBF-get's-an-update-to-match)
 
