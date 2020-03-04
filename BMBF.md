@@ -63,7 +63,7 @@ You can install Mods from within headset as well  by locating the globe web brow
 ## - [Where is BMBF in headset?](https://github.com/the-expanse/SideQuest/wiki/Where-do-i-launch-BMBF-in-headset%3F)
 ----
 
-## - [Managing or Installing Songs and Mods a PC or on mobile devices](https://github.com/the-expanse/SideQuest/wiki/Managing-or-Installing-Songs-and-Mods-a-PC-or-on-mobile-devices)
+## - [Managing or Installing Songs and Mods a PC or on mobile devices](https://github.com/the-expanse/SideQuest/wiki/Managing-or-Installing-Songs-and-Mods-on-a-PC-or-on-mobile-devices)
 
 ----
 
