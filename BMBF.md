@@ -78,13 +78,7 @@ You can install Mods from within headset as well  by locating the globe web brow
 
 ## - [Updated Beatsaber before BMBF got an update to match?](https://github.com/the-expanse/SideQuest/wiki/Updating-Beatsaber-before-BMBF-get's-an-update-to-match)
 
-If you run into issues
-----
-##### `Note any modifications to official games make them unable to update or uninstall naturally in headset, You can uninstall them in SideQuest's  My apps tab under the app settings icon (a Gear icon) to its right. Then just reinstall your game from the official Oculus store.` 
+### [Disclaimers and other information](https://github.com/the-expanse/SideQuest/wiki/Disclaimers-and-other-information)
+
+`Note any modifications to official games make them unable to update or uninstall naturally in headset, You can uninstall them in SideQuest's  My apps tab under the app settings icon (a Gear icon) to its right. Then just reinstall your game from the official Oculus store.` 
 For how to uninstall apps and games that have been modified properly (Such as BMBF and modified BeatSaber) [see here](https://github.com/the-expanse/SideQuest/wiki/.My-apps-won't-uninstall-what's-wrong%3F#all-about-un-installation-of-applications-or-games)
-
-### Disclaimers and other information
-
-`Note that BMBF is a standalone replacement for Beat On of which SideQuest no longer supports. To install it follow the steps below. BMBF tries to recover songs, save data and such all automatically if you are transferring from Beat On.`
-
-###### SideQuest is NOT responsible for BMBF, how it modifies BeatSaber or what it does and can not be held responsible for any issues that occur upon install be they from user error or from the program side,
