@@ -1,3 +1,1 @@
 BMBF will always be located in headset in `OculusTV` found on your main Oculus menu navigation bar in your home dome under `Channels` and can be launched from there to enable and disable and install mods, as well as install or remove songs all without a PC, know that launching under Unknown sources directly may cause various issues.
-
-### [Song Bookmark system, The song cloud storage and recovery system](https://github.com/the-expanse/SideQuest/wiki/Song-Bookmark-system,-The-song-cloud-storage-and-recovery-system)
