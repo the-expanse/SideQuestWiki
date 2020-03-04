@@ -1,4 +1,8 @@
-Absolutely, all you need to do is make sure beat on is open in your headset, that your headset is not asleep, and that you are on the same Wi-Fi connection.
-if you have issues connecting with Beat On check [HERE](https://github.com/the-expanse/SideQuest/wiki/Your-PC-and-quest-should-be-on-the-same-network) if you have yet to install Beat On and/or do not know how or are having issues doing so, go [HERE](https://github.com/the-expanse/SideQuest/wiki/Beat-On,-What-is-that%3F)
+Absolutely, BMBF is required though as Beat On has been long since been discontinued, Head to the BMBF installation help page below to get started.
+https://github.com/the-expanse/SideQuest/wiki/BMBF
 
-if all is working as need be, your songs should appear in the [Queue System](https://github.com/the-expanse/SideQuest/wiki/The-Queue-System) and show immediatly in you "playlists" section inside Beat On in both Headset, and on the PC/Tablet you installed it with.
+So long as BMBF is properly installed SideQuest may be used to install mods from it's BMBF mod tab under the globe icon top right in SideQuest by clicking Beastsaber, You can do this either with a cable connection or using SideQuests Wireless mode, also you can directly add unzipped songs into the BMBF custom song folder via dragdrop files into your file explorer, the file path should be Quest>InternalStorage>BMBFdata>customsongs ,
+So long as SideQuest states it is connected the songs will install, you can also locate a mod you desire on SideQuest under the BMBF section and install it by clicking Install latest like any other program this way, (though some may be out dated or non functioning so be aware of the convenient `Reset assets` button within BMBFs tools tab)
+
+Be aware any mods obtained externally from SideQuest more then likely are PC only such as those from BeastSaber.com
+When ever manually adding mods or songs be sure to click "reload song folder" in BMBFs tools tab then you should see them appear.
