@@ -6,6 +6,7 @@
 
 **Detailed Installation Procedures**
 ---
+#### [How does remote Installation with SideQuest wwrk](https://github.com/the-expanse/SideQuest/wiki/Remote-Installation-of-applications)
 
 #### - [How do i Manual install APKs obtained outside of SideQuest](https://github.com/the-expanse/SideQuest/wiki/How-can-i-manually-install-apps)
 
