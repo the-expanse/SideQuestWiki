@@ -8,7 +8,7 @@
 ---
 #### - [How does remote Installation with SideQuest work](https://github.com/the-expanse/SideQuest/wiki/Remote-Installation-of-applications)
 
-#### - [How do i Manual install APKs obtained outside of SideQuest](https://github.com/the-expanse/SideQuest/wiki/How-can-i-manually-install-apps)
+#### - [How do i manually install APKs obtained outside of SideQuest](https://github.com/the-expanse/SideQuest/wiki/How-can-i-manually-install-apps)
 
 #### - [I have Windows 7, can i use SideQuest](https://github.com/the-expanse/SideQuest/wiki/Windows-7-Support)
 
