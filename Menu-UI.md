@@ -28,7 +28,7 @@ https://github.com/the-expanse/SideQuest/wiki/Streaming-With-SideQuest
 
 ### Wireless mode
 ----
-This mode icon only appears when connected via cable and will let you install games apps and manage your in headset recordings and folders all without a cable when enabled, it will need to be reconnected upon reboot of your Headset or PC but should persist if SideQuest it's self is closed and reopened and be able to be connected again without needing a cord again, With a SideQuest account you can remotely install to your device so long as it is connected to SideQuest at home, be that over WiFi mode while charging or via cable directly by going to SideQuestVR.com, logging into your account, locating an application and clicking install latest, this can be done on a phone even.
+This mode icon only appears when connected via cable and will let you install games apps and manage your in headset recordings and folders all without a cable when enabled, it will need to be reconnected upon reboot of your Headset or PC but should persist if SideQuest it's self is closed and reopened and be able to be connected again without needing a cord again.
 
 ### Install APK from File Folder
 ----
