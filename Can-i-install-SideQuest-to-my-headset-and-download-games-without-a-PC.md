@@ -1,4 +1,4 @@
-The short answer im afraid is no.
+### The short answer im afraid is no.
 
 The long answer is we do not and will not support or be working on such a system due to various safety concerns as well as the possible Terms Of Service breaches such a system would break. The Oculus Quest requires an external device such as a PC to install applications and games with SideQuest as SideQuest is not installed onto the Quest device its self, You will always need a PC to install programs with SideQuest, Phones are supported but it is not recommended, and they only support normal APKs, be wary of viruses if attempting such.
 
