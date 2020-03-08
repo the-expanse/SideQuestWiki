@@ -7,7 +7,7 @@
 
 ## Installed custom songs before?
 
-If you have and are updating or installing because your version of BMBF never or no longer functions properly make sure to reinstall BeatSaber fresh and uninstall BMBFs old version before you go any further if you have installed custom songs before as if you do not uninstall and then reinstall correctly many issues may arise upon updating or re-installation of BMBF.
+If you have and are updating or installing because your version of BMBF never or no longer functions properly make sure to manually uninstall Beatsaber in SideQuest then reinstall BeatSaber fresh as well as uninstall BMBFs old version before you go any further, if you have installed custom songs before as if you do not uninstall and then reinstall correctly many issues may arise upon updating or re-installation of BMBF.
 
 ## - [If updating or reinstalling BMBF due to any issues](https://github.com/the-expanse/SideQuest/wiki/If-updating-or-reinstalling-BMBF-due-to-issues)
 ----
