@@ -69,7 +69,7 @@ it is possible if you use LINK that your headset is upon being plugged into your
 (lower right of Windows PC) and that your system has SideQuest open and is connecting to SideQuest properly.
 
 ----
-# 5 Conflicting Software
+# 5 Conflicting Software or VPNs
 ----
 
 ![](https://cdn.discordapp.com/attachments/608376262347587595/609881862956908564/Screenshot_1164.png)
