@@ -23,7 +23,7 @@
 
 #### - [Streaming Information, Issues and Solutions](https://github.com/the-expanse/SideQuest/wiki/Streaming-With-SideQuest)
 
-#### - [SideQuest Connection solutions](https://github.com/the-expanse/SideQuest/wiki/I-am-having-issues-Connecting-,-what-do-i-do%3F)
+#### - [SideQuest Connection solution section, if having issues connection downloading or using the website](https://github.com/the-expanse/SideQuest/wiki/I-am-having-issues-Connecting-,-what-do-i-do%3F)
 
 #### - [Quest update causing connection issues](https://github.com/the-expanse/SideQuest/wiki/Updated-my-Quest-recently-and-now-it-won%27t-connect-to-SideQuest)
 
