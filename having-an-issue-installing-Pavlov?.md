@@ -1,4 +1,4 @@
-## Pavlov is NOT supported by SideQuest as it will be officially purchasable Via the Oculus app store in the future.
+## Pavlov is not fully supported by SideQuest, it will also be officially purchasable Via the Oculus app store in the future.
 
 #### PavLov Discord link and about installation
 
