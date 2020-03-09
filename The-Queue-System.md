@@ -7,7 +7,8 @@
 USB-3 is not truly supported and in many cases can cause connection issues, if the system is putting out an error when installing an application attempt use of a few different USB ports on your computer to be sure that it isn't the USB port type causing the problem, if everything continues you can try a new cable in that should help, beyond that the connection issue Wiki at the top of this page should help.
 
 ## About The Queue System
-Our Queue system is a how we are able to let users install many things at once without seeing a long loading screen and having your screen freeze up as an app or game installations making you unable to do anything else but stare at it and wait and sometimes it gives an error. 
+Our Queue system is a how we are able to let users install multiple things at once without seeing a long loading screen and having your screen freeze up as an app or game installations making you unable to do anything else but stare at it and wait and sometimes it gives an error.
+Note that some applications have more then one file and the first one can fail while the second succeeds if you plug your device in mid way though or after the installation, in cases like this it is best to uninstall the application and restart the download
 
 #### All about app and game uninstallation 
 
