@@ -6,7 +6,6 @@ To use this feature you must first create a SideQuest account at [sidequestvr.co
 * Sign into the SideQuest website in the browser in your headset ( or phone )
 * (Optional) enable wifi mode between SideQuest and your quest
 
-Now everything you install inside the headset will be sent to the SideQuest desktop app to be installed
-
+After meeting those requirements everything you click `install latest` on from SideQuestvr.com will start installlation directly to your headset by sending the command to do so through your account right to your logged in account on your SideQuest desktop app.
 
 ##### To be clear, users who want to use this feature still need to have their headset connected to a computer somehow as always. SideQuest still must state it is connected to a headset, the only difference is a valid SideQuest user account must be created and logged into on the PC launcher the headset is connected with. Otherwise, the headset is connected to SideQuest as usual but after that is done you can initiate a game's installation any other device at any distance on our website by logging into your SideQuest account and using our website like it was the launcher page.
