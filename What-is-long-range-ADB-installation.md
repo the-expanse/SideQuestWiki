@@ -1,0 +1,3 @@
+###### If you want to install and manage games and application on your Quest while away from your Quest several things are required, a PC with SideQuest installed, and a connected headset, your PC can not be in sleep mode else the connection will break and the headset must be powered on, you will also need a SideQuestvr.com account.
+
+For long range installation while away from headset make sure your Quest was left connected to SideQuest and the PC launcher is logged into your SideQuest account, after doing so you can initiate installation of games and application and uninstall them on SideQuestvr.com through your Dashboard from any device such as a phone or another PC or a tablet connected to the internet elsewhere
