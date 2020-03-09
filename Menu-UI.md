@@ -28,7 +28,7 @@ https://github.com/the-expanse/SideQuest/wiki/Streaming-With-SideQuest
 
 ### Wireless mode
 ----
-This mode icon only appears when connected via cable and will let you install games apps and manage your in headset recordings and folders all without a cable when enabled, it will need to be reconnected upon reboot of your Headset or PC but should persist if SideQuest it's self is closed and reopened and be able to be connected again without needing a cord again.
+This mode is not capable of one time plug in never touch your PC again, it allows your headset when in close enough proximity to your PC to install and manage games and applications, the Wireless connection icon will only appear when it detects a headset over a cable first so you must be connected via cable, after that you can enable it and this mode will let you install games and apps as well as manage files such as in headset recordings and folders all without the need to re-plug again a cable when enabled, it will need to be reconnected upon reboot of your Headset or PC but should persist if SideQuest it's self is closed and reopened and be able to be connected again without needing a cord again.
 
 ### Install APK from File Folder
 ----
