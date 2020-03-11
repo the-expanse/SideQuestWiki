@@ -1,8 +1,12 @@
 ## Having issues? 
 If not seeing green dot and the phrase (Connected) followed by a string of numbers (The numbers are your Quests IP address) in the top left inside SideQuest and instead finding it to be purple or yellow, If purple it means another device is connected, try disconnecting your headset if you are in Wireless mode and it should resolve else try all the solutions below.
 
+
 #### Supported Devices
-The Oculus Quest is the only supported device by SideQuest, you will need a PC to install applications and games with SideQuest as it is not installed onto the Quest device it's self, The Oculus GO is no longer properly supported, and we can do little to help with any issues installing apps to a GO, unsupported devices are as follows, Tablets, Nintendo Labo, GearVR, Index and Google cardboard are all unsupported, Note you will need a PC to install programs with SideQuest, Phones are supported but it is not recommended for about how to do that click [here](https://github.com/the-expanse/SideQuest/wiki/Installing-with-a-Mobile-Phone), they only support normal APKs, always be wary of viruses if attempting to install anything from outside SideQuest as we can likely not assist if something goes wrong with an application or game not on our system.
+
+The Oculus Quest is the only fully supported device by SideQuest currently and you require a Computer to install applications and games with SideQuest as it is not installed onto the Quest device its self, The Oculus GO is not entierly properly supported and we can do little to help if you have any issues installing apps to a Oculus GO but there are a few inbult systems to accomidate it.
+
+Non-supported devices are as follows, Tablets, Nintendo Labo, GearVR, Index and Google cardboard are all unsupported as well as any PCVR only headset unaffiliated with android, The system can not install an APK (Android Application Package) to a Computer. Note once again a PC to install programs with SideQuest, Phones are capable of installing APKs to a headset but it is not recommended, for about how to do that click [here](https://github.com/the-expanse/SideQuest/wiki/Installing-with-a-Mobile-Phone), they only support normal APKs. Always be wary of viruses if attempting to install anything from outside SideQuest as we can likely not assist if something goes wrong with an application or game not on our system.
 
 #### First things to try
 
