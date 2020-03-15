@@ -37,7 +37,7 @@
 **Common issues and solutions**
 ---
 
-#### - [Why Can't I Update My Official Oculus Apps](https://github.com/the-expanse/SideQuest/wiki/Why-can't-i-update-my-Official-Oculus-Apps)
+#### - [Why Can't I Update My Official Quest Apps Like Beastsaber Now](https://github.com/the-expanse/SideQuest/wiki/Why-can't-i-update-my-Official-Oculus-Apps)
 
 #### - [Official Oculus apps won't uninstall or update](https://github.com/the-expanse/SideQuest/wiki/.My-apps-won't-uninstall-what's-wrong%3F)
 
