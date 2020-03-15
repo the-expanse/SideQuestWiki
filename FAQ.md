@@ -2,11 +2,14 @@
 
 ### [How To Submit Games/Apps/Mods to Sidequest](https://github.com/the-expanse/SideQuest/wiki/How-To-Submit-Games)
 
+
+
 **About SideQuest And Its Installation Procedures**
+-----
 
-#### [How to Mass Update Installed Apps and Games With SideQuest](https://github.com/the-expanse/SideQuest/wiki/How-to-Auto-Update-app's-and-mods)
+#### - [How to Mass Update Installed Apps and Games With SideQuest](https://github.com/the-expanse/SideQuest/wiki/How-to-Auto-Update-app's-and-mods)
 
-#### [Can i install SideQuest to my headset and download games without a PC](https://github.com/the-expanse/SideQuest/wiki/Can-i-install-SideQuest-to-my-headset-and-download-games-without-a-PC)
+#### - [Can i install SideQuest to my headset and download games without a PC](https://github.com/the-expanse/SideQuest/wiki/Can-i-install-SideQuest-to-my-headset-and-download-games-without-a-PC)
 
 #### - [How does remote Installation with SideQuest work](https://github.com/the-expanse/SideQuest/wiki/Remote-Installation-of-applications)
 
