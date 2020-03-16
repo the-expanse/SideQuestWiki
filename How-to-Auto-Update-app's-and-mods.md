@@ -23,9 +23,9 @@ There are two ways to update from your `DASHBOARD`, Either to Queue and install 
 ![](https://cdn.discordapp.com/attachments/615234075778875453/689243051201527878/12.png)
 
 
-### Also note that if you have created an account, but had already installed other applications before making or logging into your account in SideQuest, Most applications may not appear in your `DASHBOARD` the way to correct this is either go to each application one by one and click subscribe or install latest, or to back up your games player data and then uninstall them under SideQuest's `Current Apps` tab, before you reinstall them.
+### Also note that if you have created an account, but had already installed other applications before making or logging into your account in SideQuest, Most applications may not appear in your `DASHBOARD` the way to correct this is either go to each application one by one and click subscribe or install latest, or to back up your games player data and then uninstall them under SideQuest's `My Apps` tab shown below, before you reinstall them.
 
-![](https://cdn.discordapp.com/attachments/541467913857662995/656294631482589209/Screenshot_1061.png)
+![](https://cdn.discordapp.com/attachments/615234075778875453/689244058651983977/Screenshot_1400_-_Copy.png)
 
 Then reinstall them as normal, They only need to be Un- then reinstalled once, they will then get shown in your `DASHBOARD` and have an icon when the application has been updated as it will be able to detect and check each application for updates from their developers on the fly, you can look to see weather or not you have an app that needs to be updated in your `DASHBOARD` from any device you are logged into [SideQuestVR.com](https://sidequestvr.com/#/account) from, but you can only install them when directly connected to SideQuest on your PC.
 
