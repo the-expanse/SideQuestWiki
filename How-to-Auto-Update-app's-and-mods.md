@@ -15,11 +15,12 @@ making a SideQuest account lets the system properly keep track of your installat
 
 To create a SideQuest account just go to sign up page located [HERE](https://sidequestvr.com/#/sign-up) and make an account with us, After signing in to your account within SideQuest and as long as your headset is connected Via a proper cable or over Wi-fi, you can to SideQuest to install applications and games from anywhere in the world, so long as you are logged into your account on both devices and your headset is registered by SideQuest on your PC, The `DASHBOARD` button can also then be clicked to go to the `App Subscriptions` tab, There your installed applications will appear `Subscribed` and you can see and manage them at any time from here, If there is an update there will be an icon stating such and to install the update you can either click `Update All` to update every one of your applications that has an available update at once your applications at once, or manually hit an apps `UPDATE` icon top left of it's picture, either way the applications Update will install.
 
-![](https://cdn.discordapp.com/attachments/541467913857662995/656290807552278537/Dashboard_3.png)
+![](https://cdn.discordapp.com/attachments/615234075778875453/689242455761092642/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3534313436373931333835.png)
 
 There are two ways to update from your `DASHBOARD`, Either to Queue and install all available updates for all applications with one button, or to decide app by app what you want updated, it is up to you
 
-![](https://cdn.discordapp.com/attachments/541467913857662995/656290810433765388/dashboard_4.png)
+
+![](https://cdn.discordapp.com/attachments/615234075778875453/689243051201527878/12.png)
 
 
 ### Also note that if you have created an account, but had already installed other applications before making or logging into your account in SideQuest, Most applications may not appear in your `DASHBOARD` the way to correct this is either go to each application one by one and click subscribe or install latest, or to back up your games player data and then uninstall them under SideQuest's `Current Apps` tab, before you reinstall them.
