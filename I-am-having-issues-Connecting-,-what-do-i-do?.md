@@ -1,4 +1,4 @@
-## Having issues? 
+## Having issues?
 If not seeing green dot and the phrase (Connected) followed by a string of numbers (The numbers are your Quests IP address) in the top left inside SideQuest and instead finding it to be purple or yellow, If purple it means another device is connected, try disconnecting your headset if you are in Wireless mode and it should resolve else try all the solutions below.
 
 
@@ -94,26 +94,17 @@ Antivirus applications such as AVG, Avast, BitDefender or similar programs can c
 Note for Mac users you may need to allow SideQuest in your Privacy new settings.
 
 ----
-# 7 Android Emulators
+# 7 Android Emulators and routers
 ----
 
-The use of Android Emulators cause issues if it is being detected first, so make sure it is turned off completely and not running in task manager, as well as have it not set to “start on boot” in your Computer settings, or just uninstall it to remove the issue.
-
-----
-# 8 Your Router
-----
-
-Always connect your headset directly to the same router as your PC or phone to minimize issues try to avoid things like hotspots, router extenders, mesh networks and other smart connection systems and specialized settings.
-
+The use of Android Emulators can sometimes cause issues if it is being detected and over riding the Quest some where so if you have issues try to turn off completely and not running in task manager, if issues persist you can try uninstalling it to see if the issue resolves. For routers always connect your headset directly to the same router as your PC or phone to minimize issues try to avoid things like hotspots, router extenders, mesh networks and other smart connection systems and specialized settings.
+a Wi-Fi Extender of any kind can lead to a cascade of problems so if you do have any be sure to disable your VPN services of when using SideQuest to see if it helps, if it does it may be best to refrain from using it again with SideQuest they are all known to cause issues for SideQuest. With some VPN's such as NordVPN, users may get away with a simple to change a setting that masks your PC even when the VPN service is not actively running as some VPN services still control and mask your system in the background even when not actively open and running, Just locate the setting that disabled your VPN's ability to be masked/ Invisible to local LAN or through Wi-Fi.
 ###### For programs such as BMBF (Beat Ons standalone replacement) you can install and manage songs in headset to avoid issues with that application specifically.
-
-a Wi-Fi Extender of any kind can lead to problems as well and be sure to disable ANY VPN services of any kind when using SideQuest, best to refrain from them as they are all known to cause issues for SideQuest.
-
-For some VPN's such as NordVPN users, you may get away with a simple to change a setting that masks your PC even when the VPN service is not actively running as some VPN services still control and mask your system in the background even when not actively open and running, Just locate the setting that disabled your VPN's ability to be masked/ Invisible to local LAN or through Wi-Fi.
 
 ----
 # 9 Power cycling your devices 
 ----
+
 Next thing to try is unplugging your headset and turning your PC off completely to make sure all processes of ADB as well as any conflicting processes cease, make sure you do not `Reboot`, Turn the computer completely off and wait a few seconds, Also Hard reboot your headset by holding the power button for at least 15 seconds before restating it to be sure both systems are prepped, then turn your PC back on before re-opening SideQuest and trying once more to try connecting again.
 
 
