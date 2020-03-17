@@ -102,13 +102,13 @@ a Wi-Fi Extender of any kind can lead to a cascade of problems so if you do have
 ###### For programs such as BMBF (Beat Ons standalone replacement) you can install and manage songs in headset to avoid issues with that application specifically.
 
 ----
-# 9 Power cycling your devices 
+# 8 Power cycling your devices 
 ----
 
 Next thing to try is unplugging your headset and turning your PC off completely to make sure all processes of ADB as well as any conflicting processes cease, make sure you do not `Reboot`, Turn the computer completely off and wait a few seconds, Also Hard reboot your headset by holding the power button for at least 15 seconds before restating it to be sure both systems are prepped, then turn your PC back on before re-opening SideQuest and trying once more to try connecting again.
 
 
-# 10 Resetting your ADB connection 
+# 9 Resetting your ADB connection 
 
 To reset your connection just click the `Run ADB Commands` button top of SideQuest as seen here
 
@@ -119,26 +119,26 @@ Then click `Disconnect everything` hit `Run Command`,
 Go back again and hit `reset ADB`, then hit `Enable USB ADB` and you should connect.
 
 ----
-# 11 For Wireless Connection 
+# 10 For Wireless Connection 
 ----
 
 Make sure to connect your headset once before you hit the connect button in the wireless connection popup.
 When properly connected SideQuest should show a purple connection dot and then state two devices are connected, that is when you can disconnect your headset, Note that Every time you reboot SideQuest you will need to reconnect this way with a cable for initial connection.  Make sure your headset is on and connected to the same Wi-Fi network but otherwise you should now be capable of cordless installation, you can also while connected this way if away from home and logged into a SideQuest account install games from a phone or alternate PC from the SideQuestVR.com website.
 
 ----
-# 12 Properly clean install from scratch
+# 11 Properly clean install from scratch
 ----
 SideQuest uses some folders that are a bit hard to find or remove some times so to make sure everything is in order Install the [SideQuest Force Uninstaller](https://github.com/the-expanse/SideQuest/wiki/Force-Uninstaller-for-SideQuest) from that blue link text and install then run the program there, then reinstall the latest SideQuest again, this will remove any residual files, folders and settings that may be causing issues.
 
 ----
-# 13 Driver Re-installation
+# 12 Driver Re-installation
 ----
 
 If so far nothing else has worked the next thing to attempt would be a Driver re-installation, see how to do so at
 [SideQuests Driver Re-installation tutorial](https://www.reddit.com/r/sidequest/comments/dsebyq/cant_connect_to_sidequest_tried_everything_ive/)
 
 ----
-# 14 Force connect With CMD
+# 13 Force connect With CMD
 ----
 
 ### For both Mac and Windows
@@ -173,7 +173,7 @@ If you see
 Then open up task manager and kill the adb.exe process by clicking it, then hitting end task for windows, else try the commands - taskkill /f /im adb.exe
 
 ----
-## 15 Reinstallation of Platform tools manually
+## 14 Reinstallation of Platform tools manually
 ----
 
 Failing the above all the above (Windows only) Try reinstalling the ADB Platform Tools folder manually
