@@ -196,7 +196,7 @@ Then at the top of the page click `Open Main App` folder, remember the folder lo
 ----
 
 ###### We are not responsible for the BMBF application but here are a couple of things to try
-1. Try to re launch BMBF while SideQuest is NOT open or running, failing that close BMBF and Open SideQuest, then top right click the (RUN ADB commands) button and then in order click `Disconnect everything` then `Reset ADB`before closing SideQuest and re attempting.
 
+### [Beatsaber Help Page](https://github.com/the-expanse/SideQuest/wiki/BMBF)
 
 `If you still have issues you can ask around the official discord, if you already have done so you may check again as someone may have another idea to assist but do be aware that even if you are frustrated they are trying their best to assist out of the kindness of their hearts and with their free time so please do be kind, Thank you`
