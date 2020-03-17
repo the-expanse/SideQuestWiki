@@ -63,9 +63,10 @@ Open your Oculus Application on the device you set your Quest up with and head t
 # 4 Power cycling your devices 
 ----
 
-Next thing to try is unplugging your headset and turning your PC off completely to make sure all processes of ADB as well as any conflicting processes cease, make sure you do not `Reboot`, Turn the computer completely off and wait a few seconds, Also Hard reboot your headset by holding the power button for at least 15 seconds before restating it to be sure both systems are prepped, then turn your PC back on before re-opening SideQuest and trying once more to try connecting again.
+Sometimes the best thing to try is a proper device power cycle of all devices involved. To do this start by unplugging your headset and turning your PC off completely to make sure all processes including ADB.exe, as well as any other possibly  conflicting software have entirely shut down, make sure you do not `Reboot` and have turned the computer completely off then wait a few seconds. After rebooting the PC proceed to hard reboot your headset by holding the power button for at least 7 seconds and wait over 5 seconds before re-powering it to be sure both systems are clean started, then re-open SideQuest on your PC and once more to try connect again to see if the issue has resolved.
+
 ----
-# 5 Possible issues caused by Oculus LINK
+# If you use or have Oculus LINK
 -----
 
 Link sometimes overrides ADB connections if open and in use whether running in the background quietly or not so
