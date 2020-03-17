@@ -65,7 +65,7 @@ Open your Oculus Application on the device you set your Quest up with and head t
 ###### Doing so in the phone app tends to solve many issues, also some times there is a glitch causing something to go awry, such as sometimes making the headset connect to SideQuest only when Developer mode is off and disconnect when it is on, the issue generally occurs on initial set up, after trying the installation steps more than once, or Re-Installing/Updating SideQuest.
 
 ----
-# 4 Issues caused by Oculus LINK
+# 4 Possible issues caused by Oculus LINK
 -----
 
 Link sometimes overrides ADB connections if open and in use whether running in the background quietly or not so
@@ -73,14 +73,12 @@ it is possible if you use LINK that your headset is upon being plugged into your
 (lower right of Windows PC) and that your system has SideQuest open and is connecting to SideQuest properly.
 
 ----
-# 5 Conflicting Software or VPNs
+# 5 Possible conflicting Software or VPNs
 ----
 
 ![](https://cdn.discordapp.com/attachments/608376262347587595/609881862956908564/Screenshot_1164.png)
 
-If you're using Bluestacks, NOX or any android emulators be sure to close them and that thy are not running in the background by checking your task manager, a Wi-Fi Extender of any kind can lead to problems as well and be sure to disable ANY VPN services of any kind when using SideQuest, best to refrain from them as they are all known to cause issues for SideQuest.
-
-For some VPN's such as NordVPN users, you may get away with a simple to change a setting that masks your PC even when the VPN service is not actively running as some VPN services still control and mask your system in the background even when not actively open and running, Just locate the setting that disabled your VPN's ability to be masked/ Invisible to local LAN or through Wi-Fi.
+If you're using Bluestacks, NOX or an android emulator and are having connection issues you can try to close them and checking that one is not running in the background by checking your task manager.
 
 ----
 #### [How to properly uninstall BlueStacks](https://github.com/the-expanse/SideQuest/wiki/BlueStacks-is-causing-issues,-how-do-i-remove-it)
@@ -105,8 +103,13 @@ The use of Android Emulators cause issues if it is being detected first, so make
 # 8 Your Router
 ----
 
-Always connect directly to the same router as your PC or phone to minimize issues, avoid things like hotspots, router extenders, mesh networks, smart, connection systems and other specialized settings,
-For programs such as BMBF (Beat Ons standalone replacement) you can install and manage songs in headset to avoid issues with that application specifically.
+Always connect your headset directly to the same router as your PC or phone to minimize issues try to avoid things like hotspots, router extenders, mesh networks and other smart connection systems and specialized settings.
+
+###### For programs such as BMBF (Beat Ons standalone replacement) you can install and manage songs in headset to avoid issues with that application specifically.
+
+a Wi-Fi Extender of any kind can lead to problems as well and be sure to disable ANY VPN services of any kind when using SideQuest, best to refrain from them as they are all known to cause issues for SideQuest.
+
+For some VPN's such as NordVPN users, you may get away with a simple to change a setting that masks your PC even when the VPN service is not actively running as some VPN services still control and mask your system in the background even when not actively open and running, Just locate the setting that disabled your VPN's ability to be masked/ Invisible to local LAN or through Wi-Fi.
 
 ----
 # 9 Power cycling your devices 
