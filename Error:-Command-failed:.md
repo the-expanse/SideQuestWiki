@@ -1,0 +1,3 @@
+This could be a few things, the first and easiest thing to attempt is to restart SideQuest then after doing so to disable then re enable developer mode in the Oculus mobile application on a cellphone or tablet, if after replugging the headset you still have the issue check our connections issue page located 
+
+[here](https://github.com/the-expanse/SideQuest/wiki/I-am-having-issues-Connecting-,-what-do-i-do%3F#having-issues)
