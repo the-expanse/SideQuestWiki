@@ -1,7 +1,7 @@
 ## [Supported Devices](https://github.com/the-expanse/SideQuest/wiki/Supported-Devices)
 
 ## Having issues?
-If not seeing green dot and the phrase (Connected) followed by a string of numbers (The numbers are your Quests IP address) in the top left inside SideQuest and instead finding it to be purple or yellow, If purple it means another device is connected, try disconnecting your headset if you are in Wireless mode and it should resolve else try all the solutions below.
+If not seeing green dot and the phrase (Connected) top left inside SideQuest and instead finding it to be a yellow dot, or have multiple devices connected but are unable to connect your Quest properly to install for some reason try to enable wireless mode before disconnecting your headset prior to installation, if you are in Wireless mode and it should resolve most issues else try the solutions below.
 
 #### First things to try
 
