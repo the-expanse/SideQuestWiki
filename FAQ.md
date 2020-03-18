@@ -46,6 +46,7 @@
 
 **Errors and Fixes or information**
 ---
+#### - [SideQuest Error: Command failed](https://github.com/the-expanse/SideQuest/wiki/Error:-Command-failed:)
 
 #### - [SideQuest Error: Custom protocol not recognized](https://github.com/the-expanse/SideQuest/wiki/Custom-protocol-not-recognized)
 
