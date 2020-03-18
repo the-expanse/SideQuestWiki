@@ -42,6 +42,7 @@ When installed properly you can close SideQuest and put on your headset, then he
 
 Run BMBF and read the installation pages, be sure to read before clicking any prompts so you do not mess up installation else you may have to uninstall BMBF and Beatsaber to start from the beginning
 
+If you have any issues or want to know how to do something with BMBF try checking the links below for likely solutions and help.
 ----
 
 ## - [If a song is permanently loading](https://github.com/the-expanse/SideQuest/wiki/A-custom-BMBF-song-is-permanently-loading)
