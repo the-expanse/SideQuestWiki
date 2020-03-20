@@ -44,7 +44,7 @@
 #### - [ Where can i find externally downloaded APKs in my headset](https://github.com/the-expanse/SideQuest/wiki/How-to-use-2D-APKs-such-as-phone-Apps-from-outside-of-Sidequest)
 ---
 
-**Errors and Fixes or information**
+**Errors, Fixes and information**
 ---
 
 #### - [SideQuest Error: INSTALL FAILED UPDATE INCOMPATIBLE](https://github.com/the-expanse/SideQuest/wiki/INSTALL_FAILED_UPDATE_INCOMPATIBLE)
