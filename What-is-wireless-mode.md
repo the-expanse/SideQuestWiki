@@ -1,4 +1,4 @@
-## Note that Wireless mode is first and foremost not a way to never use a PC again.
+## Note that Wireless mode is first and foremost a way to install while playing or when physically away from the headset and a PC is still required.
 
 #### SideQuest will always need at least one viable cable to initialize a connection of any kind due to how ADB works.
 
