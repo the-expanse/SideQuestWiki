@@ -3,6 +3,8 @@
 ### [How To Submit Games/Apps/Mods to Sidequest](https://github.com/the-expanse/SideQuest/wiki/How-To-Submit-Games)
 
 
+### - [SideQuest Connection Solution Page (if having issues connection downloading or using the website)](https://github.com/the-expanse/SideQuest/wiki/I-am-having-issues-Connecting-,-what-do-i-do%3F)
+
 
 **About SideQuest And Its Installation Procedures**
 -----
@@ -26,8 +28,6 @@
 
 **PC SideQuest Issues**
 ---
-
-### - [SideQuest Connection solution section, if having issues connection downloading or using the website](https://github.com/the-expanse/SideQuest/wiki/I-am-having-issues-Connecting-,-what-do-i-do%3F)
 
 #### - [Streaming Information, Issues and Solutions](https://github.com/the-expanse/SideQuest/wiki/Streaming-With-SideQuest)
 
