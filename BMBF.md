@@ -9,6 +9,10 @@
 
 If you have and are updating or installing because your version of BMBF never or no longer functions properly make sure to manually uninstall Beatsaber in SideQuest then reinstall BeatSaber fresh as well as uninstall BMBFs old version before you go any further, if you have installed custom songs before as if you do not uninstall and then reinstall correctly many issues may arise upon updating or re-installation of BMBF.
 
+## Songs are installing but saber skins are not?
+
+There may have been a recent update, if you can install and sync songs but not Mods to change your Sabers skin aesthetics and have just installed a new version of BMBF and beatsaber it may take a while for Mods to be updated to work with the new version, if that is the case stick to songs for a while and check back later.
+
 ## - [If Updating, or reinstalling BMBF due to any issues](https://github.com/the-expanse/SideQuest/wiki/If-updating-or-reinstalling-BMBF-due-to-issues)
 ----
 ## - [Before Proceeding, Backup creation of Game data and Scores](https://github.com/the-expanse/SideQuest/wiki/Before-installing-or-updating-BMBF,-Backup-creation-of-Game-data-and-Scores)
