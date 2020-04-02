@@ -5,6 +5,6 @@ Generally this error occurs only if there is a previous, old or corrupted versio
 Then locate the related application causing the error and uninstall it by clicking the ![](https://cdn.discordapp.com/attachments/615234075778875453/695197318315638894/Screenshot_1465.png)
 gear icon right of the application in the page, after installation restart your headset and attempt re-installation the application again.
 
-Some applications such as Pavlov and Crisis VRgade are quite large and take a while so some times they may not properly install the first time, If after re-installation of a larger game you have issues try to fully power off the headset and re power it before launching the application, Else try to install the application with either a different cable and USB port (preferably not 3.0) or using Wireless mode over your Wi-Fi Router for a possibly more consistent connection once again.
+Some applications such as Pavlov and Crisis VRgade are quite large and take a while so some times they may not properly install the first time, If after re-installation of a larger game you have issues try to fully power off the headset and re power it before launching the application, Else you can try to install the application with either a different cable and USB port (preferably not 3.0) or using Wireless mode over your Wi-Fi Router for a possibly more consistent connection once again.
 
 if all else fails try visiting our Discord at https://discord.me/sidequestvr to ask for direct assistance in the support chat section, someone may be able to assist you there.
