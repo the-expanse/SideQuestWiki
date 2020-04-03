@@ -1,6 +1,7 @@
 ### To make sure you are on the most recent of both BMBF and Beastaber
 
-Make sure you have properly uninstalled any non functioning or old BeatSaber and BMBF using SideQuests "My currently installed Apps" tab (Top right) before proceeding if updating to a new version or previously installed and faulty.
+Make sure you have properly uninstalled any non functioning or old BeatSaber and BMBF using SideQuests "My currently installed Apps" tab (Top right) ![](https://cdn.discordapp.com/attachments/615234075778875453/695196680361869342/Screenshot_1464.png) 
+ before proceeding if updating to a new version or previously installed and faulty.
 For more information see [this section](https://github.com/the-expanse/SideQuest/wiki/BMBF#--if-your-updating-have-used-bmbf-before-or-have-a-faulty-installation) of the page
 
 ----
