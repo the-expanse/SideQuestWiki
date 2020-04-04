@@ -14,13 +14,13 @@ Information you need to know for directly after you install BMBF
 
 #### Songs are safe even if the program is uninstalled but how packs are organized are usually lost, after re-installation you can open BMBF in headset, go to TOOLS and click it's `Reload song folder` button to recover the songs themselves though
 
-Step 1. Connect your headset to your PC and go to the `![](https://cdn.discordapp.com/attachments/615234075778875453/695196680361869342/Screenshot_1464.png)` manager tab located at the top right of SideQuest on the management bar.
+Step 1. Connect your headset to your PC and go to the ![](https://cdn.discordapp.com/attachments/615234075778875453/695196680361869342/Screenshot_1464.png) manager tab located at the top right of SideQuest on the management bar.
 
 Step 2. Locate BMBF and Beatsaber using the search function.
 
 Step 3. Click the ![](https://cdn.discordapp.com/attachments/615234075778875453/695197318315638894/Screenshot_1465.png) to the right of both the applications
 
-Step 4. In both, click uninstall on each of them if you can not find BMBF search for the word `love` in the `https://cdn.discordapp.com/attachments/615234075778875453/695196680361869342/Screenshot_1464.png` tab, it should pop up as `weloveoculus.apk` (or something similar,if you have the BMBF wrapper also uninstall that as it is no longer needed).
+Step 4. In both, click uninstall on each of them if you can not find BMBF search for the word `love` in the ![](https://cdn.discordapp.com/attachments/615234075778875453/695196680361869342/Screenshot_1464.png) tab, it should pop up as `weloveoculus.apk` (or something similar,if you have the BMBF wrapper also uninstall that as it is no longer needed).
 
 Step 5, After uninstallation turn your headset entirely off for at least 10 seconds then back on
 
