@@ -1,15 +1,10 @@
 ### To make sure you are on the most recent of both BMBF and Beastaber
 
-Make sure you have properly uninstalled any non functioning or old BeatSaber as well as BMBF using SideQuests "My currently installed Apps" tab (Top right) ![](https://cdn.discordapp.com/attachments/615234075778875453/695196680361869342/Screenshot_1464.png) 
- before proceeding at all
-.
-For more information see [this section](https://github.com/the-expanse/SideQuest/wiki/BMBF#--if-your-updating-have-used-bmbf-before-or-have-a-faulty-installation) of the page
+1 Uninstall BeatSaber as well as BMBF using SideQuests "My currently installed Apps" tab (Top right) ![](https://cdn.discordapp.com/attachments/615234075778875453/695196680361869342/Screenshot_1464.png) 
 
-----
 
-### BMBF installation Video Link (TycoTech)
+After that for how to properly reinstall afterinformation see [this section](https://github.com/the-expanse/SideQuest/wiki/BMBF#bmbf-installation-how-to) of the page
 
-[![](https://cdn.discordapp.com/attachments/541467913857662995/655955885465665537/Screenshot_1054.png)](https://www.youtube.com/watch?v=JGCf01gX4nU&list=PLt5tbz7PdomDAfUA3TDbPKG5zOgiiL1pw&index=1)
 # - (IMPORTANT)
 
 Information you need to know for directly after you install BMBF
