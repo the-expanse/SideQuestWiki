@@ -3,7 +3,7 @@
 1 Uninstall BeatSaber as well as BMBF using SideQuests "My currently installed Apps" tab (Top right) ![](https://cdn.discordapp.com/attachments/615234075778875453/695196680361869342/Screenshot_1464.png) 
 
 
-After that for how to properly reinstall afterinformation see [this section](https://github.com/the-expanse/SideQuest/wiki/BMBF#bmbf-installation-how-to) of the page
+After that for how to properly reinstall after un-installation information see [this section](https://github.com/the-expanse/SideQuest/wiki/BMBF#bmbf-installation-how-to) of the page
 
 # - (IMPORTANT)
 
