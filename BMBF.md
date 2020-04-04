@@ -25,10 +25,10 @@ Have the latest SideQuest installed from
 https://sidequestvr.com/#/download and have a purchased copy of Beatsaber installed and have run at least one song once in your headset before proceeding, and when installing songs or mods from SideQuest while connected make sure BMBF is open in headset and running.
 
 #### Step 1
-Install The `com.weloveoculus.BMBF.apk` from the link below onto your PC
+Install the latest `com.weloveoculus.BMBF.apk` from the link below onto your PC
 
 ### BMBF APKs
-https://github.com/kihecido/BMBF/releases
+https://bmbf.dev/stable
 
 #### Step 2
 
