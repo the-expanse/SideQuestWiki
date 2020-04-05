@@ -15,7 +15,7 @@ There may have been a recent update, if you can install and sync songs but not M
 
 ## - [If Updating, or reinstalling BMBF due to any issues](https://github.com/the-expanse/SideQuest/wiki/If-updating-or-reinstalling-BMBF-due-to-issues)
 ----
-## - [Before Proceeding, Backup creation of Game data and Scores](https://github.com/the-expanse/SideQuest/wiki/Before-installing-or-updating-BMBF,-Backup-creation-of-Game-data-and-Scores)
+## - [Before Proceeding, How to backup and recover Scores/Save data through an update](https://github.com/the-expanse/SideQuest/wiki/Before-installing-or-updating-BMBF,-Backup-creation-of-Game-data-and-Scores)
 ----
 
 # BMBF Installation How-To
