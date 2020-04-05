@@ -1,5 +1,5 @@
 ----
-### BMBF is the newest functioning custom song and mod installer for BeatSaber for the Oculus Quest
+### BMBF is the most wide spread custom song and mod installer for BeatSaber for the Oculus Quest
 
 ----
 
