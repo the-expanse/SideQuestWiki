@@ -1,6 +1,6 @@
 ### SideQuest is for PC only, not Mobile phones or Headsets
 
-### For any odd connection issues check [HERE](https://github.com/the-expanse/SideQuest/wiki/I-am-having-issues-Connecting-,-what-do-i-do%3F)
+### For any connection or installation issues you can check our [Connection Issues and Solutions](https://github.com/the-expanse/SideQuest/wiki/I-am-having-issues-Connecting-,-what-do-i-do%3F) page for known issues and solutions.
 
 `SideQuest is a side-loading application and requires an external device (A PC) in order to side-load from, so be aware installing SideQuest to your actual Quest device to download apps and games directly within a headset without a PC again is not possible, the SideQuest application within SideQuests own App Store is only a launcher for apps installed from SideQuest on your PC, SideQuest Legends will also not be capable of doing so due to code infringement concerns and security issues.`
 
@@ -22,8 +22,6 @@ Make sure before anything to `use a phone USB cable that can transfer data` inst
 
 [![Video Tutorial](https://cdn.discordapp.com/attachments/615234075778875453/668592647018905600/Screenshot_1208.png)](https://youtu.be/nNvfA5ZRM9o)
 
-
-# if you have issues connecting check our page [HERE](https://github.com/the-expanse/SideQuest/wiki/I-am-having-issues-Connecting-,-what-do-i-do%3F#resetting-your-connection-and-connecting-to-wifi) for known solutions
 
 Step 1: Install SideQuest To Your Computer
 ====================================================
