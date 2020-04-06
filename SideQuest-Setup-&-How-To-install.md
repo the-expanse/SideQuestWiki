@@ -1,12 +1,18 @@
 ### SideQuest is for PC only, not Mobile phones or Headsets
 
-SideQuest is a side-loading application and requires an external device (A PC) in order to side-load from, so be aware installing SideQuest to your actual Quest device to download apps and games directly within a headset without a PC again is not possible, the SideQuest application within SideQuests own App Store is only a launcher for apps installed from SideQuest on your PC, SideQuest Legends will also not be capable of doing so due to code infringement concerns and security issues.
+### For any odd connection issues check [HERE](https://github.com/the-expanse/SideQuest/wiki/I-am-having-issues-Connecting-,-what-do-i-do%3F)
+
+`SideQuest is a side-loading application and requires an external device (A PC) in order to side-load from, so be aware installing SideQuest to your actual Quest device to download apps and games directly within a headset without a PC again is not possible, the SideQuest application within SideQuests own App Store is only a launcher for apps installed from SideQuest on your PC, SideQuest Legends will also not be capable of doing so due to code infringement concerns and security issues.`
 
 ## Before installation
 
-Know that Unknown Sources will NOT appear until you successfully install an application or game from an external source, that is not the Oculus store.
+Know that Unknown Sources will NOT appear until you successfully install an application or game from an external source, that is not the Oculus store. 
 
-Make sure before anything to `use a phone USB cable that can transfer data` instead of the cable that comes with your Quest as the cable that comes with the device is not suited for data transfer, also making a SideQuest account helps in many ways such as with updating your apps so be sure to look into making an account [SIGN UP HERE](https://sidequestvr.com/#/sign-up)
+If you are on Version 15 of the Quest OS Unknown sources is in a new location
+[Where is Unknown Sources in V15 of Oculus Quest](https://github.com/the-expanse/SideQuest/wiki/SideQuest-Setup-%26-How-To-install/_edit#for-v15-of-oculus-quest-unknown-sources-will-be-located-as-shown-below-for-users)
+
+Make sure before anything to `use a phone USB cable that can transfer data` instead of the cable that comes with your Quest as the cable that comes with the device generally is cheap and not suited for data transfer, Also note that making a SideQuest account helps in many ways such as with updating your apps as easily as possible so be sure to look into making an account if interested in the wide growing array of QoL features we offer.
+[SIGN UP HERE](https://sidequestvr.com/#/sign-up)
 
 ## Windows Video installation tutorial
 
@@ -85,7 +91,11 @@ Now it's time to connect the USB cable. make sure a guardian is set up around yo
 
 if it does not appear and you are on windows, be sure to set up a standalone guardian and that you have SideQuest opened
 
-# Be sure that for any odd connection issues such as not being able to install the below app launcher that you check [HERE](https://github.com/the-expanse/SideQuest/wiki/I-am-having-issues-Connecting-,-what-do-i-do%3F)
+
+## For V15 of Oculus Quest Unknown sources will be located as shown below for users
+
+![](https://cdn.discordapp.com/attachments/625267367513030656/696615350292185109/2.png)
+
 
 OPTIONAL
 ----
