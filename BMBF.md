@@ -28,7 +28,8 @@ https://sidequestvr.com/#/download and have a purchased copy of Beatsaber instal
 Install the latest `com.weloveoculus.BMBF.apk` from one of either of the the links below onto your PC
 
 ### BMBF APKs
-https://bmbf.dev/stable / https://github.com/kihecido/BMBF/releases
+
+https://bmbf.dev/stable
 
 If there has been a update to Beatsaber recently and BMBF doesn't work for you properly you can try and head to 
 https://bmbf.dev/nightly and grab the most recent possible beta version available.
