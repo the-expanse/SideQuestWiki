@@ -6,15 +6,14 @@ USB-3 is not truly supported and in many cases can cause connection issues, if t
 
 [Known connection and installation issues and solutions](https://github.com/the-expanse/SideQuest/wiki/I-am-having-issues-Connecting-,-what-do-i-do%3F#having-connection-issues) 
 
-#### All about app and game uninstallation 
-
-[Uninstalling Apps and Games](https://github.com/the-expanse/SideQuest/wiki/.My-apps-won't-uninstall-what's-wrong%3F#all-about-un-installation-of-applications-or-games)
-
 ## About The Queue System
 Our Queue system is a how we are able to let users install multiple things at once without seeing a long loading screen and having your screen freeze up as an app or game installations making you unable to do anything else but stare at it and wait and sometimes it gives an error.
 
 Note that some applications have more then one file and the first one can fail while the second succeeds if you plug your device in mid way though or after the installation, in cases like this it is best to uninstall the application and restart the download
 
+#### All about app and game uninstallation 
+
+[Uninstalling Apps and Games](https://github.com/the-expanse/SideQuest/wiki/.My-apps-won't-uninstall-what's-wrong%3F#all-about-un-installation-of-applications-or-games)
 
 ## The Queue System
 Our Queue system is a how we are able to let users install many things at once without seeing a long loading screen and having your screen freeze up as an app or game installations making you unable to do anything else but stare at it and wait and sometimes it gives an error. 
