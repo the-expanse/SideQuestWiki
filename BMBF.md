@@ -30,9 +30,8 @@ Install the latest `com.weloveoculus.BMBF.apk` from one of either of the the lin
 ### BMBF APKs
 https://bmbf.dev/stable / https://github.com/kihecido/BMBF/releases
 
-For the nightly build head to
-https://bmbf.dev/nightly
-Where they have the most recent possible version available for beta
+If there has been a update to Beatsaber recently and BMBF doesn't work for you properly you can try and head to 
+https://bmbf.dev/nightly and grab the most recent possible beta version available.
 
 #### Step 2
 
