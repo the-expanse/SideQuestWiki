@@ -30,6 +30,10 @@ Install the latest `com.weloveoculus.BMBF.apk` from one of either of the the lin
 ### BMBF APKs
 https://bmbf.dev/stable / https://github.com/kihecido/BMBF/releases
 
+For the nightly build head to
+https://bmbf.dev/nightly
+Where they have the most recent possible version available for beta
+
 #### Step 2
 
 After downloading the APK for BMBF onto your PC Launch SideQuest and look for a button top right button that when hovered over says `Install APK file from folder` (looks like a box icon with a down arrow on it) and click it
