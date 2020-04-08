@@ -1,6 +1,7 @@
 ### Make sure you are on the most recent of both BMBF and Beastaber by following the below
 
-## - IMPORTANT 
+## - IMPORTANT
+DO NOT UNINSTALL BEATSABER IN HEADSET WITH THE NORMAL UNINSTALL SYSTEM OR BMBFS AUTO UNINSTALLER
 
 
 Information to know for after directly after installing BMBF
