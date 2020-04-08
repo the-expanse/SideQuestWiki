@@ -1,6 +1,6 @@
-If you have installed SideQuest utilizing a ZIP folder and not the EXE installer SideQuests auto updater will have issues the next time an update to SideQuest is released as it tries to uninstall the current version and update it but no uninstaller exists with the Portable ZIP version of SideQuest, the solution is simply to delete all of SideQuest and associated folders then install the newest proper EXE version of the SideQuest Store from [SideQuest EXE Installers](https://sidequestvr.com/#/download)
+If you have installed SideQuest utilizing a ZIP folder or an old version and not the proper auto installer SideQuests updater system will have issues the next time an update to SideQuest is released as it tries to uninstall the current version and update it but no uninstaller exists with a portable or ZIPed version of SideQuest, The solution is simply to delete all of SideQuest and associated folders then install the newest proper up to date version of the SideQuest Store from [SideQuest Installers](https://sidequestvr.com/#/download)
 
-You can also use the [Force uninstaller](https://github.com/the-expanse/SideQuest/wiki/Force-Uninstaller-for-SideQuest#sidequest-clean-force-uninstaller) which should clean out any folders and files that are causing issues with updating or reinstalling SideQuest
+You can also use the [Force uninstaller](https://github.com/the-expanse/SideQuest/wiki/Force-Uninstaller-for-SideQuest#sidequest-clean-force-uninstaller) to clean out any folders and files that may be causing issues with updating or reinstalling SideQuest
 
 
 Else you can manually delete these folders.
