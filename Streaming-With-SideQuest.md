@@ -3,9 +3,8 @@
 
 You can do this by enabling Wi-Fi mode in the top right with the wireless button, make sure to be connected by cable when enabling this feature and wait until the connection dot is purple before unplugging then launch the streamer and you should see it pop up with your screen live, you can also install apps and manage in headset recorded material this way.
 
-### Cable Needed To Enable
-
-Unfortunately yes a cable will be required even with wireless mode as you will need a cable to first initialize wireless mode in SideQuest, as well as every subsequent time you either reboot of your headset, or the PC as IPs can change and as a safety measure for users against hacking, it records and saves the IP of your device (which can change over restarts) if SideQuest is closed and reopened but upon a reboot of either device it will loose that connection so you will need to re-engage it with the cable once again.
+### Cable Needed To Enable, 
+Though Wifi Mode Can Make Streaming Wireless After initial connection unfortunately yes a cable will be required even with wireless mode as you will need a cable to first initialize any type of connection to begin with, as well as every subsequent time you either reboot of your headset, or the PC as IPs can change and as a safety measure for users against hacking, it records and saves the IP of your device (which can change over restarts) if SideQuest is closed and reopened but upon a reboot of either device it will loose that connection so you will need to re-engage it with the cable once again.
 
 ### Make sure you unplug
 
