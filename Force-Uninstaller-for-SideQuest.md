@@ -2,7 +2,7 @@
 
 This uninstaller is for if you have issues updating, installing removing or using/reinstalling SideQuest for any reason
 
-## Before running the uninstaller
+# Before running the uninstaller
 Be sure to uninstall SideQuest with the old windows control panel uninstaller if on windows 10 not the inbuilt windows 10 installer. After you do so the below application will remove any file or folder residue, Be sure to run the uninstaller in your control panel first before running the SideQuest propitiatory uninstaller, Whether the default windows uninstaller succeeds or fails you want to run it to make sure everything is gone.
 
 [Download Uninstaller](https://drive.google.com/open?id=1Nw3UIa0p0SJ1w7-FBLL7hr57jnIj6MQS)
