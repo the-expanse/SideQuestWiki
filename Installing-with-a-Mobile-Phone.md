@@ -16,7 +16,7 @@ Note that this method is unreliable and even if it does work for you at first be
 
 ### You could harm your Quest.
 
-ADB is a very powerful tool and installing the wrong apps, running the wrong commands or just messing around randomly with it can permanently damage your Quest.
+ADB is a very powerful tool and installing the wrong apps, running the wrong commands or just messing around randomly with it can permanently damage your Quest if you mess with the factory recovery settings by accident making a even a factory reset useless.
 
 ----
 
