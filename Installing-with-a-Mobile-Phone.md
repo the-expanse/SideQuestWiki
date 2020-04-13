@@ -4,7 +4,8 @@ Using Android phone or tablet to install APKs (such as BMBF) - Tutorial
 
 ### WARNING
 
-You will need need some basic understanding of Android devices and ADB, So if you do not know your way around ADB and general coding commands or
+You will need need some basic understanding of Android devices and ADB, So if you do not know your way around ADB and general coding commands or a lot can go wrong, loss of data, need for a factory reset and so on.
+
 ### If you have no idea what ADB even does or is DO NOT attempt this.
 
 ----
