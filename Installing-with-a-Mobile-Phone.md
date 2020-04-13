@@ -12,7 +12,7 @@ You will need need some basic understanding of Android devices and ADB, So if yo
 
 ### This is NOT guaranteed to work
 
-Note that this method is unreliable and even if it does work foe you at first be aware that it is VERY difficult to fix any issues that may crop up due to using this method after installing or later down the line so if at all possible try your best to use a PC with use SideQuest to install.
+Note that this method is unreliable and even if it does work for you at first be aware that it is VERY difficult to fix any issues that may crop up due to using this method after installing or later down the line so if at all possible try your best to use a PC with use SideQuest to install.
 
 ### You could break your Quest.
 
