@@ -20,7 +20,7 @@ Make sure before anything to `use a phone USB cable that can transfer data` inst
 
 ## Mac Video Installation Tutorial
 
-[![Video Tutorial](https://cdn.discordapp.com/attachments/615234075778875453/668592647018905600/Screenshot_1208.png)](https://youtu.be/nNvfA5ZRM9o)
+[![Video Tutorial](https://cdn.discordapp.com/attachments/615234075778875453/668592647018905600/Screenshot_1208.png)](https://www.youtube.com/watch?v=xKUvK2Pmv8o)
 
 
 Step 1: Install SideQuest To Your Computer
