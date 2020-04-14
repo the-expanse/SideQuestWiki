@@ -22,6 +22,9 @@ Make sure before anything to `use a phone USB cable that can transfer data` inst
 
 [![Video Tutorial](https://cdn.discordapp.com/attachments/615234075778875453/668592647018905600/Screenshot_1208.png)](https://www.youtube.com/watch?v=xKUvK2Pmv8o)
 
+For the official SideQuest Website tutorial see
+
+https://sidequestvr.com/#/setup-howto
 
 Step 1: Install SideQuest To Your Computer
 ====================================================
