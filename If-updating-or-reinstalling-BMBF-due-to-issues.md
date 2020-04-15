@@ -29,4 +29,4 @@ Connect your headset to your PC and go to the ![](https://cdn.discordapp.com/att
 
 **Step 5.** After uninstallation turn your headset entirely off for at least 10 seconds then back on
 
-**Step 6.** Reinstall Beatsaber from the Oculus store and then run beatsaber once to the menu. After that just follow the steps [here](https://github.com/the-expanse/SideQuest/wiki/BMBF/_edit#bmbf-installation-how-to) to get installed once again
+**Step 6.** Reinstall Beatsaber from the Oculus store and then run beatsaber once to the menu. After that just follow the steps [here](https://github.com/the-expanse/SideQuest/wiki/BMBF) to get installed once again
