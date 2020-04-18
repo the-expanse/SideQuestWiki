@@ -37,7 +37,7 @@ Check that your headset is not in sleep mode and that the screen is on and showi
 
 Make sure to search your PC using auto search and whatever you can to check for any other versions of ADB.exe and remove them in case of interference before re launching SideQuest
 
-#### Uninstall any old versions of ScrCpy
+#### Uninstall any old non SideQuest related versions of ScrCpy you may have installed before installing SideQuest
 
 Make sure if you have installed ScrCpy before that you properly remove all related folders and files not in SideQuests folders, leaving any such files may lead to conflictions.
 
