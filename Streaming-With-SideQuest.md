@@ -50,6 +50,10 @@ Antivirus systems such as Avast, BitDefender and Windows Defender have always ha
 
 Next you can try deleting the ScrCpy folder by going to the settings tab in SideQuest under the wrench icon and clicking `Open main app folder` then locating the ScrCpy folder, close SideQuest completely prior to deleting it and then after removal restart SideQuest and see if streaming functions properly then.
 
+#### Environment Variables
+
+If you had a previous streaming of some kind and had set custom environment variables they may have redirected either ADB or ScrCpy. Removing any environment variables for windows should stop any redirect issues to unrelated or missing folders. After doing that close SideQuest it should fix it's self so you can utilize the streaming feature once more.
+
 ### Try reinstalling 
 
 If issues persist you can attempt a clean installation of SideQuest to see if it helps by using our force uninstaller at the [SideQuest force uninstaller](https://github.com/the-expanse/SideQuest/wiki/Force-Uninstaller-for-SideQuest#sidequest-clean-force-uninstaller) page and reinstall with windows defender or what ever antivirus system you have disabled temporarily 
