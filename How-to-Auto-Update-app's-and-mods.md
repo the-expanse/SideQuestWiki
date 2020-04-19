@@ -1,7 +1,10 @@
-For creating and managing apps you made see [HOW TO SUBMIT GAMES](https://github.com/the-expanse/SideQuest/wiki/How-To-Submit-Games)
+###### For creating and managing apps you made see [HOW TO SUBMIT GAMES](https://github.com/the-expanse/SideQuest/wiki/How-To-Submit-Games)
 
-To create an account just go to sign up, located here
+### To create an account just go to sign up, located here
 https://sidequestvr.com/#/sign-up
+
+
+SideQuest has a very convenient system built in to inform users when applications and games get updates and to make obtaining and installing them as simple as we can, to get started you will need a SideQuest account first.
 
 ## SideQuest account required
 
