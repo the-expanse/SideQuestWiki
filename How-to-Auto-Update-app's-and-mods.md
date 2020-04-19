@@ -22,6 +22,7 @@ There are two ways to update from your `DASHBOARD`, Either to Queue and install 
 
 ![](https://cdn.discordapp.com/attachments/615234075778875453/689243051201527878/12.png)
 
+----
 
 # Have you installed applications or games from SideQuest prior to making your account?
 
