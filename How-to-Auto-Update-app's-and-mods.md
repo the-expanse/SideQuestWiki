@@ -5,7 +5,7 @@ https://sidequestvr.com/#/sign-up
 
 ## SideQuest account required
 
-making a SideQuest account lets the system properly keep track of your installations and inform you of updates so you need to make an account for the system to work properly. But once you do it gains you access to the Dashboard, letting you gain a host of features such as messaging and friends, but also the `Auto Update` function, where you can update applications you have installed en mass, Else you can click app updates from the user pop-up. 
+Making a SideQuest account lets the system properly keep track of your installations and inform you of updates so you need to make an account for the system to work properly. But once you do it gains you access to the Dashboard, letting you gain a host of features such as messaging and friends, but also the `Auto Update` function, where you can update applications you have installed en mass, Else you can click app updates from the user pop-up. 
 
 ### The Dashboard will be located here
 ![](https://cdn.discordapp.com/attachments/541467913857662995/656290811801239564/Dashboard_2.png)
@@ -23,11 +23,12 @@ There are two ways to update from your `DASHBOARD`, Either to Queue and install 
 ![](https://cdn.discordapp.com/attachments/615234075778875453/689243051201527878/12.png)
 
 
-### Also note that if you have created an account, but had already installed other applications before making or logging into your account in SideQuest, Most applications may not appear in your `DASHBOARD` the way to correct this is either go to each application one by one and click subscribe or install latest, or to back up your games player data and then uninstall them under SideQuest's `My Apps` tab shown below, before you reinstall them.
+### Have you installed applications or games from SideQuest prior to making your account?
+
+Note that if you have created an account, but had already installed other applications before its creation or logging into it within SideQuest most applications may not appear in your `DASHBOARD` the way to correct this is either go to each application one by one and click `Subscribe` or `install latest`on each of the applications pages to let SideQuest log them to your account and let it know to tell you when updates and changes are made to the game, or to back up your games player data and then uninstall them under SideQuest's `My Apps` tab shown below, before you reinstall them.
 
 ![](https://cdn.discordapp.com/attachments/615234075778875453/689244058651983977/Screenshot_1400_-_Copy.png)
 
 Then reinstall them as normal, They only need to be Un- then reinstalled once, they will then get shown in your `DASHBOARD` and have an icon when the application has been updated as it will be able to detect and check each application for updates from their developers on the fly, you can look to see weather or not you have an app that needs to be updated in your `DASHBOARD` from any device you are logged into [SideQuestVR.com](https://sidequestvr.com/#/account) from, but you can only install them when directly connected to SideQuest on your PC.
 
-Again if you want to create an account you can sign up below
-https://sidequestvr.com/#/sign-up
+If you want to create an account and have yet to be sure to visit https://sidequestvr.com/#/sign-up
