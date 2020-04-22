@@ -41,7 +41,7 @@ https://github.com/the-expanse/SideQuest/wiki/I-Have-Windows-7,-can-i-use-SideQu
 
 ![](https://cdn.discordapp.com/attachments/608376262347587595/609880483286876218/Screenshot_1163.png)
 
-Make sure to try a few different ones and to abstain from using the cord the Quest came with as it is not the best quality and is quite faulty for anything save charging your device, it may work for a few installs but that is even if it lets your Quest be detected by SideQuest to begin with and even then it will quickly cease connecting properly to the point of it only being capable of charging your device.
+Make sure to try a few different ones and to abstain from using the cord the Quest came with as it is not the best quality and is quite faulty for anything save charging your device, it may work for a few installs but that is even if it lets your Quest be detected by SideQuest to begin with and even then it will quickly cease connecting properly to the point of it only being capable of charging your device with few exceptions.
 
 If you have a phone USB cable that fits try that, If issues persist also try a different USB port such as a USB 2, USB 3 have issues some times with SideQuest, those ports will usually have a bit of blue when looking inside them so if you see blue within the USB slot you are trying to use try one that has a black inline. 
 
