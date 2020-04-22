@@ -7,7 +7,10 @@
 
 If not seeing green dot and the phrase (Connected) top left inside SideQuest and instead finding it to be a yellow dot, or have multiple devices connected but are unable to connect your Quest properly to install for some reason try to enable wireless mode before disconnecting your headset prior to installation, if you are in Wireless mode and it should resolve most issues else try the solutions below.
 
-#### First things to try
+#### Quick solutions
+
+These three solve most issues with a device being plugged in but not connecting to SideQuest.
+
 ### Solution 1 [ Try another cable, preferably USB2 NOT USB 3]( https://github.com/the-expanse/SideQuest/wiki/I-am-having-issues-Connecting-,-what-do-i-do%3F#1-your-cord)
 
 ### Solution 2 [Attempt to toggle developer mode](https://github.com/the-expanse/SideQuest/wiki/I-am-having-issues-Connecting-,-what-do-i-do%3F#3-developer-mode-toggling)
@@ -15,7 +18,7 @@ If not seeing green dot and the phrase (Connected) top left inside SideQuest and
 ### Solution 3 [Double check you have properly installed the Quest drivers](https://github.com/the-expanse/SideQuest/wiki/SideQuest-Setup-&-How-To-install#step-3-important-install-drivers-windows-users-only)
 Head to solutions 1,2 and 
 
-### `All information below is not error specific as some errors share Solutions so be sure to try everything and look into each one at least once.`
+### ` For further help see all the information below, nothing is error specific as some errors share Solutions so be sure to try everything and look into each one at least once.`
 
 Make sure you have installed the proper version of SideQuest from [SideQuestVR.com](https://sidequestvr.com/#/download) correctly before proceeding.
 
