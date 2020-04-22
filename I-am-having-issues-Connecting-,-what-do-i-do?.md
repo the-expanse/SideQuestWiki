@@ -1,19 +1,27 @@
 ## [Supported Devices](https://github.com/the-expanse/SideQuest/wiki/Supported-Devices)
 
 ## Having issues connecting or installing?
+
+
+`Note SideQuest is based on the Quest, Non Standalone headsets are not able to work or use SideQuest`
+
 If not seeing green dot and the phrase (Connected) top left inside SideQuest and instead finding it to be a yellow dot, or have multiple devices connected but are unable to connect your Quest properly to install for some reason try to enable wireless mode before disconnecting your headset prior to installation, if you are in Wireless mode and it should resolve most issues else try the solutions below.
 
 #### First things to try
+### Solution 1 [ Try another cable, preferably USB2 NOT USB 3]( https://github.com/the-expanse/SideQuest/wiki/I-am-having-issues-Connecting-,-what-do-i-do%3F#1-your-cord)
 
-Note that all information below is not error specific as some errors share Solutions so be sure to try everything and look into each one at least once.
+### Solution 2 [Attempt to toggle developer mode](https://github.com/the-expanse/SideQuest/wiki/I-am-having-issues-Connecting-,-what-do-i-do%3F#3-developer-mode-toggling)
 
-Make sure you have installed the very latest SideQuest from [SideQuestVR.com](https://sidequestvr.com/#/download) properly before proceeding.
-Also double check the main setup steps for installing SideQuest to make sure you have done every one of the 5 [mandatory setup steps](https://github.com/the-expanse/SideQuest/wiki/SideQuest-Setup-&-How-To-install#step-1-install-sidequest-to-your-computer).
-Some times you need to reset Developer mode in your phone app for connection issues, for that issue see #3 on this list.
+### Solution 3 [Double check you have properly installed the Quest drivers](https://github.com/the-expanse/SideQuest/wiki/SideQuest-Setup-&-How-To-install#step-3-important-install-drivers-windows-users-only)
+Head to solutions 1,2 and 
+
+### `All information below is not error specific as some errors share Solutions so be sure to try everything and look into each one at least once.`
+
+Make sure you have installed the proper version of SideQuest from [SideQuestVR.com](https://sidequestvr.com/#/download) correctly before proceeding.
+
+If having issues still double check yo completed all 5 of the required setup steps for installing SideQuest [Mandatory setup steps](https://github.com/the-expanse/SideQuest/wiki/SideQuest-Setup-&-How-To-install#step-1-install-sidequest-to-your-computer).
 
 # [Setup Steps](https://sidequestvr.com/#/setup-howto) 
-
-For Windows users be sure to double check step 3 to make sure the drivers were properly installed
 
 For Windows 7 users
 ----
@@ -37,14 +45,7 @@ If you have a phone USB cable that fits try that, If issues persist also try a d
 ###### Be aware just because windows shows `Quest` DOES NOT mean it is a viable cord as some cords will only ever show what the device is and never let the user Open, modify or install things to the device. So be sure if your having issues to try a few different cables in a different port on your PC to see if your Quest registers to SideQuest then.
 
 ----
-# 2 No Pop-up in headset to connect
-----
-
-Several things could cause that, Make sure your guardian is set up and active when looking, a standalone temporary one is fine, if still not showing, even if windows detects it, try a new cable as yours may not fully support data transfer or have been burnt out from prior use and reduced to (Charge only) mode, Also be sure SideQuest is opened and running.
-
-
-----
-# 3 Developer mode toggling
+# 2 Developer mode toggling
 ----
 
 `Note that none of these steps are in about or with SideQuest and are done only within the mobile phone application for Oculus. Also, users usually need to toggle Developer mode after any Oculus OS update as it usually is auto disabled due to the update`
@@ -58,6 +59,14 @@ Open your Oculus Application on the device you set your Quest up with and head t
 `If the issue persists toggle Developer mode to enabled again, then power off your Quest completely while still on the Developer mode page in your phone application and disable it while your system is off, then turn your Headset back on, Reconnect it to your phone and Re-enable Developer mode`
 
 ###### Doing so in the phone app tends to solve many issues, also some times there is a glitch causing something to go awry, such as sometimes making the headset connect to SideQuest only when Developer mode is off and disconnect when it is on, the issue generally occurs on initial set up, after trying the installation steps more than once, or Re-Installing/Updating SideQuest.
+
+----
+# 3 No Pop-up in headset to connect
+----
+
+Several things could cause that, Make sure your guardian is set up and active when looking, a standalone temporary one is fine, if still not showing, even if windows detects it, try a new cable as yours may not fully support data transfer or have been burnt out from prior use and reduced to (Charge only) mode, Also be sure SideQuest is opened and running.
+
+
 
 ----
 # 4 Power cycling your devices 
