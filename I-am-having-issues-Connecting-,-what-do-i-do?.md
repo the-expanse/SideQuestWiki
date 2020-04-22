@@ -3,7 +3,7 @@
 ## Having issues connecting or installing?
 
 
-`Note SideQuest is based on the Quest, Non Standalone headsets are not able to work or use SideQuest`
+`Note SideQuest is based on the Quest, Non Standalone headsets are not able to work or use SideQuest and should be open and running on your computer when trying to connect`
 
 If not seeing green dot and the phrase (Connected) top left inside SideQuest and instead finding it to be a yellow dot, or have multiple devices connected but are unable to connect your Quest properly to install for some reason try to enable wireless mode before disconnecting your headset prior to installation, if you are in Wireless mode and it should resolve most issues else try the solutions below.
 
