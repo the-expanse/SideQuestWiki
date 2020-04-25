@@ -1,4 +1,4 @@
-## Welcome SideQuests SafeSide security system
+# Welcome to SafeSide
 
 What is "SafeSide"
 ----
