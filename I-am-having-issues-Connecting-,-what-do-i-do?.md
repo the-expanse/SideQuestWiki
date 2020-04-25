@@ -16,7 +16,9 @@ These three solve most issues with a device being plugged in but not connecting 
 ### Solution 2 [Attempt to toggle developer mode](https://github.com/the-expanse/SideQuest/wiki/I-am-having-issues-Connecting-,-what-do-i-do%3F#3-developer-mode-toggling)
 
 ### Solution 3 [Double check you have properly installed the Quest drivers](https://github.com/the-expanse/SideQuest/wiki/SideQuest-Setup-&-How-To-install#step-3-important-install-drivers-windows-users-only)
-Head to solutions 1,2 and 
+
+
+### Solution 4 [Run through all setup steps again](https://sidequestvr.com/setup-howto)
 
 ### ` For further help see all the information below, nothing is error specific as some errors share Solutions so be sure to try everything and look into each one at least once.`
 
