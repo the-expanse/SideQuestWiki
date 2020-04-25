@@ -3,8 +3,9 @@
 ## - [SideQuest Connection Solution Page (For issues or errors when connecting, downloading or using SideQuest)](https://github.com/the-expanse/SideQuest/wiki/I-am-having-issues-Connecting-,-what-do-i-do%3F)
 
 ----
-### [How To Submit Games/Apps/Mods to Sidequest](https://github.com/the-expanse/SideQuest/wiki/How-To-Submit-Games)
+## - [How To Submit Games/Apps/Mods to Sidequest](https://github.com/the-expanse/SideQuest/wiki/How-To-Submit-Games)
 
+## - [Harmful Content screen cant't be skipped](https://github.com/the-expanse/SideQuest/wiki/Harmful-Content)
 
 **About SideQuest And Its Installation Procedures**
 -----
