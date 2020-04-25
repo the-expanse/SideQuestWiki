@@ -20,7 +20,8 @@ There may have been a recent update, if you can install and sync songs but not M
 
 # BMBF Installation How-To
 ----
-# For further help make sure to see https://discord.gg/beatsabermods as SideQuest is not affiliated with BMBF or beatsaber anymore in any real capacity and will provide no further support if issues are found.
+
+## For further help make sure to see https://discord.gg/beatsabermods as SideQuest is not affiliated with BMBF or beatsaber anymore in any real capacity and will provide no further support if issues are found.
 
 Have the latest SideQuest installed from
 https://sidequestvr.com/#/download so yo can install the APK and have a purchased copy of Beatsaber installed and have run at least one song once in your headset before proceeding, and when installing songs or mods from SideQuest while connected make sure BMBF is open in headset and running.
