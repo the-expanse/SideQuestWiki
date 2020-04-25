@@ -2,6 +2,10 @@
 The below information is provided as is and without warranty as SideQuest does not have much ability to directly support Windows 7 or either of the Windows 8 operating systems but there are a few things you can try. The most difficult part is usually the driver installation which we go into more detail on below. 
 
 
+## First thing to try
+
+You can attempt install of the official Oculus software from https://www.oculus.com/setup/ to help install the needed drivers and start connecting to your Quest properly, after installing and running just close the software and launch SideQuest from your computer to see if your set up properly
+
 ## This guide is for Windows 7 manual installation
 
 Windows 7 systems have a good chance to install SideQuest but you will need to install the drivers needed for SideQuest manually.
