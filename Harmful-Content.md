@@ -6,7 +6,7 @@ We welcome you to SafeSide, the self coded archive system we have created in an 
 
 Why am I seeing a SafeSide error
 ----
-If you see an error or a SafeSide page upon installing an APK it is registered as being harmful or illegitimate content and will not be allowed to install with SideQuest properly. All old versions of SideQuest should be offline and inoperable properly and it is suggested you update to be able to properly utilize SideQuest.
+If you see an error or a SafeSide page upon installing an APK it is registered as being harmful or illegitimate content and will not be allowed to install with SideQuest any more, the continue anyway button has been removed for this reason. All old versions of SideQuest should be offline and inoperable properly and it is suggested you update to be able to properly utilize SideQuest.
 
 My application is self-made or free and legitimate, what do I do to fix it?
 ----
