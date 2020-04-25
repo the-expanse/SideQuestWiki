@@ -1,6 +1,8 @@
 ----
 ### BMBF is the most wide spread custom song and mod installer for BeatSaber for the Oculus Quest
 
+# For further help make sure to see https://discord.gg/beatsabermods as SideQuest is not affiliated with BMBF or beatsaber anymore in any real capacity and will provide no further support if issues are found.
+
 ----
 
 ##### (Make sure to uninstall Beat On if you have that still as it is no longer supported)
