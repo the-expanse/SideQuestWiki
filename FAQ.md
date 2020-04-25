@@ -5,7 +5,7 @@
 ----
 ## - [How To Submit Games/Apps/Mods to Sidequest](https://github.com/the-expanse/SideQuest/wiki/How-To-Submit-Games)
 
-## - [Harmful Content screen cant't be skipped](https://github.com/the-expanse/SideQuest/wiki/Harmful-Content)
+## - [Harmful Content screen can't be skipped](https://github.com/the-expanse/SideQuest/wiki/Harmful-Content)
 
 **About SideQuest And Its Installation Procedures**
 -----
