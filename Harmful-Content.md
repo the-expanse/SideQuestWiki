@@ -2,7 +2,7 @@
 
 What is "SafeSide"
 ----
-We welcome you to SafeSide, the self coded archive system we have created in an attempt to have a firewall system against piracy and virus's, We have put this system into place out of necessity in order to prevent installation of dangerous or illegal content for the good of all SideQuest users.
+We welcome you to SafeSide, the self coded archive system we have created in an attempt to have a firewall system against piracy and virus's, We have put this system into place out of necessity in order to prevent installation of dangerous or illegal content for the good of all SideQuest users, there is no "off" switch or continue anyways button and if you find this in error see below for more information.
 
 Why am I seeing a SafeSide error
 ----
