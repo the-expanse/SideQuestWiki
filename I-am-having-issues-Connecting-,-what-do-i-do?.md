@@ -114,7 +114,7 @@ Next thing to try is unplugging your headset and turning your PC off completely 
 
 To reset your connection just click the `Run ADB Commands` button top of SideQuest as seen here
 
-![](https://cdn.discordapp.com/attachments/615234075778875453/622179541535817728/Screenshot_257.png)
+![](https://cdn.discordapp.com/attachments/615234075778875453/704453481746137088/Screenshot_1596.png)
 
 
 Then click `Disconnect everything` hit `Run Command`, 
