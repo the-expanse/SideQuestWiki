@@ -2,4 +2,8 @@
 
 #### SideQuest will always need at least one viable cable to initialize a connection of any kind due to how ADB works.
 
+![](https://cdn.discordapp.com/attachments/615234075778875453/704464093737648228/Screenshot_1605.png)
+
+`There will be a secondary Wi-Fi icon will only appear when the headset is plugged in top right in the SideQuest bar that can be selected.`
+
 For Wi-Fi mode you need to first connect physically to enable it to begin with on reboot of your PC or your headset. This is not a one time plug in your headset and never touch your PC again system, This feature only allows your headset when in close enough proximity to your PC to connect over your router to your computer and allow an ADB connection to let you install and manage your games and applications without a cord. The Wireless connection icon will only appear when it detects a headset over a cable first so you must be connected via cable, after that you can enable it and this mode will let you install games and apps as well as manage files such as in headset recordings and folders all without the need to re-plug in a cable when enabled, it will need to be reconnected upon reboot of your Headset or PC but should persist if SideQuest its self is closed and reopened and be able to be connected again without needing a cord again, you can then also install applications from SideQuestVR.com in headset from the browser so long as SideQuest states connected on a PC with a SideQuest account logged in to both the headset browser and the PC launcher.
