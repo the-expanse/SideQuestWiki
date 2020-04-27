@@ -4,7 +4,7 @@ Pirated full copies of official games upon the Quest store are not supported and
 ### Manual APK Installation Method
 First make sure you have an APK and OOB to install as any other file types are not compatible with the system the Quest was built on. (it is essentially a heavily modified glorified android phone so if your phone can't install it there is a 99% chance your Quest can't) if a bundled as an APK as long as the app is compatible and properly made it should work, next up open up SideQuest and make sure you are connected, if yet to install or it is not connected click [HERE]( https://github.com/the-expanse/SideQuest/wiki/I-am-having-issues-Connecting-,-what-do-i-do%3F#resetting-your-connection-and-connecting-to-wifi), after that is done look up in SideQuest at the top right for a white icon with a down arrow in it, this is the APK installer so click the APK install button in SideQuest while connected be it over Wi-Fi or directly with a viable cable/cord as seen below
 
-![](https://cdn.discordapp.com/attachments/541467913857662995/636488576539820032/Screenshot_649.png)
+![](https://cdn.discordapp.com/attachments/615234075778875453/704463632708403211/APK.png)
 
 Then just locate the APK you desire (OOBs should be installed second and may not show as installing so just wait a minute and assume it did then restart your Quest) and in the popup tab and click Open
 ![](https://cdn.discordapp.com/attachments/541467913857662995/636488572664414208/Screenshot_650.png)
