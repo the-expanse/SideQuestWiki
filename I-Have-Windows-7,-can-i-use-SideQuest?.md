@@ -1,4 +1,4 @@
-## Windows 7 is not officially supported
+## Windows 7 is not officially supported and Windows 8-8.1 have a few issues 
 The below information is provided as is and without warranty as SideQuest does not have much ability to directly support Windows 7 or either of the Windows 8 operating systems but there are a few things you can try. The most difficult part is usually the driver installation which we go into more detail on below. 
 
 
