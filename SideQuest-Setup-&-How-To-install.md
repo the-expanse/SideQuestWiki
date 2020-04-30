@@ -9,7 +9,7 @@
 Know that Unknown Sources will NOT appear until you successfully install an application or game from an external source, that is not the Oculus store. 
 
 If you are on Version 15 of the Quest OS Unknown sources is in a new location
-[Where is Unknown Sources in V15 of Oculus Quest](https://github.com/the-expanse/SideQuest/wiki/SideQuest-Setup-%26-How-To-install/_edit#for-v15-of-oculus-quest-unknown-sources-will-be-located-as-shown-below-for-users)
+[Where is Unknown Sources in V15 of Oculus Quest](https://github.com/the-expanse/SideQuest/wiki/SideQuest-Setup-&-How-To-install#for-v15-of-oculus-quest-unknown-sources-will-be-located-as-shown-below-for-users)
 
 Make sure before anything to `use a phone USB cable that can transfer data` instead of the cable that comes with your Quest as the cable that comes with the device generally is cheap and not suited for data transfer, Also note that making a SideQuest account helps in many ways such as with updating your apps as easily as possible so be sure to look into making an account if interested in the wide growing array of QoL features we offer.
 [SIGN UP HERE](https://sidequestvr.com/#/sign-up)
