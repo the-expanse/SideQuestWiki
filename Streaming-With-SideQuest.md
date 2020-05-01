@@ -1,8 +1,8 @@
-## You Can Stream Wireless (Windows Only)
+## You Can Stream Wireless on Mac Linux and Windows
 
 ![](https://cdn.discordapp.com/attachments/615234075778875453/704465986870575144/Screenshot_1606.png)
 
-`Note Java is Required for some users if not already installed you should get a prompt of such when attempting to run it of sorts, if so try installing the latest Java version for your OS depending on the OS version number associated with your PC 7/8/8.1/10`
+`Note Java is Required for some users of windows if not already installed you should get a prompt of such when attempting to run it of sorts, if so try installing the latest Java version for your OS depending on the OS version number associated with your PC 7/8/8.1/10`
 
 You can do this by enabling Wi-Fi mode in the top right with the wireless button, make sure to be connected by cable when enabling this feature and wait until the connection dot is purple before unplugging then launch the streamer and you should see it pop up with your screen live, you can also install apps and manage in headset recorded material this way.
 
@@ -26,7 +26,8 @@ You can use a Bluetooth transmitter plugged into your headset and a Bluetooth re
 ### Cropping
 The SideQuest streamer has it set to auto crop the original video usually sent to SCRCPY due to it being unsuitable for streaming to begin with, but you can change the crop to your liking in the settings and mess about with it.
 
-# If you are having issues running the Streaming feature in SideQuest here are a few things to try.
+
+# (Windows Only) If you are having issues running the Streaming feature in SideQuest here are a few things to try.
 
 #### Double check ADB is coming from SideQuest
 
