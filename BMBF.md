@@ -66,10 +66,11 @@ If you have any issues or want to know how to do something with BMBF try checkin
 ----
 
 FOR SONGS
-You can manage and install songs from in headset directly without a PC easily, just open BMBF from `Oculus TV`s channels Tab and go to the browser tab within it, then search the song you desire and click the download zip button, it looks like a down arrow.
+You can manage and install songs from in headset directly without a PC easily, just open BMBF from `Oculus TV`s channels Tab and go to the browser tab within it, then search the song you desire and click the download zip button, it looks like a down arrow, to do so from PC just launch SideQuest make sure it is connected top left and go to https://bsaber.com/ using the Web globe icon top right on the black top bar.
 
 FOR MODS
-(Assuming a resent update has not rendered them non functional) You can install Mods from within headset as well  by locating the globe web browser icon in the top-right of BMBF under the browser Tab, and clicking SideQuest,  then just click install latest on a mod you want, after that you can dismiss and re-enable the mod at will from the mods tab in BMBF.
+(Assuming a resent update has not rendered them non functional)
+You can install Mods from within headset or from https://beatymcbeatface.com/ in the SideQuest launcher entering `https://beatymcbeatface.com/` as the URL in SideQuests globe web browser icon in the top-right while your headset is connected to your PC and detected by SideQuest,  then just click install latest on a mod you want, after that you can dismiss and re-enable the mod at will from the mods tab in BMBF.
 
 ## - [Where is BMBF in headset?](https://github.com/the-expanse/SideQuest/wiki/Where-do-i-launch-BMBF-in-headset%3F)
 
