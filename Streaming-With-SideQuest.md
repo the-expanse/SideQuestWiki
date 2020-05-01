@@ -55,7 +55,10 @@ Next you can try deleting the ScrCpy folder by going to the settings tab in Side
 
 #### Environment Variables
 
-If you had a previous streaming of some kind and had set custom environment variables they may have redirected either ADB or ScrCpy. Removing any environment variables for windows should stop any redirect issues to unrelated or missing folders. After doing that close SideQuest it should fix it's self so you can utilize the streaming feature once more.
+If you had a previous streamer of some kind and it had a custom environment variable set it may be redirecting either ADB or ScrCpy. Removing any environment variables for ScrCpy should stop any redirect issues to unrelated or missing folders. After doing that close SideQuest it should fix it's self so you can utilize the streaming feature once more.
+
+To do this type `env` into your start bar bottom left in windows and you should see `Edit the system environment variables` in system properties, click it open and then proceed to check any entries that contain SCRCPY and delete then.
+
 
 ### Try reinstalling 
 
