@@ -3,7 +3,7 @@
 
 ----
 
-##### (Make sure to uninstall Beat On and Beatsaber both if you have that still as it is no longer supported)
+##### (Make sure to uninstall Beat On and Beatsaber both if you have BeatOn as it is no longer supported)
 
 ## Installed custom songs before?
 
