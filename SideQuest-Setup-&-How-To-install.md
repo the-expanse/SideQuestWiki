@@ -29,7 +29,7 @@ https://sidequestvr.com/#/setup-howto
 Step 1: Install SideQuest To Your Computer
 ====================================================
 
-Be sure to click your related OS out of the links shown below to download and install SideQuest before you continue with these steps, Windows users use the .EXE, Mac users use the DMG and so on.
+Be sure to click your related OS out of the links shown below to download and install SideQuest before you continue with these steps, Windows users use the .EXE, Mac users use the DMG and so on, Windows 7 and 8.1 are not properly supported so if you have yet to do consider upgrading for free at https://www.bleepingcomputer.com/news/microsoft/you-can-still-upgrade-to-windows-10-for-free-heres-how/
 
 
 [![SideQuest Installer](https://cdn.discordapp.com/attachments/615234122604085262/627528253590077459/2unknown.png)](https://sidequestvr.com/#/download)
