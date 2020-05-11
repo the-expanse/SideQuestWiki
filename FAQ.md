@@ -1,6 +1,6 @@
 # [SideQuest Setup & How to Install Guide](https://github.com/the-expanse/SideQuest/wiki/SideQuest-Setup-&-How-To-install)
 
-## - [SideQuest Connection Solution Page (For issues or errors when connecting, downloading or using SideQuest)](https://github.com/the-expanse/SideQuest/wiki/I-am-having-issues-Connecting-,-what-do-i-do%3F)
+## - [SideQuest Connection Solution Page (For issues or errors when trying to connect to or downloading with SideQuest)](https://github.com/the-expanse/SideQuest/wiki/I-am-having-issues-Connecting-,-what-do-i-do%3F)
 
 ----
 ## - [How To Submit Games/Apps/Mods to Sidequest](https://github.com/the-expanse/SideQuest/wiki/How-To-Submit-Games)
