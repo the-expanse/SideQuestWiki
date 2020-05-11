@@ -10,7 +10,8 @@ If you see an error or a SafeSide page upon installing an APK it is registered a
 
 My application is self-made or free and legitimate, what do I do to fix it?
 ----
-If you have received this pop-up in error and are not attempting to install pirated or illegal content then you can attempt to leave an issue at https://github.com/the-expanse/SideQuestWebsite/issues/new including information and contact information about the APK, so we can speak about a possible inspection of it, if deemed a mistake we will be delighted to make an addition to a whitelist, Please know have virtual realitys best interest at heart and hope you understand.
+If you have received this pop-up in error and are not attempting to install pirated or illegal content then you can attempt to and have bought a game from Itch.IO ake sure you install it using the SideQuest launcher not in a browser, if you have issues past that.
+leave an issue at https://github.com/the-expanse/SideQuestWebsite/issues/new including information and contact information about the APK, so we can speak about a possible inspection of it, if deemed a mistake we will be delighted to make an addition to a whitelist, Please know have virtual realitys best interest at heart and hope you understand.
 
 ----
 ## For further help you can check in our Discord at https://discord.gg/rTKC5Y4
