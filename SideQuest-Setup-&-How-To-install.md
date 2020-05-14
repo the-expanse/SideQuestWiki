@@ -16,7 +16,7 @@ Make sure before anything to `use a phone USB cable that can transfer data` inst
 
 ## Windows Video installation tutorial
 
-[![Video Tutorial](https://cdn.discordapp.com/attachments/615234075778875453/672161163072634880/Screenshot_1254.png)](https://youtu.be/SDljN6UqO34?t=65)
+[![Video Tutorial](https://cdn.discordapp.com/attachments/615234075778875453/672161163072634880/Screenshot_1254.png)](https://www.youtube.com/watch?v=reH55tb9w84)
 
 ## Mac Video Installation Tutorial
 
