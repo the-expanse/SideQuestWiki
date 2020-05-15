@@ -39,7 +39,7 @@ Windows 7 (no longer supported) is an older OS and required manual installation 
 https://github.com/the-expanse/SideQuest/wiki/I-Have-Windows-7,-can-i-use-SideQuest%3F
 
 
-Windows 7 how ever is no longer supported properly and if you mange to get us running do be sure to share how with others or on our Discord.
+Windows 7 how ever is no longer supported properly and if you mange to get us running do be sure to share how with others on Reddit or on our Discord.
 
 ----
 # 1 Your Cord
