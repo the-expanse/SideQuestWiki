@@ -14,7 +14,7 @@ If you are on Version 15 of the Quest OS Unknown sources is in a new location
 Make sure before anything to `use a phone USB cable that can transfer data` instead of the cable that comes with your Quest as the cable that comes with the device generally is cheap and not suited for data transfer, Also note that making a SideQuest account helps in many ways such as with updating your apps as easily as possible so be sure to look into making an account if interested in the wide growing array of QoL features we offer.
 [SIGN UP HERE](https://sidequestvr.com/#/sign-up)
 
-## Windows Video installation tutorial
+## Windows Video Installation Tutorial
 
 [![Video Tutorial](https://cdn.discordapp.com/attachments/615234075778875453/672161163072634880/Screenshot_1254.png)](https://www.youtube.com/watch?v=reH55tb9w84)
 
