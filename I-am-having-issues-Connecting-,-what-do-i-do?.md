@@ -23,7 +23,7 @@ These three solve most issues with a device being plugged in but not connecting 
 
 ### Solution 4 [Run through all setup steps again](https://sidequestvr.com/setup-howto)
 
-### ` For further help see all the information below, nothing is error specific as some errors share Solutions so be sure to try everything and look into each one at least once.`
+### ` For further solutions see below, nothing is error specific as some errors share solutions so be sure to try everything and look into each one at least once.`
 
 Make sure you have installed the proper version of SideQuest from [SideQuestVR.com](https://sidequestvr.com/#/download) correctly before proceeding.
 
