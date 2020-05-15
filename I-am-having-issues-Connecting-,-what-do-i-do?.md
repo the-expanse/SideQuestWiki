@@ -34,11 +34,12 @@ If having issues still double check yo completed all 5 of the required setup ste
 For Windows 7 users
 ----
 
-Windows 7 is an older OS and requires manual installation of drivers so see this link for driver installation instructions.
+Windows 7 (no longer supported) is an older OS and required manual installation of drivers so see this link for driver installation instructions.
 
 https://github.com/the-expanse/SideQuest/wiki/I-Have-Windows-7,-can-i-use-SideQuest%3F
 
 
+Windows 7 how ever is no longer supported properly and if you mange to get us running do be sure to share how with others or on our Discord.
 
 ----
 # 1 Your Cord
