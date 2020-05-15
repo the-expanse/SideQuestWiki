@@ -1,9 +1,9 @@
-## [Supported Devices](https://github.com/the-expanse/SideQuest/wiki/Supported-Devices)
 
-## Having issues connecting or installing?
+# Having issues connecting or installing?
 
+### [Supported Devices](https://github.com/the-expanse/SideQuest/wiki/Supported-Devices)
 
-# If on Windows Windows 10 is Required
+## If on Windows Windows 10 is Required
 
 
 `Note SideQuest is based on the Quest, Non Standalone headsets are not able to work or use SideQuest and should be open and running on your computer when trying to connect`
