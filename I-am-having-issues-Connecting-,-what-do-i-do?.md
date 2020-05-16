@@ -73,7 +73,7 @@ Open your Oculus Application on the device you set your Quest up with and head t
 # 3 No Pop-up in headset to connect
 ----
 
-Several things could cause that, Make sure your guardian is set up and active when looking, a standalone temporary one is fine, if still not showing, even if windows detects it, try a new cable as yours may not fully support data transfer or have been burnt out from prior use and reduced to (Charge only) mode, Also be sure SideQuest is opened and running.
+Several things could cause this issue, Make sure your guardian is set up and active when looking, a standalone temporary one is fine, if still not showing, even if windows detects it, try a new cable as yours may not fully support data transfer or have been burnt out from prior use and reduced to (Charge only) mode, Also be sure SideQuest is opened and running, if all that fails try the below steps
 
 
 
@@ -217,6 +217,11 @@ Antivirus applications such as AVG, Avast, BitDefender or similar programs can i
 
 Note for Mac users you may need to allow SideQuest in your Privacy new settings.
 
+----
+# 17 A new PC user account
+----
+
+You can try to make a new administrator user account for your PC and install SideQuest to the clean desktop of it, if it connects straight away you more then likely have conflicting software on your main computer user account, if unsure how to create a new user on your own PC and operating system best go [HERE](https://www.google.com/search?sxsrf=ALeKk019E5PfkP2rN7OvOdtrz1UA1uBhBw%3A1589591099829&ei=Ozy_XoCXMr7M0PEPjMyn0Ao&q=how+do+i+make+a+new+user+account+for+%28Do+you+use+windows%2C+mac+or+linux%29&oq=how+do+i+make+a+new+user+account+for+%28Do+you+use+windows%2C+mac+or+linux%29&gs_lcp=CgZwc3ktYWIQAzoECAAQRzoECCEQClD_QlifggFgopEBaANwAXgAgAFuiAGAC5IBBDE0LjKYAQCgAQGqAQdnd3Mtd2l6&sclient=psy-ab&ved=0ahUKEwjAoN-mmLfpAhU-JjQIHQzmCaoQ4dUDCAw&uact=5)
 
 ----
 # BMBF issues
