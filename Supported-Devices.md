@@ -3,7 +3,7 @@
 The Oculus Quest is the only fully supported device by SideQuest currently and requires a Computer to install applications and games from SideQuest to a headset, SideQuest is NOT an application that is installed onto the Quest device its self.
 The Oculus GO is not entirely properly supported and we can do little to help if you have any issues installing apps to a Oculus GO but there are a few inbuilt systems to accommodate installing GO game APKs.
 
-### Non-Supported
+### Non-Supported Devices
 
 **Non-supported devices or devices we can not help with are as follows, Chromebooks, Windows-32Bit, Windows-7, Windows-8 Tablets, Nintendo Labo, Vive, GearVR, Index, Google cardboard and any non Standalone, Non-Android, VR capable devices, are all unsupported as well as any PCVR only headset unaffiliated with android as SideQuest can not install an APK (Android Application Package) to a Computer.**
 
