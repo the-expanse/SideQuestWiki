@@ -57,7 +57,7 @@ To properly install the driver software for your device into windows. First Go t
 
 ![](https://cdn.discordapp.com/attachments/608376262347587595/608756299177656320/extract_drivers.png)
 
-Go into the new un-extracted folder,
+After you exact it via the picture above or with Windows built in extract button go into the new un-extracted folder,
 
 ![](https://cdn.discordapp.com/attachments/608376262347587595/608755536984277002/Screenshot_1106.png)
 
