@@ -5,7 +5,7 @@ The Oculus GO is not entirely properly supported and we can do little to help if
 
 ### Non-Supported Devices
 
-**Non-supported devices or devices we can not help with are as follows, Chromebooks, Windows-32Bit, Windows-7, Windows-8 Tablets, Nintendo Labo, Vive, Rift/Rift-S, GearVR and Index
+**Non-supported devices or devices we can not help with are as follows, Chromebooks, Windows-32Bit, Windows-7, Windows-8 Tablets, Nintendo Labo, Vive, Rift/Rift-S, GearVR and Index**
 
 ### Why are these devices unsupported by SideQuest
 Any non Standalone, Non-Android, VR capable devices are unsupported due to how they are made for PC and do not register APKs in any conceivable way, APKs are a specialized format of file made for Android and like trying to run a Windows game on a Mac PC it will not function if installed or ran without ludicrous measures and layers of other programs, PCVR only headsets unaffiliated with android as SideQuest can not install an APK (Android Application Package) to a Computer.**
