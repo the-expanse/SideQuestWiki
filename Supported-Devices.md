@@ -1,7 +1,7 @@
 ### Supported Devices
 
-The Oculus Quest is the only fully supported device by SideQuest currently and requires a Computer to install applications and games from SideQuest to a headset, Both the Oculus GO and Google Cardboard can be used as well but has limitations, SideQuest is NOT an application that is installed onto the Quest device its self.
-The Oculus GO is not entirely properly supported and we can do little to help if you have any issues installing apps to a Oculus GO but there are a few inbuilt systems to accommodate installing GO game APKs.
+The Oculus Quest is the only fully supported device by SideQuest currently and to use it requires a Computer to install applications and games from SideQuest to the headse.
+Both the Oculus GO and Google Cardboard can be used as well but has limitations, SideQuest is NOT an application that is installed onto the Quest device its self. The Oculus GO is not entirely properly supported and we can do little to help if you have any issues installing apps to a Oculus GO but there are a few inbuilt systems to accommodate installing GO game APKs.
 
 ### Non-Supported Devices
 
