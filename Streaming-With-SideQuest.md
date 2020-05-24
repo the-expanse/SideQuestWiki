@@ -19,9 +19,14 @@ After enabling Wireless mode it will think there are two devices connected at on
 There will be no game sound streaming and this feature is highly unlikely at all let alone any time soon so you will need an alternative solution none of which do not require some sort of hardware.
 
 ### Alternative Audio Solutions
+`Note that all solutions require purchasing external software or hardware
 
-You can use a Bluetooth transmitter plugged into your headset and a Bluetooth receiver hooked to your PC which shouldn't have notable lag at all with a good quality one (Always check the reviews if looking for good ones), Else you can use a proper physical AUX audio cable from your headsets headphone jack to your PC to allow transmission of in game sounds along side the Video.
+You can use a Bluetooth transmitter plugged into your headset and a Bluetooth receiver hooked to your PC which shouldn't have notable lag at all with a good quality one (Always check the reviews if looking for good ones), Else you can use a proper physical AUX audio cable from your headsets headphone jack to your PC to allow transmission of in game sounds along side the Video or paying for AirReceiver which is well worth it if you plan to stream regularly and does both Audio and Video with minimal lag in great quality and requires little setup.
 
+
+## **AirReciever Video tutorial**
+
+[![Wireless Casting](https://cdn.discordapp.com/attachments/615234075778875453/714046991625224272/Screenshot_1678.png)](https://www.youtube.com/watch?v=s_0t593Ql1w)
 
 ### Cropping
 The SideQuest streamer has it set to auto crop the original video usually sent to SCRCPY due to it being unsuitable for streaming to begin with, but you can change the crop to your liking in the settings and mess about with it.
