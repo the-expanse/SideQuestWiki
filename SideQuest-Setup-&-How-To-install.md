@@ -55,6 +55,12 @@ To properly install the driver software for your device into windows. First Go t
 
 `(Though it may say it is for an Oculus GO The Oculus Go drivers work for the Quest as well)`
 
+Extract them with either the inbuilt windows extractor as seen below
+
+![](https://cdn.discordapp.com/attachments/615234075778875453/714213057529774090/Screenshot_1661.png)
+
+Or 7-Zip which you can install from https://www.7-zip.org/ (WinRar not suggested)
+
 ![](https://cdn.discordapp.com/attachments/608376262347587595/608756299177656320/extract_drivers.png)
 
 After you exact it via the picture above or with Windows built in extract button go into the new un-extracted folder,
