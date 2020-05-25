@@ -144,7 +144,7 @@ If so far nothing else has worked the next thing to attempt would be a Driver re
 [SideQuests Driver Re-installation tutorial](https://www.reddit.com/r/sidequest/comments/dsebyq/cant_connect_to_sidequest_tried_everything_ive/)
 
 ----
-# 13 Force connect with CMD
+# 13 Force connect with CMD/Terminal 
 ----
 
 ### For both Mac and Windows
