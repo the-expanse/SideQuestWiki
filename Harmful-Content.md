@@ -2,7 +2,7 @@
 
 What is "SafeSide"
 ----
-We welcome you to SafeSide, Our self coded archive system created to have a firewall system against piracy and virus's, We have put a lot of time and effort into the system getting it into place out of necessity and in order to prevent installation of dangerous or illegal content for the good of all SideQuest users and there is no "off" switch or continue anyways button, Though if you find an APK that should be considered safe you can report it as incorrectly flagged in error, see below for more information.
+We welcome you to SafeSide, Our self coded archive system created to have a firewall system against piracy and virus's, We have put a lot of time and effort into the system getting it into place out of necessity and in order to prevent installation of dangerous or illegal content against the Oculus ToS (or Terms Of Service) for the good of all SideQuest users and our own safety, there is no "off" switch or continue anyways button, Though if you find an APK that should be considered safe you can report it as incorrectly flagged in error, see below for more information.
 
 Why am I seeing a SafeSide error
 ----
