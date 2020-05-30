@@ -6,7 +6,7 @@
 ## If on Windows, Windows 10 is Required
 
 
-`Note SideQuest is based on the Quest, Non Standalone headsets are not able to work or use SideQuest and should be open and running on your computer when trying to connect`
+`Note SideQuest is based on and for the Oculus Quest and that Non Standalone headsets that do not use Android or have their own built in storage are not able to work with or utilize SideQuest, be sure when plugging in your Quest that SideQuest is open and running on your computer when trying to connect`
 
 If not seeing green dot and the phrase (Connected) top left inside SideQuest and instead finding it to be a yellow dot, or have multiple devices connected but are unable to connect your Quest properly to install for some reason try to enable wireless mode before disconnecting your headset prior to installation, if you are in Wireless mode and it should resolve most issues else try the solutions below.
 
