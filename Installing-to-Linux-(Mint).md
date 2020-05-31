@@ -14,8 +14,10 @@ SUBSYSTEM="usb", ATTR{idVendor}=="2833", ATTR{idProduct}=="0186", MODE="0660" gr
 Kill and restart the server a few times
 
 `sudo adb kill-server`
+
 Then
-`sudo adb start-server'
+
+`sudo adb start-server`
 Respectively 
 
 And finally type in
