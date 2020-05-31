@@ -1,3 +1,5 @@
+Chromebooks are no longer supported directly but you can try the below and see if you can get running.
+
 In Chromebooks settings you will need to enable Linux support. This will install the terminal cmd line
  
  Then just go into Sidequest folder.
