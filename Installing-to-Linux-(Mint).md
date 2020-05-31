@@ -5,9 +5,10 @@ Try the below and it may help connect.
 
 First off to install adb type in
 
-`sudo apt install ad`
+`sudo apt install adb`
 Then create a rule
-`/etc/udev/rules.d/50-oculus.rules`
+
+`sudo nano /etc/udev/rules.d/50-oculus.rules`
 
 `SUBSYSTEM="usb", ATTR{idVendor}=="2833", ATTR{idProduct}=="0186", MODE="0660" group="plugdev", symlink+="ocuquest%n"`
 
