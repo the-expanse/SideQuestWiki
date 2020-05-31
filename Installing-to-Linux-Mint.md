@@ -1,7 +1,5 @@
 If you see 
-`Warning: no permissions. ADB udev rules missing`
-
-Try the below and it may help connect.
+`Warning: no permissions. ADB udev rules missing` and are on linux you can attenpt the below commands and it may help connect.
 
 First off to install adb type in
 
