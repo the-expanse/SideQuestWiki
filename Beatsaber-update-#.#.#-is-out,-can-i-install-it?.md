@@ -1,5 +1,4 @@
-During updates because Beat On has yet to get updated to accommodate the new Beatsaber patch,
-it is suggested to wait for Beat On to be updated before installing any update to Beatsaber if you wish to continue playing and using your custom songs and mods at all as most times they will not function whatsoever with updates to Beatsaber until Beat On is patched as well, the system will continue to ask you to update but if you wish to be sure not to loose your ability to install and play with custom materials you can choose to ignore it until Beat On its self receives an update, 
+During updates if BMBF has yet to get updated to accommodate a new Beatsaber patch, it is suggested to wait for BMBF to be updated before installing any update to Beatsaber if you wish to continue playing and using your custom songs and mods at all as most times they will not function whatsoever with updates to Beatsaber until BMBF is patched as well, the system will continue to ask you to update but if you wish to be sure not to loose your ability to install and play with custom materials you can choose to ignore it until BMBF its self receives an update, 
 when it dose so which you can find in SideQuests after [MAKING A USER ACCOUNT](https://sidequestvr.com/#/login) logging into it and heading to your DASHBOARD as seen below after logging in.
 
 ![](https://cdn.discordapp.com/attachments/581519549027844106/616763372603572414/Dashboard_zoomed.png)
@@ -9,7 +8,7 @@ when it dose so which you can find in SideQuests after [MAKING A USER ACCOUNT](h
 
 # Check [HERE]( https://github.com/the-expanse/SideQuest/wiki/Installing-Beatsabers-updates--Fixing-%22App-X-not-installed%22-beat-on-error)
 
-Otherwise if BeatSaber claims it is out of date even after updating it, This generally only occurs with improper re-installation of Beat on after the update to Beatsaber, You will require a clean install of a Purchased Beatsaber copy from the official Oculus store to update properly as well as to un and reinstall Beat On, to start uninstalling properly You need to first go to the Apps tab in SideQuest click here
+Otherwise if BeatSaber claims it is out of date even after updating it, This generally only occurs with improper re-installation of BMBF after the update to Beatsaber, You will require a clean install of a Purchased Beatsaber copy from the official Oculus store to update properly as well as to un and reinstall BMBF, to start uninstalling properly You need to first go to the Apps tab in SideQuest click here
 
 ![](https://cdn.discordapp.com/attachments/608376262347587595/608407563263803396/Screenshot_1081.png)
 
@@ -33,7 +32,7 @@ after backing up your scores, uninstall Beatsaber with the `Uninstall` button as
 
 
 
-After uninstalling Beatsaber Back out and uninstall Beat On as well from the `My Apps` tab, 
+After uninstalling Beatsaber Back out and uninstall BMBF as well from the `My Apps` tab, 
 ### Make sure it is removed properly, and is no longer visible in `My Apps`
 
 ![](https://cdn.discordapp.com/attachments/608376262347587595/608398315914133520/Screenshot_1080.png)
@@ -44,14 +43,15 @@ then proceed to reinstall Beatsaber from the Oculus store. You can then restore 
 
 ![](https://cdn.discordapp.com/attachments/608376262347587595/608410316706938900/backups.png)
 
-Then install and Beat On by clicking 
+Then install and BMBF by clicking 
 
- [![](https://cdn.discordapp.com/attachments/608376262347587595/610258661109006347/Screenshot_1198.png)](https://sidequestvr.com/#/app/14) 
+going to https://bmbf.dev/ 
+and installing the latest
 
 
-After reinstalling everything go into your headset and head to under Oculus TV, scroll down and Open Beat On then let it patch your Beatsaber game once more, your playlist and songs will ask to be restored automatically upon launch of Beat On after reinstalling it and Beatsaber.
+After reinstalling everything go into your headset and head to under Oculus TV, scroll down and Open BMBF then let it patch your Beatsaber game once more, your playlist and songs will ask to be restored automatically upon launch of BMBF after reinstalling it and Beatsaber.
 
-Your playlist and songs will ask to be restored automatically upon launch of Beat On after reinstalling it and Beatsaber, then you should be set, if not you can attempt to recover them using `Recover songs` but it is again ill advised unless you want to risk it.
+Your playlist and songs will ask to be restored automatically upon launch of BMBF after reinstalling it and Beatsaber, then you should be set, if not you can attempt to recover them using `Recover songs` but it is again ill advised unless you want to risk it.
 
 If you don't see the (save game data button) and only see (Save SD card data) you are on an old version of SideQuest, be sure to update SideQuest from [Here](https://sidequestvr.com/#/setup-howto)
 
