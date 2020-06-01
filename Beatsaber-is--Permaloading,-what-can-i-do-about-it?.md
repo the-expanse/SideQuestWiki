@@ -2,7 +2,8 @@ If your game of Beatsaber is Perma-loading with the
 
  ![](https://cdn.discordapp.com/attachments/608376262347587595/608578090410704897/3dots.png) 
 
-Loading screen, try restarting your headset first before anything and reopen Beatsaber,
+Loading screen, try clearing your games "App data" in SideQuests app management (Square of 9 squares) tab in the Beatsaber settings (Gear icon) and uninstalling it before restarting your headset first before anything and reopen Beatsaber then clean reinstalling it and running it before trying to install and run the most recent BMBF in headset again to repatch it and reinstall your mods and songs.
+
 If the issue persists double check you have given it storage permission by going to your library in headset and clicking the 3 dot icon on Beatsabers icon, then locating and allowing storage permissions, then reboot your headset and try again.
 Failing that you can attempt to Uninstall
 [(CLICK HERE)](https://github.com/the-expanse/SideQuest/wiki/.My-apps-won't-uninstall-what's-wrong%3F)
