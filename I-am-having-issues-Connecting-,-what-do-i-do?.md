@@ -1,7 +1,7 @@
 
 # Having issues connecting or installing?
 
-### [Supported Devices](https://github.com/the-expanse/SideQuest/wiki/Supported-Devices)
+### [List of Supported Devices](https://github.com/the-expanse/SideQuest/wiki/Supported-Devices)
 
 ## If on Windows, Windows 10 is Required
 
@@ -95,7 +95,7 @@ it is possible if you use LINK that your headset is upon being plugged into your
 # 6 Conflicting ADB version (Windows only)
 ----
 
-If you have used android devices before it is possible you have already installed a program called ADB.exe, this program is core to how SideQuest connects to the Quest and if there is another version installed on a PC it can cause cascading effects resulting in many connection issues from inconsistent installations to not connecting at all, to try to fix such issues when you start your PC go to your Windows file explorer (not Internet Explorer), on the left side locate "This PC" and open it so you can see your main computer drive, after you open "this PC" click the `Search` bar top left of the popup, then in the search box type in `ADB.exe`, if more than one shows up select each one, right click them and click delete, if one is in use open "Task manager" and locate ADB.exe and select it then select "End process" and try again, it should be able to be deleted then. If not remember what folder the file was in, restart your PC and immediately find and remove it before starting any program it may be associated with. After you have removed any conflicting ADB.exe programs restart SideQuest and it will reinstall ADB.exe automatically and should function normally unless there is another cause of the issue.
+If you have used android devices before it is possible you have already installed a program called ADB.exe, this program is core to how SideQuest connects to the Quest and if there is another version installed on a PC it can cause cascading effects resulting in many connection issues, from inconsistent installations, to not connecting at all. To try to fix such issues when you start your PC go to your Windows file explorer (not Internet Explorer), on the left side in the file explorer locate "This PC" and open it so you can see your main computer drive, after you open "this PC" click the `Search` bar top right of the popup, then in the search box type in `ADB.exe` and let it load for a bit, If more than one file or folder mentioning ADB shows up select each one, right click them all and click delete, If one is in use and is unable to be uninstalled open your windows "Task manager" and locate ADB.exe and select it then select "End process" and try again, it should be able to be deleted then. If not remember what folder the file was in, restart your PC and immediately find and remove it before starting any program it may be associated with. After you have removed any conflicting ADB.exe programs restart SideQuest and it will reinstall ADB.exe automatically and should function normally unless there is another cause of the issue.
 
 ----
 # 7 Android Emulators and Routers
