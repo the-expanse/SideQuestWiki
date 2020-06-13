@@ -45,7 +45,7 @@ Windows 7 how ever is no longer supported properly and if you mange to get us ru
 # 1 Reinstall SideQuest
 ----
 First thing to try is the simplest, try uninstalling then Re:installing SideQuest completely from
-[SideQuestVR.com/Download](https://sidequestvr.com/setup-howto) for your OS and run it again to see if it connects after 10 seconds or so.
+[SideQuestVR.com/Download](https://sidequestvr.com/setup-howto) for your OS and run it again to see if it connects after 10 seconds or so, this solution is for any issue and well worth trying, sometimes a reinstall is all it takes to solve a bug or a glitch.
 
 ----
 # 2 Your Cord
