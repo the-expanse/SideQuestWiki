@@ -16,7 +16,7 @@ These three solve most issues with a device being plugged in but not connecting 
 
 ### Solution 1 [ Try another cable, preferably USB2 NOT USB 3]( https://github.com/the-expanse/SideQuest/wiki/I-am-having-issues-Connecting-,-what-do-i-do%3F#2-your-cord)
 
-### Solution 2 [Attempt to toggle developer mode](https://github.com/the-expanse/SideQuest/wiki/I-am-having-issues-Connecting-,-what-do-i-do%3F#2-developer-mode-toggling)
+### Solution 2 [Attempt to toggle developer mode](https://github.com/the-expanse/SideQuest/wiki/I-am-having-issues-Connecting-,-what-do-i-do%3F#3-developer-mode-toggling)
 
 ### Solution 3 [Double check you have properly installed the Quest drivers](https://github.com/the-expanse/SideQuest/wiki/SideQuest-Setup-&-How-To-install#step-3-important-install-drivers-windows-users-only)
 
