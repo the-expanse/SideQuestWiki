@@ -1,11 +1,14 @@
-# Important information when getting started or if having issues
+# Important Information for Newbies or if Having Issues
 
 ## - [SideQuest Setup & How to Install Guide](https://github.com/the-expanse/SideQuest/wiki/SideQuest-Setup-&-How-To-install)
 
 ## - [SideQuest Connection Issue or Error Solution Page](https://github.com/the-expanse/SideQuest/wiki/I-am-having-issues-Connecting-,-what-do-i-do%3F)
 #### (A page to help with issues or errors when trying to connect to or downloading with SideQuest)
 
-# How to submit APKs to SideQuest for Developers
+-----
+
+# How to Submit APKs to SideQuest for Developers
+
 ----
 ## - [How To Submit Games and Apps to Sidequest](https://github.com/the-expanse/SideQuest/wiki/How-To-Submit-Games)
 
@@ -39,7 +42,7 @@
 #### - [Quest update causing connection issues](https://github.com/the-expanse/SideQuest/wiki/Updated-my-Quest-recently-and-now-it-won%27t-connect-to-SideQuest)
 
 
-**Common issues and solutions**
+**Common Issues and Solutions**
 ---
 
 #### - [Why Can't I Update My Official Quest Apps Like Beastsaber Now](https://github.com/the-expanse/SideQuest/wiki/Why-can't-i-update-my-Official-Oculus-Apps)
@@ -49,7 +52,7 @@
 #### - [ Where can i find externally downloaded APKs in my headset](https://github.com/the-expanse/SideQuest/wiki/How-to-use-2D-APKs-such-as-phone-Apps-from-outside-of-Sidequest)
 ---
 
-**Errors, Fixes and information**
+**Errors, Fixes and Information**
 ---
 
 #### - [SideQuest Error: INSTALL FAILED UPDATE INCOMPATIBLE](https://github.com/the-expanse/SideQuest/wiki/INSTALL_FAILED_UPDATE_INCOMPATIBLE)
