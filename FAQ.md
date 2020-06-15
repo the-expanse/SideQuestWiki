@@ -1,4 +1,4 @@
-# Important information when getting started
+# Important information when getting started or if having issues
 
 ## - [SideQuest Setup & How to Install Guide](https://github.com/the-expanse/SideQuest/wiki/SideQuest-Setup-&-How-To-install)
 
