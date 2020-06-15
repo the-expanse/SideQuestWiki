@@ -14,7 +14,7 @@ If not seeing green dot and the phrase (Connected) top left inside SideQuest and
 
 These three solve most issues with a device being plugged in but not connecting to SideQuest.
 
-### Solution 1 [ Try another cable, preferably USB2 NOT USB 3]( https://github.com/the-expanse/SideQuest/wiki/I-am-having-issues-Connecting-,-what-do-i-do%3F#1-your-cord)
+### Solution 1 [ Try another cable, preferably USB2 NOT USB 3]( https://github.com/the-expanse/SideQuest/wiki/I-am-having-issues-Connecting-,-what-do-i-do%3F#2-your-cord)
 
 ### Solution 2 [Attempt to toggle developer mode](https://github.com/the-expanse/SideQuest/wiki/I-am-having-issues-Connecting-,-what-do-i-do%3F#2-developer-mode-toggling)
 
