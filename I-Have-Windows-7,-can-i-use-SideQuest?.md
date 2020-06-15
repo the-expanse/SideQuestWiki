@@ -1,7 +1,7 @@
 # Windows 7 and 8 or 8.1 are known to no longer work due to an Oculus driver update making them non functional, apologies.
 
  
-The below information is provided as is and without warranty as SideQuest does not have much ability to directly support Windows 7 or either of the Windows 8 operating systems but there are a few things you can try. The most issue is usually the driver installation of which sadly Oculus themselves have since dropped support for so the below may do little but you can certainly still attempt it.
+The below information is provided as is and without warranty as SideQuest does not have any ability to directly support Windows 7 or either of the Windows 8 operating systems anymore.
 
 
 ## First thing to try
