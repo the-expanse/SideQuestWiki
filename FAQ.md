@@ -1,14 +1,17 @@
-# [SideQuest Setup & How to Install Guide](https://github.com/the-expanse/SideQuest/wiki/SideQuest-Setup-&-How-To-install)
+# Important information when getting started
+
+## - [SideQuest Setup & How to Install Guide](https://github.com/the-expanse/SideQuest/wiki/SideQuest-Setup-&-How-To-install)
 
 ## - [SideQuest Connection Issue or Error Solution Page](https://github.com/the-expanse/SideQuest/wiki/I-am-having-issues-Connecting-,-what-do-i-do%3F)
-##### (A page to help with issues or errors when trying to connect to or downloading with SideQuest)
+#### (A page to help with issues or errors when trying to connect to or downloading with SideQuest)
 
+# How to submit APKs to SideQuest for Developers
 ----
-## - [How To Submit Games/Apps/Mods to Sidequest](https://github.com/the-expanse/SideQuest/wiki/How-To-Submit-Games)
+## - [How To Submit Games and Apps to Sidequest](https://github.com/the-expanse/SideQuest/wiki/How-To-Submit-Games)
 
 ## - [What is SafeSide and why can i not install my APK](https://github.com/the-expanse/SideQuest/wiki/Harmful-Content)
 
-**About SideQuest And Its Installation Procedures**
+**About SideQuest**
 -----
 
 #### - [How to Mass Update Installed Apps and Games With SideQuest](https://github.com/the-expanse/SideQuest/wiki/How-to-Auto-Update-app's-and-mods)
