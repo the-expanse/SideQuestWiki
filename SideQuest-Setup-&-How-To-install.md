@@ -1,11 +1,14 @@
-### SideQuest is for PC only, not Mobile phones or Headsets
+### SideQuest is for PC only, not Mobile Phones or Headsets
 
-# For any connection or installation issues you can check our [Connection Issues and Solutions](https://github.com/the-expanse/SideQuest/wiki/I-am-having-issues-Connecting-,-what-do-i-do%3F) page for known issues and solutions.
+What Is SideQuest and What Does It Allow
 
+`SideQuest is a side-loading application that does not support piracy. SideQuest requires an external device (A PC) in order to side-load games from and applications from the install-able launcher from [SideQuestVR.com](https://sidequestvr.com/setup-howto), Installing SideQuest the application to your actual Quest device to download apps and games all directly within a headset like the official Oculus store without a PC ever again is not something we can do, Also note that the "SideQuest" application within SideQuestVR.com's own App Store is only a 2D game launcher for non nativity supported phone applications and apps installed with SideQuest from on your PC, SideQuest Legends will also not be capable of doing so due to code infringement concerns and security issues.`
+
+## For any connection or installation issues you can check our [Connection Issues and Solutions](https://github.com/the-expanse/SideQuest/wiki/I-am-having-issues-Connecting-,-what-do-i-do%3F) page for known issues and solutions.
+
+To see if the OS of the PC, As well as the headset you arr using are actually supported check out our.
 ## [Supported Devices Page](https://github.com/the-expanse/SideQuest/wiki/Supported-Devices)
 
-
-`SideQuest is a side-loading application and requires an external device (A PC) in order to side-load from, so be aware installing SideQuest to your actual Quest device to download apps and games directly within a headset without a PC again is not possible, the SideQuest application within SideQuests own App Store is only a launcher for apps installed from SideQuest on your PC, SideQuest Legends will also not be capable of doing so due to code infringement concerns and security issues.`
 
 ## Before installation
 
