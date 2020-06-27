@@ -6,7 +6,7 @@ What Is SideQuest and What Does It Allow
 
 ## For any connection or installation issues you can check our [Connection Issues and Solutions](https://github.com/the-expanse/SideQuest/wiki/I-am-having-issues-Connecting-,-what-do-i-do%3F) page for known issues and solutions.
 
-To see if the OS of the PC, As well as the headset you arr using are actually supported check out our.
+To see if the OS of the PC, As well as the headset you are using are both actually supported check out our.
 ## [Supported Devices Page](https://github.com/the-expanse/SideQuest/wiki/Supported-Devices)
 
 
