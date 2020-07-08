@@ -5,7 +5,7 @@
 ## - [SideQuest Connection Issue or Error Solution Page](https://github.com/the-expanse/SideQuest/wiki/I-am-having-issues-Connecting-,-what-do-i-do%3F)
 #### (A page to help with issues or errors when trying to connect to or downloading with SideQuest)
 
-## - [Supported Devices](https://github.com/the-expanse/SideQuest/wiki/Supported-Devices)
+## - [Supported Devices and Operating Systems](https://github.com/the-expanse/SideQuest/wiki/Supported-Devices)
 -----
 
 ## How to Submit APKs to SideQuest for Developers
