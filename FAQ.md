@@ -7,7 +7,7 @@
 
 -----
 
-# How to Submit APKs to SideQuest for Developers
+## How to Submit APKs to SideQuest for Developers
 
 ----
 ## - [How To Submit Games and Apps to Sidequest](https://github.com/the-expanse/SideQuest/wiki/How-To-Submit-Games)
