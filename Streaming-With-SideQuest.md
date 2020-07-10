@@ -30,6 +30,7 @@ You can use a Bluetooth transmitter plugged into your headset and a Bluetooth re
 Windows only (CURRENTLY BROKEN)
 
 [![Wireless Casting](https://cdn.discordapp.com/attachments/615234075778875453/714046991625224272/Screenshot_1678.png)](https://www.youtube.com/watch?v=s_0t593Ql1w)
+
 ===================
 
 ### Cropping
