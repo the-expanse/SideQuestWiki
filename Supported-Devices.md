@@ -6,8 +6,10 @@ Both the Oculus GO and Google Cardboard can be used as well but has limitations,
 ### Supported Connecting PC Operating Systems
 
 **Mac**
+
 **Widnows-10
-**Some Linux versions**
+
+**A Few Linux versions**
 
 ### Non-Supported Connecting Devices
 
