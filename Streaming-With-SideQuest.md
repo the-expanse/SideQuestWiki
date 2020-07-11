@@ -24,7 +24,7 @@ There will be no game sound streaming and this feature is highly unlikely at all
 You can use a Bluetooth transmitter plugged into your headset and a Bluetooth receiver hooked to your PC which shouldn't have notable lag at all with a good quality one (Always check the reviews if looking for good ones), Else you can use a proper physical AUX audio cable from your headsets headphone jack to your PC to allow transmission of in game sounds along side the Video or paying for AirReceiver which is well worth it if you plan to stream regularly and does both Audio and Video with minimal lag in great quality and requires little setup and can be used autonomously from SideQuest.
 
 ==================
-# (CURRENTLY BROKEN)
+# (CURRENTLY BROKEN IN V18 OF OCULUS QUEST)
 
 ## **AirReciever Video tutorial**
 Windows only (CURRENTLY BROKEN)
