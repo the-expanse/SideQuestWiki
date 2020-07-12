@@ -91,7 +91,7 @@ Several things could cause this issue, Make sure your guardian is set up and act
 ## 5 Power cycling your devices 
 ----
 
-Sometimes the best thing to try is a proper device power cycle of all devices involved. To do this start by unplugging your headset and turning your PC off completely to make sure all processes including ADB.exe, as well as any other possibly  conflicting software have entirely shut down, make sure you do not `Reboot` and have turned the computer completely off then wait a few seconds. After rebooting the PC proceed to hard reboot your headset by holding the power button for at least 7 seconds and wait over 5 seconds before re-powering it to be sure both systems are clean started, then re-open SideQuest on your PC and once more to try connect again to see if the issue has resolved.
+Next thing to try is unplugging your headset and turning your PC off completely to make sure all processes of ADB as well as any conflicting processes cease, make sure you do not `Reboot`, Turn the computer completely off and wait a few seconds, Also Hard reboot your headset by holding the power button for at least 15 seconds before restating it to be sure both systems are prepped, then turn your PC back on before re-opening SideQuest and trying once more to try connecting again. Sometimes the best thing to do is a proper device power cycle of all devices involved, make sure you do not `Restart` any devices and have powered them off entirely then waited a few seconds after starting SideQuest back up to try connect again and see if the issue has resolved.
 
 ----
 ## 6 If you use or have Oculus LINK
@@ -118,13 +118,8 @@ For Routers, always connect your headset directly to the same router as your PC 
 ###### For programs such as [BMBF](https://github.com/the-expanse/SideQuest/wiki/BMBF)(Beat Ons standalone replacement) you can install and manage songs in headset to avoid issues with that application specifically.
 
 ----
-## 9 Power cycling your devices 
-----
 
-Next thing to try is unplugging your headset and turning your PC off completely to make sure all processes of ADB as well as any conflicting processes cease, make sure you do not `Reboot`, Turn the computer completely off and wait a few seconds, Also Hard reboot your headset by holding the power button for at least 15 seconds before restating it to be sure both systems are prepped, then turn your PC back on before re-opening SideQuest and trying once more to try connecting again.
-
-
-## 10 Resetting your ADB connection 
+## 9 Resetting your ADB connection 
 
 To reset your connection just click the `Run ADB Commands` button top of SideQuest as seen here
 
@@ -135,26 +130,26 @@ Then click `Disconnect everything` hit `Run Command`,
 Go back again and hit `reset ADB`, then hit `Enable USB ADB` and you should connect.
 
 ----
-## 11 For Wireless Connection 
+## 10 For Wireless Connection 
 ----
 
 Make sure to connect your headset once before you hit the connect button in the wireless connection popup.
 When properly connected SideQuest should show a purple connection dot and then state two devices are connected, that is when you can disconnect your headset, Note that Every time you reboot SideQuest you will need to reconnect this way with a cable for initial connection.  Make sure your headset is on and connected to the same Wi-Fi network but otherwise you should now be capable of cordless installation, you can also while connected this way if away from home and logged into a SideQuest account install games from a phone or alternate PC from the SideQuestVR.com website.
 
 ----
-## 12 Properly clean install from scratch
+## 11 Properly clean install from scratch
 ----
 SideQuest uses some folders that are a bit hard to find or remove some times so to make sure everything is in order Install the [SideQuest Force Uninstaller](https://github.com/the-expanse/SideQuest/wiki/Force-Uninstaller-for-SideQuest) from that blue link text and install then run the program there, then reinstall the latest SideQuest again, this will remove any residual files, folders and settings that may be causing issues.
 
 ----
-## 13 Driver Re-installation
+## 12 Driver Re-installation
 ----
 
 If so far nothing else has worked the next thing to attempt would be a Driver re-installation, see how to do so at
 [SideQuests Driver Re-installation tutorial](https://www.reddit.com/r/sidequest/comments/dsebyq/cant_connect_to_sidequest_tried_everything_ive/)
 
 ----
-## 14 Force connect with CMD/Terminal 
+## 13 Force connect with CMD/Terminal 
 ----
 
 ### For both Mac and Windows
@@ -189,7 +184,7 @@ If you see
 Then open up task manager and kill the adb.exe process by clicking it, then hitting end task for windows, else try the commands - taskkill /f /im adb.exe
 
 ----
-## 15 Manual re-installation of the necessary Platform Tools folder
+## 14 Manual re-installation of the necessary Platform Tools folder
 ----
 
 Failing the above all the above (Windows only) Try reinstalling the ADB Platform Tools folder manually
@@ -207,7 +202,7 @@ Then in SideQuest head to settings
 Then at the top of the page click `Open Main App` folder, remember the folder location and log out and back in to your PC's account, then navigate back to the folder manually using Windows file explorer (Not SideQuest) and look for the `Platform tools` Folder, delete the entire folder then move the extracted new platform tools folder you downloaded and extracted into its place, when finished reboot SideQuest and try once more to connect your headset.
 
 ----
-## 16 Possible conflicting Software or VPNs
+## 15 Possible conflicting Software or VPNs
 ----
 
 ![](https://cdn.discordapp.com/attachments/608376262347587595/609881862956908564/Screenshot_1164.png)
@@ -218,7 +213,7 @@ If you're using Bluestacks, NOX or an android emulator and are having connection
 #### [How to properly uninstall BlueStacks](https://github.com/the-expanse/SideQuest/wiki/BlueStacks-is-causing-issues,-how-do-i-remove-it)
 
 ----
-## 17 Antivirus Systems
+## 16 Antivirus Systems
 ----
 
 ![](https://cdn.discordapp.com/attachments/608376262347587595/609882817962442752/Screenshot_1165.png)
@@ -228,7 +223,7 @@ Antivirus applications such as AVG, Avast, BitDefender or similar programs can i
 Note for Mac users you may need to allow SideQuest in your Privacy new settings.
 
 ----
-## 18 A new PC user account
+## 17 A new PC user account
 ----
 
 You can try to make a new administrator user account for your PC and install SideQuest to the clean desktop of it, if it connects straight away you more then likely have conflicting software on your main computer user account, if unsure how to create a new user on your own PC and operating system best go [HERE](https://www.google.com/search?sxsrf=ALeKk019E5PfkP2rN7OvOdtrz1UA1uBhBw%3A1589591099829&ei=Ozy_XoCXMr7M0PEPjMyn0Ao&q=how+do+i+make+a+new+user+account+for+%28Do+you+use+windows%2C+mac+or+linux%29&oq=how+do+i+make+a+new+user+account+for+%28Do+you+use+windows%2C+mac+or+linux%29&gs_lcp=CgZwc3ktYWIQAzoECAAQRzoECCEQClD_QlifggFgopEBaANwAXgAgAFuiAGAC5IBBDE0LjKYAQCgAQGqAQdnd3Mtd2l6&sclient=psy-ab&ved=0ahUKEwjAoN-mmLfpAhU-JjQIHQzmCaoQ4dUDCAw&uact=5)
