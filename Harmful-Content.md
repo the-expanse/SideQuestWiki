@@ -1,4 +1,6 @@
-# Welcome to SafeSide
+# Welcome to SafeSide 
+
+Our Anti-Piracy/Virus defense system.
 
 What is "SafeSide" and what can i do about this "Harmful content" error
 ----
