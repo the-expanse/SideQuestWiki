@@ -2,7 +2,7 @@
 
 ## - [SideQuest Detailed Setup & How to Install Guide](https://github.com/the-expanse/SideQuest/wiki/SideQuest-Setup-&-How-To-install)
 
-## - [SideQuest Connection Issue or Error Solution Page](https://github.com/the-expanse/SideQuest/wiki/I-am-having-issues-Connecting-,-what-do-i-do%3F)
+# - [SideQuest Connection Issue or Error Solution Page](https://github.com/the-expanse/SideQuest/wiki/I-am-having-issues-Connecting-,-what-do-i-do%3F)
 #### (A page to help with issues or errors when trying to connect to or downloading with SideQuest)
 
 ## - [Supported Devices and Operating Systems](https://github.com/the-expanse/SideQuest/wiki/Supported-Devices)
