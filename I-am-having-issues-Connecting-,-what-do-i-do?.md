@@ -12,7 +12,9 @@ If not seeing green dot and the phrase (Connected) top left inside SideQuest and
 
 #### Quick solutions
 
-These three solve most issues with a device being plugged in but not connecting to SideQuest.
+These solutions solve most issues with a device being plugged in but not connecting to SideQuest.
+
+Be sure to try turning your headset off for 5 seconds then back on every few setup if stuck.
 
 ### Solution 1 [ Try another cable, preferably USB2 NOT USB 3]( https://github.com/the-expanse/SideQuest/wiki/I-am-having-issues-Connecting-,-what-do-i-do%3F#2-your-cord)
 
