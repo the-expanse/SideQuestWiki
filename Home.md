@@ -1,5 +1,7 @@
 ## New Wiki/Knowledge base
-This wiki is now outdated and is maintained for archive purposes only.Check our new knowledge base here - [New Service Desk & Knowledge base](https://sdq.st/support)
+This wiki is now outdated and is maintained for archive purposes only.Check our new knowledge base here:
+
+[New Service Desk & Knowledge base](https://sdq.st/support)
 
 <!--
 
