@@ -1,3 +1,5 @@
+<!--
+
 [Home](https://github.com/the-expanse/SideQuest/wiki) |
 [FAQ](https://github.com/the-expanse/SideQuest/wiki/FAQ) |
 [Website](https://sidequestvr.com) |
@@ -8,3 +10,4 @@
 
 
 ###### Wiki page overseen by Shane Harris, Maintained by Chibi Blaziken
+-->
