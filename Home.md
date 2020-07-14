@@ -1,3 +1,8 @@
+## New Wiki/Knowledge base
+This wiki is now outdated and is maintained for archive purposes only.Check our new knowledge base here - [New Service Desk & Knowledge base](https://sdq.st/support)
+
+<!--
+
 ## [`FAQ`](https://github.com/the-expanse/SideQuest/wiki/FAQ) |  [`Website`](https://sidequestvr.com) |  [`Patreon`](https://www.patreon.com/TheExpanseVR) | [`Paypal`](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=744A6C394Q8JG&source=url) | [`Submit Games`](https://github.com/the-expanse/SideQuest/wiki/How-To-Submit-Games)
 
 # Welcome to the [SideQuest](https://sidequestvr.com/#/what-is-sidequest) HELP Page!
@@ -11,3 +16,4 @@ Thanks so much for your continued support. If you need help and can't find the a
 
 ### [Install SideQuest](https://sidequestvr.com/#/download)
 
+-->
