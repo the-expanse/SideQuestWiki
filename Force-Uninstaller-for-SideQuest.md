@@ -13,7 +13,8 @@ Running it will let the program force remove any traces of SideQuests old folder
 
 If you have a SideQuest account you will have to log back in so be sure you remember your password or have access to it, else you can reset the password before uninstalling in your user dashboard without any issue.
 
-## If the above alone does not resolve your issue.
+## An extra step to be safe
+`This is also for for if the above alone does not resolve your issue.`
 
 Close SideQuest and rename this folder
 `C:\Users\`YOUR ACCOUNT NAME`\AppData\Roaming\SideQuest`
