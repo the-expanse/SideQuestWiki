@@ -1,9 +1,11 @@
 # Important Information for Newbies or if Having Issues
 
 
-# See the [SideQuest Help Desk](https://sdq.st/support) for support, else check the below for assistance
+## See the [SideQuest Support Desk](https://sdq.st/support) for support, else check the below for tip's fixes, connection issues and help.
  
-# - [SideQuest Connection Issue or Error Solution Page](https://github.com/the-expanse/SideQuest/wiki/I-am-having-issues-Connecting-,-what-do-i-do%3F)
+----
+
+## - [SideQuest Connection Issue or Error Solution Page](https://github.com/the-expanse/SideQuest/wiki/I-am-having-issues-Connecting-,-what-do-i-do%3F)
 #### (A page to help with issues or errors when trying to connect to or downloading with SideQuest)
 
 ----
