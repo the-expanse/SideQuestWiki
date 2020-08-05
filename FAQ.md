@@ -15,7 +15,7 @@
 ## - [Supported Devices and Operating Systems](https://github.com/the-expanse/SideQuest/wiki/Supported-Devices)
 -----
 
-## How to Submit APKs to SideQuest for Developers
+## DEVELOPERS: How to Submit APKs and Games to SideQuest
 
 ----
 ## - [How To Submit Games and Apps to Sidequest](https://github.com/the-expanse/SideQuest/wiki/How-To-Submit-Games)
