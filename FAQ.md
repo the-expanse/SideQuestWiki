@@ -1,7 +1,7 @@
 # Important Information for Newbies or if Having Issues
 
 
-## See the [SideQuest Support Desk](https://sdq.st/support) for support, else check the below for tip's fixes, connection issues and help.
+## See the [OFFICIAL SideQuest Support Desk](https://sdq.st/support) for support, else check the below for tip's fixes, connection issues and help.
  
 ----
 
