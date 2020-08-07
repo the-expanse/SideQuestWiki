@@ -1,15 +1,14 @@
+----
+# WARNING, OUTDATED INFORMATION.
+----
+
 ## Windows 7 and 8 or 8.1 are known to no longer work due to an Oculus driver update making them non functional, apologies.
 
 
-===================================================
-=======
 ### The below information is saved for archival purposes only as SideQuest does not have any ability to directly support Windows 7 or either of the Windows 8 operating systems anymore.
 
-===========================================================================================================
 
-# WARNING, OUTDATED INFORMATION.
-
-#### First thing to try
+#### First thing you could have to tried
 
 You can attempt install of the official Oculus software from https://www.oculus.com/setup/ to help install the needed drivers and start connecting to your Quest properly, after installing and running just close the software and launch SideQuest from your computer to see if your set up properly
 
