@@ -1,19 +1,24 @@
-# Windows 7 and 8 or 8.1 are known to no longer work due to an Oculus driver update making them non functional, apologies.
-
- 
-The below information is provided as is and without warranty as SideQuest does not have any ability to directly support Windows 7 or either of the Windows 8 operating systems anymore.
+## Windows 7 and 8 or 8.1 are known to no longer work due to an Oculus driver update making them non functional, apologies.
 
 
-## First thing to try
+===================================================
+=======
+### The below information is saved for archival purposes only as SideQuest does not have any ability to directly support Windows 7 or either of the Windows 8 operating systems anymore.
+
+===========================================================================================================
+
+# WARNING, OUTDATED INFORMATION.
+
+#### First thing to try
 
 You can attempt install of the official Oculus software from https://www.oculus.com/setup/ to help install the needed drivers and start connecting to your Quest properly, after installing and running just close the software and launch SideQuest from your computer to see if your set up properly
 
-## This guide is for Windows 7 manual installation
+#### This guide is for Windows 7 manual installation
 
 Windows 7 systems have a good chance to install SideQuest but you will need to install the drivers needed for SideQuest manually.
 First you must go through everything in the [Setup Instructions](https://sidequestvr.com/#/setup-howto) up to step 3, install the folder and extract it as stated in that guide and then install the drives manually as dictated below.
 
-### Simple Manual Drivers installing for Windows 7
+##### Simple Manual Drivers installing for Windows 7
 
 ###### Your Headset must be turned on prior to you connecting it to your Computer and be sure to use a data capable cord/cable, not the cable the Quest was provided with, some cables laying around the house may not be data capable for ADB either so be aware.
 
