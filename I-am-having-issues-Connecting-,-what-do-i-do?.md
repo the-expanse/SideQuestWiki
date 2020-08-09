@@ -23,7 +23,9 @@ If you are unable to install some games only some of the time or specific larger
 # If not seeing green dot and the phrase (Connected) top left inside SideQuest
 ----
 
-#### Quick solutions
+You can be plugged in and not connecting due to many software or hardware factors, here is a quick list of possible fixes. for more solutions and more in depth help check further below these simple quick fixes.
+
+### Quick solutions
 
 These solutions solve most issues with a device being plugged in but not connecting to SideQuest.
 
