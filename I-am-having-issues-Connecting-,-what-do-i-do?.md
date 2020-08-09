@@ -6,13 +6,22 @@
 
 ### [List of Supported Devices](https://github.com/the-expanse/SideQuest/wiki/Supported-Devices)
 ----
+`Note SideQuest is based on and for the Oculus Quest and that Non Standalone headsets that do not use Android or have their own built in storage are not able to work with or utilize SideQuest, be sure when plugging in your Quest that SideQuest is open and running on your computer when trying to connect`
 
 ## If on Windows, Windows 10 is Required
 
+For Windows 7/8/8.1 users
+----
 
-`Note SideQuest is based on and for the Oculus Quest and that Non Standalone headsets that do not use Android or have their own built in storage are not able to work with or utilize SideQuest, be sure when plugging in your Quest that SideQuest is open and running on your computer when trying to connect`
+Windows 7, Windows 8 and Windows 8.1 are all no longer supportable as for one they are all older operating systems, due to an update from Oculus to their Driver and Firmware we can no longer make SideQuest backwards compatible and have no plans to int he future force it.
 
-If not seeing green dot and the phrase (Connected) top left inside SideQuest and instead finding it to be a yellow dot, or have multiple devices connected but are unable to connect your Quest properly to install for some reason try to enable wireless mode before disconnecting your headset prior to installation, if you are in Wireless mode and it should resolve most issues else try the solutions below.
+
+# If some games are not installing properly
+----
+If you are unable to install some games only some of the time or specific larger games like Pavlov are not installing properly for some reason, try to enable wireless mode under the Wifi icon top right, wait for a tiny white arrow to appear at the very top left beside the connection dot  before disconnecting your headset and if you see a green dot appear then attempt installation of the application once more , if you are in Wireless mode it should resolve most issues of inconsistent connections when installing applications, and be sure to give them a good 5 minutes more after they are done installing before launching or restarting your device to let the large installations finish on device being registered to prevent corruption, If this does not help you try the solutions below.
+
+# If not seeing green dot and the phrase (Connected) top left inside SideQuest
+----
 
 #### Quick solutions
 
@@ -36,16 +45,6 @@ Make sure you have installed the proper version of SideQuest from [SideQuestVR.c
 If having issues still double check you completed all 5 of the required setup steps for installing SideQuest [Mandatory setup steps](https://github.com/the-expanse/SideQuest/wiki/SideQuest-Setup-&-How-To-install#step-1-install-sidequest-to-your-computer).
 
 # [Setup Steps](https://sidequestvr.com/#/setup-howto) 
-
-For Windows 7 users
-----
-
-Windows 7 (no longer supported) is an older OS and required manual installation of drivers so see this link for driver installation instructions.
-
-https://github.com/the-expanse/SideQuest/wiki/I-Have-Windows-7,-can-i-use-SideQuest%3F
-
-
-Windows 7 how ever is no longer supported properly and if you mange to get us running do be sure to share how with others on Reddit or on our Discord.
 
 ----
 # Connection Solutions
