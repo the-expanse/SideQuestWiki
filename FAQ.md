@@ -1,5 +1,6 @@
 # Important Information for Newbies or if Having Issues
 
+## [SideQuest's Supported Devices](https://github.com/the-expanse/SideQuest/wiki/Supported-Devices)
 
 ## See the [OFFICIAL SideQuest Support Desk](https://sdq.st/support) for support or check the below links for in depth tips, tricks, fixes, Connection issue solutions and help.
  
