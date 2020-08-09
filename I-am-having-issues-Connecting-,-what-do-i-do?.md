@@ -1,6 +1,9 @@
 
 # Having issues connecting or installing?
 
+
+Be sure to check below for a list of all supported devices SideQuest can be installed to as well as a sub-list of known non supported ones.
+
 ### [List of Supported Devices](https://github.com/the-expanse/SideQuest/wiki/Supported-Devices)
 
 ## If on Windows, Windows 10 is Required
