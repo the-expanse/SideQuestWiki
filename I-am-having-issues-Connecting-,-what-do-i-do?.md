@@ -88,7 +88,7 @@ Open your Oculus Application on the device you set your Quest up with and head t
 ## 4 No Pop-up in headset to connect
 ----
 
-Several things could cause this issue, Make sure your guardian is set up and active when looking, a standalone temporary one is fine, if still not showing, even if windows detects it, try a new cable as yours may not fully support data transfer or have been burnt out from prior use and reduced to (Charge only) mode, Also be sure SideQuest is opened and running, if all that fails try the below steps
+Several things could cause this issue, One thing could be to make sure your guardian is set up and active when looking, a standalone temporary one is fine, if still not showing, even if windows detects it, try a new cable as yours may not fully support data transfer or have been burnt out from prior use and reduced to (Charge only) mode, Also be sure SideQuest is opened and running, if all that fails try the below steps
 
 
 
