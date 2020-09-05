@@ -15,6 +15,10 @@ For Windows 7/8/8.1 users
 
 Windows 7, Windows 8 and Windows 8.1 are all no longer supportable as for one they are all older operating systems, due to an update from Oculus to their Driver and Firmware we can no longer make SideQuest backwards compatible and have no plans to int he future force it.
 
+# Installation location
+----
+SideQuest can NOT be installed to a external or secondary drive it must be installed onto the main drive of the computer (The default being C)
+As well as the Oculus drivers themselves else the program will not function properly if at all when run.
 
 # If some games are not installing properly
 ----
