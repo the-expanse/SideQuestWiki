@@ -1,5 +1,5 @@
 ### Supported Devices for device installation
-##### (The PCVR section on sideQuestVR.com and in the SideQuest application is excluded from certain device restrictions suc as Index's and Vive's)
+##### (Games under the PCVR section on SideQuestVR.com and in the SideQuest application are excluded from certain device restrictions, Such Headsets as the Valve Index and HTC Vive are immune however the PC Operating System installation requirements stand for all devices)
 
 The Oculus Quest as a headset is the only fully supported VR device to SideQuest currently and to use it requires a Computer to install applications and games from SideQuest to the headset.
 Both the Oculus GO and Google Cardboard can be used as well but has limitations, SideQuest is NOT an application that is installed onto the Quest device its self. The Oculus GO is not entirely properly supported and we can do little to help if you have any issues installing apps to a Oculus GO but there are a few inbuilt systems to accommodate installing GO game APKs.
