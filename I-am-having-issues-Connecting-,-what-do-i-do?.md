@@ -8,15 +8,12 @@ If everything at the [Service Desk connection page](https://sidequestvr.atlassia
 ### [List of Supported Devices](https://github.com/the-expanse/SideQuest/wiki/Supported-Devices)
 ----
 `Note SideQuest is based on and for the Oculus Quest and that Non Standalone headsets that do not use Android or have their own built in storage are not able to work with or utilize SideQuest, be sure when plugging in your Quest that SideQuest is open and running on your computer when trying to connect`
-
-## If on Windows, Windows 10 is Required
-
 # Installation location
 ----
 SideQuest can NOT be installed to a external or secondary drive it must be installed onto the main drive of the computer (The default being C)
 As well as the Oculus drivers themselves else the program will not function properly if at all when run.
 
-# If only some games are not installing properly
+## If only some games are not installing properly
 ----
 If you are unable to install some games only some of the time or specific larger games like Pavlov are not installing properly for some reason, try to enable wireless mode under the Wifi icon top right, wait for a tiny white arrow to appear at the very top left beside the connection dot  before disconnecting your headset and if you see a green dot appear then attempt installation of the application once more , if you are in Wireless mode it should resolve most issues of inconsistent connections when installing applications, and be sure to give them a good 5 minutes more after they are done installing before launching or restarting your device to let the large installations finish on device being registered to prevent corruption, If this does not help you try the solutions below.
 
@@ -27,8 +24,16 @@ If having issues still double check you completed all 5 of the required setup st
 # [Setup Steps](https://sidequestvr.com/#/setup-howto) 
 
 ----
-# Connection Solutions
+# Alternative Connection Solutions
 ----
+
+
+----
+## A new PC user account
+----
+
+One super quick fix for most issues is to try making a new "administrator" user account for your PC and install SideQuest to the clean desktop of that user, if it connects straight away you more then likely have conflicting software on your main computer user account or a issue with your USB cable, If unsure how to create a new user on your own PC and operating system best go [HERE](https://www.google.com/search?sxsrf=ALeKk019E5PfkP2rN7OvOdtrz1UA1uBhBw%3A1589591099829&ei=Ozy_XoCXMr7M0PEPjMyn0Ao&q=how+do+i+make+a+new+user+account+for+%28Do+you+use+windows%2C+mac+or+linux%29&oq=how+do+i+make+a+new+user+account+for+%28Do+you+use+windows%2C+mac+or+linux%29&gs_lcp=CgZwc3ktYWIQAzoECAAQRzoECCEQClD_QlifggFgopEBaANwAXgAgAFuiAGAC5IBBDE0LjKYAQCgAQGqAQdnd3Mtd2l6&sclient=psy-ab&ved=0ahUKEwjAoN-mmLfpAhU-JjQIHQzmCaoQ4dUDCAw&uact=5)
+
 ## Reinstall SideQuest
 ----
 First thing to try is the simplest, try uninstalling then Re:installing SideQuest completely from
@@ -178,11 +183,6 @@ Antivirus applications such as AVG, Avast, BitDefender or similar programs can i
 
 Note for Mac users you may need to allow SideQuest in your Privacy new settings.
 
-----
-## A new PC user account
-----
-
-You can try to make a new administrator user account for your PC and install SideQuest to the clean desktop of it, if it connects straight away you more then likely have conflicting software on your main computer user account, if unsure how to create a new user on your own PC and operating system best go [HERE](https://www.google.com/search?sxsrf=ALeKk019E5PfkP2rN7OvOdtrz1UA1uBhBw%3A1589591099829&ei=Ozy_XoCXMr7M0PEPjMyn0Ao&q=how+do+i+make+a+new+user+account+for+%28Do+you+use+windows%2C+mac+or+linux%29&oq=how+do+i+make+a+new+user+account+for+%28Do+you+use+windows%2C+mac+or+linux%29&gs_lcp=CgZwc3ktYWIQAzoECAAQRzoECCEQClD_QlifggFgopEBaANwAXgAgAFuiAGAC5IBBDE0LjKYAQCgAQGqAQdnd3Mtd2l6&sclient=psy-ab&ved=0ahUKEwjAoN-mmLfpAhU-JjQIHQzmCaoQ4dUDCAw&uact=5)
 
 ----
 ## BMBF issues
