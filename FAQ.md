@@ -2,14 +2,14 @@
 
 ## See the [OFFICIAL SideQuest Support Desk](https://sdq.st/support) for support and to leave tickets for manual assistance or check the below links for in depth tips, tricks, fixes, Connection issue solutions and help.
 
-#### Make sure your Device is on the list of Supported devices
+### Make sure your Device is on the list of Supported devices
 ## [SideQuest's Supported Devices](https://github.com/the-expanse/SideQuest/wiki/Supported-Devices)
 
  
 ----
 
 ## - [SideQuest Connection Issue or Error Solution Page](https://github.com/the-expanse/SideQuest/wiki/I-am-having-issues-Connecting-,-what-do-i-do%3F)
-#### (A page to help with issues or errors when trying to connect to or downloading with SideQuest)
+### (A page to help with issues or errors when trying to connect to or downloading with SideQuest)
 
 ----
 
