@@ -39,7 +39,6 @@ One super quick fix for most issues is to try making a new "administrator" user 
 First thing to try is the simplest, try uninstalling then Re:installing SideQuest completely from
 [SideQuestVR.com/Download](https://sidequestvr.com/setup-howto) for your OS and run it again to see if it connects after 10 seconds or so, this solution is for any issue and well worth trying, sometimes a reinstall is all it takes to solve a bug or a glitch.
 
-----
 
 ----
 ## No Pop-up in headset to connect
@@ -81,6 +80,7 @@ For Routers, always connect your headset directly to the same router as your PC 
 ----
 
 ## Resetting your ADB connection 
+----
 
 To reset your connection just click the `Run ADB Commands` button top of SideQuest as seen here
 
@@ -174,7 +174,7 @@ If you're using Bluestacks, NOX or an android emulator and are having connection
 #### [How to properly uninstall BlueStacks](https://github.com/the-expanse/SideQuest/wiki/BlueStacks-is-causing-issues,-how-do-i-remove-it)
 
 ----
-## Antivirus Systems
+## Antivirus Systems issues
 ----
 
 ![](https://cdn.discordapp.com/attachments/608376262347587595/609882817962442752/Screenshot_1165.png)
