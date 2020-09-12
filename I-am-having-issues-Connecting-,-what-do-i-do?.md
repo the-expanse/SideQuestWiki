@@ -15,7 +15,7 @@ As well as the Oculus drivers themselves else the program will not function prop
 
 ## If only some games are not installing properly
 ----
-If you are unable to install some games only some of the time or specific larger games like Pavlov are not installing properly for some reason, try to enable wireless mode under the Wifi icon top right, wait for a tiny white arrow to appear at the very top left beside the connection dot  before disconnecting your headset and if you see a green dot appear then attempt installation of the application once more , if you are in Wireless mode it should resolve most issues of inconsistent connections when installing applications, and be sure to give them a good 5 minutes more after they are done installing before launching or restarting your device to let the large installations finish on device being registered to prevent corruption, If this does not help you try the solutions below.
+If you are unable to install only some of the time or specific larger games like Pavlov or Contractor$ are not installing properly try to enable wireless mode under the Wifi icon top right, after enabled wait for a tiny white arrow to appear at the very top left beside the connection dot  before disconnecting your headset and if you see a green dot appear then attempt installation of the application once more , That should resolve most issues and be sure to give installs of games like that a good 5 minutes more after they are done installing before launching or restarting your device to let the large installations finish on device being registered to prevent corruption, If this does not help you try the solutions below.
 
 Make sure you have installed the proper and most recent version of SideQuest from [SideQuestVR.com](https://sidequestvr.com/#/download) correctly before proceeding.
 
@@ -24,8 +24,8 @@ If having issues still double check you completed all 5 of the required setup st
 # [Setup Steps](https://sidequestvr.com/#/setup-howto) 
 
 ----
-# Alternative Connection Solutions
-----
+
+# Our List of Alternative Connection Solutions
 
 
 ----
