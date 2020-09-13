@@ -1,1 +1,1 @@
-## [OFFICIAL SideQuest Support Desk](https://sdq.st/support)
+[![](https://cdn.discordapp.com/attachments/615234075778875453/754822310971834449/Screenshot_78.png)](https://sdq.st/support)
