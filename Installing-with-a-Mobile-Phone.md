@@ -14,7 +14,7 @@ You will need need some basic understanding of Android devices and ADB, So if yo
 
 Note that this method is unreliable and even if it does work for you at first be aware that it is VERY difficult to fix any issues that may crop up due to using this method after installing or later down the line so if at all possible try your best to use a PC with use SideQuest to install.
 
-### You could harm your Quest.
+### You could POTENTIALLY harm your Quest.
 
 ADB is a very powerful tool and installing the wrong apps, running the wrong commands or just messing around randomly with it can permanently damage your Quest if you mess with the factory recovery settings by accident making a even a factory reset useless.
 
